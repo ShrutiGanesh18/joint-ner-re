@@ -1,0 +1,1070 @@
+others:['WBF=,', 'WBO=chief', 'WBO=executive', 'WBO=of', 'WBO=starwood', 'WBO=,', 'WBO=whose', 'WBO=upmarket', 'WBO=brands', 'WBL=include']
+
+others:['WBF=,', 'WBO=a', 'WBO=senior', 'WBO=research', 'WBO=analyst', 'WBO=with', 'WBO=deutsche_bank_securities', 'WBO=,', 'WBO=said', 'WBO=companies', 'WBL=like']
+
+others:['WBF=and', 'WBO=his', 'WBO=colleagues', 'WBO=submitted', 'WBO=a', 'WBO=three-year', 'WBO=plan', 'WBO=to', 'WBO=executives', 'WBO=at', 'WBO=time_warner', 'WBO=,', 'WBO=the', 'WBO=parent', 'WBO=company', 'WBO=of', 'WBO=the', 'WBO=turner_broadcasting', 'WBO=unit', 'WBO=,', 'WBO=of', 'WBL=which']
+
+others:['WBF=in', 'WBO=rome', 'WBO=,', 'WBO=and', 'WBO=then', 'WBO=the', 'WBO=residents', 'WBO=worried', 'WBO=that', 'WBO=he', 'WBO=would', 'WBO=create', 'WBO=a', 'WBO=kitschy', 'WBO=theme', 'WBO=park', 'WBO=,', 'WBL=said']
+
+others:['WBF=,', 'WBO=managing', 'WBO=director', 'WBO=of', 'WBO=oxford_economics', 'WBO=,', 'WBO=the', 'WBO=firm', 'WBO=that', 'WBO=prepared', 'WBL=the']
+
+others:['WBF=,', 'WBO=a', 'WBO=retired', 'WBO=army', 'WBO=colonel', 'WBO=who', 'WBO=heads', 'WBO=the', 'WBO=program', 'WBO=for', 'WBO=oshkosh', 'WBO=,', 'WBO=said', 'WBO=he', 'WBO=quickly', 'WBO=sketched', 'WBO=out', 'WBO=how', 'WBO=to', 'WBO=combine', 'WBO=its', 'WBO=suspension', 'WBO=with', 'WBO=advanced', 'WBO=bolt-on', 'WBO=armor', 'WBO=from', 'WBO=an', 'WBO=israeli', 'WBO=company', 'WBO=to', 'WBO=meet', 'WBL=the']
+
+director:['WBF=,', 'WBO=director', 'WBO=of', 'WBO=external', 'WBO=relations', 'WBL=for']
+
+others:['WBF=,', 'WBO=who', 'WBO=is', 'WBO=presiding', 'WBO=over', 'WBO=the', 'WBO=civil', 'WBO=case', 'WBL=in']
+
+others:['WBFL=to']
+
+others:['WBF=has', 'WBO=managed', 'WBO=5.2', 'WBO=percent', 'WBO=,', 'WBO=according', 'WBL=to']
+
+spokesperson:['WBF=spokeswoman', 'WBL=,']
+
+others:['WBF=,', 'WBO=the', 'WBO=20th', 'WBO=century', 'WBO=fox', 'WBO=film', 'WBO=studio', 'WBO=,', 'WBL=the']
+
+founder:['WBF=,', 'WBO=the', 'WBO=billionaire', 'WBO=founder', 'WBO=of', 'WBL=the']
+
+others:['WBF=coached', 'WBO=winning', 'WBO=teams', 'WBO=in', 'WBL=the']
+
+others:['WBF=is', 'WBO=the', 'WBO=biotechnology', 'WBO=project', 'WBO=director', 'WBO=at', 'WBO=the', 'WBO=center_for_science', 'WBO=in', 'WBL=the']
+
+others:['WBF=name', 'WBO=will', 'WBO=appear', 'WBO=on', 'WBO=shelves', 'WBO=only', 'WBL=after']
+
+others:['WBF=agreed', 'WBO=to', 'WBO=invest', 'WBO=several', 'WBO=million', 'WBO=dollars', 'WBO=to', 'WBO=quickly', 'WBO=prepare', 'WBO=the', 'WBO=bid', 'WBO=and', 'WBO=build', 'WBO=five', 'WBO=vehicles', 'WBO=for', 'WBL=the']
+
+others:['WBF=order', 'WBO=was', 'WBO=much', 'WBO=lower', 'WBO=than', 'WBO=the', 'WBO=one', 'WBO=cited', 'WBL=by']
+
+others:['WBF=declared', 'WBO=h1n1', 'WBO=a', 'WBO=national', 'WBO=emergency', 'WBO=,', 'WBO=the', 'WBL=federal']
+
+others:['WBFL=,']
+
+spokesperson:['WBF=spokesman', 'WBL=,']
+
+others:['WBF=,', 'WBO=a', 'WBO=general', 'WBO=partner', 'WBL=with']
+
+others:['WBF=,', 'WBO=a', 'WBO=network', 'WBO=analyst', 'WBO=for', 'WBO=cableu', 'WBO=,', 'WBO=a', 'WBO=cable', 'WBO=tv', 'WBO=research', 'WBO=company', 'WBO=,', 'WBO=noting', 'WBO=that', 'WBO=it', 'WBO=would', 'WBO=be', 'WBO=a', 'WBO=good', 'WBO=fit', 'WBO=with', 'WBL=the']
+
+head:['WBF=,', 'WBO=chief', 'WBO=of', 'WBO=infectious', 'WBO=diseases', 'WBL=at']
+
+others:['WBF=,', 'WBO=the', 'WBO=governor', 'WBO=of', 'WBL=the']
+
+others:['WBF=line', 'WBO=is', 'WBO=also', 'WBO=going', 'WBO=with', 'WBO=two', 'WBO=thousand', 'WBO=ten', 'WBO=,', 'WBL=said']
+
+lawyer:['WBF=,', 'WBO=33', 'WBO=,', 'WBO=a', 'WBO=lawyer', 'WBO=at', 'WBO=the', 'WBO=prestigious', 'WBO=firm', 'WBL=of']
+
+others:["WBF='s", 'WBL=new']
+
+head:['WBF=,', 'WBO=the', 'WBO=chief', 'WBO=financial', 'WBO=officer', 'WBL=at']
+
+head:['WBF=,', 'WBO=a', 'WBO=senior', 'WBO=economist', 'WBL=at']
+
+head:['WBF=,', 'WBO=the', 'WBO=chief', 'WBO=executive', 'WBL=of']
+
+others:['WBFL=and']
+
+others:['WBF=,', 'WBO=senior', 'WBO=vice', 'WBO=president', 'WBO=and', 'WBO=group', 'WBO=account', 'WBO=director', 'WBO=at', 'WBO=its', 'WBO=agency', 'WBL=,']
+
+advisor:['WBF=was', 'WBO=advised', 'WBL=by']
+
+analyst:['WBF=,', 'WBO=an', 'WBO=analyst', 'WBL=at']
+
+head:['WBF=,', 'WBO=vice', 'WBO=president', 'WBO=of', 'WBO=marketing', 'WBO=for', 'WBL=the']
+
+head:['WBF=of', 'WBO=ohio', 'WBO=,', 'WBL=a']
+
+others:['WBF=in', 'WBO=bidding', 'WBO=this', 'WBO=year', 'WBL=for']
+
+professor:['WBF=,', 'WBO=a', 'WBO=visiting', 'WBO=fellow', 'WBO=at', 'WBO=the', 'WBO=center_for_information_technology_policy', 'WBO=at', 'WBO=princeton_university', 'WBO=in', 'WBO=new_jersey', 'WBO=and', 'WBO=professor', 'WBO=at', 'WBL=the']
+
+others:['WBF=and', 'WBO=gary_rosenbach', 'WBO=,', 'WBO=another', 'WBO=galleon', 'WBO=executive', 'WBO=,', 'WBO=on', 'WBO=their', 'WBO=claim', 'WBO=that', 'WBO=they', 'WBO=were', 'WBO=misled', 'WBO=by', 'WBO=the', 'WBO=creators', 'WBO=and', 'WBO=promoters', 'WBO=of', 'WBO=a', 'WBO=tax', 'WBO=shelter', 'WBO=later', 'WBO=disallowed', 'WBO=by', 'WBL=the']
+
+others:['WBFL=,']
+
+others:['WBF=and', 'WBO=sony', 'WBO=in', 'WBO=collaboration', 'WBO=with', 'WBL=the']
+
+others:['WBF=had', 'WBO=supplied', 'WBO=about', 'WBO=four', 'WBO=2007', 'WBO=deals', 'WBO=involving', 'WBO=clients', 'WBL=of']
+
+others:['WBF=,', 'WBO=a', 'WBO=partner', 'WBL=at']
+
+others:['WBF=,', 'WBO=and', 'WBO=tom_freston', 'WBO=,', 'WBO=the', 'WBL=former']
+
+director:['WBF=,', 'WBO=director', 'WBO=for', 'WBO=advertising', 'WBO=and', 'WBO=promotion', 'WBO=for', 'WBL=the']
+
+others:['WBF=,', 'WBO=the', 'WBO=former', 'WBO=chief', 'WBO=compliance', 'WBO=officer', 'WBO=david_henigson', 'WBO=and', 'WBO=value_line_securities', 'WBO=of', 'WBO=charging', 'WBO=more', 'WBO=than', 'WBO=$', 'WBO=24', 'WBO=million', 'WBO=in', 'WBO=bogus', 'WBO=commissions', 'WBO=on', 'WBO=phantom', 'WBO=trades', 'WBO=and', 'WBO=brokerage', 'WBO=services', 'WBO=in', 'WBL=nine']
+
+others:['WBF=said', 'WBL=,']
+
+others:['WBF=,', 'WBO=ms._buttner', 'WBO=,', 'WBO=the', 'WBO=former', 'WBO=chief', 'WBO=compliance', 'WBL=officer']
+
+advisor:['WBF=was', 'WBO=advised', 'WBO=by', 'WBO=deutsche_bank', 'WBO=,', 'WBO=goldman_sachs', 'WBO=and', 'WBO=the', 'WBO=law', 'WBL=firms']
+
+others:['WBF=of', 'WBO=the', 'WBO=research', 'WBL=firm']
+
+others:['WBF=agency', 'WBL=is']
+
+others:['WBFL=,']
+
+founder:['WBF=,', 'WBO=a', 'WBO=former', 'WBO=executive', 'WBO=at', 'WBO=activision', 'WBO=and', 'WBO=the', 'WBO=founder', 'WBL=of']
+
+others:['WBF=,', 'WBL=and']
+
+director:['WBF=,', 'WBL=the']
+
+others:['WBF=,', 'WBO=mr._henigson', 'WBO=,', 'WBL=and']
+
+head:['WBF=,', 'WBO=the', 'WBO=chief', 'WBO=market', 'WBO=analyst', 'WBL=at']
+
+others:['WBF=)', 'WBL=--']
+
+others:['WBF=,', 'WBO=said', 'WBO=delaware', 'WBO=was', 'WBO=an', 'WBO=odd', 'WBO=venue', 'WBL=for']
+
+others:['WBF=)', 'WBO=--', 'WBO=treasury', 'WBL=secretary']
+
+others:['WBF=,', 'WBO=upgraded', 'WBO=the', 'WBO=stock', 'WBO=,', 'WBO=writing', 'WBL=that']
+
+others:['WBF=in', 'WBO=portland', 'WBO=,', 'WBO=ore.', 'WBO=,', 'WBO=is', 'WBO=among', 'WBO=50', 'WBO=travel', 'WBO=consultants', 'WBO=chosen', 'WBO=as', 'WBO=accredited', 'WBO=space', 'WBO=agents', 'WBL=for']
+
+others:['WBF=,', 'WBO=and', 'WBO=its', 'WBO=vice', 'WBO=president', 'WBO=in', 'WBO=charge', 'WBO=of', 'WBL=the']
+
+head:['WBF=,', 'WBO=the', 'WBO=chief', 'WBO=executive', 'WBL=of']
+
+others:['WBF=,', 'WBO=the', 'WBL=firm']
+
+others:['WBF=from', 'WBO=associating', 'WBO=with', 'WBO=any', 'WBO=broker', 'WBO=,', 'WBO=dealer', 'WBO=,', 'WBO=investment', 'WBO=adviser', 'WBO=and', 'WBO=investment', 'WBO=company', 'WBO=and', 'WBO=from', 'WBO=acting', 'WBO=as', 'WBO=an', 'WBO=officer', 'WBO=or', 'WBO=director', 'WBO=of', 'WBO=any', 'WBO=public', 'WBO=company', 'WBO=,', 'WBL=the']
+
+others:['WBF=to', 'WBO=use', 'WBO=a', 'WBO=core', 'WBO=technology', 'WBO=,', 'WBO=held', 'WBO=by', 'WBO=a', 'WBO=company', 'WBO=they', 'WBO=own', 'WBL=called']
+
+director:['WBF=,', 'WBO=executive', 'WBO=director', 'WBO=of', 'WBL=the']
+
+others:['WBFL=for']
+
+others:['WBF=,', 'WBO=a', 'WBO=local', 'WBO=strip-mall', 'WBO=developer', 'WBO=,', 'WBO=acquired', 'WBO=an', 'WBO=abandoned', 'WBO=brewery', 'WBO=a', 'WBO=few', 'WBO=miles', 'WBL=from']
+
+others:['WBF=argues', 'WBL=that']
+
+others:['WBF=,', 'WBO=a', 'WBO=new', 'WBO=partner', 'WBO=there', 'WBO=,', 'WBO=had', 'WBO=worked', 'WBO=for', 'WBO=the', 'WBO=skype', 'WBO=founders', 'WBL=at']
+
+others:['WBFL=of']
+
+others:['WBF=had', 'WBO=stuck', 'WBO=loyally', 'WBO=with', 'WBO=slower', 'WBO=chips', 'WBL=from']
+
+others:['WBF=,', 'WBO=an', 'WBO=auto', 'WBO=specialist', 'WBL=at']
+
+analyst:['WBF=,', 'WBO=travel', 'WBO=analyst', 'WBL=for']
+
+professor:['WBF=,', 'WBO=a', 'WBO=professor', 'WBL=at']
+
+others:['WBF=,', 'WBO=a', 'WBO=california', 'WBO=fund', 'WBO=manager', 'WBO=who', 'WBO=worked', 'WBL=at']
+
+others:['WBFL=for']
+
+others:['WBF=makes', 'WBO=a', 'WBO=mouth-watering', 'WBO=morsel', 'WBO=for', 'WBL=humdrum']
+
+others:['WBF=and', 'WBO=resorts', 'WBO=,', 'WBO=omni_hotels', 'WBO=and', 'WBO=the', 'WBO=walt_disney_world_swan', 'WBL=and']
+
+others:['WBF=,', 'WBO=an', 'WBO=army', 'WBO=official', 'WBO=who', 'WBO=recently', 'WBO=ran', 'WBO=a', 'WBO=task', 'WBO=force', 'WBO=examining', 'WBO=how', 'WBL=the']
+
+others:['WBF=and', 'WBO=mr._henigson', 'WBO=from', 'WBO=associating', 'WBO=with', 'WBO=any', 'WBO=broker', 'WBO=,', 'WBO=dealer', 'WBO=,', 'WBO=investment', 'WBO=adviser', 'WBO=and', 'WBO=investment', 'WBO=company', 'WBO=and', 'WBO=from', 'WBO=acting', 'WBO=as', 'WBO=an', 'WBO=officer', 'WBO=or', 'WBO=director', 'WBO=of', 'WBO=any', 'WBO=public', 'WBO=company', 'WBO=,', 'WBL=the']
+
+spokesperson:['WBF=,', 'WBO=a', 'WBO=spokeswoman', 'WBO=for', 'WBL=the']
+
+others:['WBF=,', 'WBO=a', 'WBO=california', 'WBO=fund', 'WBO=manager', 'WBO=who', 'WBO=worked', 'WBO=at', 'WBO=s.a.c.', 'WBO=from', 'WBO=1999', 'WBO=through', 'WBO=january', 'WBO=2004', 'WBO=,', 'WBO=on', 'WBO=any', 'WBO=insider', 'WBO=trading', 'WBO=he', 'WBO=committed', 'WBL=at']
+
+director:['WBF=is', 'WBO=the', 'WBO=biotechnology', 'WBO=project', 'WBO=director', 'WBO=at', 'WBL=the']
+
+others:['WBFL=and']
+
+others:['WBF=unit', 'WBL=,']
+
+head:['WBF=,', 'WBO=dean', 'WBL=of']
+
+others:['WBF=and', 'WBO=some', 'WBO=of', 'WBO=the', 'WBO=other', 'WBO=people', 'WBO=arrested', 'WBO=thursday', 'WBO=had', 'WBO=personal', 'WBO=and', 'WBO=professional', 'WBO=links', 'WBO=with', 'WBO=defendants', 'WBO=in', 'WBO=a', 'WBO=larger', 'WBO=insider', 'WBO=trading', 'WBO=case', 'WBO=pending', 'WBO=against', 'WBO=the', 'WBO=galleon_group', 'WBO=hedge', 'WBO=fund', 'WBO=;', 'WBO=its', 'WBO=founder', 'WBO=,', 'WBO=raj_rajaratnam', 'WBO=;', 'WBO=and', 'WBO=other', 'WBO=defendants', 'WBO=added', 'WBO=to', 'WBO=the', 'WBO=case', 'WBO=through', 'WBO=a', 'WBO=new', 'WBO=civil', 'WBO=complaint', 'WBO=filed', 'WBO=by', 'WBL=the']
+
+others:['WBF=lied', 'WBO=at', 'WBO=that', 'WBO=point', 'WBO=because', 'WBO=he', 'WBO=knew', 'WBO=of', 'WBO=a', 'WBO=pending', 'WBO=$', 'WBO=57', 'WBO=million', 'WBO=withdrawal', 'WBO=that', 'WBO=had', 'WBO=been', 'WBO=requested', 'WBO=by', 'WBO=a', 'WBO=big', 'WBO=investor', 'WBL=,']
+
+others:["WBF='s", 'WBL=new']
+
+others:['WBF=,', 'WBO=a', 'WBO=local', 'WBO=consulting', 'WBO=company', 'WBO=,', 'WBO=and', 'WBO=a', 'WBO=former', 'WBO=city', 'WBO=commerce', 'WBO=director', 'WBO=,', 'WBO=said', 'WBO=that', 'WBO=working', 'WBO=alone', 'WBL=freed']
+
+others:['WBF=,', 'WBO=the', 'WBO=president', 'WBO=of', 'WBO=tower_investments', 'WBO=,', 'WBO=decided', 'WBO=to', 'WBO=build', 'WBO=a', 'WBO=public', 'WBO=square', 'WBO=inspired', 'WBO=by', 'WBO=the', 'WBO=piazza_navona', 'WBO=in', 'WBO=rome', 'WBO=,', 'WBO=and', 'WBO=then', 'WBO=the', 'WBO=residents', 'WBO=worried', 'WBO=that', 'WBO=he', 'WBO=would', 'WBO=create', 'WBO=a', 'WBO=kitschy', 'WBO=theme', 'WBO=park', 'WBO=,', 'WBO=said', 'WBO=larry_freedman', 'WBO=,', 'WBO=the', 'WBO=zoning', 'WBO=chairman', 'WBO=for', 'WBL=the']
+
+others:['WBF=,', 'WBO=another', 'WBO=galleon', 'WBO=executive', 'WBO=,', 'WBO=on', 'WBO=their', 'WBO=claim', 'WBO=that', 'WBO=they', 'WBO=were', 'WBO=misled', 'WBO=by', 'WBO=the', 'WBO=creators', 'WBO=and', 'WBO=promoters', 'WBO=of', 'WBO=a', 'WBO=tax', 'WBO=shelter', 'WBO=later', 'WBO=disallowed', 'WBO=by', 'WBL=the']
+
+others:['WBFL=and']
+
+others:['WBF=,', 'WBO=chief', 'WBO=executive', 'WBO=of', 'WBO=starwood', 'WBO=,', 'WBO=whose', 'WBO=upmarket', 'WBO=brands', 'WBO=include', 'WBO=sheraton', 'WBL=and']
+
+others:['WBF=,', 'WBO=nokia', 'WBL=,']
+
+others:['WBF=;', 'WBL=and']
+
+head:['WBF=,', 'WBO=the', 'WBO=chairman', 'WBL=of']
+
+others:['WBFL=,']
+
+head:['WBF=,', 'WBO=chief', 'WBO=executive', 'WBL=of']
+
+others:['WBF=to', 'WBO=emerging', 'WBO=markets', 'WBL=for']
+
+others:['WBFL=and']
+
+director:['WBF=,', 'WBO=managing', 'WBO=director', 'WBL=of']
+
+head:['WBF=,', 'WBO=the', 'WBO=president', 'WBL=of']
+
+others:['WBF=in', 'WBO=bidding', 'WBO=this', 'WBO=year', 'WBO=for', 'WBO=nortel', "WBO='s", 'WBO=business', 'WBO=that', 'WBO=makes', 'WBO=gear', 'WBL=for']
+
+others:['WBF=wanted', 'WBO=,', 'WBL=but']
+
+others:['WBF=of', 'WBL=the']
+
+professor:['WBF=,', 'WBO=a', 'WBO=professor', 'WBL=at']
+
+others:['WBF=exits', 'WBO=bankruptcy', 'WBO=with', 'WBO=sale', 'WBO=of', 'WBO=assets', 'WBO=to', 'WBO=lenders', 'WBL=and']
+
+others:['WBFL=cpl.']
+
+others:['WBF=,', 'WBO=told', 'WBO=analysts', 'WBO=in', 'WBO=an', 'WBO=earnings', 'WBO=call', 'WBO=on', 'WBO=thursday', 'WBO=that', 'WBO=cbs', 'WBO=would', 'WBO=not', 'WBO=know', 'WBO=the', 'WBO=outcome', 'WBO=of', 'WBO=the', 'WBO=negotiations', 'WBL=with']
+
+analyst:['WBF=,', 'WBO=a', 'WBO=travel', 'WBO=analyst', 'WBL=for']
+
+others:['WBFL=,']
+
+head:['WBF=chief', 'WBO=executive', 'WBL=,']
+
+others:['WBFL=for']
+
+others:['WBF=,', 'WBL=the']
+
+others:['WBF=said', 'WBO=the', 'WBO=company', 'WBO=and', 'WBO=its', 'WBO=parent', 'WBO=,', 'WBO=european_aeronautic_defense_', 'WBO=&', 'WBO=_space', 'WBO=,', 'WBO=were', 'WBO=assessing', 'WBO=the', 'WBO=financial', 'WBO=effect', 'WBO=,', 'WBO=but', 'WBO=insisted', 'WBO=that', 'WBO=the', 'WBO=current', 'WBO=value', 'WBO=of', 'WBL=the']
+
+others:["WBF='s", 'WBL=new']
+
+others:['WBFL=,']
+
+head:['WBF=,', 'WBO=a', 'WBO=principal', 'WBL=at']
+
+others:['WBF=,', 'WBO=had', 'WBO=pushed', 'WBO=for', 'WBO=the', 'WBO=sale', 'WBO=to', 'WBO=magna', 'WBO=and', 'WBO=its', 'WBO=russian', 'WBO=partner', 'WBL=,']
+
+founder:['WBF=and', 'WBO=janus_friis', 'WBO=,', 'WBO=who', 'WBL=created']
+
+director:['WBF=,', 'WBO=director', 'WBL=of']
+
+others:['WBF=,', 'WBO=an', 'WBO=economist', 'WBO=who', 'WBO=formerly', 'WBO=worked', 'WBL=at']
+
+head:['WBF=iv', 'WBO=,', 'WBO=the', 'WBO=west_virginia', 'WBO=democrat', 'WBO=,', 'WBO=who', 'WBO=is', 'WBO=chairman', 'WBO=of', 'WBL=the']
+
+others:['WBF=of', 'WBO=the', 'WBO=law', 'WBL=firm']
+
+manager:['WBF=,', 'WBO=product', 'WBO=manager', 'WBL=at']
+
+founder:['WBF=are', 'WBO=the', 'WBO=founders', 'WBO=of', 'WBL=beijing-based']
+
+director:['WBF=,', 'WBO=the', 'WBO=executive', 'WBO=director', 'WBO=of', 'WBL=the']
+
+analyst:['WBF=,', 'WBO=an', 'WBO=analyst', 'WBL=at']
+
+others:['WBF=said', 'WBL=that']
+
+head:['WBF=,', 'WBO=head', 'WBO=of', 'WBO=marketing', 'WBL=at']
+
+others:['WBF=and', 'WBO=the', 'WBO=law', 'WBL=firms']
+
+others:['WBF=case', 'WBO=was', 'WBO=an', 'WBO=extreme', 'WBO=example', 'WBO=,', 'WBL=the']
+
+spokesperson:['WBF=,', 'WBO=a', 'WBO=spokeswoman', 'WBL=for']
+
+others:['WBF=is', 'WBO=nearing', 'WBO=a', 'WBO=decision', 'WBO=on', 'WBO=whether', 'WBO=to', 'WBO=continue', 'WBO=her', 'WBO=daily', 'WBO=talk', 'WBO=show', 'WBO=on', 'WBO=broadcast', 'WBO=television', 'WBO=or', 'WBO=move', 'WBO=it', 'WBO=to', 'WBO=the', 'WBO=forthcoming', 'WBO=cable', 'WBO=channel', 'WBO=that', 'WBO=she', 'WBO=will', 'WBO=own', 'WBO=with', 'WBO=discovery', 'WBO=communications', 'WBO=,', 'WBO=executives', 'WBO=from', 'WBO=her', 'WBO=production', 'WBO=company', 'WBO=and', 'WBL=the']
+
+others:['WBF=,', 'WBO=and', 'WBO=the', 'WBO=borrowers', 'WBO=have', 'WBO=to', 'WBO=be', 'WBO=people', 'WBO=who', 'WBO=could', 'WBO=not', 'WBO=qualify', 'WBO=for', 'WBL=president']
+
+others:['WBFL=v.']
+
+others:['WBF=had', 'WBO=decided', 'WBO=to', 'WBO=end', 'WBO=her', 'WBO=syndicated', 'WBO=deal', 'WBO=and', 'WBO=move', 'WBO=the', 'WBO=show', 'WBO=to', 'WBO=the', 'WBO=new', 'WBO=own', 'WBO=cable', 'WBO=channel', 'WBO=,', 'WBL=the']
+
+analyst:['WBF=,', 'WBO=a', 'WBO=senior', 'WBO=research', 'WBO=analyst', 'WBL=with']
+
+manager:['WBF=,', 'WBL=the']
+
+others:['WBF=,', 'WBO=an', 'WBO=affiliate', 'WBO=professor', 'WBO=of', 'WBO=economics', 'WBO=at', 'WBO=insead', 'WBO=who', 'WBO=served', 'WBO=on', 'WBL=the']
+
+head:['WBF=,', 'WBO=a', 'WBO=senior', 'WBO=vice', 'WBO=president', 'WBO=at', 'WBL=the']
+
+others:['WBF=to', 'WBO=emerging', 'WBO=markets', 'WBL=for']
+
+head:['WBF=,', 'WBO=the', 'WBO=president', 'WBO=and', 'WBO=chief', 'WBO=executive', 'WBO=of', 'WBL=the']
+
+analyst:['WBF=,', 'WBO=an', 'WBO=aviation', 'WBO=analyst', 'WBL=at']
+
+others:['WBF=to', 'WBO=emerging', 'WBO=markets', 'WBL=for']
+
+others:['WBF=,', 'WBO=a', 'WBO=lender', 'WBO=that', 'WBO=also', 'WBO=received', 'WBO=a', 'WBO=government', 'WBO=bail-out', 'WBO=,', 'WBO=are', 'WBO=the', 'WBO=grocery', 'WBO=store', 'WBO=chain', 'WBO=tesco', 'WBL=and']
+
+head:['WBF=,', 'WBO=head', 'WBO=of', 'WBL=the']
+
+others:['WBFL=said']
+
+others:['WBF=,', 'WBO=director', 'WBO=of', 'WBO=admissions', 'WBO=and', 'WBO=financial', 'WBO=aid', 'WBO=at', 'WBO=the', 'WBO=wharton_school', 'WBO=at', 'WBL=the']
+
+others:['WBF=contends', 'WBO=more', 'WBO=needs', 'WBO=to', 'WBO=be', 'WBO=done', 'WBO=and', 'WBO=said', 'WBL=the']
+
+spokesperson:['WBF=spokeswoman', 'WBL=,']
+
+others:['WBF=,', 'WBO=a', 'WBO=professor', 'WBO=at', 'WBO=indiana_university', 'WBO=,', 'WBO=with', 'WBO=backing', 'WBO=from', 'WBO=nasa', 'WBO=,', 'WBO=food_lion', 'WBO=and', 'WBL=the']
+
+others:['WBF=,', 'WBO=myspace', 'WBO=,', 'WBO=the', 'WBO=20th', 'WBO=century', 'WBO=fox', 'WBO=film', 'WBO=studio', 'WBO=,', 'WBO=the', 'WBO=fox', 'WBO=broadcast', 'WBO=network', 'WBO=and', 'WBO=several', 'WBO=newspapers', 'WBO=including', 'WBO=the', 'WBO=wall', 'WBO=street', 'WBO=journal', 'WBO=and', 'WBL=the']
+
+head:['WBF=himself', 'WBO=who', 'WBO=,', 'WBO=as', 'WBO=chief', 'WBO=executive', 'WBL=of']
+
+professor:['WBF=,', 'WBO=a', 'WBO=professor', 'WBO=and', 'WBO=antitrust', 'WBO=expert', 'WBL=at']
+
+lawyer:['WBF=,', 'WBO=a', 'WBO=lawyer', 'WBO=for', 'WBL=the']
+
+others:['WBF=caught', 'WBO=h1n1', 'WBO=from', 'WBO=her', 'WBO=6-year-old', 'WBO=daughter', 'WBO=in', 'WBO=june', 'WBO=,', 'WBO=she', 'WBO=suffered', 'WBO=headaches', 'WBO=,', 'WBO=chills', 'WBO=and', 'WBO=diarrhea', 'WBO=,', 'WBO=but', 'WBO=she', 'WBO=reported', 'WBO=to', 'WBO=her', 'WBO=$', 'WBO=13-an-hour', 'WBO=help', 'WBO=desk', 'WBO=job', 'WBO=at', 'WBL=a']
+
+director:['WBF=,', 'WBO=a', 'WBO=former', 'WBO=managing', 'WBO=director', 'WBL=of']
+
+head:['WBF=,', 'WBO=chief', 'WBO=economist', 'WBO=for', 'WBL=the']
+
+others:['WBF=,', 'WBO=a', 'WBO=visiting', 'WBO=fellow', 'WBO=at', 'WBO=the', 'WBO=center_for_information_technology_policy', 'WBL=at']
+
+others:['WBF=and', 'WBO=resorts', 'WBL=,']
+
+others:['WBF=,', 'WBO=lisa_mathewson', 'WBO=,', 'WBO=said', 'WBL=the']
+
+others:['WBF=destroyed', 'WBO=his', 'WBO=phone', 'WBO=by', 'WBO=biting', 'WBL=its']
+
+head:['WBF=from', 'WBO=his', 'WBO=perch', 'WBO=as', 'WBO=chief', 'WBO=executive', 'WBL=of']
+
+others:['WBF=said', 'WBO=he', 'WBO=planned', 'WBO=to', 'WBO=push', 'WBO=for', 'WBO=similar', 'WBO=standards', 'WBO=in', 'WBO=the', 'WBO=final', 'WBO=legislation', 'WBL=the']
+
+others:['WBF=was', 'WBO=competing', 'WBO=against', 'WBO=the', 'WBO=contractors', 'WBO=that', 'WBO=built', 'WBO=most', 'WBO=of', 'WBO=the', 'WBO=larger', 'WBO=mraps', 'WBO=--', 'WBO=bae_systems', 'WBO=,', 'WBO=navistar', 'WBL=,']
+
+head:['WBF=,', 'WBO=a', 'WBO=marketing', 'WBO=vice', 'WBO=president', 'WBL=with']
+
+director:['WBF=,', 'WBO=a', 'WBO=global', 'WBO=director', 'WBL=in']
+
+others:['WBF=,', 'WBO=the', 'WBO=european', 'WBO=competition', 'WBO=commissioner', 'WBO=,', 'WBO=has', 'WBO=said', 'WBO=she', 'WBO=is', 'WBO=prepared', 'WBO=to', 'WBL=take']
+
+lawyer:['WBF=,', 'WBO=the', 'WBO=united_states', 'WBO=attorney', 'WBO=for', 'WBL=the']
+
+others:['WBF=,', 'WBO=associate', 'WBO=professor', 'WBO=of', 'WBO=management', 'WBO=at', 'WBO=the', 'WBO=mcdonough_school_of_business', 'WBL=at']
+
+head:['WBF=,', 'WBL=the']
+
+others:['WBF=expects', 'WBO=that', 'WBO=108', 'WBO=students', 'WBO=will', 'WBO=enroll', 'WBO=in', 'WBO=a', 'WBO=global', 'WBO=immersion', 'WBO=course', 'WBO=,', 'WBO=according', 'WBL=to']
+
+others:['WBF=)', 'WBO=--', 'WBO=kevin_howard', 'WBL=,']
+
+others:['WBF=and', 'WBO=alcatel-lucent', 'WBO=have', 'WBO=recently', 'WBO=announced', 'WBO=cutbacks', 'WBO=,', 'WBO=and', 'WBO=the', 'WBO=canadian', 'WBO=equipment', 'WBL=maker']
+
+others:['WBFL=and']
+
+others:['WBF=,', 'WBO=a', 'WBO=lender', 'WBO=that', 'WBO=also', 'WBO=received', 'WBO=a', 'WBO=government', 'WBO=bail-out', 'WBO=,', 'WBO=are', 'WBO=the', 'WBO=grocery', 'WBO=store', 'WBO=chain', 'WBO=tesco', 'WBO=and', 'WBO=virgin_money', 'WBO=,', 'WBO=the', 'WBO=consumer', 'WBO=credit', 'WBO=arm', 'WBL=of']
+
+others:['WBF=,', 'WBO=a', 'WBO=marketing', 'WBO=professor', 'WBO=and', 'WBO=the', 'WBO=director', 'WBO=of', 'WBO=the', 'WBO=retail_supply_chain_institute', 'WBL=at']
+
+others:['WBF=earned', 'WBO=an', 'WBO=undergraduate', 'WBO=degree', 'WBO=in', 'WBO=engineering', 'WBO=from', 'WBL=the']
+
+head:['WBF=,', 'WBO=a', 'WBO=senior', 'WBO=vice', 'WBO=president', 'WBL=at']
+
+others:['WBF=refused', 'WBO=to', 'WBO=give', 'WBO=the', 'WBL=family']
+
+others:['WBFL=for']
+
+others:['WBF=said', 'WBO=it', 'WBO=would', 'WBO=continue', 'WBO=to', 'WBO=deliver', 'WBO=--', 'WBO=with', 'WBO=or', 'WBL=without']
+
+others:['WBF=was', 'WBO=accused', 'WBO=of', 'WBO=sharing', 'WBO=information', 'WBO=on', 'WBO=at', 'WBO=least', 'WBO=four', 'WBO=deals', 'WBO=he', 'WBO=was', 'WBO=handling', 'WBO=for', 'WBO=clients', 'WBO=at', 'WBO=his', 'WBO=firm', 'WBL=,']
+
+others:['WBF=,', 'WBO=one', 'WBL=of']
+
+head:['WBFL=,']
+
+head:['WBF=heads', 'WBL=the']
+
+others:['WBF=was', 'WBO=advised', 'WBO=by', 'WBO=deutsche_bank', 'WBL=,']
+
+others:['WBF=advertising', 'WBO=and', 'WBO=design', 'WBO=of', 'WBO=boulder', 'WBO=--', 'WBO=for', 'WBO=hapa_sushi', 'WBO=,', 'WBO=a', 'WBO=restaurant', 'WBO=chain', 'WBO=based', 'WBO=in', 'WBO=boulder', 'WBO=,', 'WBO=features', 'WBO=a', 'WBO=map', 'WBO=of', 'WBO=denver', 'WBL=and']
+
+professor:['WBF=,', 'WBO=a', 'WBO=marketing', 'WBO=professor', 'WBO=and', 'WBO=the', 'WBO=director', 'WBO=of', 'WBL=the']
+
+lawyer:['WBF=,', 'WBO=an', 'WBO=executive', 'WBO=compensation', 'WBO=lawyer', 'WBL=at']
+
+others:['WBFL=and']
+
+founder:['WBF=,', 'WBO=88', 'WBO=,', 'WBO=a', 'WBO=father', 'WBO=of', 'WBL=the']
+
+others:['WBFL=for']
+
+others:['WBF=that', 'WBO=intel', 'WBO=had', 'WBL=paid']
+
+others:['WBF=will', 'WBL=open']
+
+others:['WBF=,', 'WBO=using', 'WBO=the', 'WBO=term', 'WBO=favored', 'WBO=by', 'WBO=proponents', 'WBO=of', 'WBO=like-minded', 'WBO=legislation', 'WBO=that', 'WBO=is', 'WBL=before']
+
+others:['WBF=and', 'WBO=value_line_securities', 'WBO=of', 'WBO=charging', 'WBO=more', 'WBO=than', 'WBO=$', 'WBO=24', 'WBO=million', 'WBO=in', 'WBO=bogus', 'WBO=commissions', 'WBO=on', 'WBO=phantom', 'WBO=trades', 'WBO=and', 'WBO=brokerage', 'WBO=services', 'WBO=in', 'WBL=nine']
+
+head:['WBF=,', 'WBO=the', 'WBO=senior', 'WBO=associate', 'WBO=dean', 'WBO=for', 'WBO=business', 'WBO=degree', 'WBO=programs', 'WBL=at']
+
+others:['WBF=and', 'WBO=mr._henigson', 'WBO=from', 'WBO=associating', 'WBO=with', 'WBO=any', 'WBO=broker', 'WBO=,', 'WBO=dealer', 'WBO=,', 'WBO=investment', 'WBO=adviser', 'WBO=and', 'WBO=investment', 'WBO=company', 'WBO=and', 'WBO=from', 'WBO=acting', 'WBO=as', 'WBO=an', 'WBO=officer', 'WBO=or', 'WBO=director', 'WBO=of', 'WBO=any', 'WBO=public', 'WBO=company', 'WBO=,', 'WBO=the', 'WBO=s.e.c.', 'WBL=and']
+
+others:['WBFL=-']
+
+others:['WBF=,', 'WBO=an', 'WBO=investment', 'WBO=firm', 'WBO=;', 'WBO=gary_l._pechota', 'WBO=,', 'WBO=a', 'WBO=former', 'WBO=chief', 'WBO=executive', 'WBO=of', 'WBO=giant_cement_holding', 'WBO=;', 'WBL=and']
+
+head:['WBF=is', 'WBO=hardly', 'WBO=sitting', 'WBO=still', 'WBO=under', 'WBO=its', 'WBO=chief', 'WBO=executive', 'WBL=,']
+
+head:['WBF=,', 'WBO=chief', 'WBO=investment', 'WBO=officer', 'WBL=at']
+
+others:['WBF=and', 'WBO=wilson_autographed', 'WBO=8', 'WBO=x', 'WBL=10']
+
+others:['WBF=,', 'WBO=a', 'WBO=senior', 'WBO=research', 'WBO=analyst', 'WBO=with', 'WBO=deutsche_bank_securities', 'WBO=,', 'WBO=said', 'WBO=companies', 'WBO=like', 'WBO=costco', 'WBL=and']
+
+founder:['WBFL=founded']
+
+director:['WBF=,', 'WBO=executive', 'WBO=director', 'WBO=of', 'WBO=the', 'WBO=property', 'WBL=consultant']
+
+others:['WBF=,', 'WBO=4.4', 'WBO=percent', 'WBL=,']
+
+founder:['WBF=broke', 'WBO=even', 'WBO=selling', 'WBO=subscriptions', 'WBO=to', 'WBO=700', 'WBO=schools', 'WBO=,', 'WBL=said']
+
+others:['WBFL=,']
+
+others:['WBFL=,']
+
+others:['WBF=,', 'WBO=were', 'WBO=assessing', 'WBO=the', 'WBO=financial', 'WBO=effect', 'WBO=,', 'WBO=but', 'WBO=insisted', 'WBO=that', 'WBO=the', 'WBO=current', 'WBO=value', 'WBO=of', 'WBO=the', 'WBO=south_african', 'WBO=order', 'WBO=was', 'WBO=much', 'WBO=lower', 'WBO=than', 'WBO=the', 'WBO=one', 'WBO=cited', 'WBL=by']
+
+others:['WBFL=,']
+
+others:['WBF=to', 'WBO=emerging', 'WBO=markets', 'WBL=for']
+
+others:['WBF=for', 'WBO=a', 'WBO=22', 'WBO=percent', 'WBO=premium', 'WBO=and', 'WBO=ceded', 'WBO=his', 'WBO=position', 'WBL=to']
+
+others:['WBF=,', 'WBO=a', 'WBO=local', 'WBO=strip-mall', 'WBO=developer', 'WBO=,', 'WBO=acquired', 'WBO=an', 'WBO=abandoned', 'WBO=brewery', 'WBO=a', 'WBO=few', 'WBO=miles', 'WBO=from', 'WBO=center_city', 'WBO=nearly', 'WBO=a', 'WBO=decade', 'WBO=ago', 'WBO=,', 'WBO=the', 'WBO=artists', 'WBO=who', 'WBO=had', 'WBO=gravitated', 'WBO=to', 'WBO=the', 'WBO=surrounding', 'WBO=area', 'WBO=in', 'WBO=search', 'WBO=of', 'WBO=cheap', 'WBO=housing', 'WBO=feared', 'WBO=he', 'WBO=would', 'WBO=plop', 'WBO=an', 'WBO=unwanted', 'WBO=big-box', 'WBO=shopping', 'WBO=center', 'WBO=into', 'WBO=their', 'WBL=gritty']
+
+others:['WBF=in', 'WBO=the', 'WBO=delaware', 'WBO=court', 'WBO=,', 'WBO=stretches', 'WBO=beyond', 'WBO=the', 'WBO=interests', 'WBO=of', 'WBO=a.m.d.', 'WBO=,', 'WBO=which', 'WBO=is', 'WBO=building', 'WBO=a', 'WBO=$', 'WBO=4.2', 'WBO=billion', 'WBO=plant', 'WBO=in', 'WBO=saratoga_county', 'WBO=in', 'WBO=upstate_new_york', 'WBO=through', 'WBO=a', 'WBO=spinoff', 'WBO=company', 'WBL=,']
+
+others:["WBF='s", 'WBL=new']
+
+others:['WBF=,', 'WBO=a', 'WBO=professor', 'WBO=at', 'WBO=indiana_university', 'WBO=,', 'WBO=with', 'WBO=backing', 'WBL=from']
+
+others:['WBF=of', 'WBL=the']
+
+head:['WBF=chairman', 'WBL=,']
+
+others:['WBF=,', 'WBO=a', 'WBO=trauma', 'WBO=surgeon', 'WBO=at', 'WBL=the']
+
+head:['WBFL=,']
+
+professor:['WBF=,', 'WBO=a', 'WBO=professor', 'WBO=at', 'WBL=the']
+
+founder:['WBF=and', 'WBO=his', 'WBO=brother', 'WBO=wang_zhonglei', 'WBO=are', 'WBO=the', 'WBO=founders', 'WBO=of', 'WBL=beijing-based']
+
+others:['WBF=,', 'WBO=a', 'WBO=strategist', 'WBL=at']
+
+others:['WBF=to', 'WBO=emerging', 'WBO=markets', 'WBL=for']
+
+others:['WBF=had', 'WBO=monopoly', 'WBO=power', 'WBO=,', 'WBO=which', 'WBO=it', 'WBO=abused', 'WBO=,', 'WBO=according', 'WBL=to']
+
+others:['WBF=,', 'WBO=the', 'WBO=speaker', 'WBO=of', 'WBL=the']
+
+others:['WBF=,', 'WBO=a', 'WBO=former', 'WBO=governor', 'WBO=of', 'WBO=the', 'WBO=reserve_bank_of_india', 'WBO=,', 'WBO=said', 'WBO=the', 'WBO=move', 'WBO=was', 'WBO=aimed', 'WBO=at', 'WBO=increasing', 'WBO=resources', 'WBO=for', 'WBL=the']
+
+head:['WBF=,', 'WBO=president', 'WBO=of', 'WBO=the', 'WBO=aviation', 'WBO=consulting', 'WBL=firm']
+
+others:['WBF=said', 'WBO=that', 'WBL=thwarting']
+
+others:['WBF=to', 'WBO=pick', 'WBO=for', 'WBO=the', 'WBO=lawsuit', 'WBL=against']
+
+others:['WBF=,', 'WBO=creative', 'WBO=director', 'WBO=at', 'WBO=the', 'WBO=audi', 'WBO=agency', 'WBL=,']
+
+director:['WBF=,', 'WBO=creative', 'WBO=director', 'WBO=at', 'WBL=the']
+
+head:['WBF=,', 'WBO=the', 'WBO=chairman', 'WBL=of']
+
+others:['WBF=,', 'WBO=a', 'WBO=trading', 'WBO=firm', 'WBO=where', 'WBO=mr._goffer', 'WBO=once', 'WBO=worked', 'WBO=,', 'WBO=or', 'WBO=to', 'WBO=incremental_capital', 'WBO=,', 'WBO=the', 'WBL=firm']
+
+others:['WBF=,', 'WBO=a', 'WBO=professor', 'WBO=at', 'WBO=indiana_university', 'WBO=,', 'WBO=with', 'WBO=backing', 'WBO=from', 'WBO=nasa', 'WBL=,']
+
+professor:['WBF=,', 'WBO=a', 'WBO=professor', 'WBO=of', 'WBO=health', 'WBO=policy', 'WBL=at']
+
+others:['WBF=to', 'WBO=emerging', 'WBO=markets', 'WBL=for']
+
+others:['WBF=,', 'WBO=which', 'WBO=has', 'WBL=backed']
+
+head:['WBF=,', 'WBO=chairman', 'WBL=of']
+
+others:['WBF=,', 'WBO=a', 'WBO=general', 'WBO=partner', 'WBO=with', 'WBO=foundation_capital', 'WBO=,', 'WBO=a', 'WBO=venture', 'WBO=capital', 'WBO=firm', 'WBO=in', 'WBO=menlo_park', 'WBO=,', 'WBO=calif.', 'WBO=,', 'WBO=that', 'WBO=has', 'WBO=rented', 'WBO=suites', 'WBO=at', 'WBO=a', 'WBL=nearby']
+
+others:["WBF='s", 'WBL=new']
+
+head:['WBF=of', 'WBL=the']
+
+head:['WBF=,', 'WBO=the', 'WBL=former']
+
+head:['WBF=,', 'WBO=run', 'WBL=by']
+
+leave:['WBF=,', 'WBO=the', 'WBO=former', 'WBO=chief', 'WBO=executive', 'WBL=of']
+
+spokesperson:['WBF=,', 'WBO=a', 'WBO=spokesman', 'WBO=for', 'WBL=the']
+
+leave:['WBF=,', 'WBO=a', 'WBO=former', 'WBO=governor', 'WBO=of', 'WBL=the']
+
+others:['WBF=has', 'WBO=in', 'WBO=the', 'WBO=past', 'WBL=represented']
+
+others:['WBF=,', 'WBO=helped', 'WBO=design', 'WBO=the', 'WBO=game', 'WBO=with', 'WBO=financing', 'WBO=from', 'WBL=the']
+
+manager:['WBF=,', 'WBO=a', 'WBO=support', 'WBO=manager', 'WBO=at', 'WBL=a']
+
+others:['WBF=is', 'WBO=the', 'WBO=latest', 'WBO=example', 'WBO=of', 'WBO=how', 'WBL=the']
+
+others:['WBFL=for']
+
+others:["WBF='s", 'WBL=new']
+
+others:['WBF=charged', 'WBO=in', 'WBO=a', 'WBO=lawsuit', 'WBO=on', 'WBO=wednesday', 'WBL=that']
+
+head:['WBF=,', 'WBO=president', 'WBL=of']
+
+others:["WBF='s", 'WBL=new']
+
+others:['WBF=set', 'WBO=up', 'WBO=the', 'WBO=school', 'WBO=,', 'WBO=and', 'WBO=its', 'WBO=executive', 'WBO=director', 'WBL=,']
+
+others:['WBF=,', 'WBO=a', 'WBO=trading', 'WBO=firm', 'WBL=where']
+
+others:['WBF=bought', 'WBO=the', 'WBO=brewery', 'WBO=,', 'WBO=housing', 'WBO=values', 'WBO=in', 'WBO=northern_liberties', 'WBO=have', 'WBO=increased', 'WBO=from', 'WBO=$', 'WBO=32', 'WBO=a', 'WBO=square', 'WBO=foot', 'WBO=to', 'WBO=$', 'WBO=140', 'WBO=a', 'WBO=square', 'WBO=foot', 'WBO=,', 'WBO=according', 'WBL=to']
+
+professor:['WBF=,', 'WBO=an', 'WBO=education', 'WBO=professor', 'WBO=at', 'WBL=the']
+
+others:['WBFL=,']
+
+others:['WBF=,', 'WBO=which', 'WBO=is', 'WBO=typically', 'WBO=given', 'WBO=as', 'WBO=a', 'WBO=pill', 'WBO=,', 'WBO=or', 'WBO=relenza', 'WBL=from']
+
+others:['WBF=,', 'WBO=the', 'WBO=architecture', 'WBO=critic', 'WBO=for', 'WBL=the']
+
+others:['WBF=sampling', 'WBO=the', 'WBO=cookies', 'WBO=on', 'WBO=check-in', 'WBL=at']
+
+others:['WBF=,', 'WBO=assistant', 'WBO=secretary', 'WBO=for', 'WBO=preparedness', 'WBO=and', 'WBO=response', 'WBO=at', 'WBL=the']
+
+head:['WBF=,', 'WBO=executive', 'WBO=chairman', 'WBL=of']
+
+others:['WBF=,', 'WBO=like', 'WBO=most', 'WBO=other', 'WBO=universities', 'WBO=,', 'WBO=has', 'WBO=cut', 'WBO=the', 'WBO=amount', 'WBO=of', 'WBO=money', 'WBO=it', 'WBO=invests', 'WBO=in', 'WBO=venture', 'WBO=capital', 'WBO=,', 'WBO=and', 'WBO=the', 'WBO=undisclosed', 'WBO=amount', 'WBO=it', 'WBO=has', 'WBO=committed', 'WBO=to', 'WBO=greylock', 'WBO=represents', 'WBO=almost', 'WBO=all', 'WBO=of', 'WBO=its', 'WBO=venture', 'WBO=investment', 'WBO=for', 'WBO=this', 'WBO=year', 'WBL=,']
+
+professor:['WBF=,', 'WBO=a', 'WBO=professor', 'WBL=at']
+
+others:['WBF=complaint', 'WBL=named']
+
+others:['WBF=and', 'WBO=one', 'WBO=of', 'WBO=the', 'WBO=factors', 'WBO=that', 'WBL=precipitated']
+
+others:['WBF=,', 'WBO=decided', 'WBO=to', 'WBO=build', 'WBO=a', 'WBO=public', 'WBO=square', 'WBO=inspired', 'WBO=by', 'WBO=the', 'WBO=piazza_navona', 'WBO=in', 'WBO=rome', 'WBO=,', 'WBO=and', 'WBO=then', 'WBO=the', 'WBO=residents', 'WBO=worried', 'WBO=that', 'WBO=he', 'WBO=would', 'WBO=create', 'WBO=a', 'WBO=kitschy', 'WBO=theme', 'WBO=park', 'WBO=,', 'WBL=said']
+
+others:['WBF=,', 'WBO=controls', 'WBO=a', 'WBO=cornucopia', 'WBO=of', 'WBO=media', 'WBO=assets', 'WBO=like', 'WBO=fox_news', 'WBL=,']
+
+head:['WBF=,', 'WBO=chief', 'WBO=economist', 'WBL=at']
+
+others:['WBF=and', 'WBO=chrysler', 'WBO=,', 'WBO=is', 'WBO=plotting', 'WBO=its', 'WBO=own', 'WBO=turnaround', 'WBO=effort', 'WBO=,', 'WBO=with', 'WBO=a', 'WBO=new', 'WBO=president', 'WBL=,']
+
+others:['WBF=until', 'WBO=late', 'WBO=2007', 'WBO=,', 'WBO=closely', 'WBO=intertwined', 'WBO=the', 'WBO=skype', 'WBO=and', 'WBO=joltid', 'WBO=code', 'WBO=and', 'WBO=made', 'WBO=it', 'WBO=difficult', 'WBO=for', 'WBO=ebay', 'WBO=to', 'WBO=make', 'WBO=changes', 'WBO=to', 'WBO=skype', 'WBO=without', 'WBO=violating', 'WBL=its']
+
+others:['WBF=,', 'WBL=the']
+
+others:['WBF=,', 'WBO=a', 'WBO=restaurant', 'WBO=chain', 'WBO=based', 'WBO=in', 'WBO=boulder', 'WBO=,', 'WBO=features', 'WBO=a', 'WBO=map', 'WBO=of', 'WBO=denver', 'WBL=and']
+
+head:['WBF=,', 'WBO=president', 'WBO=of', 'WBL=the']
+
+others:['WBF=reminded', 'WBO=mr._dell', 'WBL=that']
+
+others:['WBFL=,']
+
+others:['WBF=,', 'WBO=the', 'WBO=president', 'WBO=of', 'WBO=turner_entertainment_networks', 'WBO=,', 'WBO=has', 'WBO=been', 'WBO=orchestrating', 'WBL=the']
+
+others:['WBF=-', 'WBO=hitting', 'WBO=the', 'WBO=brakes', 'WBO=on', 'WBL=a']
+
+others:['WBF=to', 'WBO=emerging', 'WBO=markets', 'WBL=for']
+
+others:['WBF=,', 'WBO=brand', 'WBO=manager', 'WBO=for', 'WBO=wisk', 'WBO=,', 'WBO=owned', 'WBO=by', 'WBL=the']
+
+others:['WBF=annual', 'WBO=meeting', 'WBO=on', 'WBO=oct.', 'WBO=22', 'WBL=,']
+
+others:['WBFL=,']
+
+others:['WBF=,', 'WBO=the', 'WBO=president', 'WBO=of', 'WBO=tower_investments', 'WBO=,', 'WBO=decided', 'WBO=to', 'WBO=build', 'WBO=a', 'WBO=public', 'WBO=square', 'WBO=inspired', 'WBO=by', 'WBL=the']
+
+others:['WBF=is', 'WBO=also', 'WBO=concerned', 'WBO=about', 'WBO=the', 'WBO=design', 'WBL=of']
+
+others:['WBF=,', 'WBL=while']
+
+head:['WBF=,', 'WBO=the', 'WBO=chief', 'WBO=executive', 'WBL=of']
+
+head:['WBF=,', 'WBO=chief', 'WBO=global', 'WBO=economist', 'WBO=at', 'WBL=the']
+
+others:['WBFL=and']
+
+others:['WBF=,', 'WBO=democrat_of_connecticut', 'WBO=and', 'WBO=lead', 'WBO=sponsor', 'WBO=in', 'WBL=the']
+
+others:['WBFL=of']
+
+spokesperson:['WBF=,', 'WBO=a', 'WBO=spokeswoman', 'WBL=for']
+
+head:['WBF=to', 'WBO=step', 'WBO=down', 'WBL=as']
+
+manager:['WBF=hedge', 'WBO=fund', 'WBO=managers', 'WBL=,']
+
+head:['WBF=,', 'WBO=the', 'WBO=chairman', 'WBO=of', 'WBL=the']
+
+head:['WBF=,', 'WBO=a', 'WBO=vice', 'WBO=president', 'WBL=with']
+
+head:['WBF=,', 'WBO=chief', 'WBO=economist', 'WBL=at']
+
+others:['WBF=,', 'WBO=87', 'WBO=,', 'WBO=a', 'WBO=producer', 'WBO=of', 'WBL=`']
+
+others:['WBF=,', 'WBL=an']
+
+others:['WBF=was', 'WBO=competing', 'WBO=against', 'WBO=the', 'WBO=contractors', 'WBO=that', 'WBO=built', 'WBO=most', 'WBO=of', 'WBO=the', 'WBO=larger', 'WBO=mraps', 'WBO=--', 'WBO=bae_systems', 'WBL=,']
+
+others:['WBF=,', 'WBO=vice', 'WBO=president', 'WBO=of', 'WBO=corporate', 'WBO=environmental', 'WBO=affairs', 'WBO=and', 'WBO=product', 'WBO=safety', 'WBO=at', 'WBO=i.b.m.', 'WBO=for', 'WBO=instance', 'WBL=,']
+
+others:['WBF=and', 'WBO=sandy_lewis', 'WBO=sampling', 'WBO=the', 'WBO=cookies', 'WBO=on', 'WBO=check-in', 'WBL=at']
+
+head:['WBF=,', 'WBO=president', 'WBO=of', 'WBL=the']
+
+head:['WBF=executive', 'WBO=vice', 'WBO=president', 'WBO=of', 'WBO=global', 'WBO=sales', 'WBO=and', 'WBO=client', 'WBO=support', 'WBL=for']
+
+head:['WBF=,', 'WBO=the', 'WBO=president', 'WBL=of']
+
+others:['WBF=,', 'WBO=by', 'WBO=contrast', 'WBL=,']
+
+others:['WBF=was', 'WBO=advised', 'WBO=by', 'WBO=deutsche_bank', 'WBO=,', 'WBO=goldman_sachs', 'WBO=and', 'WBO=the', 'WBO=law', 'WBO=firms', 'WBO=cravath', 'WBL=,']
+
+professor:['WBF=,', 'WBO=a', 'WBO=professor', 'WBL=at']
+
+others:['WBF=are', 'WBO=not', 'WBO=identified', 'WBO=with', 'WBO=a', 'WBO=model', 'WBO=year', 'WBO=,', 'WBL=said']
+
+others:['WBF=,', 'WBO=the', 'WBO=20th', 'WBL=century']
+
+others:['WBFL=and']
+
+others:['WBF=,', 'WBO=an', 'WBO=investment', 'WBO=firm', 'WBL=;']
+
+others:['WBFL=and']
+
+others:['WBF=has', 'WBO=accumulated', 'WBO=a', 'WBO=staggering', 'WBO=amount', 'WBO=of', 'WBO=real', 'WBO=estate', 'WBL=in']
+
+others:['WBF=is', 'WBO=one', 'WBO=of', 'WBO=many', 'WBO=people', 'WBO=in', 'WBO=the', 'WBO=corporate', 'WBO=world', 'WBO=now', 'WBO=working', 'WBO=hard', 'WBO=to', 'WBO=ensure', 'WBO=that', 'WBO=come', 'WBO=next', 'WBO=year', 'WBO=,', 'WBO=when', 'WBO=a', 'WBL=new']
+
+others:['WBF=said', 'WBO=nokia_siemens', 'WBO=was', 'WBO=also', 'WBO=feeling', 'WBO=pressure', 'WBO=from', 'WBO=huawei', 'WBL=and']
+
+analyst:['WBF=,', 'WBO=a', 'WBO=senior', 'WBO=research', 'WBO=analyst', 'WBL=with']
+
+others:['WBF=;', 'WBO=and', 'WBO=other', 'WBO=defendants', 'WBO=added', 'WBO=to', 'WBO=the', 'WBO=case', 'WBO=through', 'WBO=a', 'WBO=new', 'WBO=civil', 'WBO=complaint', 'WBO=filed', 'WBO=by', 'WBL=the']
+
+head:['WBF=,', 'WBO=chairman', 'WBO=and', 'WBO=chief', 'WBO=executive', 'WBL=of']
+
+others:['WBF=,', 'WBO=is', 'WBO=plotting', 'WBO=its', 'WBO=own', 'WBO=turnaround', 'WBO=effort', 'WBO=,', 'WBO=with', 'WBO=a', 'WBO=new', 'WBO=president', 'WBL=,']
+
+others:['WBF=is', 'WBO=the', 'WBO=host', 'WBO=of', 'WBL=the']
+
+others:['WBF=said', 'WBO=the', 'WBO=company', 'WBO=and', 'WBO=its', 'WBO=parent', 'WBL=,']
+
+others:['WBF=,', 'WBO=an', 'WBO=analyst', 'WBO=who', 'WBL=covers']
+
+spokesperson:['WBF=,', 'WBO=a', 'WBO=spokeswoman', 'WBL=at']
+
+others:['WBF=,', 'WBO=like', 'WBO=g.m.', 'WBO=and', 'WBO=chrysler', 'WBO=,', 'WBO=is', 'WBO=plotting', 'WBO=its', 'WBO=own', 'WBO=turnaround', 'WBO=effort', 'WBO=,', 'WBO=with', 'WBO=a', 'WBO=new', 'WBO=president', 'WBL=,']
+
+others:['WBFL=and']
+
+others:['WBF=,', 'WBO=a', 'WBO=visiting', 'WBO=fellow', 'WBO=at', 'WBL=the']
+
+others:['WBFL=quoted']
+
+head:['WBF=,', 'WBO=senior', 'WBO=vice', 'WBO=president', 'WBO=for', 'WBO=public', 'WBO=affairs', 'WBO=for', 'WBL=the']
+
+professor:['WBF=,', 'WBO=a', 'WBO=business', 'WBO=professor', 'WBL=at']
+
+others:['WBF=does', 'WBO=not', 'WBO=unfairly', 'WBO=influence', 'WBO=the', 'WBO=decision', 'WBO=,', 'WBL=said']
+
+others:['WBF=has', 'WBO=not', 'WBO=decided', 'WBO=how', 'WBO=to', 'WBO=reduce', 'WBO=the', 'WBO=deficit', 'WBL=,']
+
+manager:['WBF=hedge', 'WBO=fund', 'WBO=managers', 'WBO=,', 'WBO=matthew_tannin', 'WBO=,', 'WBO=above', 'WBO=,', 'WBL=and']
+
+others:['WBF=orchestrated', 'WBO=illegal', 'WBO=trading', 'WBO=aimed', 'WBO=at', 'WBO=profiting', 'WBO=from', 'WBO=secret', 'WBO=information', 'WBO=mr._cutillo', 'WBO=had', 'WBO=supplied', 'WBO=about', 'WBO=four', 'WBO=2007', 'WBO=deals', 'WBO=involving', 'WBO=clients', 'WBL=of']
+
+others:['WBF=was', 'WBO=competing', 'WBO=against', 'WBO=the', 'WBO=contractors', 'WBO=that', 'WBO=built', 'WBO=most', 'WBO=of', 'WBO=the', 'WBO=larger', 'WBO=mraps', 'WBL=--']
+
+professor:['WBF=,', 'WBO=a', 'WBO=professor', 'WBO=at', 'WBL=the']
+
+others:['WBF=delayed', 'WBO=buying', 'WBO=a.m.d.', 'WBO=chips', 'WBO=,', 'WBL=and']
+
+others:['WBF=bought', 'WBO=the', 'WBO=brewery', 'WBO=,', 'WBO=housing', 'WBO=values', 'WBL=in']
+
+analyst:['WBF=,', 'WBO=a', 'WBO=financial', 'WBO=analyst', 'WBL=with']
+
+others:['WBFL=,']
+
+others:['WBFL=for']
+
+others:['WBF=,', 'WBO=stephanie_hilton', 'WBO=and', 'WBO=sandy_lewis', 'WBO=sampling', 'WBO=the', 'WBO=cookies', 'WBO=on', 'WBO=check-in', 'WBL=at']
+
+others:['WBF=,', 'WBO=controls', 'WBO=a', 'WBO=cornucopia', 'WBO=of', 'WBO=media', 'WBO=assets', 'WBO=like', 'WBO=fox_news', 'WBO=,', 'WBO=myspace', 'WBO=,', 'WBO=the', 'WBO=20th', 'WBO=century', 'WBO=fox', 'WBO=film', 'WBO=studio', 'WBO=,', 'WBO=the', 'WBO=fox', 'WBO=broadcast', 'WBO=network', 'WBO=and', 'WBO=several', 'WBO=newspapers', 'WBO=including', 'WBO=the', 'WBO=wall', 'WBO=street', 'WBO=journal', 'WBO=and', 'WBL=the']
+
+others:['WBF=is', 'WBL=a']
+
+others:['WBF=and', 'WBO=briefly', 'WBL=joined']
+
+head:['WBF=,', 'WBO=a', 'WBO=senior', 'WBO=vice', 'WBO=president', 'WBL=at']
+
+others:['WBF=from', 'WBO=associating', 'WBO=with', 'WBO=any', 'WBO=broker', 'WBO=,', 'WBO=dealer', 'WBO=,', 'WBO=investment', 'WBO=adviser', 'WBO=and', 'WBO=investment', 'WBO=company', 'WBO=and', 'WBO=from', 'WBO=acting', 'WBO=as', 'WBO=an', 'WBO=officer', 'WBO=or', 'WBO=director', 'WBO=of', 'WBO=any', 'WBO=public', 'WBO=company', 'WBO=,', 'WBO=the', 'WBO=s.e.c.', 'WBL=and']
+
+head:['WBF=said', 'WBO=that', 'WBO=its', 'WBO=chief', 'WBO=executive', 'WBO=jean_buttner', 'WBO=had', 'WBO=resigned', 'WBO=on', 'WBO=wednesday', 'WBO=and', 'WBO=was', 'WBO=succeeded', 'WBO=by', 'WBO=the', 'WBO=chief', 'WBO=legal', 'WBL=officer']
+
+others:['WBF=found', 'WBO=that', 'WBO=mr._rajaratnam', 'WBL=and']
+
+others:['WBF=,', 'WBO=coordinator', 'WBO=of', 'WBL=the']
+
+others:['WBF=to', 'WBO=emerging', 'WBO=markets', 'WBL=for']
+
+leave:['WBF=,', 'WBO=a', 'WBO=technology', 'WBO=entrepreneur', 'WBO=and', 'WBO=a', 'WBO=former', 'WBO=vice', 'WBO=president', 'WBL=at']
+
+others:['WBFL=,']
+
+others:['WBF=was', 'WBO=competing', 'WBO=against', 'WBO=the', 'WBO=contractors', 'WBO=that', 'WBO=built', 'WBO=most', 'WBO=of', 'WBO=the', 'WBO=larger', 'WBO=mraps', 'WBO=--', 'WBO=bae_systems', 'WBO=,', 'WBO=navistar', 'WBO=,', 'WBO=force_protection', 'WBL=and']
+
+head:['WBF=,', 'WBO=the', 'WBO=head', 'WBO=of', 'WBO=corporate', 'WBO=affairs', 'WBL=at']
+
+others:['WBF=until', 'WBO=late', 'WBO=2007', 'WBO=,', 'WBO=closely', 'WBO=intertwined', 'WBO=the', 'WBO=skype', 'WBL=and']
+
+others:['WBF=,', 'WBO=ms._buttner', 'WBL=,']
+
+others:['WBF=,', 'WBO=who', 'WBO=flies', 'WBL=a']
+
+founder:['WBF=,', 'WBO=the', 'WBO=designer', 'WBO=of', 'WBO=the', 'WBO=chrome', 'WBO=browser', 'WBO=,', 'WBO=mozilla', 'WBO=,', 'WBO=the', 'WBO=creator', 'WBL=of']
+
+professor:['WBF=,', 'WBO=a', 'WBO=law', 'WBO=professor', 'WBL=at']
+
+others:["WBF='s", 'WBL=new']
+
+others:['WBF=,', 'WBO=starwood_hotels', 'WBO=and', 'WBO=resorts', 'WBO=,', 'WBO=omni_hotels', 'WBO=and', 'WBO=the', 'WBO=walt_disney_world_swan', 'WBL=and']
+
+others:['WBF=,', 'WBO=said', 'WBL=that']
+
+others:['WBF=broadcast', 'WBO=network', 'WBO=and', 'WBO=several', 'WBO=newspapers', 'WBO=including', 'WBO=the', 'WBO=wall', 'WBO=street', 'WBO=journal', 'WBO=and', 'WBL=the']
+
+head:['WBF=,', 'WBO=chief', 'WBO=investment', 'WBO=officer', 'WBL=at']
+
+others:['WBF=in', 'WBO=september', 'WBO=,', 'WBO=and', 'WBO=the', 'WBO=original', 'WBO=founders', 'WBL=of']
+
+others:['WBF=,', 'WBO=had', 'WBO=pushed', 'WBO=for', 'WBO=the', 'WBO=sale', 'WBL=to']
+
+founder:['WBF=was', 'WBO=created', 'WBL=by']
+
+others:['WBF=,', 'WBO=it', 'WBO=is', 'WBO=a', 'WBO=small', 'WBO=price', 'WBO=to', 'WBO=pay', 'WBO=for', 'WBO=the', 'WBO=loyalty', 'WBO=of', 'WBO=someone', 'WBL=like']
+
+director:['WBF=,', 'WBO=director', 'WBO=of', 'WBO=e-commerce', 'WBL=for']
+
+others:['WBF=and', 'WBO=his', 'WBO=colleagues', 'WBO=submitted', 'WBO=a', 'WBO=three-year', 'WBO=plan', 'WBO=to', 'WBO=executives', 'WBL=at']
+
+others:['WBFL=for']
+
+head:['WBF=,', 'WBO=vice', 'WBO=president', 'WBO=for', 'WBO=worldwide', 'WBO=sales', 'WBO=and', 'WBO=travel', 'WBL=at']
+
+others:['WBF=,', 'WBO=jpmorgan_chase', 'WBL=and']
+
+others:['WBF=,', 'WBO=a', 'WBO=front', 'WBO=desk', 'WBO=agent', 'WBO=at', 'WBL=the']
+
+others:['WBFL=and']
+
+advisor:['WBF=,', 'WBO=the', 'WBO=former', 'WBO=viacom', 'WBO=chief', 'WBO=executive', 'WBO=who', 'WBO=is', 'WBO=now', 'WBO=an', 'WBO=adviser', 'WBL=to']
+
+others:['WBF=to', 'WBO=dodge', 'WBO=a', 'WBO=steep', 'WBO=tax', 'WBO=bill', 'WBO=left', 'WBO=over', 'WBO=from', 'WBO=the', 'WBO=transaction', 'WBO=it', 'WBO=made', 'WBO=with', 'WBO=the', 'WBO=media', 'WBL=mogul']
+
+others:["WBF='s", 'WBL=new']
+
+others:['WBF=,', 'WBO=an', 'WBO=expert', 'WBO=on', 'WBO=financial', 'WBO=markets', 'WBO=at', 'WBO=the', 'WBL=china_europe']
+
+spokesperson:['WBF=,', 'WBL=a']
+
+others:['WBF=of', 'WBO=the', 'WBO=united_states_court_of_appeals', 'WBO=for', 'WBL=the']
+
+others:['WBF=said', 'WBO=he', 'WBO=was', 'WBO=talking', 'WBO=to', 'WBO=potential', 'WBO=partners', 'WBO=about', 'WBL=commercializing']
+
+others:['WBF=,', 'WBO=chairman', 'WBO=of', 'WBO=the', 'WBO=securities_and_exchange_commission', 'WBO=,', 'WBO=told', 'WBL=the']
+
+others:['WBF=,', 'WBO=and', 'WBO=tom_freston', 'WBO=,', 'WBO=the', 'WBO=former', 'WBO=viacom', 'WBO=chief', 'WBO=executive', 'WBO=who', 'WBO=is', 'WBO=now', 'WBO=an', 'WBO=adviser', 'WBL=to']
+
+others:['WBF=obtained', 'WBO=these', 'WBO=reports', 'WBO=from', 'WBL=the']
+
+others:['WBF=,', 'WBO=vice', 'WBO=president', 'WBO=for', 'WBO=research', 'WBO=and', 'WBO=analysis', 'WBO=at', 'WBO=spendingpulse', 'WBO=,', 'WBO=an', 'WBO=information', 'WBO=service', 'WBL=by']
+
+analyst:['WBF=,', 'WBO=an', 'WBO=analyst', 'WBL=at']
+
+others:['WBF=blog', 'WBO=:', 'WBO=tax', 'WBO=cuts', 'WBL=and']
+
+others:['WBF=could', 'WBO=conceivably', 'WBO=be', 'WBO=considering', 'WBO=a', 'WBO=bid', 'WBL=for']
+
+head:['WBF=,', 'WBO=the', 'WBO=president', 'WBL=of']
+
+others:['WBFL=for']
+
+lawyer:['WBF=,', 'WBO=a', 'WBO=lawyer', 'WBL=with']
+
+others:['WBF=was', 'WBO=advised', 'WBL=by']
+
+others:['WBF=told', 'WBO=reporters', 'WBO=in', 'WBO=london', 'WBL=,']
+
+others:['WBF=,', 'WBO=the', 'WBO=former', 'WBO=chief', 'WBO=compliance', 'WBO=officer', 'WBO=david_henigson', 'WBL=and']
+
+director:['WBF=,', 'WBO=managing', 'WBO=director', 'WBO=of', 'WBO=onboard', 'WBO=products', 'WBL=for']
+
+head:['WBF=,', 'WBO=chief', 'WBO=executive', 'WBL=of']
+
+others:['WBF=would', 'WBO=not', 'WBO=know', 'WBO=the', 'WBO=outcome', 'WBO=of', 'WBO=the', 'WBO=negotiations', 'WBL=with']
+
+others:['WBFL=that']
+
+others:['WBF=is', 'WBO=likely', 'WBO=to', 'WBO=step', 'WBO=down', 'WBO=from', 'WBL=the']
+
+others:['WBF=,', 'WBO=said', 'WBL=the']
+
+others:['WBF=,', 'WBO=a', 'WBO=research', 'WBO=engineer', 'WBO=at', 'WBL=the']
+
+head:['WBFL=owner']
+
+others:['WBF=reminded', 'WBO=mr._dell', 'WBO=that', 'WBO=intel', 'WBO=had', 'WBL=paid']
+
+analyst:['WBF=,', 'WBO=a', 'WBO=network', 'WBO=analyst', 'WBL=for']
+
+others:['WBF=of', 'WBO=stanley', 'WBL=and']
+
+others:['WBF=in', 'WBO=boston', 'WBO=,', 'WBO=who', 'WBO=has', 'WBO=flown', 'WBO=midwest', 'WBO=,', 'WBO=says', 'WBL=that']
+
+head:['WBF=,', 'WBO=senior', 'WBO=vice', 'WBO=president', 'WBO=and', 'WBO=portfolio', 'WBO=manager', 'WBL=at']
+
+others:['WBF=and', 'WBO=his', 'WBO=colleagues', 'WBO=submitted', 'WBO=a', 'WBO=three-year', 'WBO=plan', 'WBO=to', 'WBO=executives', 'WBO=at', 'WBO=time_warner', 'WBO=,', 'WBO=the', 'WBO=parent', 'WBO=company', 'WBO=of', 'WBL=the']
+
+others:['WBF=created', 'WBO=an', 'WBO=application', 'WBL=for']
+
+others:['WBF=led', 'WBO=an', 'WBO=effort', 'WBO=under', 'WBO=which', 'WBO=the', 'WBO=company', 'WBO=separated', 'WBO=from', 'WBO=its', 'WBO=chip', 'WBO=manufacturing', 'WBO=arm', 'WBO=,', 'WBO=making', 'WBO=it', 'WBO=into', 'WBO=an', 'WBO=independent', 'WBO=entity', 'WBO=now', 'WBO=known', 'WBL=as']
+
+head:['WBF=,', 'WBO=a', 'WBO=professor', 'WBO=at', 'WBO=the', 'WBO=university_of_alabama', 'WBO=and', 'WBO=the', 'WBO=president', 'WBO=of', 'WBL=the']
+
+others:['WBF=,', 'WBO=on', 'WBO=monday', 'WBL=,']
+
+manager:['WBF=,', 'WBO=an', 'WBO=export', 'WBO=manager', 'WBO=at', 'WBO=the', 'WBL=state-owned']
+
+head:['WBF=,', 'WBO=chief', 'WBO=economist', 'WBO=and', 'WBO=director', 'WBO=of', 'WBO=research', 'WBO=for', 'WBL=the']
+
+others:['WBF=,', 'WBO=a', 'WBO=new', 'WBO=partner', 'WBO=there', 'WBO=,', 'WBO=had', 'WBO=worked', 'WBO=for', 'WBL=the']
+
+others:['WBF=)', 'WBL=--']
+
+others:['WBF=also', 'WBO=turned', 'WBO=down', 'WBO=a', 'WBO=joint', 'WBO=proposal', 'WBO=by', 'WBL=the']
+
+professor:['WBF=,', 'WBO=a', 'WBO=professor', 'WBO=at', 'WBL=the']
+
+others:['WBF=,', 'WBO=who', 'WBO=joined', 'WBO=the', 'WBO=automaker', 'WBO=three', 'WBO=years', 'WBO=ago', 'WBL=from']
+
+head:['WBF=president', 'WBL=,']
+
+professor:['WBF=,', 'WBO=a', 'WBO=professor', 'WBO=of', 'WBO=banking', 'WBO=law', 'WBL=at']
+
+head:['WBF=,', 'WBO=greenxchange', 'WBO=coordinator', 'WBO=and', 'WBO=vice', 'WBO=president', 'WBO=for', 'WBO=science', 'WBL=at']
+
+professor:['WBF=,', 'WBO=a', 'WBO=law', 'WBO=professor', 'WBL=at']
+
+others:['WBF=,', 'WBO=who', 'WBO=in', 'WBO=the', 'WBO=past', 'WBO=has', 'WBO=taken', 'WBO=advantage', 'WBO=of', 'WBO=speculation', 'WBO=about', 'WBO=possibly', 'WBO=leaving', 'WBO=her', 'WBO=show', 'WBO=in', 'WBO=order', 'WBO=to', 'WBO=enhance', 'WBO=renewals', 'WBO=,', 'WBO=is', 'WBO=also', 'WBO=negotiating', 'WBO=with', 'WBO=syndicators', 'WBO=other', 'WBL=than']
+
+others:['WBFL=for']
+
+head:['WBF=,', 'WBO=a', 'WBO=2006', 'WBO=insead', 'WBO=graduate', 'WBO=who', 'WBO=is', 'WBO=chief', 'WBO=operating', 'WBO=officer', 'WBL=of']
+
+others:['WBF=says', 'WBO=it', 'WBO=thinks', 'WBO=there', 'WBO=could', 'WBO=be', 'WBO=more', 'WBO=than', 'WBO=30', 'WBO=percent', 'WBO=upside', 'WBO=in', 'WBL=the']
+
+others:['WBF=,', 'WBO=starwood_hotels', 'WBO=and', 'WBO=resorts', 'WBL=,']
+
+others:['WBF=found', 'WBL=that']
+
+others:['WBF=,', 'WBO=the', 'WBO=competition', 'WBO=commissioner', 'WBO=of', 'WBL=the']
+
+head:['WBF=,', 'WBO=chairman', 'WBO=of', 'WBL=the']
+
+others:['WBF=,', 'WBO=the', 'WBO=chairman', 'WBO=of', 'WBO=cbs', 'WBO=,', 'WBO=told', 'WBO=analysts', 'WBO=in', 'WBO=an', 'WBO=earnings', 'WBO=call', 'WBO=on', 'WBO=thursday', 'WBL=that']
+
+director:['WBF=,', 'WBO=director', 'WBO=of', 'WBO=admissions', 'WBO=and', 'WBO=financial', 'WBO=aid', 'WBO=at', 'WBL=the']
+
+others:['WBF=,', 'WBO=a', 'WBO=cardiologist', 'WBL=at']
+
+others:['WBFL=and']
+
+others:['WBF=wrote', 'WBO=letters', 'WBO=to', 'WBL=the']
+
+others:['WBF=and', 'WBO=joltid', 'WBO=also', 'WBL=sued']
+
+head:['WBF=,', 'WBO=a', 'WBO=vice', 'WBO=president', 'WBL=at']
+
+others:['WBFL=,']
+
+head:['WBF=owns', 'WBO=4', 'WBO=percent', 'WBL=of']
+
+head:['WBF=,', 'WBO=president', 'WBL=of']
+
+others:['WBF=said', 'WBL=on']
+
+professor:['WBF=,', 'WBO=a', 'WBO=professor', 'WBO=at', 'WBL=the']
+
+head:['WBF=,', 'WBL=the']
+
+lawyer:['WBF=,', 'WBO=a', 'WBO=lawyer', 'WBO=at', 'WBO=the', 'WBO=prestigious', 'WBO=firm', 'WBL=of']
+
+others:['WBF=agency', 'WBO=is', 'WBO=leo_burnett', 'WBO=,', 'WBO=part', 'WBO=of', 'WBL=the']
+
+others:['WBF=of', 'WBO=impersonating', 'WBO=employees', 'WBO=of', 'WBO=a', 'WBO=new_york_city', 'WBO=development', 'WBO=company', 'WBO=,', 'WBO=the', 'WBO=solow_realty', 'WBL=and']
+
+others:['WBFL=,']
+
+others:['WBF=whether', 'WBO=that', 'WBO=meant', 'WBO=taxes', 'WBO=would', 'WBO=rise', 'WBL=,']
+
+others:['WBF=,', 'WBO=said', 'WBL=that']
+
+advisor:['WBF=,', 'WBO=an', 'WBO=education', 'WBO=professor', 'WBO=at', 'WBO=the', 'WBO=university_of_wisconsin', 'WBO=who', 'WBO=was', 'WBO=an', 'WBO=early', 'WBO=adviser', 'WBO=to', 'WBO=the', 'WBO=software', 'WBL=company']
+
+analyst:['WBF=,', 'WBO=an', 'WBO=analyst', 'WBL=at']
+
+others:['WBF=,', 'WBO=director', 'WBO=for', 'WBO=advertising', 'WBO=and', 'WBO=promotion', 'WBO=for', 'WBO=the', 'WBO=buick', 'WBL=and']
+
+head:['WBF=,', 'WBO=vice', 'WBO=president', 'WBL=of']
+
+others:['WBF=,', 'WBO=said', 'WBO=that', 'WBO=even', 'WBO=the', 'WBO=6', 'WBO=percent', 'WBO=decline', 'WBL=at']
+
+head:['WBF=said', 'WBO=that', 'WBO=its', 'WBO=chief', 'WBL=executive']
+
+others:['WBFL=and']
+
+others:['WBF=,', 'WBO=a', 'WBO=former', 'WBO=schottenfeld', 'WBO=trader', 'WBO=who', 'WBO=has', 'WBO=pleaded', 'WBO=guilty', 'WBO=in', 'WBO=the', 'WBO=criminal', 'WBO=case', 'WBO=,', 'WBO=and', 'WBL=the']
+
+others:['WBF=,', 'WBO=now', 'WBO=holds', 'WBO=that', 'WBO=title', 'WBL=at']
+
+head:['WBF=,', 'WBO=owner', 'WBL=of']
+
+others:['WBFL=at']
+
+others:['WBF=film', 'WBO=studio', 'WBO=,', 'WBO=the', 'WBO=fox', 'WBO=broadcast', 'WBO=network', 'WBO=and', 'WBO=several', 'WBO=newspapers', 'WBO=including', 'WBO=the', 'WBO=wall', 'WBO=street', 'WBO=journal', 'WBO=and', 'WBL=the']
+
+others:['WBF=,', 'WBO=senior', 'WBO=strategist', 'WBL=at']
+
+manager:['WBF=,', 'WBO=the', 'WBO=general', 'WBO=sales', 'WBO=manager', 'WBL=at']
+
+head:['WBF=,', 'WBO=the', 'WBO=zoning', 'WBO=chairman', 'WBO=for', 'WBL=the']
+
+head:['WBF=,', 'WBO=president', 'WBL=of']
+
+others:['WBF=aside', 'WBO=,', 'WBO=analysts', 'WBL=said']
+
+others:['WBF=,', 'WBO=a', 'WBL=retired']
+
+others:['WBF=lost', 'WBL=to']
+
+others:['WBF=bars', 'WBL=,']
+
+others:['WBF=is', 'WBO=an', 'WBO=associate', 'WBO=professor', 'WBO=in', 'WBO=the', 'WBO=entrepreneurial', 'WBO=management', 'WBO=unit', 'WBO=at', 'WBL=the']
+
+others:['WBF=,', 'WBO=an', 'WBO=economist', 'WBO=who', 'WBO=formerly', 'WBO=worked', 'WBO=at', 'WBO=morgan_stanley', 'WBO=,', 'WBO=is', 'WBO=already', 'WBO=calling', 'WBL=the']
+
+others:['WBF=(', 'WBO=up', 'WBO=5', 'WBO=percent', 'WBO=)', 'WBL=and']
+
+head:['WBF=,', 'WBO=the', 'WBO=former', 'WBO=chief', 'WBO=executive', 'WBO=of', 'WBO=advanced_micro_devices', 'WBO=,', 'WBO=will', 'WBO=step', 'WBO=down', 'WBO=as', 'WBO=chairman', 'WBL=of']
+
+others:['WBFL=after']
+
+others:['WBF=,', 'WBO=the', 'WBO=money', 'WBO=management', 'WBO=firm', 'WBO=best', 'WBO=known', 'WBO=for', 'WBO=helping', 'WBO=to', 'WBL=oust']
+
+others:['WBF=,', 'WBO=mozilla', 'WBO=,', 'WBO=zynga', 'WBO=,', 'WBO=digg', 'WBL=and']
+
+director:['WBF=,', 'WBO=the', 'WBO=creative', 'WBO=director', 'WBL=at']
+
+founder:['WBF=hedge', 'WBO=fund', 'WBO=;', 'WBO=its', 'WBO=founder', 'WBL=,']
+
+head:['WBF=,', 'WBO=head', 'WBO=of', 'WBO=the', 'WBO=emerging', 'WBO=europe', 'WBO=team', 'WBL=at']
+
+professor:['WBF=,', 'WBO=associate', 'WBO=professor', 'WBO=of', 'WBO=management', 'WBO=at', 'WBL=the']
+
+others:['WBF=,', 'WBO=a', 'WBO=former', 'WBO=managing', 'WBO=director', 'WBO=of', 'WBO=houlihan_lokey_howard_', 'WBO=&', 'WBO=_zukin', 'WBO=,', 'WBO=an', 'WBO=investment', 'WBO=firm', 'WBO=;', 'WBO=gary_l._pechota', 'WBO=,', 'WBO=a', 'WBO=former', 'WBO=chief', 'WBO=executive', 'WBL=of']
+
+others:['WBF=,', 'WBO=senior', 'WBO=vice', 'WBO=president', 'WBO=for', 'WBO=labor', 'WBO=at', 'WBL=the']
+
+others:['WBF=,', 'WBO=was', 'WBO=started', 'WBO=in', 'WBO=january', 'WBO=2008', 'WBO=by', 'WBO=i.b.m.', 'WBO=,', 'WBO=nokia', 'WBL=,']
+
+others:['WBF=to', 'WBO=emerging', 'WBO=markets', 'WBL=for']
+
+head:['WBF=,', 'WBO=chairman', 'WBO=of', 'WBL=the']
+
+others:['WBFL=,']
+
+others:['WBF=and', 'WBO=some', 'WBO=of', 'WBO=the', 'WBO=other', 'WBO=people', 'WBO=arrested', 'WBO=thursday', 'WBO=had', 'WBO=personal', 'WBO=and', 'WBO=professional', 'WBO=links', 'WBO=with', 'WBO=defendants', 'WBO=in', 'WBO=a', 'WBO=larger', 'WBO=insider', 'WBO=trading', 'WBO=case', 'WBO=pending', 'WBO=against', 'WBL=the']
+
+head:['WBF=,', 'WBO=vice', 'WBO=president', 'WBO=and', 'WBO=director', 'WBO=of', 'WBO=programming', 'WBO=for', 'WBL=the']
+
+others:['WBF=,', 'WBO=the', 'WBO=executive', 'WBO=director', 'WBO=of', 'WBO=the', 'WBO=center', 'WBO=for', 'WBO=open', 'WBO=innovation', 'WBO=at', 'WBL=the']
+
+others:['WBF=derived', 'WBO=$', 'WBO=24.6', 'WBO=billion', 'WBO=of', 'WBO=its', 'WBO=$', 'WBO=63.7', 'WBO=billion', 'WBO=total', 'WBO=revenue', 'WBO=last', 'WBO=year', 'WBO=,', 'WBO=from', 'WBO=drugs', 'WBL=like']
+
+head:['WBF=president', 'WBL=,']
+
+head:['WBF=,', 'WBO=deputy', 'WBO=chief', 'WBO=executive', 'WBL=of']
+
+others:['WBFL=for']
+
+others:['WBF=delayed', 'WBO=buying', 'WBO=a.m.d.', 'WBO=chips', 'WBO=,', 'WBO=and', 'WBO=mr._otellini', 'WBO=said', 'WBO=in', 'WBO=a', 'WBO=later', 'WBO=e-mail', 'WBO=message', 'WBO=to', 'WBO=a', 'WBO=colleague', 'WBL=that']
+
+others:['WBF=will', 'WBO=yield', 'WBO=greater', 'WBO=numbers', 'WBO=of', 'WBO=high-quality', 'WBO=inventions', 'WBO=,', 'WBL=says']
+
+others:['WBF=,', 'WBO=is', 'WBO=seeking', 'WBO=costs', 'WBO=concessions', 'WBL=from']
+
+head:['WBF=chief', 'WBO=executive', 'WBL=,']
+
+others:['WBFL=,']
+
+professor:['WBF=is', 'WBO=a', 'WBO=professor', 'WBO=of', 'WBO=economics', 'WBL=at']
+
+head:['WBF=,', 'WBO=vice', 'WBO=president', 'WBO=for', 'WBO=loyalty', 'WBL=for']
+
+others:['WBF=said', 'WBO=that', 'WBO=she', 'WBO=hoped', 'WBL=the']
+
+others:['WBF=,', 'WBO=david', 'WBO=jolly', 'WBO=and', 'WBL=bill']
+
+others:['WBF=has', 'WBO=been', 'WBO=actively', 'WBO=mentoring', 'WBO=entrepreneurs', 'WBO=and', 'WBO=investing', 'WBO=in', 'WBO=their', 'WBO=companies', 'WBO=since', 'WBO=2002', 'WBO=,', 'WBL=when']
+
+others:['WBF=once', 'WBO=worked', 'WBO=,', 'WBO=or', 'WBL=to']
+
+others:['WBFL=that']
+
+others:['WBF=,', 'WBO=a', 'WBO=29-year-old', 'WBO=from', 'WBO=india', 'WBO=studying', 'WBO=at', 'WBL=the']
+
+others:['WBF=committee', 'WBO=,', 'WBO=which', 'WBO=referred', 'WBL=to']
+
+others:['WBFL=,']
+
+others:['WBF=,', 'WBO=star', 'WBO=of', 'WBL=the']
+
+others:['WBF=and', 'WBL=the']
+
+head:['WBF=,', 'WBO=whose', 'WBO=chief', 'WBO=executive', 'WBL=,']
+
+others:['WBF=of', 'WBO=impersonating', 'WBO=employees', 'WBO=of', 'WBO=a', 'WBO=new_york_city', 'WBO=development', 'WBO=company', 'WBO=,', 'WBL=the']
+
+leave:['WBF=,', 'WBO=a', 'WBO=former', 'WBO=chief', 'WBO=executive', 'WBL=of']
+
+others:['WBF=,', 'WBO=head', 'WBO=of', 'WBO=marketing', 'WBO=at', 'WBO=mayflower', 'WBO=,', 'WBO=a', 'WBO=german', 'WBO=software', 'WBO=developer', 'WBO=,', 'WBO=said', 'WBO=a', 'WBO=prosperous', 'WBO=company', 'WBL=like']
+
+others:['WBF=,', 'WBO=a', 'WBO=japanese', 'WBO=drug', 'WBO=company', 'WBO=with', 'WBO=licensing', 'WBO=rights', 'WBL=from']
+
+advisor:['WBF=was', 'WBO=advised', 'WBO=by', 'WBO=deutsche_bank', 'WBO=,', 'WBO=goldman_sachs', 'WBO=and', 'WBO=the', 'WBO=law', 'WBO=firms', 'WBO=cravath', 'WBO=,', 'WBO=swaine_', 'WBO=&', 'WBO=_moore', 'WBL=and']
+
+head:['WBF=,', 'WBO=head', 'WBO=of', 'WBO=global', 'WBO=strategy', 'WBL=at']
+
+spokesperson:['WBF=,', 'WBL=a']
+
+others:['WBF=and', 'WBO=virgin_money', 'WBO=,', 'WBO=the', 'WBO=consumer', 'WBO=credit', 'WBO=arm', 'WBL=of']
+
+others:['WBF=,', 'WBL=left']
+

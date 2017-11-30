@@ -1,0 +1,10 @@
+We evaluate performance of NER tags predicted by CRF on eng.testa data using conlleval perl script. For that first get the CRF output for a test data as follows:
+	crf_test -m model_crf final_data1 > test_output
+Then truncate 3rd and 4th column to have the format of output file as required by conllevel, ie. token,POS tag,Actual Tag,Predicted Tag using:
+	python change_test_format.py
+It generates evaluate_test_output which is further processed to remove tags other than "PER" and "ORG" using
+	python truncate_test_output_truncated_tags.py
+It produces evaluate_test_output_truncated_tags which is given as input to conlleval that gives us the performance scores in performance_CRF.txt.
+
+
+Finally we get the modified named entities from relation extraction into me_op.txt as output file in the format required by conlleval script to evaluate performance. It gives us performance scores in performance_after_rel.txt. 

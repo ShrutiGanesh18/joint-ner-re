@@ -1,0 +1,6 @@
+evaluate_test_output_truncated_tags consists of the final output file(predicted_named_entities) which is given for performance measure.
+me_op.txt consists of final output file(predicted named entities) after  relation extraction.
+
+
+performance_CRF.txt consists of performance measures for CRF trained entities. 
+performance_after_rel.txt consists of performance measures for entities obtained after relation extraction. 

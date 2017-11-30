@@ -1,0 +1,414 @@
+director:['WBF=,', 'WBF_tag=O', 'WBO=director', 'WBO_tag=B-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBO=external', 'WBO_tag=B-NP', 'WBO=relations', 'WBO_tag=I-NP', 'WBL=for', 'WBL_tag=B-PP', 'SM1F=BOUNDARY', 'SM1F_tag=BOUNDARY', 'SM1L=BOUNDARY', 'SM1L_tag=BOUNDARY', 'SM2F=,', 'SM2F_tag=O', 'SM2L=said', 'SM2L_tag=B-VP']
+
+spokesperson:['WBF=spokeswoman', 'WBF_tag=I-NP', 'WBL=,', 'WBL_tag=O', 'SM1F=,', 'SM1F_tag=O', 'SM1L=said', 'SM1L_tag=B-VP', 'SM2F=a', 'SM2F_tag=B-NP', 'SM2L=BOUNDARY', 'SM2L_tag=BOUNDARY']
+
+founder:['WBF=,', 'WBF_tag=O', 'WBO=the', 'WBO_tag=B-NP', 'WBO=billionaire', 'WBO_tag=I-NP', 'WBO=founder', 'WBO_tag=I-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBL=the', 'WBL_tag=B-NP', 'SM1F=against', 'SM1F_tag=B-PP', 'SM1L=case', 'SM1L_tag=I-NP', 'SM2F=,', 'SM2F_tag=O', 'SM2L=and', 'SM2L_tag=O']
+
+spokesperson:['WBF=spokesman', 'WBF_tag=I-NP', 'WBL=,', 'WBL_tag=O', 'SM1F=,', 'SM1F_tag=O', 'SM1L=said', 'SM1L_tag=B-VP', 'SM2F=an', 'SM2F_tag=B-NP', 'SM2L=BOUNDARY', 'SM2L_tag=BOUNDARY']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=general', 'WBO_tag=I-NP', 'WBO=partner', 'WBO_tag=I-NP', 'WBL=with', 'WBL_tag=B-PP', 'SM1F=said', 'SM1F_tag=B-VP', 'SM1L=BOUNDARY', 'SM1L_tag=BOUNDARY', 'SM2F=,', 'SM2F_tag=O', 'SM2L=a', 'SM2L_tag=B-NP']
+
+head:['WBF=,', 'WBF_tag=O', 'WBO=chief', 'WBO_tag=B-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBO=infectious', 'WBO_tag=B-NP', 'WBO=diseases', 'WBO_tag=I-NP', 'WBL=at', 'WBL_tag=B-PP', 'SM1F=said', 'SM1F_tag=B-VP', 'SM1L=BOUNDARY', 'SM1L_tag=BOUNDARY', 'SM2F=in', 'SM2F_tag=B-PP', 'SM2L=akron', 'SM2L_tag=B-NP']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=the', 'WBO_tag=B-NP', 'WBO=governor', 'WBO_tag=I-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBL=the', 'WBL_tag=B-NP', 'SM1F=said', 'SM1F_tag=B-VP', 'SM1L=BOUNDARY', 'SM1L_tag=BOUNDARY', 'SM2F=,', 'SM2F_tag=O', 'SM2L=in', 'SM2L_tag=B-PP']
+
+lawyer:['WBF=,', 'WBF_tag=O', 'WBO=33', 'WBO_tag=B-NP', 'WBO=,', 'WBO_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=lawyer', 'WBO_tag=I-NP', 'WBO=at', 'WBO_tag=B-PP', 'WBO=the', 'WBO_tag=B-NP', 'WBO=prestigious', 'WBO_tag=I-NP', 'WBO=firm', 'WBO_tag=I-NP', 'WBL=of', 'WBL_tag=B-PP', 'SM1F=was', 'SM1F_tag=B-VP', 'SM1L=,', 'SM1L_tag=O', 'SM2F=,', 'SM2F_tag=O', 'SM2L=who', 'SM2L_tag=B-NP']
+
+head:['WBF=,', 'WBF_tag=O', 'WBO=the', 'WBO_tag=B-NP', 'WBO=chief', 'WBO_tag=I-NP', 'WBO=financial', 'WBO_tag=I-NP', 'WBO=officer', 'WBO_tag=I-NP', 'WBL=at', 'WBL_tag=B-PP', 'SM1F=said', 'SM1F_tag=B-VP', 'SM1L=BOUNDARY', 'SM1L_tag=BOUNDARY', 'SM2F=.', 'SM2F_tag=O', 'SM2L=BOUNDARY', 'SM2L_tag=BOUNDARY']
+
+head:['WBF=,', 'WBF_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=senior', 'WBO_tag=I-NP', 'WBO=economist', 'WBO_tag=I-NP', 'WBL=at', 'WBL_tag=B-PP', 'SM1F=said', 'SM1F_tag=B-VP', 'SM1L=BOUNDARY', 'SM1L_tag=BOUNDARY', 'SM2F=.', 'SM2F_tag=O', 'SM2L=?', 'SM2L_tag=O']
+
+head:['WBF=,', 'WBF_tag=O', 'WBO=the', 'WBO_tag=B-NP', 'WBO=chief', 'WBO_tag=I-NP', 'WBO=executive', 'WBO_tag=I-NP', 'WBL=of', 'WBL_tag=B-PP', 'SM1F=,', 'SM1F_tag=O', 'SM1L=them', 'SM1L_tag=B-NP', 'SM2F=,', 'SM2F_tag=O', 'SM2L=said', 'SM2L_tag=B-VP']
+
+advisor:['WBF=was', 'WBF_tag=B-VP', 'WBO=advised', 'WBO_tag=I-VP', 'WBL=by', 'WBL_tag=B-PP', 'SM1F=and', 'SM1F_tag=O', 'SM1L=the', 'SM1L_tag=B-NP', 'SM2F=BOUNDARY', 'SM2F_tag=BOUNDARY', 'SM2L=BOUNDARY', 'SM2L_tag=BOUNDARY']
+
+analyst:['WBF=,', 'WBF_tag=O', 'WBO=an', 'WBO_tag=B-NP', 'WBO=analyst', 'WBO_tag=I-NP', 'WBL=at', 'WBL_tag=B-PP', 'SM1F=said', 'SM1F_tag=B-VP', 'SM1L=BOUNDARY', 'SM1L_tag=BOUNDARY', 'SM2F=.', 'SM2F_tag=O', 'SM2L=?', 'SM2L_tag=O']
+
+head:['WBF=,', 'WBF_tag=O', 'WBO=vice', 'WBO_tag=B-NP', 'WBO=president', 'WBO_tag=I-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBO=marketing', 'WBO_tag=B-NP', 'WBO=for', 'WBO_tag=B-PP', 'WBL=the', 'WBL_tag=B-NP', 'SM1F=BOUNDARY', 'SM1F_tag=BOUNDARY', 'SM1L=BOUNDARY', 'SM1L_tag=BOUNDARY', 'SM2F=,', 'SM2F_tag=O', 'SM2L=said', 'SM2L_tag=B-VP']
+
+head:['WBF=of', 'WBF_tag=B-PP', 'WBO=ohio', 'WBO_tag=B-NP', 'WBO=,', 'WBO_tag=O', 'WBL=a', 'WBL_tag=B-NP', 'SM1F=BOUNDARY', 'SM1F_tag=BOUNDARY', 'SM1L=BOUNDARY', 'SM1L_tag=BOUNDARY', 'SM2F=leader', 'SM2F_tag=I-NP', 'SM2L=,', 'SM2L_tag=O']
+
+professor:['WBF=,', 'WBF_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=visiting', 'WBO_tag=I-NP', 'WBO=fellow', 'WBO_tag=I-NP', 'WBO=at', 'WBO_tag=B-PP', 'WBO=the', 'WBO_tag=B-NP', 'WBO=center_for_information_technology_policy', 'WBO_tag=I-NP', 'WBO=at', 'WBO_tag=B-PP', 'WBO=princeton_university', 'WBO_tag=B-NP', 'WBO=in', 'WBO_tag=B-PP', 'WBO=new_jersey', 'WBO_tag=B-NP', 'WBO=and', 'WBO_tag=O', 'WBO=professor', 'WBO_tag=B-NP', 'WBO=at', 'WBO_tag=B-PP', 'WBL=the', 'WBL_tag=B-NP', 'SM1F=said', 'SM1F_tag=B-VP', 'SM1L=BOUNDARY', 'SM1L_tag=BOUNDARY', 'SM2F=in', 'SM2F_tag=B-PP', 'SM2L=california', 'SM2L_tag=B-NP']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=partner', 'WBO_tag=I-NP', 'WBL=at', 'WBL_tag=B-PP', 'SM1F=BOUNDARY', 'SM1F_tag=BOUNDARY', 'SM1L=BOUNDARY', 'SM1L_tag=BOUNDARY', 'SM2F=,', 'SM2F_tag=O', 'SM2L=a', 'SM2L_tag=B-NP']
+
+director:['WBF=,', 'WBF_tag=O', 'WBO=director', 'WBO_tag=B-NP', 'WBO=for', 'WBO_tag=B-PP', 'WBO=advertising', 'WBO_tag=B-NP', 'WBO=and', 'WBO_tag=I-NP', 'WBO=promotion', 'WBO_tag=I-NP', 'WBO=for', 'WBO_tag=B-PP', 'WBL=the', 'WBL_tag=B-NP', 'SM1F=said', 'SM1F_tag=B-VP', 'SM1L=,', 'SM1L_tag=O', 'SM2F=and', 'SM2F_tag=I-NP', 'SM2L=gmc', 'SM2L_tag=I-NP']
+
+advisor:['WBF=was', 'WBF_tag=B-VP', 'WBO=advised', 'WBO_tag=I-VP', 'WBO=by', 'WBO_tag=B-PP', 'WBO=deutsche_bank', 'WBO_tag=B-NP', 'WBO=,', 'WBO_tag=O', 'WBO=goldman_sachs', 'WBO_tag=B-NP', 'WBO=and', 'WBO_tag=O', 'WBO=the', 'WBO_tag=B-NP', 'WBO=law', 'WBO_tag=I-NP', 'WBL=firms', 'WBL_tag=I-NP', 'SM1F=BOUNDARY', 'SM1F_tag=BOUNDARY', 'SM1L=BOUNDARY', 'SM1L_tag=BOUNDARY', 'SM2F=,', 'SM2F_tag=I-NP', 'SM2L=swaine_', 'SM2L_tag=I-NP']
+
+others:['WBF=agency', 'WBF_tag=I-NP', 'WBL=is', 'WBL_tag=B-VP', 'SM1F=,', 'SM1F_tag=O', 'SM1L=part', 'SM1L_tag=B-NP', 'SM2F=the', 'SM2F_tag=B-NP', 'SM2L=BOUNDARY', 'SM2L_tag=BOUNDARY']
+
+founder:['WBF=,', 'WBF_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=former', 'WBO_tag=I-NP', 'WBO=executive', 'WBO_tag=I-NP', 'WBO=at', 'WBO_tag=B-PP', 'WBO=activision', 'WBO_tag=B-NP', 'WBO=and', 'WBO_tag=O', 'WBO=the', 'WBO_tag=B-NP', 'WBO=founder', 'WBO_tag=I-NP', 'WBL=of', 'WBL_tag=B-PP', 'SM1F=said', 'SM1F_tag=B-VP', 'SM1L=BOUNDARY', 'SM1L_tag=BOUNDARY', 'SM2F=,', 'SM2F_tag=O', 'SM2L=which', 'SM2L_tag=B-NP']
+
+director:['WBF=,', 'WBF_tag=O', 'WBL=the', 'WBL_tag=B-NP', 'SM1F=said', 'SM1F_tag=B-VP', 'SM1L=BOUNDARY', 'SM1L_tag=BOUNDARY', 'SM2F=enforcement', 'SM2F_tag=I-NP', 'SM2L=director', 'SM2L_tag=I-NP']
+
+head:['WBF=,', 'WBF_tag=O', 'WBO=the', 'WBO_tag=B-NP', 'WBO=chief', 'WBO_tag=I-NP', 'WBO=market', 'WBO_tag=I-NP', 'WBO=analyst', 'WBO_tag=I-NP', 'WBL=at', 'WBL_tag=B-PP', 'SM1F=said', 'SM1F_tag=B-VP', 'SM1L=BOUNDARY', 'SM1L_tag=BOUNDARY', 'SM2F=.', 'SM2F_tag=O', 'SM2L=?', 'SM2L_tag=O']
+
+head:['WBF=,', 'WBF_tag=O', 'WBO=the', 'WBO_tag=B-NP', 'WBO=chief', 'WBO_tag=I-NP', 'WBO=executive', 'WBO_tag=I-NP', 'WBL=of', 'WBL_tag=B-PP', 'SM1F=BOUNDARY', 'SM1F_tag=BOUNDARY', 'SM1L=BOUNDARY', 'SM1L_tag=BOUNDARY', 'SM2F=,', 'SM2F_tag=O', 'SM2L=holding', 'SM2L_tag=B-VP']
+
+director:['WBF=,', 'WBF_tag=O', 'WBO=executive', 'WBO_tag=B-NP', 'WBO=director', 'WBO_tag=I-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBL=the', 'WBL_tag=B-NP', 'SM1F=BOUNDARY', 'SM1F_tag=BOUNDARY', 'SM1L=BOUNDARY', 'SM1L_tag=BOUNDARY', 'SM2F=,', 'SM2F_tag=O', 'SM2L=a', 'SM2L_tag=B-NP']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=an', 'WBO_tag=B-NP', 'WBO=auto', 'WBO_tag=I-NP', 'WBO=specialist', 'WBO_tag=I-NP', 'WBL=at', 'WBL_tag=B-PP', 'SM1F=said', 'SM1F_tag=B-VP', 'SM1L=BOUNDARY', 'SM1L_tag=BOUNDARY', 'SM2F=in', 'SM2F_tag=B-PP', 'SM2L=london', 'SM2L_tag=B-NP']
+
+analyst:['WBF=,', 'WBF_tag=O', 'WBO=travel', 'WBO_tag=B-NP', 'WBO=analyst', 'WBO_tag=I-NP', 'WBL=for', 'WBL_tag=B-PP', 'SM1F=,', 'SM1F_tag=O', 'SM1L=travel', 'SM1L_tag=I-NP', 'SM2F=,', 'SM2F_tag=O', 'SM2L=agreed', 'SM2L_tag=B-VP']
+
+professor:['WBF=,', 'WBF_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=professor', 'WBO_tag=I-NP', 'WBL=at', 'WBL_tag=B-PP', 'SM1F=said', 'SM1F_tag=B-VP', 'SM1L=BOUNDARY', 'SM1L_tag=BOUNDARY', 'SM2F=in', 'SM2F_tag=B-PP', 'SM2L=poughkeepsie', 'SM2L_tag=B-NP']
+
+spokesperson:['WBF=,', 'WBF_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=spokeswoman', 'WBO_tag=I-NP', 'WBO=for', 'WBO_tag=B-PP', 'WBL=the', 'WBL_tag=B-NP', 'SM1F=to', 'SM1F_tag=B-PP', 'SM1L=according', 'SM1L_tag=B-PP', 'SM2F=.', 'SM2F_tag=O', 'SM2L=?', 'SM2L_tag=O']
+
+director:['WBF=is', 'WBF_tag=B-VP', 'WBO=the', 'WBO_tag=B-NP', 'WBO=biotechnology', 'WBO_tag=I-NP', 'WBO=project', 'WBO_tag=I-NP', 'WBO=director', 'WBO_tag=I-NP', 'WBO=at', 'WBO_tag=B-PP', 'WBL=the', 'WBL_tag=B-NP', 'SM1F=BOUNDARY', 'SM1F_tag=BOUNDARY', 'SM1L=BOUNDARY', 'SM1L_tag=BOUNDARY', 'SM2F=in', 'SM2F_tag=B-PP', 'SM2L=the', 'SM2L_tag=B-NP']
+
+head:['WBF=,', 'WBF_tag=O', 'WBO=dean', 'WBO_tag=B-NP', 'WBL=of', 'WBL_tag=B-PP', 'SM1F=said', 'SM1F_tag=B-VP', 'SM1L=BOUNDARY', 'SM1L_tag=BOUNDARY', 'SM2F=?', 'SM2F_tag=O', 'SM2L=BOUNDARY', 'SM2L_tag=BOUNDARY']
+
+head:['WBF=,', 'WBF_tag=O', 'WBO=the', 'WBO_tag=B-NP', 'WBO=chairman', 'WBO_tag=I-NP', 'WBL=of', 'WBL_tag=B-PP', 'SM1F=BOUNDARY', 'SM1F_tag=BOUNDARY', 'SM1L=BOUNDARY', 'SM1L_tag=BOUNDARY', 'SM2F=,', 'SM2F_tag=O', 'SM2L=said', 'SM2L_tag=B-VP']
+
+head:['WBF=,', 'WBF_tag=O', 'WBO=chief', 'WBO_tag=B-NP', 'WBO=executive', 'WBO_tag=I-NP', 'WBL=of', 'WBL_tag=B-PP', 'SM1F=BOUNDARY', 'SM1F_tag=BOUNDARY', 'SM1L=BOUNDARY', 'SM1L_tag=BOUNDARY', 'SM2F=,', 'SM2F_tag=O', 'SM2L=a', 'SM2L_tag=B-NP']
+
+director:['WBF=,', 'WBF_tag=O', 'WBO=managing', 'WBO_tag=B-NP', 'WBO=director', 'WBO_tag=I-NP', 'WBL=of', 'WBL_tag=B-PP', 'SM1F=BOUNDARY', 'SM1F_tag=BOUNDARY', 'SM1L=BOUNDARY', 'SM1L_tag=BOUNDARY', 'SM2F=,', 'SM2F_tag=O', 'SM2L=the', 'SM2L_tag=B-NP']
+
+head:['WBF=,', 'WBF_tag=O', 'WBO=the', 'WBO_tag=B-NP', 'WBO=president', 'WBO_tag=I-NP', 'WBL=of', 'WBL_tag=B-PP', 'SM1F=,', 'SM1F_tag=O', 'SM1L=instead', 'SM1L_tag=B-ADVP', 'SM2F=,', 'SM2F_tag=O', 'SM2L=decided', 'SM2L_tag=B-VP']
+
+professor:['WBF=,', 'WBF_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=professor', 'WBO_tag=I-NP', 'WBL=at', 'WBL_tag=B-PP', 'SM1F=by', 'SM1F_tag=B-PP', 'SM1L=created', 'SM1L_tag=I-VP', 'SM2F=,', 'SM2F_tag=O', 'SM2L=with', 'SM2L_tag=B-PP']
+
+analyst:['WBF=,', 'WBF_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=travel', 'WBO_tag=I-NP', 'WBO=analyst', 'WBO_tag=I-NP', 'WBL=for', 'WBL_tag=B-PP', 'SM1F=to', 'SM1F_tag=B-PP', 'SM1L=according', 'SM1L_tag=B-PP', 'SM2F=.', 'SM2F_tag=O', 'SM2L=?', 'SM2L_tag=O']
+
+others:['WBFL=,', 'WBFL_tag=O', 'SM1F=says', 'SM1F_tag=B-VP', 'SM1L=,', 'SM1L_tag=O', 'SM2F=coordinator', 'SM2F_tag=I-NP', 'SM2L=and', 'SM2L_tag=I-NP']
+
+head:['WBF=chief', 'WBF_tag=I-NP', 'WBO=executive', 'WBO_tag=I-NP', 'WBL=,', 'WBL_tag=O', 'SM1F=,', 'SM1F_tag=O', 'SM1L=said', 'SM1L_tag=B-VP', 'SM2F=the', 'SM2F_tag=B-NP', 'SM2L=BOUNDARY', 'SM2L_tag=BOUNDARY']
+
+head:['WBF=,', 'WBF_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=principal', 'WBO_tag=I-NP', 'WBL=at', 'WBL_tag=B-PP', 'SM1F=but', 'SM1F_tag=O', 'SM1L=,', 'SM1L_tag=O', 'SM2F=,', 'SM2F_tag=O', 'SM2L=a', 'SM2L_tag=B-NP']
+
+founder:['WBF=and', 'WBF_tag=I-NP', 'WBO=janus_friis', 'WBO_tag=I-NP', 'WBO=,', 'WBO_tag=O', 'WBO=who', 'WBO_tag=B-NP', 'WBL=created', 'WBL_tag=B-VP', 'SM1F=and', 'SM1F_tag=O', 'SM1L=sold', 'SM1L_tag=B-VP', 'SM2F=BOUNDARY', 'SM2F_tag=BOUNDARY', 'SM2L=BOUNDARY', 'SM2L_tag=BOUNDARY']
+
+director:['WBF=,', 'WBF_tag=O', 'WBO=director', 'WBO_tag=B-NP', 'WBL=of', 'WBL_tag=B-PP', 'SM1F=said', 'SM1F_tag=B-VP', 'SM1L=BOUNDARY', 'SM1L_tag=BOUNDARY', 'SM2F=.', 'SM2F_tag=O', 'SM2L=BOUNDARY', 'SM2L_tag=BOUNDARY']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=an', 'WBO_tag=B-NP', 'WBO=economist', 'WBO_tag=I-NP', 'WBO=who', 'WBO_tag=B-NP', 'WBO=formerly', 'WBO_tag=B-ADVP', 'WBO=worked', 'WBO_tag=B-VP', 'WBL=at', 'WBL_tag=B-PP', 'SM1F=BOUNDARY', 'SM1F_tag=BOUNDARY', 'SM1L=BOUNDARY', 'SM1L_tag=BOUNDARY', 'SM2F=,', 'SM2F_tag=O', 'SM2L=is', 'SM2L_tag=B-VP']
+
+head:['WBF=iv', 'WBF_tag=I-NP', 'WBO=,', 'WBO_tag=O', 'WBO=the', 'WBO_tag=B-NP', 'WBO=west_virginia', 'WBO_tag=I-NP', 'WBO=democrat', 'WBO_tag=I-NP', 'WBO=,', 'WBO_tag=O', 'WBO=who', 'WBO_tag=B-NP', 'WBO=is', 'WBO_tag=B-VP', 'WBO=chairman', 'WBO_tag=B-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBL=the', 'WBL_tag=B-NP', 'SM1F=senator', 'SM1F_tag=B-NP', 'SM1L=by', 'SM1L_tag=B-PP', 'SM2F=.', 'SM2F_tag=O', 'SM2L=BOUNDARY', 'SM2L_tag=BOUNDARY']
+
+manager:['WBF=,', 'WBF_tag=O', 'WBO=product', 'WBO_tag=B-NP', 'WBO=manager', 'WBO_tag=I-NP', 'WBL=at', 'WBL_tag=B-PP', 'SM1F=said', 'SM1F_tag=B-VP', 'SM1L=BOUNDARY', 'SM1L_tag=BOUNDARY', 'SM2F=.', 'SM2F_tag=O', 'SM2L=?', 'SM2L_tag=O']
+
+founder:['WBF=are', 'WBF_tag=B-VP', 'WBO=the', 'WBO_tag=B-NP', 'WBO=founders', 'WBO_tag=I-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBL=beijing-based', 'WBL_tag=B-NP', 'SM1F=brother', 'SM1F_tag=I-NP', 'SM1L=his', 'SM1L_tag=B-NP', 'SM2F=,', 'SM2F_tag=O', 'SM2L=one', 'SM2L_tag=B-NP']
+
+director:['WBF=,', 'WBF_tag=O', 'WBO=the', 'WBO_tag=B-NP', 'WBO=executive', 'WBO_tag=I-NP', 'WBO=director', 'WBO_tag=I-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBL=the', 'WBL_tag=B-NP', 'SM1F=said', 'SM1F_tag=B-VP', 'SM1L=BOUNDARY', 'SM1L_tag=BOUNDARY', 'SM2F=.', 'SM2F_tag=O', 'SM2L=?', 'SM2L_tag=O']
+
+analyst:['WBF=,', 'WBF_tag=O', 'WBO=an', 'WBO_tag=B-NP', 'WBO=analyst', 'WBO_tag=I-NP', 'WBL=at', 'WBL_tag=B-PP', 'SM1F=,', 'SM1F_tag=O', 'SM1L=instance', 'SM1L_tag=B-NP', 'SM2F=,', 'SM2F_tag=O', 'SM2L=had', 'SM2L_tag=B-VP']
+
+head:['WBF=,', 'WBF_tag=O', 'WBO=head', 'WBO_tag=B-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBO=marketing', 'WBO_tag=B-NP', 'WBL=at', 'WBL_tag=B-PP', 'SM1F=BOUNDARY', 'SM1F_tag=BOUNDARY', 'SM1L=BOUNDARY', 'SM1L_tag=BOUNDARY', 'SM2F=,', 'SM2F_tag=O', 'SM2L=a', 'SM2L_tag=B-NP']
+
+spokesperson:['WBF=,', 'WBF_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=spokeswoman', 'WBO_tag=I-NP', 'WBL=for', 'WBL_tag=B-PP', 'SM1F=BOUNDARY', 'SM1F_tag=BOUNDARY', 'SM1L=BOUNDARY', 'SM1L_tag=BOUNDARY', 'SM2F=in', 'SM2F_tag=B-PP', 'SM2L=seville', 'SM2L_tag=B-NP']
+
+analyst:['WBF=,', 'WBF_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=senior', 'WBO_tag=I-NP', 'WBO=research', 'WBO_tag=I-NP', 'WBO=analyst', 'WBO_tag=I-NP', 'WBL=with', 'WBL_tag=B-PP', 'SM1F=BOUNDARY', 'SM1F_tag=BOUNDARY', 'SM1L=BOUNDARY', 'SM1L_tag=BOUNDARY', 'SM2F=,', 'SM2F_tag=O', 'SM2L=said', 'SM2L_tag=B-VP']
+
+manager:['WBF=,', 'WBF_tag=O', 'WBL=the', 'WBL_tag=B-NP', 'SM1F=BOUNDARY', 'SM1F_tag=BOUNDARY', 'SM1L=BOUNDARY', 'SM1L_tag=BOUNDARY', 'SM2F=manager', 'SM2F_tag=I-NP', 'SM2L=,', 'SM2L_tag=O']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=an', 'WBO_tag=B-NP', 'WBO=affiliate', 'WBO_tag=I-NP', 'WBO=professor', 'WBO_tag=I-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBO=economics', 'WBO_tag=B-NP', 'WBO=at', 'WBO_tag=B-PP', 'WBO=insead', 'WBO_tag=B-NP', 'WBO=who', 'WBO_tag=B-NP', 'WBO=served', 'WBO_tag=B-VP', 'WBO=on', 'WBO_tag=B-PP', 'WBL=the', 'WBL_tag=B-NP', 'SM1F=said', 'SM1F_tag=B-VP', 'SM1L=BOUNDARY', 'SM1L_tag=BOUNDARY', 'SM2F=jury', 'SM2F_tag=I-NP', 'SM2L=panel', 'SM2L_tag=I-NP']
+
+head:['WBF=,', 'WBF_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=senior', 'WBO_tag=I-NP', 'WBO=vice', 'WBO_tag=I-NP', 'WBO=president', 'WBO_tag=I-NP', 'WBO=at', 'WBO_tag=B-PP', 'WBL=the', 'WBL_tag=B-NP', 'SM1F=BOUNDARY', 'SM1F_tag=BOUNDARY', 'SM1L=BOUNDARY', 'SM1L_tag=BOUNDARY', 'SM2F=,', 'SM2F_tag=O', 'SM2L=a', 'SM2L_tag=B-NP']
+
+head:['WBF=,', 'WBF_tag=O', 'WBO=the', 'WBO_tag=B-NP', 'WBO=president', 'WBO_tag=I-NP', 'WBO=and', 'WBO_tag=O', 'WBO=chief', 'WBO_tag=B-NP', 'WBO=executive', 'WBO_tag=I-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBL=the', 'WBL_tag=B-NP', 'SM1F=said', 'SM1F_tag=B-VP', 'SM1L=BOUNDARY', 'SM1L_tag=BOUNDARY', 'SM2F=,', 'SM2F_tag=O', 'SM2L=a', 'SM2L_tag=B-NP']
+
+analyst:['WBF=,', 'WBF_tag=O', 'WBO=an', 'WBO_tag=B-NP', 'WBO=aviation', 'WBO_tag=I-NP', 'WBO=analyst', 'WBO_tag=I-NP', 'WBL=at', 'WBL_tag=B-PP', 'SM1F=said', 'SM1F_tag=B-VP', 'SM1L=BOUNDARY', 'SM1L_tag=BOUNDARY', 'SM2F=in', 'SM2F_tag=B-PP', 'SM2L=london', 'SM2L_tag=B-NP']
+
+head:['WBF=,', 'WBF_tag=O', 'WBO=head', 'WBO_tag=B-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBL=the', 'WBL_tag=B-NP', 'SM1F=BOUNDARY', 'SM1F_tag=BOUNDARY', 'SM1L=BOUNDARY', 'SM1L_tag=BOUNDARY', 'SM2F=division', 'SM2F_tag=I-NP', 'SM2L=in', 'SM2L_tag=B-PP']
+
+spokesperson:['WBF=spokeswoman', 'WBF_tag=I-NP', 'WBL=,', 'WBL_tag=O', 'SM1F=,', 'SM1F_tag=O', 'SM1L=said', 'SM1L_tag=B-VP', 'SM2F=a', 'SM2F_tag=B-NP', 'SM2L=BOUNDARY', 'SM2L_tag=BOUNDARY']
+
+head:['WBF=himself', 'WBF_tag=B-NP', 'WBO=who', 'WBO_tag=B-NP', 'WBO=,', 'WBO_tag=O', 'WBO=as', 'WBO_tag=B-PP', 'WBO=chief', 'WBO_tag=B-NP', 'WBO=executive', 'WBO_tag=I-NP', 'WBL=of', 'WBL_tag=B-PP', 'SM1F=was', 'SM1F_tag=B-VP', 'SM1L=it', 'SM1L_tag=B-NP', 'SM2F=until', 'SM2F_tag=B-PP', 'SM2L=late', 'SM2L_tag=B-NP']
+
+professor:['WBF=,', 'WBF_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=professor', 'WBO_tag=I-NP', 'WBO=and', 'WBO_tag=I-NP', 'WBO=antitrust', 'WBO_tag=I-NP', 'WBO=expert', 'WBO_tag=I-NP', 'WBL=at', 'WBL_tag=B-PP', 'SM1F=said', 'SM1F_tag=B-VP', 'SM1L=BOUNDARY', 'SM1L_tag=BOUNDARY', 'SM2F=?', 'SM2F_tag=O', 'SM2L=BOUNDARY', 'SM2L_tag=BOUNDARY']
+
+lawyer:['WBF=,', 'WBF_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=lawyer', 'WBO_tag=I-NP', 'WBO=for', 'WBO_tag=B-PP', 'WBL=the', 'WBL_tag=B-NP', 'SM1F=BOUNDARY', 'SM1F_tag=BOUNDARY', 'SM1L=BOUNDARY', 'SM1L_tag=BOUNDARY', 'SM2F=,', 'SM2F_tag=O', 'SM2L=said', 'SM2L_tag=B-VP']
+
+director:['WBF=,', 'WBF_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=former', 'WBO_tag=I-NP', 'WBO=managing', 'WBO_tag=I-NP', 'WBO=director', 'WBO_tag=I-NP', 'WBL=of', 'WBL_tag=B-PP', 'SM1F=were', 'SM1F_tag=B-VP', 'SM1L=they', 'SM1L_tag=B-NP', 'SM2F=,', 'SM2F_tag=O', 'SM2L=an', 'SM2L_tag=B-NP']
+
+head:['WBF=,', 'WBF_tag=O', 'WBO=chief', 'WBO_tag=B-NP', 'WBO=economist', 'WBO_tag=I-NP', 'WBO=for', 'WBO_tag=B-PP', 'WBL=the', 'WBL_tag=B-NP', 'SM1F=BOUNDARY', 'SM1F_tag=BOUNDARY', 'SM1L=BOUNDARY', 'SM1L_tag=BOUNDARY', 'SM2F=,', 'SM2F_tag=O', 'SM2L=which', 'SM2L_tag=B-NP']
+
+head:['WBF=from', 'WBF_tag=B-PP', 'WBO=his', 'WBO_tag=B-NP', 'WBO=perch', 'WBO_tag=I-NP', 'WBO=as', 'WBO_tag=B-PP', 'WBO=chief', 'WBO_tag=B-NP', 'WBO=executive', 'WBO_tag=I-NP', 'WBL=of', 'WBL_tag=B-PP', 'SM1F=oust', 'SM1F_tag=I-VP', 'SM1L=to', 'SM1L_tag=I-VP', 'SM2F=.', 'SM2F_tag=O', 'SM2L=BOUNDARY', 'SM2L_tag=BOUNDARY']
+
+head:['WBF=,', 'WBF_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=marketing', 'WBO_tag=I-NP', 'WBO=vice', 'WBO_tag=I-NP', 'WBO=president', 'WBO_tag=I-NP', 'WBL=with', 'WBL_tag=B-PP', 'SM1F=said', 'SM1F_tag=B-VP', 'SM1L=BOUNDARY', 'SM1L_tag=BOUNDARY', 'SM2F=,', 'SM2F_tag=O', 'SM2L=which', 'SM2L_tag=B-NP']
+
+director:['WBF=,', 'WBF_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=global', 'WBO_tag=I-NP', 'WBO=director', 'WBO_tag=I-NP', 'WBL=in', 'WBL_tag=B-PP', 'SM1F=to', 'SM1F_tag=B-PP', 'SM1L=according', 'SM1L_tag=B-NP', 'SM2F=?', 'SM2F_tag=O', 'SM2L=BOUNDARY', 'SM2L_tag=BOUNDARY']
+
+lawyer:['WBF=,', 'WBF_tag=O', 'WBO=the', 'WBO_tag=B-NP', 'WBO=united_states', 'WBO_tag=I-NP', 'WBO=attorney', 'WBO_tag=I-NP', 'WBO=for', 'WBO_tag=B-PP', 'WBL=the', 'WBL_tag=B-NP', 'SM1F=BOUNDARY', 'SM1F_tag=BOUNDARY', 'SM1L=BOUNDARY', 'SM1L_tag=BOUNDARY', 'SM2F=,', 'SM2F_tag=O', 'SM2L=said', 'SM2L_tag=B-VP']
+
+head:['WBF=,', 'WBF_tag=O', 'WBL=the', 'WBL_tag=B-NP', 'SM1F=quoted', 'SM1F_tag=B-VP', 'SM1L=xinhua', 'SM1L_tag=B-NP', 'SM2F=chairman', 'SM2F_tag=I-NP', 'SM2L=,', 'SM2L_tag=O']
+
+head:['WBF=,', 'WBF_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=senior', 'WBO_tag=I-NP', 'WBO=vice', 'WBO_tag=I-NP', 'WBO=president', 'WBO_tag=I-NP', 'WBL=at', 'WBL_tag=B-PP', 'SM1F=BOUNDARY', 'SM1F_tag=BOUNDARY', 'SM1L=BOUNDARY', 'SM1L_tag=BOUNDARY', 'SM2F=?', 'SM2F_tag=O', 'SM2L=BOUNDARY', 'SM2L_tag=BOUNDARY']
+
+head:['WBFL=,', 'WBFL_tag=O', 'SM1F=,', 'SM1F_tag=O', 'SM1L=is', 'SM1L_tag=B-VP', 'SM2F=of', 'SM2F_tag=B-PP', 'SM2L=executive', 'SM2L_tag=I-NP']
+
+head:['WBF=heads', 'WBF_tag=B-VP', 'WBL=the', 'WBL_tag=B-NP', 'SM1F=senator', 'SM1F_tag=B-NP', 'SM1L=BOUNDARY', 'SM1L_tag=BOUNDARY', 'SM2F=.', 'SM2F_tag=O', 'SM2L=BOUNDARY', 'SM2L_tag=BOUNDARY']
+
+others:['WBF=was', 'WBF_tag=B-VP', 'WBO=advised', 'WBO_tag=I-VP', 'WBO=by', 'WBO_tag=B-PP', 'WBO=deutsche_bank', 'WBO_tag=B-NP', 'WBL=,', 'WBL_tag=O', 'SM1F=BOUNDARY', 'SM1F_tag=BOUNDARY', 'SM1L=BOUNDARY', 'SM1L_tag=BOUNDARY', 'SM2F=and', 'SM2F_tag=O', 'SM2L=the', 'SM2L_tag=B-NP']
+
+professor:['WBF=,', 'WBF_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=marketing', 'WBO_tag=I-NP', 'WBO=professor', 'WBO_tag=I-NP', 'WBO=and', 'WBO_tag=O', 'WBO=the', 'WBO_tag=B-NP', 'WBO=director', 'WBO_tag=I-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBL=the', 'WBL_tag=B-NP', 'SM1F=but', 'SM1F_tag=O', 'SM1L=BOUNDARY', 'SM1L_tag=BOUNDARY', 'SM2F=at', 'SM2F_tag=B-PP', 'SM2L=babson_college', 'SM2L_tag=B-NP']
+
+lawyer:['WBF=,', 'WBF_tag=O', 'WBO=an', 'WBO_tag=B-NP', 'WBO=executive', 'WBO_tag=I-NP', 'WBO=compensation', 'WBO_tag=I-NP', 'WBO=lawyer', 'WBO_tag=I-NP', 'WBL=at', 'WBL_tag=B-PP', 'SM1F=said', 'SM1F_tag=B-VP', 'SM1L=BOUNDARY', 'SM1L_tag=BOUNDARY', 'SM2F=.', 'SM2F_tag=O', 'SM2L=BOUNDARY', 'SM2L_tag=BOUNDARY']
+
+founder:['WBF=,', 'WBF_tag=O', 'WBO=88', 'WBO_tag=B-NP', 'WBO=,', 'WBO_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=father', 'WBO_tag=I-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBL=the', 'WBL_tag=B-NP', 'SM1F=BOUNDARY', 'SM1F_tag=BOUNDARY', 'SM1L=BOUNDARY', 'SM1L_tag=BOUNDARY', 'SM2F=(', 'SM2F_tag=I-NP', 'SM2L=november', 'SM2L_tag=I-NP']
+
+others:['WBF=will', 'WBF_tag=B-VP', 'WBL=open', 'WBL_tag=I-VP', 'SM1F=in', 'SM1F_tag=B-PP', 'SM1L=2011', 'SM1L_tag=B-NP', 'SM2F=BOUNDARY', 'SM2F_tag=BOUNDARY', 'SM2L=BOUNDARY', 'SM2L_tag=BOUNDARY']
+
+head:['WBF=,', 'WBF_tag=O', 'WBO=the', 'WBO_tag=B-NP', 'WBO=senior', 'WBO_tag=I-NP', 'WBO=associate', 'WBO_tag=I-NP', 'WBO=dean', 'WBO_tag=I-NP', 'WBO=for', 'WBO_tag=B-PP', 'WBO=business', 'WBO_tag=B-NP', 'WBO=degree', 'WBO_tag=I-NP', 'WBO=programs', 'WBO_tag=I-NP', 'WBL=at', 'WBL_tag=B-PP', 'SM1F=to', 'SM1F_tag=B-PP', 'SM1L=according', 'SM1L_tag=B-PP', 'SM2F=.', 'SM2F_tag=O', 'SM2L=BOUNDARY', 'SM2L_tag=BOUNDARY']
+
+head:['WBF=is', 'WBF_tag=B-VP', 'WBO=hardly', 'WBO_tag=I-VP', 'WBO=sitting', 'WBO_tag=I-VP', 'WBO=still', 'WBO_tag=B-ADVP', 'WBO=under', 'WBO_tag=B-PP', 'WBO=its', 'WBO_tag=B-NP', 'WBO=chief', 'WBO_tag=I-NP', 'WBO=executive', 'WBO_tag=I-NP', 'WBL=,', 'WBL_tag=O', 'SM1F=,', 'SM1F_tag=O', 'SM1L=who', 'SM1L_tag=B-NP', 'SM2F=BOUNDARY', 'SM2F_tag=BOUNDARY', 'SM2L=BOUNDARY', 'SM2L_tag=BOUNDARY']
+
+head:['WBF=,', 'WBF_tag=O', 'WBO=chief', 'WBO_tag=B-NP', 'WBO=investment', 'WBO_tag=I-NP', 'WBO=officer', 'WBO_tag=I-NP', 'WBL=at', 'WBL_tag=B-PP', 'SM1F=BOUNDARY', 'SM1F_tag=BOUNDARY', 'SM1L=BOUNDARY', 'SM1L_tag=BOUNDARY', 'SM2F=,', 'SM2F_tag=O', 'SM2L=predicted', 'SM2L_tag=B-VP']
+
+founder:['WBFL=founded', 'WBFL_tag=B-VP', 'SM1F=,', 'SM1F_tag=O', 'SM1L=logic', 'SM1L_tag=I-NP', 'SM2F=,', 'SM2F_tag=O', 'SM2L=a', 'SM2L_tag=B-NP']
+
+director:['WBF=,', 'WBF_tag=O', 'WBO=executive', 'WBO_tag=B-NP', 'WBO=director', 'WBO_tag=I-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBO=the', 'WBO_tag=B-NP', 'WBO=property', 'WBO_tag=I-NP', 'WBL=consultant', 'WBL_tag=I-NP', 'SM1F=BOUNDARY', 'SM1F_tag=BOUNDARY', 'SM1L=BOUNDARY', 'SM1L_tag=BOUNDARY', 'SM2F=,', 'SM2F_tag=O', 'SM2L=believes', 'SM2L_tag=B-VP']
+
+founder:['WBF=broke', 'WBF_tag=B-VP', 'WBO=even', 'WBO_tag=I-VP', 'WBO=selling', 'WBO_tag=I-VP', 'WBO=subscriptions', 'WBO_tag=B-NP', 'WBO=to', 'WBO_tag=B-PP', 'WBO=700', 'WBO_tag=B-NP', 'WBO=schools', 'WBO_tag=I-NP', 'WBO=,', 'WBO_tag=O', 'WBL=said', 'WBL_tag=B-VP', 'SM1F=,', 'SM1F_tag=O', 'SM1L=its', 'SM1L_tag=B-NP', 'SM2F=,', 'SM2F_tag=O', 'SM2L=year', 'SM2L_tag=I-NP']
+
+head:['WBF=chairman', 'WBF_tag=I-NP', 'WBL=,', 'WBL_tag=O', 'SM1F=,', 'SM1F_tag=O', 'SM1L=has', 'SM1L_tag=B-VP', 'SM2F=the', 'SM2F_tag=B-NP', 'SM2L=BOUNDARY', 'SM2L_tag=BOUNDARY']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=trauma', 'WBO_tag=I-NP', 'WBO=surgeon', 'WBO_tag=I-NP', 'WBO=at', 'WBO_tag=B-PP', 'WBL=the', 'WBL_tag=B-NP', 'SM1F=said', 'SM1F_tag=B-VP', 'SM1L=BOUNDARY', 'SM1L_tag=BOUNDARY', 'SM2F=hospital', 'SM2F_tag=I-NP', 'SM2L=and', 'SM2L_tag=I-NP']
+
+head:['WBFL=,', 'WBFL_tag=O', 'SM1F=,', 'SM1F_tag=O', 'SM1L=put', 'SM1L_tag=B-VP', 'SM2F=of', 'SM2F_tag=B-PP', 'SM2L=chairman', 'SM2L_tag=I-NP']
+
+professor:['WBF=,', 'WBF_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=professor', 'WBO_tag=I-NP', 'WBO=at', 'WBO_tag=B-PP', 'WBL=the', 'WBL_tag=B-NP', 'SM1F=said', 'SM1F_tag=B-VP', 'SM1L=BOUNDARY', 'SM1L_tag=BOUNDARY', 'SM2F=and', 'SM2F_tag=O', 'SM2L=the', 'SM2L_tag=B-NP']
+
+founder:['WBF=and', 'WBF_tag=O', 'WBO=his', 'WBO_tag=B-NP', 'WBO=brother', 'WBO_tag=I-NP', 'WBO=wang_zhonglei', 'WBO_tag=B-NP', 'WBO=are', 'WBO_tag=B-VP', 'WBO=the', 'WBO_tag=B-NP', 'WBO=founders', 'WBO_tag=I-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBL=beijing-based', 'WBL_tag=B-NP', 'SM1F=,', 'SM1F_tag=O', 'SM1L=instance', 'SM1L_tag=B-NP', 'SM2F=,', 'SM2F_tag=O', 'SM2L=one', 'SM2L_tag=B-NP']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=strategist', 'WBO_tag=I-NP', 'WBL=at', 'WBL_tag=B-PP', 'SM1F=commented', 'SM1F_tag=B-VP', 'SM1L=BOUNDARY', 'SM1L_tag=BOUNDARY', 'SM2F=in', 'SM2F_tag=B-PP', 'SM2L=hong_kong', 'SM2L_tag=B-NP']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=the', 'WBO_tag=B-NP', 'WBO=speaker', 'WBO_tag=I-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBL=the', 'WBL_tag=B-NP', 'SM1F=stimulus', 'SM1F_tag=B-NP', 'SM1L=BOUNDARY', 'SM1L_tag=BOUNDARY', 'SM2F=,', 'SM2F_tag=O', 'SM2L=said', 'SM2L_tag=B-VP']
+
+head:['WBF=,', 'WBF_tag=O', 'WBO=president', 'WBO_tag=B-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBO=the', 'WBO_tag=B-NP', 'WBO=aviation', 'WBO_tag=I-NP', 'WBO=consulting', 'WBO_tag=I-NP', 'WBL=firm', 'WBL_tag=I-NP', 'SM1F=BOUNDARY', 'SM1F_tag=BOUNDARY', 'SM1L=BOUNDARY', 'SM1L_tag=BOUNDARY', 'SM2F=,', 'SM2F_tag=O', 'SM2L=said', 'SM2L_tag=B-VP']
+
+director:['WBF=,', 'WBF_tag=O', 'WBO=creative', 'WBO_tag=B-NP', 'WBO=director', 'WBO_tag=I-NP', 'WBO=at', 'WBO_tag=B-PP', 'WBL=the', 'WBL_tag=B-NP', 'SM1F=BOUNDARY', 'SM1F_tag=BOUNDARY', 'SM1L=BOUNDARY', 'SM1L_tag=BOUNDARY', 'SM2F=agency', 'SM2F_tag=I-NP', 'SM2L=,', 'SM2L_tag=O']
+
+head:['WBF=,', 'WBF_tag=O', 'WBO=the', 'WBO_tag=B-NP', 'WBO=chairman', 'WBO_tag=I-NP', 'WBL=of', 'WBL_tag=B-PP', 'SM1F=BOUNDARY', 'SM1F_tag=BOUNDARY', 'SM1L=BOUNDARY', 'SM1L_tag=BOUNDARY', 'SM2F=,', 'SM2F_tag=O', 'SM2L=told', 'SM2L_tag=B-VP']
+
+professor:['WBF=,', 'WBF_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=professor', 'WBO_tag=I-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBO=health', 'WBO_tag=B-NP', 'WBO=policy', 'WBO_tag=I-NP', 'WBL=at', 'WBL_tag=B-PP', 'SM1F=said', 'SM1F_tag=B-VP', 'SM1L=BOUNDARY', 'SM1L_tag=BOUNDARY', 'SM2F=.', 'SM2F_tag=O', 'SM2L=BOUNDARY', 'SM2L_tag=BOUNDARY']
+
+head:['WBF=,', 'WBF_tag=O', 'WBO=chairman', 'WBO_tag=B-NP', 'WBL=of', 'WBL_tag=B-PP', 'SM1F=BOUNDARY', 'SM1F_tag=BOUNDARY', 'SM1L=BOUNDARY', 'SM1L_tag=BOUNDARY', 'SM2F=,', 'SM2F_tag=O', 'SM2L=the', 'SM2L_tag=B-NP']
+
+head:['WBF=of', 'WBF_tag=B-PP', 'WBL=the', 'WBL_tag=B-NP', 'SM1F=chief', 'SM1F_tag=O', 'SM1L=,', 'SM1L_tag=O', 'SM2F=for', 'SM2F_tag=B-PP', 'SM2L=the', 'SM2L_tag=B-NP']
+
+head:['WBF=,', 'WBF_tag=O', 'WBO=the', 'WBO_tag=B-NP', 'WBL=former', 'WBL_tag=I-NP', 'SM1F=and', 'SM1F_tag=O', 'SM1L=,', 'SM1L_tag=O', 'SM2F=chief', 'SM2F_tag=I-NP', 'SM2L=executive', 'SM2L_tag=I-NP']
+
+head:['WBF=,', 'WBF_tag=O', 'WBO=run', 'WBO_tag=B-VP', 'WBL=by', 'WBL_tag=B-PP', 'SM1F=,', 'SM1F_tag=O', 'SM1L=jumped', 'SM1L_tag=B-VP', 'SM2F=the', 'SM2F_tag=B-NP', 'SM2L=when', 'SM2L_tag=B-ADVP']
+
+leave:['WBF=,', 'WBF_tag=O', 'WBO=the', 'WBO_tag=B-NP', 'WBO=former', 'WBO_tag=I-NP', 'WBO=chief', 'WBO_tag=I-NP', 'WBO=executive', 'WBO_tag=I-NP', 'WBL=of', 'WBL_tag=B-PP', 'SM1F=BOUNDARY', 'SM1F_tag=BOUNDARY', 'SM1L=BOUNDARY', 'SM1L_tag=BOUNDARY', 'SM2F=,', 'SM2F_tag=O', 'SM2L=will', 'SM2L_tag=B-VP']
+
+spokesperson:['WBF=,', 'WBF_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=spokesman', 'WBO_tag=I-NP', 'WBO=for', 'WBO_tag=B-PP', 'WBL=the', 'WBL_tag=B-NP', 'SM1F=said', 'SM1F_tag=B-VP', 'SM1L=,', 'SM1L_tag=O', 'SM2F=,', 'SM2F_tag=O', 'SM2L=the', 'SM2L_tag=B-NP']
+
+leave:['WBF=,', 'WBF_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=former', 'WBO_tag=I-NP', 'WBO=governor', 'WBO_tag=I-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBL=the', 'WBL_tag=B-NP', 'SM1F=BOUNDARY', 'SM1F_tag=BOUNDARY', 'SM1L=BOUNDARY', 'SM1L_tag=BOUNDARY', 'SM2F=,', 'SM2F_tag=O', 'SM2L=said', 'SM2L_tag=B-VP']
+
+manager:['WBF=,', 'WBF_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=support', 'WBO_tag=I-NP', 'WBO=manager', 'WBO_tag=I-NP', 'WBO=at', 'WBO_tag=B-PP', 'WBL=a', 'WBL_tag=B-NP', 'SM1F=BOUNDARY', 'SM1F_tag=BOUNDARY', 'SM1L=BOUNDARY', 'SM1L_tag=BOUNDARY', 'SM2F=store', 'SM2F_tag=I-NP', 'SM2L=in', 'SM2L_tag=B-PP']
+
+head:['WBF=,', 'WBF_tag=O', 'WBO=president', 'WBO_tag=B-NP', 'WBL=of', 'WBL_tag=B-PP', 'SM1F=said', 'SM1F_tag=B-VP', 'SM1L=,', 'SM1L_tag=O', 'SM2F=,', 'SM2F_tag=O', 'SM2L=a', 'SM2L_tag=B-NP']
+
+professor:['WBF=,', 'WBF_tag=O', 'WBO=an', 'WBO_tag=B-NP', 'WBO=education', 'WBO_tag=I-NP', 'WBO=professor', 'WBO_tag=I-NP', 'WBO=at', 'WBO_tag=B-PP', 'WBL=the', 'WBL_tag=B-NP', 'SM1F=BOUNDARY', 'SM1F_tag=BOUNDARY', 'SM1L=BOUNDARY', 'SM1L_tag=BOUNDARY', 'SM2F=who', 'SM2F_tag=B-NP', 'SM2L=was', 'SM2L_tag=B-VP']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=the', 'WBO_tag=B-NP', 'WBO=architecture', 'WBO_tag=I-NP', 'WBO=critic', 'WBO_tag=I-NP', 'WBO=for', 'WBO_tag=B-PP', 'WBL=the', 'WBL_tag=B-NP', 'SM1F=BOUNDARY', 'SM1F_tag=BOUNDARY', 'SM1L=BOUNDARY', 'SM1L_tag=BOUNDARY', 'SM2F=,', 'SM2F_tag=O', 'SM2L=said', 'SM2L_tag=B-VP']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=assistant', 'WBO_tag=B-NP', 'WBO=secretary', 'WBO_tag=I-NP', 'WBO=for', 'WBO_tag=B-PP', 'WBO=preparedness', 'WBO_tag=B-NP', 'WBO=and', 'WBO_tag=I-NP', 'WBO=response', 'WBO_tag=I-NP', 'WBO=at', 'WBO_tag=B-PP', 'WBL=the', 'WBL_tag=B-NP', 'SM1F=but', 'SM1F_tag=O', 'SM1L=BOUNDARY', 'SM1L_tag=BOUNDARY', 'SM2F=,', 'SM2F_tag=O', 'SM2L=said', 'SM2L_tag=B-VP']
+
+head:['WBF=,', 'WBF_tag=O', 'WBO=executive', 'WBO_tag=B-NP', 'WBO=chairman', 'WBO_tag=I-NP', 'WBL=of', 'WBL_tag=B-PP', 'SM1F=BOUNDARY', 'SM1F_tag=BOUNDARY', 'SM1L=BOUNDARY', 'SM1L_tag=BOUNDARY', 'SM2F=,', 'SM2F_tag=O', 'SM2L=said', 'SM2L_tag=B-VP']
+
+professor:['WBF=,', 'WBF_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=professor', 'WBO_tag=I-NP', 'WBL=at', 'WBL_tag=B-PP', 'SM1F=said', 'SM1F_tag=B-VP', 'SM1L=BOUNDARY', 'SM1L_tag=BOUNDARY', 'SM2F=in', 'SM2F_tag=B-PP', 'SM2L=poughkeepsie', 'SM2L_tag=B-NP']
+
+head:['WBF=,', 'WBF_tag=O', 'WBO=chief', 'WBO_tag=B-NP', 'WBO=economist', 'WBO_tag=I-NP', 'WBL=at', 'WBL_tag=B-PP', 'SM1F=said', 'SM1F_tag=B-VP', 'SM1L=,', 'SM1L_tag=O', 'SM2F=in', 'SM2F_tag=B-PP', 'SM2L=moscow', 'SM2L_tag=B-NP']
+
+head:['WBF=,', 'WBF_tag=O', 'WBO=president', 'WBO_tag=B-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBL=the', 'WBL_tag=B-NP', 'SM1F=said', 'SM1F_tag=B-VP', 'SM1L=BOUNDARY', 'SM1L_tag=BOUNDARY', 'SM2F=,', 'SM2F_tag=O', 'SM2L=which', 'SM2L_tag=B-NP']
+
+head:['WBF=,', 'WBF_tag=O', 'WBO=the', 'WBO_tag=B-NP', 'WBO=chief', 'WBO_tag=I-NP', 'WBO=executive', 'WBO_tag=I-NP', 'WBL=of', 'WBL_tag=B-PP', 'SM1F=BOUNDARY', 'SM1F_tag=BOUNDARY', 'SM1L=BOUNDARY', 'SM1L_tag=BOUNDARY', 'SM2F=,', 'SM2F_tag=O', 'SM2L=wrote', 'SM2L_tag=B-VP']
+
+head:['WBF=,', 'WBF_tag=O', 'WBO=chief', 'WBO_tag=B-NP', 'WBO=global', 'WBO_tag=I-NP', 'WBO=economist', 'WBO_tag=I-NP', 'WBO=at', 'WBO_tag=B-PP', 'WBL=the', 'WBL_tag=B-NP', 'SM1F=said', 'SM1F_tag=B-VP', 'SM1L=BOUNDARY', 'SM1L_tag=BOUNDARY', 'SM2F=.', 'SM2F_tag=O', 'SM2L=?', 'SM2L_tag=O']
+
+spokesperson:['WBF=,', 'WBF_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=spokeswoman', 'WBO_tag=I-NP', 'WBL=for', 'WBL_tag=B-PP', 'SM1F=said', 'SM1F_tag=B-VP', 'SM1L=,', 'SM1L_tag=O', 'SM2F=?', 'SM2F_tag=O', 'SM2L=BOUNDARY', 'SM2L_tag=BOUNDARY']
+
+head:['WBF=to', 'WBF_tag=B-VP', 'WBO=step', 'WBO_tag=I-VP', 'WBO=down', 'WBO_tag=B-PRT', 'WBL=as', 'WBL_tag=B-PP', 'SM1F=BOUNDARY', 'SM1F_tag=BOUNDARY', 'SM1L=BOUNDARY', 'SM1L_tag=BOUNDARY', 'SM2F=chairman', 'SM2F_tag=I-NP', 'SM2L=-', 'SM2L_tag=O']
+
+manager:['WBF=hedge', 'WBF_tag=I-NP', 'WBO=fund', 'WBO_tag=I-NP', 'WBO=managers', 'WBO_tag=I-NP', 'WBL=,', 'WBL_tag=O', 'SM1F=,', 'SM1F_tag=O', 'SM1L=above', 'SM1L_tag=B-ADVP', 'SM2F=former', 'SM2F_tag=I-NP', 'SM2L=two', 'SM2L_tag=B-NP']
+
+head:['WBF=,', 'WBF_tag=O', 'WBO=the', 'WBO_tag=B-NP', 'WBO=chairman', 'WBO_tag=I-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBL=the', 'WBL_tag=B-NP', 'SM1F=BOUNDARY', 'SM1F_tag=BOUNDARY', 'SM1L=BOUNDARY', 'SM1L_tag=BOUNDARY', 'SM2F=,', 'SM2F_tag=O', 'SM2L=said', 'SM2L_tag=B-VP']
+
+head:['WBF=,', 'WBF_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=vice', 'WBO_tag=I-NP', 'WBO=president', 'WBO_tag=I-NP', 'WBL=with', 'WBL_tag=B-PP', 'SM1F=said', 'SM1F_tag=B-VP', 'SM1L=BOUNDARY', 'SM1L_tag=BOUNDARY', 'SM2F=.', 'SM2F_tag=O', 'SM2L=BOUNDARY', 'SM2L_tag=BOUNDARY']
+
+head:['WBF=,', 'WBF_tag=O', 'WBO=chief', 'WBO_tag=B-NP', 'WBO=economist', 'WBO_tag=I-NP', 'WBL=at', 'WBL_tag=B-PP', 'SM1F=BOUNDARY', 'SM1F_tag=BOUNDARY', 'SM1L=BOUNDARY', 'SM1L_tag=BOUNDARY', 'SM2F=in', 'SM2F_tag=B-PP', 'SM2L=moscow', 'SM2L_tag=B-NP']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=87', 'WBO_tag=B-NP', 'WBO=,', 'WBO_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=producer', 'WBO_tag=I-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBL=`', 'WBL_tag=O', "SM1F='", 'SM1F_tag=O', 'SM1L=on', 'SM1L_tag=B-PP', 'SM2F=BOUNDARY', 'SM2F_tag=BOUNDARY', 'SM2L=BOUNDARY', 'SM2L_tag=BOUNDARY']
+
+others:['WBF=,', 'WBF_tag=O', 'WBL=an', 'WBL_tag=B-NP', 'SM1F=said', 'SM1F_tag=B-VP', 'SM1L=BOUNDARY', 'SM1L_tag=BOUNDARY', 'SM2F=official', 'SM2F_tag=I-NP', 'SM2L=who', 'SM2L_tag=B-NP']
+
+head:['WBF=,', 'WBF_tag=O', 'WBO=president', 'WBO_tag=B-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBL=the', 'WBL_tag=B-NP', 'SM1F=BOUNDARY', 'SM1F_tag=BOUNDARY', 'SM1L=BOUNDARY', 'SM1L_tag=BOUNDARY', 'SM2F=,', 'SM2F_tag=O', 'SM2L=noted', 'SM2L_tag=B-VP']
+
+head:['WBF=executive', 'WBF_tag=I-NP', 'WBO=vice', 'WBO_tag=I-NP', 'WBO=president', 'WBO_tag=I-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBO=global', 'WBO_tag=B-NP', 'WBO=sales', 'WBO_tag=I-NP', 'WBO=and', 'WBO_tag=O', 'WBO=client', 'WBO_tag=B-NP', 'WBO=support', 'WBO_tag=I-NP', 'WBL=for', 'WBL_tag=B-PP', 'SM1F=,', 'SM1F_tag=O', 'SM1L=described', 'SM1L_tag=B-VP', 'SM2F=,', 'SM2F_tag=O', 'SM2L=interview', 'SM2L_tag=I-NP']
+
+head:['WBF=,', 'WBF_tag=O', 'WBO=the', 'WBO_tag=B-NP', 'WBO=president', 'WBO_tag=I-NP', 'WBL=of', 'WBL_tag=B-PP', 'SM1F=BOUNDARY', 'SM1F_tag=BOUNDARY', 'SM1L=BOUNDARY', 'SM1L_tag=BOUNDARY', 'SM2F=,', 'SM2F_tag=O', 'SM2L=has', 'SM2L_tag=B-VP']
+
+others:['WBF=was', 'WBF_tag=B-VP', 'WBO=advised', 'WBO_tag=I-VP', 'WBO=by', 'WBO_tag=B-PP', 'WBO=deutsche_bank', 'WBO_tag=B-NP', 'WBO=,', 'WBO_tag=O', 'WBO=goldman_sachs', 'WBO_tag=B-NP', 'WBO=and', 'WBO_tag=O', 'WBO=the', 'WBO_tag=B-NP', 'WBO=law', 'WBO_tag=I-NP', 'WBO=firms', 'WBO_tag=I-NP', 'WBO=cravath', 'WBO_tag=I-NP', 'WBL=,', 'WBL_tag=I-NP', 'SM1F=BOUNDARY', 'SM1F_tag=BOUNDARY', 'SM1L=BOUNDARY', 'SM1L_tag=BOUNDARY', 'SM2F=and', 'SM2F_tag=I-NP', 'SM2L=venable', 'SM2L_tag=I-NP']
+
+professor:['WBF=,', 'WBF_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=professor', 'WBO_tag=I-NP', 'WBL=at', 'WBL_tag=B-PP', 'SM1F=says', 'SM1F_tag=B-VP', 'SM1L=BOUNDARY', 'SM1L_tag=BOUNDARY', 'SM2F=.', 'SM2F_tag=O', 'SM2L=BOUNDARY', 'SM2L_tag=BOUNDARY']
+
+analyst:['WBF=,', 'WBF_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=senior', 'WBO_tag=I-NP', 'WBO=research', 'WBO_tag=I-NP', 'WBO=analyst', 'WBO_tag=I-NP', 'WBL=with', 'WBL_tag=B-PP', 'SM1F=week', 'SM1F_tag=I-NP', 'SM1L=this', 'SM1L_tag=B-NP', 'SM2F=,', 'SM2F_tag=O', 'SM2L=upgraded', 'SM2L_tag=B-VP']
+
+head:['WBF=,', 'WBF_tag=O', 'WBO=chairman', 'WBO_tag=B-NP', 'WBO=and', 'WBO_tag=O', 'WBO=chief', 'WBO_tag=B-NP', 'WBO=executive', 'WBO_tag=I-NP', 'WBL=of', 'WBL_tag=B-PP', 'SM1F=said', 'SM1F_tag=B-VP', 'SM1L=BOUNDARY', 'SM1L_tag=BOUNDARY', 'SM2F=,', 'SM2F_tag=O', 'SM2L=?', 'SM2L_tag=O']
+
+others:['WBF=is', 'WBF_tag=B-VP', 'WBO=the', 'WBO_tag=B-NP', 'WBO=host', 'WBO_tag=I-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBL=the', 'WBL_tag=B-NP', 'SM1F=BOUNDARY', 'SM1F_tag=BOUNDARY', 'SM1L=BOUNDARY', 'SM1L_tag=BOUNDARY', "SM2F='s", 'SM2F_tag=B-NP', 'SM2L=show', 'SM2L_tag=I-NP']
+
+spokesperson:['WBF=,', 'WBF_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=spokeswoman', 'WBO_tag=I-NP', 'WBL=at', 'WBL_tag=B-PP', 'SM1F=said', 'SM1F_tag=B-VP', 'SM1L=,', 'SM1L_tag=O', 'SM2F=,', 'SM2F_tag=O', 'SM2L=?', 'SM2L_tag=O']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=visiting', 'WBO_tag=I-NP', 'WBO=fellow', 'WBO_tag=I-NP', 'WBO=at', 'WBO_tag=B-PP', 'WBL=the', 'WBL_tag=B-NP', 'SM1F=said', 'SM1F_tag=B-VP', 'SM1L=BOUNDARY', 'SM1L_tag=BOUNDARY', 'SM2F=at', 'SM2F_tag=B-PP', 'SM2L=princeton_university', 'SM2L_tag=B-NP']
+
+head:['WBF=,', 'WBF_tag=O', 'WBO=senior', 'WBO_tag=B-NP', 'WBO=vice', 'WBO_tag=I-NP', 'WBO=president', 'WBO_tag=I-NP', 'WBO=for', 'WBO_tag=B-PP', 'WBO=public', 'WBO_tag=B-NP', 'WBO=affairs', 'WBO_tag=I-NP', 'WBO=for', 'WBO_tag=B-PP', 'WBL=the', 'WBL_tag=B-NP', 'SM1F=BOUNDARY', 'SM1F_tag=BOUNDARY', 'SM1L=BOUNDARY', 'SM1L_tag=BOUNDARY', 'SM2F=,', 'SM2F_tag=O', 'SM2L=said', 'SM2L_tag=B-VP']
+
+professor:['WBF=,', 'WBF_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=business', 'WBO_tag=I-NP', 'WBO=professor', 'WBO_tag=I-NP', 'WBL=at', 'WBL_tag=B-PP', 'SM1F=said', 'SM1F_tag=B-VP', 'SM1L=,', 'SM1L_tag=O', 'SM2F=in', 'SM2F_tag=B-PP', 'SM2L=tempe', 'SM2L_tag=B-NP']
+
+manager:['WBF=hedge', 'WBF_tag=I-NP', 'WBO=fund', 'WBO_tag=I-NP', 'WBO=managers', 'WBO_tag=I-NP', 'WBO=,', 'WBO_tag=O', 'WBO=matthew_tannin', 'WBO_tag=B-NP', 'WBO=,', 'WBO_tag=O', 'WBO=above', 'WBO_tag=B-ADVP', 'WBO=,', 'WBO_tag=O', 'WBL=and', 'WBL_tag=O', 'SM1F=,', 'SM1F_tag=O', 'SM1L=arriving', 'SM1L_tag=B-VP', 'SM2F=former', 'SM2F_tag=I-NP', 'SM2L=two', 'SM2L_tag=B-NP']
+
+professor:['WBF=,', 'WBF_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=professor', 'WBO_tag=I-NP', 'WBO=at', 'WBO_tag=B-PP', 'WBL=the', 'WBL_tag=B-NP', 'SM1F=says', 'SM1F_tag=B-VP', 'SM1L=BOUNDARY', 'SM1L_tag=BOUNDARY', 'SM2F=at', 'SM2F_tag=B-PP', 'SM2L=dartmouth', 'SM2L_tag=B-NP']
+
+analyst:['WBF=,', 'WBF_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=financial', 'WBO_tag=I-NP', 'WBO=analyst', 'WBO_tag=I-NP', 'WBL=with', 'WBL_tag=B-PP', 'SM1F=BOUNDARY', 'SM1F_tag=BOUNDARY', 'SM1L=BOUNDARY', 'SM1L_tag=BOUNDARY', 'SM2F=in', 'SM2F_tag=B-PP', 'SM2L=new_york', 'SM2L_tag=B-NP']
+
+others:['WBF=is', 'WBF_tag=B-VP', 'WBL=a', 'WBL_tag=B-NP', 'SM1F=BOUNDARY', 'SM1F_tag=BOUNDARY', 'SM1L=BOUNDARY', 'SM1L_tag=BOUNDARY', 'SM2F=columnist', 'SM2F_tag=I-NP', 'SM2L=.', 'SM2L_tag=O']
+
+head:['WBF=,', 'WBF_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=senior', 'WBO_tag=I-NP', 'WBO=vice', 'WBO_tag=I-NP', 'WBO=president', 'WBO_tag=I-NP', 'WBL=at', 'WBL_tag=B-PP', 'SM1F=BOUNDARY', 'SM1F_tag=BOUNDARY', 'SM1L=BOUNDARY', 'SM1L_tag=BOUNDARY', 'SM2F=,', 'SM2F_tag=O', 'SM2L=sketched', 'SM2L_tag=B-VP']
+
+head:['WBF=said', 'WBF_tag=B-VP', 'WBO=that', 'WBO_tag=B-SBAR', 'WBO=its', 'WBO_tag=B-NP', 'WBO=chief', 'WBO_tag=I-NP', 'WBO=executive', 'WBO_tag=I-NP', 'WBO=jean_buttner', 'WBO_tag=I-NP', 'WBO=had', 'WBO_tag=B-VP', 'WBO=resigned', 'WBO_tag=I-VP', 'WBO=on', 'WBO_tag=B-PP', 'WBO=wednesday', 'WBO_tag=B-NP', 'WBO=and', 'WBO_tag=O', 'WBO=was', 'WBO_tag=B-VP', 'WBO=succeeded', 'WBO_tag=I-VP', 'WBO=by', 'WBO_tag=B-PP', 'WBO=the', 'WBO_tag=B-NP', 'WBO=chief', 'WBO_tag=I-NP', 'WBO=legal', 'WBO_tag=I-NP', 'WBL=officer', 'WBL_tag=I-NP', 'SM1F=,', 'SM1F_tag=O', 'SM1L=who', 'SM1L_tag=B-NP', 'SM2F=BOUNDARY', 'SM2F_tag=BOUNDARY', 'SM2L=BOUNDARY', 'SM2L_tag=BOUNDARY']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=coordinator', 'WBO_tag=B-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBL=the', 'WBL_tag=B-NP', 'SM1F=says', 'SM1F_tag=B-VP', 'SM1L=BOUNDARY', 'SM1L_tag=BOUNDARY', 'SM2F=.', 'SM2F_tag=O', 'SM2L=BOUNDARY', 'SM2L_tag=BOUNDARY']
+
+leave:['WBF=,', 'WBF_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=technology', 'WBO_tag=I-NP', 'WBO=entrepreneur', 'WBO_tag=I-NP', 'WBO=and', 'WBO_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=former', 'WBO_tag=I-NP', 'WBO=vice', 'WBO_tag=I-NP', 'WBO=president', 'WBO_tag=I-NP', 'WBL=at', 'WBL_tag=B-PP', 'SM1F=BOUNDARY', 'SM1F_tag=BOUNDARY', 'SM1L=BOUNDARY', 'SM1L_tag=BOUNDARY', 'SM2F=,', 'SM2F_tag=O', 'SM2L=said', 'SM2L_tag=B-VP']
+
+head:['WBF=,', 'WBF_tag=O', 'WBO=the', 'WBO_tag=B-NP', 'WBO=head', 'WBO_tag=I-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBO=corporate', 'WBO_tag=B-NP', 'WBO=affairs', 'WBO_tag=I-NP', 'WBL=at', 'WBL_tag=B-PP', 'SM1F=BOUNDARY', 'SM1F_tag=BOUNDARY', 'SM1L=BOUNDARY', 'SM1L_tag=BOUNDARY', 'SM2F=,', 'SM2F_tag=O', 'SM2L=said', 'SM2L_tag=B-VP']
+
+founder:['WBF=,', 'WBF_tag=O', 'WBO=the', 'WBO_tag=B-NP', 'WBO=designer', 'WBO_tag=I-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBO=the', 'WBO_tag=B-NP', 'WBO=chrome', 'WBO_tag=I-NP', 'WBO=browser', 'WBO_tag=I-NP', 'WBO=,', 'WBO_tag=O', 'WBO=mozilla', 'WBO_tag=B-NP', 'WBO=,', 'WBO_tag=O', 'WBO=the', 'WBO_tag=B-NP', 'WBO=creator', 'WBO_tag=I-NP', 'WBL=of', 'WBL_tag=B-PP', 'SM1F=by', 'SM1F_tag=B-PP', 'SM1L=requested', 'SM1L_tag=B-VP', 'SM2F=,', 'SM2F_tag=O', 'SM2L=and', 'SM2L_tag=O']
+
+professor:['WBF=,', 'WBF_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=law', 'WBO_tag=I-NP', 'WBO=professor', 'WBO_tag=I-NP', 'WBL=at', 'WBL_tag=B-PP', 'SM1F=said', 'SM1F_tag=B-VP', 'SM1L=BOUNDARY', 'SM1L_tag=BOUNDARY', 'SM2F=who', 'SM2F_tag=B-NP', 'SM2L=is', 'SM2L_tag=B-VP']
+
+head:['WBF=,', 'WBF_tag=O', 'WBO=chief', 'WBO_tag=B-NP', 'WBO=investment', 'WBO_tag=I-NP', 'WBO=officer', 'WBO_tag=I-NP', 'WBL=at', 'WBL_tag=B-PP', 'SM1F=BOUNDARY', 'SM1F_tag=BOUNDARY', 'SM1L=BOUNDARY', 'SM1L_tag=BOUNDARY', 'SM2F=in', 'SM2F_tag=B-PP', 'SM2L=houston', 'SM2L_tag=B-NP']
+
+founder:['WBF=was', 'WBF_tag=B-VP', 'WBO=created', 'WBO_tag=I-VP', 'WBL=by', 'WBL_tag=B-PP', 'SM1F=,', 'SM1F_tag=O', 'SM1L=a', 'SM1L_tag=B-NP', 'SM2F=BOUNDARY', 'SM2F_tag=BOUNDARY', 'SM2L=BOUNDARY', 'SM2L_tag=BOUNDARY']
+
+director:['WBF=,', 'WBF_tag=O', 'WBO=director', 'WBO_tag=B-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBO=e-commerce', 'WBO_tag=B-NP', 'WBL=for', 'WBL_tag=B-PP', 'SM1F=BOUNDARY', 'SM1F_tag=BOUNDARY', 'SM1L=BOUNDARY', 'SM1L_tag=BOUNDARY', 'SM2F=,', 'SM2F_tag=O', 'SM2L=a', 'SM2L_tag=B-NP']
+
+head:['WBF=,', 'WBF_tag=O', 'WBO=vice', 'WBO_tag=B-NP', 'WBO=president', 'WBO_tag=I-NP', 'WBO=for', 'WBO_tag=B-PP', 'WBO=worldwide', 'WBO_tag=B-NP', 'WBO=sales', 'WBO_tag=I-NP', 'WBO=and', 'WBO_tag=O', 'WBO=travel', 'WBO_tag=B-NP', 'WBL=at', 'WBL_tag=B-PP', 'SM1F=BOUNDARY', 'SM1F_tag=BOUNDARY', 'SM1L=BOUNDARY', 'SM1L_tag=BOUNDARY', 'SM2F=.', 'SM2F_tag=O', 'SM2L=BOUNDARY', 'SM2L_tag=BOUNDARY']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=front', 'WBO_tag=I-NP', 'WBO=desk', 'WBO_tag=I-NP', 'WBO=agent', 'WBO_tag=I-NP', 'WBO=at', 'WBO_tag=B-PP', 'WBL=the', 'WBL_tag=B-NP', 'SM1F=winter', 'SM1F_tag=B-NP', 'SM1L=BOUNDARY', 'SM1L_tag=BOUNDARY', 'SM2F=in', 'SM2F_tag=B-PP', 'SM2L=boston', 'SM2L_tag=B-NP']
+
+advisor:['WBF=,', 'WBF_tag=O', 'WBO=the', 'WBO_tag=B-NP', 'WBO=former', 'WBO_tag=I-NP', 'WBO=viacom', 'WBO_tag=I-NP', 'WBO=chief', 'WBO_tag=I-NP', 'WBO=executive', 'WBO_tag=I-NP', 'WBO=who', 'WBO_tag=B-NP', 'WBO=is', 'WBO_tag=B-VP', 'WBO=now', 'WBO_tag=B-ADVP', 'WBO=an', 'WBO_tag=B-NP', 'WBO=adviser', 'WBO_tag=I-NP', 'WBL=to', 'WBL_tag=B-PP', 'SM1F=and', 'SM1F_tag=O', 'SM1L=,', 'SM1L_tag=O', 'SM2F=,', 'SM2F_tag=O', 'SM2L=according', 'SM2L_tag=B-PP']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=an', 'WBO_tag=B-NP', 'WBO=expert', 'WBO_tag=I-NP', 'WBO=on', 'WBO_tag=B-PP', 'WBO=financial', 'WBO_tag=B-NP', 'WBO=markets', 'WBO_tag=I-NP', 'WBO=at', 'WBO_tag=B-PP', 'WBO=the', 'WBO_tag=B-NP', 'WBL=china_europe', 'WBL_tag=I-NP', 'SM1F=BOUNDARY', 'SM1F_tag=BOUNDARY', 'SM1L=BOUNDARY', 'SM1L_tag=BOUNDARY', 'SM2F=in', 'SM2F_tag=B-PP', 'SM2L=shanghai', 'SM2L_tag=B-NP']
+
+spokesperson:['WBF=,', 'WBF_tag=O', 'WBL=a', 'WBL_tag=B-NP', 'SM1F=BOUNDARY', 'SM1F_tag=BOUNDARY', 'SM1L=BOUNDARY', 'SM1L_tag=BOUNDARY', 'SM2F=spokesman', 'SM2F_tag=I-NP', 'SM2L=in', 'SM2L_tag=B-PP']
+
+analyst:['WBF=,', 'WBF_tag=O', 'WBO=an', 'WBO_tag=B-NP', 'WBO=analyst', 'WBO_tag=I-NP', 'WBL=at', 'WBL_tag=B-PP', 'SM1F=BOUNDARY', 'SM1F_tag=BOUNDARY', 'SM1L=BOUNDARY', 'SM1L_tag=BOUNDARY', 'SM2F=,', 'SM2F_tag=O', 'SM2L=said', 'SM2L_tag=B-VP']
+
+head:['WBF=,', 'WBF_tag=O', 'WBO=the', 'WBO_tag=B-NP', 'WBO=president', 'WBO_tag=I-NP', 'WBL=of', 'WBL_tag=B-PP', 'SM1F=said', 'SM1F_tag=B-VP', 'SM1L=BOUNDARY', 'SM1L_tag=BOUNDARY', 'SM2F=in', 'SM2F_tag=B-PP', 'SM2L=evanston', 'SM2L_tag=B-NP']
+
+lawyer:['WBF=,', 'WBF_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=lawyer', 'WBO_tag=I-NP', 'WBL=with', 'WBL_tag=B-PP', 'SM1F=said', 'SM1F_tag=B-VP', 'SM1L=BOUNDARY', 'SM1L_tag=BOUNDARY', 'SM2F=who', 'SM2F_tag=B-NP', 'SM2L=advises', 'SM2L_tag=B-VP']
+
+others:['WBF=was', 'WBF_tag=B-VP', 'WBO=advised', 'WBO_tag=I-VP', 'WBL=by', 'WBL_tag=B-PP', 'SM1F=BOUNDARY', 'SM1F_tag=BOUNDARY', 'SM1L=BOUNDARY', 'SM1L_tag=BOUNDARY', 'SM2F=,', 'SM2F_tag=O', 'SM2L=goldman_sachs', 'SM2L_tag=B-NP']
+
+director:['WBF=,', 'WBF_tag=O', 'WBO=managing', 'WBO_tag=B-NP', 'WBO=director', 'WBO_tag=I-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBO=onboard', 'WBO_tag=B-PP', 'WBO=products', 'WBO_tag=B-NP', 'WBL=for', 'WBL_tag=B-PP', 'SM1F=said', 'SM1F_tag=B-VP', 'SM1L=BOUNDARY', 'SM1L_tag=BOUNDARY', 'SM2F=.', 'SM2F_tag=O', 'SM2L=BOUNDARY', 'SM2L_tag=BOUNDARY']
+
+head:['WBF=,', 'WBF_tag=O', 'WBO=chief', 'WBO_tag=B-NP', 'WBO=executive', 'WBO_tag=I-NP', 'WBL=of', 'WBL_tag=B-PP', 'SM1F=said', 'SM1F_tag=B-VP', 'SM1L=BOUNDARY', 'SM1L_tag=BOUNDARY', 'SM2F=,', 'SM2F_tag=O', 'SM2L=a', 'SM2L_tag=B-NP']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=research', 'WBO_tag=I-NP', 'WBO=engineer', 'WBO_tag=I-NP', 'WBO=at', 'WBO_tag=B-PP', 'WBL=the', 'WBL_tag=B-NP', 'SM1F=BOUNDARY', 'SM1F_tag=BOUNDARY', 'SM1L=BOUNDARY', 'SM1L_tag=BOUNDARY', 'SM2F=,', 'SM2F_tag=O', 'SM2L=demonstrated', 'SM2L_tag=B-VP']
+
+head:['WBFL=owner', 'WBFL_tag=I-NP', 'SM1F=,', 'SM1F_tag=O', 'SM1L=who', 'SM1L_tag=B-NP', 'SM2F=salute', 'SM2F_tag=B-VP', 'SM2L=we', 'SM2L_tag=B-NP']
+
+analyst:['WBF=,', 'WBF_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=network', 'WBO_tag=I-NP', 'WBO=analyst', 'WBO_tag=I-NP', 'WBL=for', 'WBL_tag=B-PP', 'SM1F=said', 'SM1F_tag=B-VP', 'SM1L=BOUNDARY', 'SM1L_tag=BOUNDARY', 'SM2F=,', 'SM2F_tag=O', 'SM2L=a', 'SM2L_tag=B-NP']
+
+head:['WBF=,', 'WBF_tag=O', 'WBO=senior', 'WBO_tag=B-NP', 'WBO=vice', 'WBO_tag=I-NP', 'WBO=president', 'WBO_tag=I-NP', 'WBO=and', 'WBO_tag=O', 'WBO=portfolio', 'WBO_tag=B-NP', 'WBO=manager', 'WBO_tag=I-NP', 'WBL=at', 'WBL_tag=B-PP', 'SM1F=said', 'SM1F_tag=B-VP', 'SM1L=BOUNDARY', 'SM1L_tag=BOUNDARY', 'SM2F=.', 'SM2F_tag=O', 'SM2L=BOUNDARY', 'SM2L_tag=BOUNDARY']
+
+head:['WBF=,', 'WBF_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=professor', 'WBO_tag=I-NP', 'WBO=at', 'WBO_tag=B-PP', 'WBO=the', 'WBO_tag=B-NP', 'WBO=university_of_alabama', 'WBO_tag=I-NP', 'WBO=and', 'WBO_tag=O', 'WBO=the', 'WBO_tag=B-NP', 'WBO=president', 'WBO_tag=I-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBL=the', 'WBL_tag=B-NP', 'SM1F=said', 'SM1F_tag=B-VP', 'SM1L=BOUNDARY', 'SM1L_tag=BOUNDARY', 'SM2F=.', 'SM2F_tag=O', 'SM2L=BOUNDARY', 'SM2L_tag=BOUNDARY']
+
+manager:['WBF=,', 'WBF_tag=O', 'WBO=an', 'WBO_tag=B-NP', 'WBO=export', 'WBO_tag=I-NP', 'WBO=manager', 'WBO_tag=I-NP', 'WBO=at', 'WBO_tag=B-PP', 'WBO=the', 'WBO_tag=B-NP', 'WBL=state-owned', 'WBL_tag=I-NP', 'SM1F=said', 'SM1F_tag=B-VP', 'SM1L=BOUNDARY', 'SM1L_tag=BOUNDARY', 'SM2F=.', 'SM2F_tag=O', 'SM2L=?', 'SM2L_tag=O']
+
+head:['WBF=,', 'WBF_tag=O', 'WBO=chief', 'WBO_tag=B-NP', 'WBO=economist', 'WBO_tag=I-NP', 'WBO=and', 'WBO_tag=I-NP', 'WBO=director', 'WBO_tag=I-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBO=research', 'WBO_tag=B-NP', 'WBO=for', 'WBO_tag=B-PP', 'WBL=the', 'WBL_tag=B-NP', 'SM1F=BOUNDARY', 'SM1F_tag=BOUNDARY', 'SM1L=BOUNDARY', 'SM1L_tag=BOUNDARY', 'SM2F=,', 'SM2F_tag=O', 'SM2L=said', 'SM2L_tag=B-VP']
+
+professor:['WBF=,', 'WBF_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=professor', 'WBO_tag=I-NP', 'WBO=at', 'WBO_tag=B-PP', 'WBL=the', 'WBL_tag=B-NP', 'SM1F=said', 'SM1F_tag=B-VP', 'SM1L=BOUNDARY', 'SM1L_tag=BOUNDARY', 'SM2F=.', 'SM2F_tag=O', 'SM2L=?', 'SM2L_tag=O']
+
+head:['WBF=president', 'WBF_tag=I-NP', 'WBL=,', 'WBL_tag=O', 'SM1F=,', 'SM1F_tag=O', 'SM1L=said', 'SM1L_tag=B-VP', 'SM2F=the', 'SM2F_tag=B-NP', 'SM2L=BOUNDARY', 'SM2L_tag=BOUNDARY']
+
+professor:['WBF=,', 'WBF_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=professor', 'WBO_tag=I-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBO=banking', 'WBO_tag=B-NP', 'WBO=law', 'WBO_tag=I-NP', 'WBL=at', 'WBL_tag=B-PP', 'SM1F=said', 'SM1F_tag=B-VP', 'SM1L=BOUNDARY', 'SM1L_tag=BOUNDARY', 'SM2F=.', 'SM2F_tag=O', 'SM2L=?', 'SM2L_tag=O']
+
+head:['WBF=,', 'WBF_tag=O', 'WBO=greenxchange', 'WBO_tag=B-NP', 'WBO=coordinator', 'WBO_tag=I-NP', 'WBO=and', 'WBO_tag=I-NP', 'WBO=vice', 'WBO_tag=I-NP', 'WBO=president', 'WBO_tag=I-NP', 'WBO=for', 'WBO_tag=B-PP', 'WBO=science', 'WBO_tag=B-NP', 'WBL=at', 'WBL_tag=B-PP', 'SM1F=says', 'SM1F_tag=B-VP', 'SM1L=,', 'SM1L_tag=O', 'SM2F=.', 'SM2F_tag=O', 'SM2L=BOUNDARY', 'SM2L_tag=BOUNDARY']
+
+professor:['WBF=,', 'WBF_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=law', 'WBO_tag=I-NP', 'WBO=professor', 'WBO_tag=I-NP', 'WBL=at', 'WBL_tag=B-PP', 'SM1F=said', 'SM1F_tag=B-VP', 'SM1L=,', 'SM1L_tag=O', 'SM2F=who', 'SM2F_tag=B-NP', 'SM2L=filed', 'SM2L_tag=B-VP']
+
+head:['WBF=,', 'WBF_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=2006', 'WBO_tag=I-NP', 'WBO=insead', 'WBO_tag=I-NP', 'WBO=graduate', 'WBO_tag=I-NP', 'WBO=who', 'WBO_tag=B-NP', 'WBO=is', 'WBO_tag=B-VP', 'WBO=chief', 'WBO_tag=B-NP', 'WBO=operating', 'WBO_tag=I-NP', 'WBO=officer', 'WBO_tag=I-NP', 'WBL=of', 'WBL_tag=B-PP', 'SM1F=said', 'SM1F_tag=B-VP', 'SM1L=BOUNDARY', 'SM1L_tag=BOUNDARY', 'SM2F=,', 'SM2F_tag=O', 'SM2L=a', 'SM2L_tag=B-NP']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=the', 'WBO_tag=B-NP', 'WBO=competition', 'WBO_tag=I-NP', 'WBO=commissioner', 'WBO_tag=I-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBL=the', 'WBL_tag=B-NP', 'SM1F=after', 'SM1F_tag=B-PP', 'SM1L=occurred', 'SM1L_tag=B-VP', 'SM2F=,', 'SM2F_tag=O', 'SM2L=pressed', 'SM2L_tag=B-VP']
+
+head:['WBF=,', 'WBF_tag=O', 'WBO=chairman', 'WBO_tag=B-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBL=the', 'WBL_tag=B-NP', 'SM1F=BOUNDARY', 'SM1F_tag=BOUNDARY', 'SM1L=BOUNDARY', 'SM1L_tag=BOUNDARY', 'SM2F=,', 'SM2F_tag=O', 'SM2L=told', 'SM2L_tag=B-VP']
+
+director:['WBF=,', 'WBF_tag=O', 'WBO=director', 'WBO_tag=B-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBO=admissions', 'WBO_tag=B-NP', 'WBO=and', 'WBO_tag=O', 'WBO=financial', 'WBO_tag=B-NP', 'WBO=aid', 'WBO_tag=I-NP', 'WBO=at', 'WBO_tag=B-PP', 'WBL=the', 'WBL_tag=B-NP', 'SM1F=said', 'SM1F_tag=B-VP', 'SM1L=,', 'SM1L_tag=O', 'SM2F=at', 'SM2F_tag=B-PP', 'SM2L=the', 'SM2L_tag=B-NP']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=cardiologist', 'WBO_tag=I-NP', 'WBL=at', 'WBL_tag=B-PP', 'SM1F=said', 'SM1F_tag=B-VP', 'SM1L=BOUNDARY', 'SM1L_tag=BOUNDARY', 'SM2F=in', 'SM2F_tag=B-PP', 'SM2L=boston', 'SM2L_tag=B-NP']
+
+head:['WBF=,', 'WBF_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=vice', 'WBO_tag=I-NP', 'WBO=president', 'WBO_tag=I-NP', 'WBL=at', 'WBL_tag=B-PP', 'SM1F=said', 'SM1F_tag=B-VP', 'SM1L=BOUNDARY', 'SM1L_tag=BOUNDARY', 'SM2F=,', 'SM2F_tag=O', 'SM2L=which', 'SM2L_tag=B-NP']
+
+head:['WBF=owns', 'WBF_tag=B-VP', 'WBO=4', 'WBO_tag=B-NP', 'WBO=percent', 'WBO_tag=I-NP', 'WBL=of', 'WBL_tag=B-PP', 'SM1F=BOUNDARY', 'SM1F_tag=BOUNDARY', 'SM1L=BOUNDARY', 'SM1L_tag=BOUNDARY', 'SM2F=.', 'SM2F_tag=O', 'SM2L=BOUNDARY', 'SM2L_tag=BOUNDARY']
+
+head:['WBF=,', 'WBF_tag=O', 'WBO=president', 'WBO_tag=B-NP', 'WBL=of', 'WBL_tag=B-PP', 'SM1F=but', 'SM1F_tag=O', 'SM1L=,', 'SM1L_tag=O', 'SM2F=,', 'SM2F_tag=O', 'SM2L=said', 'SM2L_tag=B-VP']
+
+professor:['WBF=,', 'WBF_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=professor', 'WBO_tag=I-NP', 'WBO=at', 'WBO_tag=B-PP', 'WBL=the', 'WBL_tag=B-NP', 'SM1F=BOUNDARY', 'SM1F_tag=BOUNDARY', 'SM1L=BOUNDARY', 'SM1L_tag=BOUNDARY', 'SM2F=,', 'SM2F_tag=O', 'SM2L=said', 'SM2L_tag=B-VP']
+
+head:['WBF=,', 'WBF_tag=O', 'WBL=the', 'WBL_tag=B-NP', 'SM1F=said', 'SM1F_tag=B-VP', 'SM1L=BOUNDARY', 'SM1L_tag=BOUNDARY', 'SM2F=chief', 'SM2F_tag=I-NP', 'SM2L=operating', 'SM2L_tag=I-NP']
+
+lawyer:['WBF=,', 'WBF_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=lawyer', 'WBO_tag=I-NP', 'WBO=at', 'WBO_tag=B-PP', 'WBO=the', 'WBO_tag=B-NP', 'WBO=prestigious', 'WBO_tag=I-NP', 'WBO=firm', 'WBO_tag=I-NP', 'WBL=of', 'WBL_tag=B-PP', 'SM1F=including', 'SM1F_tag=B-PP', 'SM1L=,', 'SM1L_tag=O', 'SM2F=,', 'SM2F_tag=O', 'SM2L=who', 'SM2L_tag=B-NP']
+
+advisor:['WBF=,', 'WBF_tag=O', 'WBO=an', 'WBO_tag=B-NP', 'WBO=education', 'WBO_tag=I-NP', 'WBO=professor', 'WBO_tag=I-NP', 'WBO=at', 'WBO_tag=B-PP', 'WBO=the', 'WBO_tag=B-NP', 'WBO=university_of_wisconsin', 'WBO_tag=I-NP', 'WBO=who', 'WBO_tag=B-NP', 'WBO=was', 'WBO_tag=B-VP', 'WBO=an', 'WBO_tag=B-NP', 'WBO=early', 'WBO_tag=I-NP', 'WBO=adviser', 'WBO_tag=I-NP', 'WBO=to', 'WBO_tag=B-PP', 'WBO=the', 'WBO_tag=B-NP', 'WBO=software', 'WBO_tag=I-NP', 'WBL=company', 'WBL_tag=I-NP', 'SM1F=BOUNDARY', 'SM1F_tag=BOUNDARY', 'SM1L=BOUNDARY', 'SM1L_tag=BOUNDARY', 'SM2F=,', 'SM2F_tag=O', 'SM2L=said', 'SM2L_tag=B-VP']
+
+analyst:['WBF=,', 'WBF_tag=O', 'WBO=an', 'WBO_tag=B-NP', 'WBO=analyst', 'WBO_tag=I-NP', 'WBL=at', 'WBL_tag=B-PP', 'SM1F=BOUNDARY', 'SM1F_tag=BOUNDARY', 'SM1L=BOUNDARY', 'SM1L_tag=BOUNDARY', 'SM2F=,', 'SM2F_tag=O', 'SM2L=said', 'SM2L_tag=B-VP']
+
+head:['WBF=,', 'WBF_tag=O', 'WBO=vice', 'WBO_tag=B-NP', 'WBO=president', 'WBO_tag=I-NP', 'WBL=of', 'WBL_tag=B-PP', 'SM1F=BOUNDARY', 'SM1F_tag=BOUNDARY', 'SM1L=BOUNDARY', 'SM1L_tag=BOUNDARY', 'SM2F=,', 'SM2F_tag=O', 'SM2L=a', 'SM2L_tag=B-NP']
+
+head:['WBF=said', 'WBF_tag=B-VP', 'WBO=that', 'WBO_tag=B-SBAR', 'WBO=its', 'WBO_tag=B-NP', 'WBO=chief', 'WBO_tag=I-NP', 'WBL=executive', 'WBL_tag=I-NP', 'SM1F=had', 'SM1F_tag=B-VP', 'SM1L=resigned', 'SM1L_tag=I-VP', 'SM2F=BOUNDARY', 'SM2F_tag=BOUNDARY', 'SM2L=BOUNDARY', 'SM2L_tag=BOUNDARY']
+
+head:['WBF=,', 'WBF_tag=O', 'WBO=owner', 'WBO_tag=B-NP', 'WBL=of', 'WBL_tag=B-PP', 'SM1F=BOUNDARY', 'SM1F_tag=BOUNDARY', 'SM1L=BOUNDARY', 'SM1L_tag=BOUNDARY', 'SM2F=in', 'SM2F_tag=B-PP', 'SM2L=portland', 'SM2L_tag=B-NP']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=senior', 'WBO_tag=B-NP', 'WBO=strategist', 'WBO_tag=I-NP', 'WBL=at', 'WBL_tag=B-PP', 'SM1F=said', 'SM1F_tag=B-VP', 'SM1L=BOUNDARY', 'SM1L_tag=BOUNDARY', 'SM2F=,', 'SM2F_tag=O', 'SM2L=a', 'SM2L_tag=B-NP']
+
+manager:['WBF=,', 'WBF_tag=O', 'WBO=the', 'WBO_tag=B-NP', 'WBO=general', 'WBO_tag=I-NP', 'WBO=sales', 'WBO_tag=I-NP', 'WBO=manager', 'WBO_tag=I-NP', 'WBL=at', 'WBL_tag=B-PP', 'SM1F=said', 'SM1F_tag=B-VP', 'SM1L=BOUNDARY', 'SM1L_tag=BOUNDARY', 'SM2F=in', 'SM2F_tag=B-PP', 'SM2L=costa_mesa', 'SM2L_tag=B-NP']
+
+head:['WBF=,', 'WBF_tag=O', 'WBO=the', 'WBO_tag=B-NP', 'WBO=zoning', 'WBO_tag=I-NP', 'WBO=chairman', 'WBO_tag=I-NP', 'WBO=for', 'WBO_tag=B-PP', 'WBL=the', 'WBL_tag=B-NP', 'SM1F=said', 'SM1F_tag=B-VP', 'SM1L=,', 'SM1L_tag=O', 'SM2F=.', 'SM2F_tag=O', 'SM2L=BOUNDARY', 'SM2L_tag=BOUNDARY']
+
+head:['WBF=,', 'WBF_tag=O', 'WBO=president', 'WBO_tag=B-NP', 'WBL=of', 'WBL_tag=B-PP', 'SM1F=BOUNDARY', 'SM1F_tag=BOUNDARY', 'SM1L=BOUNDARY', 'SM1L_tag=BOUNDARY', 'SM2F=,', 'SM2F_tag=O', 'SM2L=a', 'SM2L_tag=B-NP']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBL=retired', 'WBL_tag=I-NP', 'SM1F=BOUNDARY', 'SM1F_tag=BOUNDARY', 'SM1L=BOUNDARY', 'SM1L_tag=BOUNDARY', 'SM2F=colonel', 'SM2F_tag=I-NP', 'SM2L=who', 'SM2L_tag=B-NP']
+
+head:['WBF=,', 'WBF_tag=O', 'WBO=the', 'WBO_tag=B-NP', 'WBO=former', 'WBO_tag=I-NP', 'WBO=chief', 'WBO_tag=I-NP', 'WBO=executive', 'WBO_tag=I-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBO=advanced_micro_devices', 'WBO_tag=B-NP', 'WBO=,', 'WBO_tag=O', 'WBO=will', 'WBO_tag=B-VP', 'WBO=step', 'WBO_tag=I-VP', 'WBO=down', 'WBO_tag=B-ADVP', 'WBO=as', 'WBO_tag=B-PP', 'WBO=chairman', 'WBO_tag=B-NP', 'WBL=of', 'WBL_tag=B-PP', 'SM1F=BOUNDARY', 'SM1F_tag=BOUNDARY', 'SM1L=BOUNDARY', 'SM1L_tag=BOUNDARY', 'SM2F=,', 'SM2F_tag=O', 'SM2L=the', 'SM2L_tag=B-NP']
+
+director:['WBF=,', 'WBF_tag=O', 'WBO=the', 'WBO_tag=B-NP', 'WBO=creative', 'WBO_tag=I-NP', 'WBO=director', 'WBO_tag=I-NP', 'WBL=at', 'WBL_tag=B-PP', 'SM1F=BOUNDARY', 'SM1F_tag=BOUNDARY', 'SM1L=BOUNDARY', 'SM1L_tag=BOUNDARY', 'SM2F=,', 'SM2F_tag=O', 'SM2L=said', 'SM2L_tag=B-VP']
+
+founder:['WBF=hedge', 'WBF_tag=I-NP', 'WBO=fund', 'WBO_tag=I-NP', 'WBO=;', 'WBO_tag=O', 'WBO=its', 'WBO_tag=B-NP', 'WBO=founder', 'WBO_tag=I-NP', 'WBL=,', 'WBL_tag=O', 'SM1F=;', 'SM1F_tag=O', 'SM1L=and', 'SM1L_tag=O', 'SM2F=the', 'SM2F_tag=B-NP', 'SM2L=against', 'SM2L_tag=B-PP']
+
+head:['WBF=,', 'WBF_tag=O', 'WBO=head', 'WBO_tag=B-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBO=the', 'WBO_tag=B-NP', 'WBO=emerging', 'WBO_tag=I-NP', 'WBO=europe', 'WBO_tag=I-NP', 'WBO=team', 'WBO_tag=I-NP', 'WBL=at', 'WBL_tag=B-PP', 'SM1F=BOUNDARY', 'SM1F_tag=BOUNDARY', 'SM1L=BOUNDARY', 'SM1L_tag=BOUNDARY', 'SM2F=in', 'SM2F_tag=B-PP', 'SM2L=london', 'SM2L_tag=B-NP']
+
+professor:['WBF=,', 'WBF_tag=O', 'WBO=associate', 'WBO_tag=B-NP', 'WBO=professor', 'WBO_tag=I-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBO=management', 'WBO_tag=B-NP', 'WBO=at', 'WBO_tag=B-PP', 'WBL=the', 'WBL_tag=B-NP', 'SM1F=BOUNDARY', 'SM1F_tag=BOUNDARY', 'SM1L=BOUNDARY', 'SM1L_tag=BOUNDARY', 'SM2F=at', 'SM2F_tag=B-PP', 'SM2L=georgetown_university', 'SM2L_tag=B-NP']
+
+head:['WBF=,', 'WBF_tag=O', 'WBO=chairman', 'WBO_tag=B-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBL=the', 'WBL_tag=B-NP', 'SM1F=said', 'SM1F_tag=B-VP', 'SM1L=BOUNDARY', 'SM1L_tag=BOUNDARY', 'SM2F=,', 'SM2F_tag=O', 'SM2L=a', 'SM2L_tag=B-NP']
+
+head:['WBF=,', 'WBF_tag=O', 'WBO=vice', 'WBO_tag=B-NP', 'WBO=president', 'WBO_tag=I-NP', 'WBO=and', 'WBO_tag=O', 'WBO=director', 'WBO_tag=B-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBO=programming', 'WBO_tag=B-NP', 'WBO=for', 'WBO_tag=B-PP', 'WBL=the', 'WBL_tag=B-NP', 'SM1F=said', 'SM1F_tag=B-VP', 'SM1L=BOUNDARY', 'SM1L_tag=BOUNDARY', 'SM2F=,', 'SM2F_tag=O', 'SM2L=which', 'SM2L_tag=B-NP']
+
+head:['WBF=president', 'WBF_tag=I-NP', 'WBL=,', 'WBL_tag=O', 'SM1F=,', 'SM1F_tag=O', 'SM1L=was', 'SM1L_tag=B-VP', 'SM2F=former', 'SM2F_tag=I-NP', 'SM2L=the', 'SM2L_tag=B-NP']
+
+head:['WBF=,', 'WBF_tag=O', 'WBO=deputy', 'WBO_tag=B-NP', 'WBO=chief', 'WBO_tag=I-NP', 'WBO=executive', 'WBO_tag=I-NP', 'WBL=of', 'WBL_tag=B-PP', 'SM1F=said', 'SM1F_tag=B-VP', 'SM1L=BOUNDARY', 'SM1L_tag=BOUNDARY', 'SM2F=.', 'SM2F_tag=O', 'SM2L=?', 'SM2L_tag=O']
+
+head:['WBF=chief', 'WBF_tag=I-NP', 'WBO=executive', 'WBO_tag=I-NP', 'WBL=,', 'WBL_tag=O', 'SM1F=,', 'SM1F_tag=O', 'SM1L=said', 'SM1L_tag=B-VP', 'SM2F=the', 'SM2F_tag=B-NP', 'SM2L=BOUNDARY', 'SM2L_tag=BOUNDARY']
+
+professor:['WBF=is', 'WBF_tag=B-VP', 'WBO=a', 'WBO_tag=B-NP', 'WBO=professor', 'WBO_tag=I-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBO=economics', 'WBO_tag=B-NP', 'WBL=at', 'WBL_tag=B-PP', 'SM1F=BOUNDARY', 'SM1F_tag=BOUNDARY', 'SM1L=BOUNDARY', 'SM1L_tag=BOUNDARY', 'SM2F=.', 'SM2F_tag=O', 'SM2L=BOUNDARY', 'SM2L_tag=BOUNDARY']
+
+head:['WBF=,', 'WBF_tag=O', 'WBO=vice', 'WBO_tag=B-NP', 'WBO=president', 'WBO_tag=I-NP', 'WBO=for', 'WBO_tag=B-PP', 'WBO=loyalty', 'WBO_tag=B-NP', 'WBL=for', 'WBL_tag=B-PP', 'SM1F=said', 'SM1F_tag=B-VP', 'SM1L=,', 'SM1L_tag=O', 'SM2F=,', 'SM2F_tag=O', 'SM2L=the', 'SM2L_tag=B-NP']
+
+head:['WBF=,', 'WBF_tag=O', 'WBO=whose', 'WBO_tag=B-NP', 'WBO=chief', 'WBO_tag=I-NP', 'WBO=executive', 'WBO_tag=I-NP', 'WBL=,', 'WBL_tag=O', 'SM1F=,', 'SM1F_tag=O', 'SM1L=now', 'SM1L_tag=B-ADVP', 'SM2F=carmaker', 'SM2F_tag=I-NP', 'SM2L=italian', 'SM2L_tag=I-NP']
+
+leave:['WBF=,', 'WBF_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=former', 'WBO_tag=I-NP', 'WBO=chief', 'WBO_tag=I-NP', 'WBO=executive', 'WBO_tag=I-NP', 'WBL=of', 'WBL_tag=B-PP', 'SM1F=;', 'SM1F_tag=O', 'SM1L=firm', 'SM1L_tag=I-NP', 'SM2F=;', 'SM2F_tag=O', 'SM2L=and', 'SM2L_tag=O']
+
+advisor:['WBF=was', 'WBF_tag=B-VP', 'WBO=advised', 'WBO_tag=I-VP', 'WBO=by', 'WBO_tag=B-PP', 'WBO=deutsche_bank', 'WBO_tag=B-NP', 'WBO=,', 'WBO_tag=O', 'WBO=goldman_sachs', 'WBO_tag=B-NP', 'WBO=and', 'WBO_tag=O', 'WBO=the', 'WBO_tag=B-NP', 'WBO=law', 'WBO_tag=I-NP', 'WBO=firms', 'WBO_tag=I-NP', 'WBO=cravath', 'WBO_tag=I-NP', 'WBO=,', 'WBO_tag=I-NP', 'WBO=swaine_', 'WBO_tag=I-NP', 'WBO=&', 'WBO_tag=I-NP', 'WBO=_moore', 'WBO_tag=I-NP', 'WBL=and', 'WBL_tag=O', 'SM1F=BOUNDARY', 'SM1F_tag=BOUNDARY', 'SM1L=BOUNDARY', 'SM1L_tag=BOUNDARY', 'SM2F=.', 'SM2F_tag=O', 'SM2L=BOUNDARY', 'SM2L_tag=BOUNDARY']
+
+head:['WBF=,', 'WBF_tag=O', 'WBO=head', 'WBO_tag=B-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBO=global', 'WBO_tag=B-NP', 'WBO=strategy', 'WBO_tag=I-NP', 'WBL=at', 'WBL_tag=B-PP', 'SM1F=said', 'SM1F_tag=B-VP', 'SM1L=BOUNDARY', 'SM1L_tag=BOUNDARY', 'SM2F=,', 'SM2F_tag=O', 'SM2L=at', 'SM2L_tag=B-PP']
+
+spokesperson:['WBF=,', 'WBF_tag=O', 'WBL=a', 'WBL_tag=B-NP', 'SM1F=BOUNDARY', 'SM1F_tag=BOUNDARY', 'SM1L=BOUNDARY', 'SM1L_tag=BOUNDARY', 'SM2F=spokesman', 'SM2F_tag=I-NP', 'SM2L=in', 'SM2L_tag=B-PP']
+
+others:['WBF=,', 'WBF_tag=O', 'WBL=left', 'WBL_tag=B-VP', 'SM1F=,', 'SM1F_tag=O', 'SM1L=employee', 'SM1L_tag=I-NP', 'SM2F=and', 'SM2F_tag=O', 'SM2L=briefly', 'SM2L_tag=B-ADVP']
+

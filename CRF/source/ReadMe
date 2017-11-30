@@ -1,0 +1,76 @@
+We have made rules to extract following features for recognizing named entities into different template files. The "template" file is a generalized version which can be used for recognizing any type of named entity consisting of all features excluding 4th. For extarcting names, we have made use of 4th feature as well which is in "template_name". Similarly we have features for extracting organization which can make use of gazetteer into "template_org". Here template_org includes all features other than 4th. :
+1. tokens at [-2,+2] window
+2. POS tags at [-2,+2] window
+3. Chunk(phrase) tags at [-2,+2] window
+4. whether a token is a digit or consists of digits or is a punctuation for [-2,+2] window (because names won't consist of digits or punctuation)
+5. previous token's output (ner) tag
+
+Use template files for training and tetsing according to the entity type. 
+--------------------------------------------------------******--------------------------------------------------------------------------------
+To get NER tags "PER" and "ORG" using CRF, do one of the following:
+
+Run project.sh file using sh project.sh
+
+OR
+
+Do the following steps one by one:
+Step 1:
+Trim down the input files for training/testing/final dataset removing all other tags than PER and ORG from the final column of respective train/test files from dataset, using preprocess_data.py
+	input:
+		python preprocess.py
+	We'll get the output files as:
+		test_data
+		train_data
+		final_data_withlastcol
+Trim down the last column of final_data_withlastcol using do.py to get final_data without NER tags.
+
+
+Step 2:
+Run crf_script.sh to train the model_crf using template file with train_data. The training output is stored in training_crf_output and the model file is generated.
+	input:	
+		crf_learn template train_data model_crf > training_crf_output
+	output:
+		model_crf
+
+
+Step 3:
+Use trained model_crf to generate ner tags for final_data by running get_ner.sh and get best-n tags for "org" and "per".
+
+Step 4:
+Modify the output according to the requirements for relation extraction.
+	python modify_besttags.py generates:
+		final_data_best3tags_mod
+		final_data_best5tags_mod
+		final_data_best1nametags_mod
+		final_data_best1orgtags_mod
+	
+Create sets for N1,N3,O1,O5 using create_set.sh which creates output files for each set where each line gives the corresponding best-n named entity set for each sentence in final_data.
+	create_set.sh generates(using create_sets_code.py):
+		best3nametagsset
+		best5orgtagsset
+		best1nametagsset
+		best1orgtagsset
+
+
+----------------------------------------------*****------------------------------------
+
+Remove first line in the following files before using them:
+best3nametagsset
+best5orgtagsset
+best1nametagsset
+best1orgtagsset
+----------------------------------------------*****------------------------------------
+We created sentences from eng.testb using create_sentences.py. The output was stored in train_data_sentences.
+----------------------------------------------*****------------------------------------
+
+We evaluate performance of NER tags predicted by CRF on eng.testa data using conlleval perl script. For that first get the CRF output for a test data as follows:
+	crf_test -m model_crf final_data1 > test_output
+Then truncate 3rd and 4th column to have the format of output file as required by conllevel, ie. token,POS tag,Actual Tag,Predicted Tag using:
+	python change_test_format.py
+It generates evaluate_test_output which is further processed to remove tags other than "PER" and "ORG" using
+	python truncate_test_output_truncated_tags.py
+It produces evaluate_test_output_truncated_tags which is given as input to conlleval that gives us the performance scores in performance_CRF.txt.
+
+
+Finally we get the modified named entities from relation extraction into me_op.txt as output file in the format required by conlleval script to evaluate performance. It gives us performance scores in performance_after_rel.txt. 
+

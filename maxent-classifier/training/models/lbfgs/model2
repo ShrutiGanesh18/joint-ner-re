@@ -1,0 +1,5640 @@
+#txt,maxent
+1652
+WBF=,
+WBF_tag=O
+WBO=chief
+WBO_tag=B-NP
+WBO=executive
+WBO_tag=I-NP
+WBO=of
+WBO_tag=B-PP
+WBO=starwood
+WBO=,
+WBO_tag=O
+WBO=whose
+WBO=upmarket
+WBO=brands
+WBL=include
+WBL_tag=B-VP
+SM1F=said
+SM1F_tag=B-VP
+SM1L=BOUNDARY
+SM1L_tag=BOUNDARY
+SM2F=and
+SM2F_tag=I-NP
+SM2L=le_meridien
+SM2L_tag=I-NP
+WBO=a
+WBO=senior
+WBO=research
+WBO=analyst
+WBO=with
+WBO=deutsche_bank_securities
+WBO=said
+WBO_tag=B-VP
+WBO=companies
+WBL=like
+WBL_tag=B-PP
+SM1F=BOUNDARY
+SM1F_tag=BOUNDARY
+SM2L=nordstrom
+WBF=and
+WBO=his
+WBO=colleagues
+WBO=submitted
+WBO=three-year
+WBO=plan
+WBO=to
+WBO=executives
+WBO=at
+WBO=time_warner
+WBO=the
+WBO=parent
+WBO=company
+WBO=turner_broadcasting
+WBO=unit
+WBL=which
+WBL_tag=B-NP
+SM1F=,
+SM1F_tag=O
+SM1L=2007
+SM1L_tag=B-NP
+SM2F=is
+SM2F_tag=B-VP
+SM2L=a
+SM2L_tag=B-NP
+WBF=in
+WBF_tag=B-PP
+WBO=rome
+WBO=and
+WBO=then
+WBO=residents
+WBO=worried
+WBO=that
+WBO_tag=B-SBAR
+WBO=he
+WBO=would
+WBO=create
+WBO_tag=I-VP
+WBO=kitschy
+WBO=theme
+WBO=park
+WBL=said
+SM1L=the
+SM2F=the
+SM2F_tag=B-NP
+SM2L=by
+SM2L_tag=B-PP
+WBO=managing
+WBO=director
+WBO=oxford_economics
+WBO=firm
+WBO=prepared
+WBL=the
+SM2F=report
+SM2L=,
+SM2L_tag=O
+WBO=retired
+WBO=army
+WBO=colonel
+WBO=who
+WBO=heads
+WBO=program
+WBO=for
+WBO=oshkosh
+WBO=quickly
+WBO=sketched
+WBO=out
+WBO_tag=B-PRT
+WBO=how
+WBO_tag=B-ADVP
+WBO=combine
+WBO=its
+WBO=suspension
+WBO=advanced
+WBO=bolt-on
+WBO=armor
+WBO=from
+WBO=an
+WBO=israeli
+WBO=meet
+SM2F=?
+SM2F_tag=O
+SM2L=BOUNDARY
+SM2L_tag=BOUNDARY
+WBO=external
+WBO=relations
+WBL=for
+SM2F=,
+SM2L=said
+SM2L_tag=B-VP
+WBO=is
+WBO=presiding
+WBO=over
+WBO=civil
+WBO=case
+WBL=in
+SM1F=but
+SM1L=,
+SM1L_tag=O
+SM2F=in
+SM2F_tag=B-PP
+SM2L=new_york
+WBFL=to
+WBFL_tag=B-PP
+SM2L=mojave
+WBF=has
+WBF_tag=B-VP
+WBO=managed
+WBO=5.2
+WBO=percent
+WBO=according
+WBL=to
+SM1F=while
+SM1F_tag=B-SBAR
+SM1L=percent
+SM1L_tag=I-NP
+SM2F=.
+WBF=spokeswoman
+WBF_tag=I-NP
+WBL=,
+WBL_tag=O
+SM1L=said
+SM1L_tag=B-VP
+SM2F=a
+WBO=20th
+WBO=century
+WBO=fox
+WBO=film
+WBO=studio
+SM1F=broadcast
+SM1F_tag=I-NP
+SM1L=network
+SM2L=fox_news
+WBO=billionaire
+WBO=founder
+SM1F=against
+SM1F_tag=B-PP
+SM1L=case
+SM2L=and
+WBF=coached
+WBO=winning
+WBO=teams
+WBO=in
+SM2L=2007
+WBF=is
+WBO=biotechnology
+WBO=project
+WBO=center_for_science
+WBF=name
+WBO=will
+WBO=appear
+WBO=on
+WBO=shelves
+WBO=only
+WBL=after
+SM1F=unloads
+SM1L=about
+SM2L=with
+WBF=agreed
+WBO=invest
+WBO=several
+WBO=million
+WBO=dollars
+WBO=prepare
+WBO=bid
+WBO=build
+WBO=five
+WBO=vehicles
+SM1L=thin
+SM2F=to
+SM2L=test
+SM2L_tag=I-VP
+WBF=order
+WBO=was
+WBO=much
+WBO_tag=B-ADJP
+WBO=lower
+WBO_tag=I-ADJP
+WBO=than
+WBO=one
+WBO=cited
+WBL=by
+SM1F=.
+SM1L=?
+SM2L=of
+WBF=declared
+WBO=h1n1
+WBO=national
+WBO=emergency
+WBL=federal
+WBL_tag=I-NP
+SM1F=president
+SM1F_tag=B-NP
+SM1L=before
+SM1L_tag=B-PP
+SM2L=prevention
+WBFL=,
+WBFL_tag=O
+WBF=spokesman
+SM2F=an
+WBO=general
+WBO=partner
+WBL=with
+WBO=network
+WBO=cableu
+WBO=cable
+WBO=tv
+WBO=noting
+WBO=it
+WBO=be
+WBO=good
+WBO=fit
+WBO=infectious
+WBO=diseases
+WBL=at
+SM2L=akron
+WBO=governor
+SM2L=in
+WBF=line
+WBO=also
+WBO=going
+WBO=two
+WBO=thousand
+WBO=ten
+SM1L=a
+SM2F=s
+WBO=33
+WBO=lawyer
+WBO=prestigious
+WBL=of
+SM1F=was
+SM2L=who
+WBF='s
+WBF_tag=B-NP
+WBL=new
+SM2F=BOUNDARY
+SM2F_tag=BOUNDARY
+WBO=financial
+WBO=officer
+WBO=economist
+SM2L=?
+SM1L=them
+WBFL=and
+WBFL_tag=I-NP
+SM1F=officer
+SM1L=compliance
+SM2F=of
+SM2L=charging
+WBO=vice
+WBO=president
+WBO=group
+WBO=account
+WBO=agency
+SM2L=chicago
+WBF=was
+WBO=advised
+SM1F=and
+WBO=marketing
+WBF=of
+WBO=ohio
+WBL=a
+SM2F=leader
+WBO=bidding
+WBO=this
+WBO=year
+SM1F=to
+SM1L=lost
+SM2F='s
+SM2L=business
+WBO=visiting
+WBO=fellow
+WBO=center_for_information_technology_policy
+WBO=princeton_university
+WBO=new_jersey
+WBO=professor
+SM2L=california
+WBO=gary_rosenbach
+WBO=another
+WBO=galleon
+WBO=their
+WBO=claim
+WBO=they
+WBO=were
+WBO=misled
+WBO=by
+WBO=creators
+WBO=promoters
+WBO=tax
+WBO=shelter
+WBO=later
+WBO=disallowed
+SM1L=award
+WBO=sony
+WBO=collaboration
+SM1L=nokia
+WBF=had
+WBO=supplied
+WBO=about
+WBO=four
+WBO=2007
+WBO=deals
+WBO=involving
+WBO=clients
+SM1F=information
+SM1L=secret
+WBO=tom_freston
+WBL=former
+SM1L=executive
+SM2F=chief
+SM2L=executive
+WBO=advertising
+WBO=promotion
+SM2L=gmc
+WBO=former
+WBO=compliance
+WBO=david_henigson
+WBO=value_line_securities
+WBO=charging
+WBO=more
+WBO=$
+WBO=24
+WBO=bogus
+WBO=commissions
+WBO=phantom
+WBO=trades
+WBO=brokerage
+WBO=services
+WBL=nine
+SM1L=value_line
+SM2F=mutual
+SM2L=funds
+WBF=said
+SM1L=hotels
+SM2F=has
+WBO=ms._buttner
+WBL=officer
+SM1L=value_line_securities
+SM2F=accused
+SM2L=s.e.c.
+WBO=deutsche_bank
+WBO=goldman_sachs
+WBO=law
+WBL=firms
+SM2L=swaine_
+WBL=firm
+SM1F=--
+SM1L=car
+SM2F=said
+SM2L=she
+WBF=agency
+WBL=is
+SM1L=part
+SM1F=in
+SM2F=for
+WBO=activision
+SM2L=which
+WBL=and
+SM1L=ms._buttner
+SM2F=did
+SM2L=not
+SM2F=enforcement
+SM2L=director
+WBO=mr._henigson
+WBO=market
+WBF=)
+WBL=--
+SM2F=(
+SM2L=los_angeles
+WBO=delaware
+WBO=odd
+WBO=venue
+SM1L=pick
+SM1L_tag=I-VP
+WBO=--
+WBO=treasury
+WBL=secretary
+SM1F=acknowledged
+SM1L=sunday
+SM2L=washington
+WBO=upgraded
+WBO=stock
+WBO=writing
+WBL=that
+WBL_tag=B-SBAR
+SM1F=?
+SM2F=with
+SM2L=analyst
+WBO=portland
+WBO=ore.
+WBO=among
+WBO=50
+WBO=travel
+WBO=consultants
+WBO=chosen
+WBO=as
+WBO=accredited
+WBO=space
+WBO=agents
+SM2L=owner
+WBO=charge
+SM1L=president
+SM2F=unit
+SM2L=holding
+SM1F=currently
+SM1F_tag=B-ADVP
+SM1L=owns
+SM2L=or
+WBF=from
+WBO=associating
+WBO=any
+WBO=broker
+WBO=dealer
+WBO=investment
+WBO=adviser
+WBO=acting
+WBO=or
+WBO=public
+SM2L=value_line
+WBF=to
+WBO=use
+WBO=core
+WBO=technology
+WBO=held
+WBO=own
+WBL=called
+WBL_tag=I-VP
+SM1L=that
+SM2F=allowed
+SM2L=that
+SM2L_tag=B-SBAR
+WBFL=for
+WBO=local
+WBO=strip-mall
+WBO=developer
+WBO=acquired
+WBO=abandoned
+WBO=brewery
+WBO=few
+WBO=miles
+WBL=from
+SM1F=when
+SM1L=--
+SM2F=nearly
+WBF=argues
+WBO=new
+WBO=there
+WBO=had
+WBO=worked
+WBO=skype
+WBO=founders
+SM2L=an
+WBFL=of
+WBO=stuck
+WBO=loyally
+WBO=slower
+WBO=chips
+WBO=auto
+WBO=specialist
+SM2L=london
+SM1L=travel
+SM2L=agreed
+SM2L=poughkeepsie
+WBO=california
+WBO=fund
+WBO=manager
+SM1F=charge
+SM1F_tag=I-VP
+SM1L=to
+SM2F=from
+SM2L=1999
+WBF=makes
+WBO=mouth-watering
+WBO=morsel
+WBL=humdrum
+SM1L=markets
+WBO=resorts
+WBO=omni_hotels
+WBO=walt_disney_world_swan
+SM1F=have
+SM1L=begun
+SM2L=choice_hotels
+WBO=official
+WBO=recently
+WBO=ran
+WBO=task
+WBO=force
+WBO=examining
+SM2F=should
+SM2L=update
+SM1F=barred
+SM1L=also
+SM1L_tag=B-ADVP
+WBO=spokeswoman
+SM1L=according
+WBO=s.a.c.
+WBO=1999
+WBO=through
+WBO=january
+WBO=2004
+WBO=insider
+WBO=trading
+WBO=committed
+SM2F=as
+SM2L=long
+SM2L_tag=B-ADVP
+SM2L=the
+SM2L=costco
+WBF=unit
+WBO=dean
+WBO=some
+WBO=other
+WBO=people
+WBO=arrested
+WBO=thursday
+WBO=personal
+WBO=professional
+WBO=links
+WBO=defendants
+WBO=larger
+WBO=pending
+WBO=against
+WBO=galleon_group
+WBO=hedge
+WBO=;
+WBO=raj_rajaratnam
+WBO=added
+WBO=complaint
+WBO=filed
+SM2F=on
+SM2L=thursday
+WBF=lied
+WBO=point
+WBO=because
+WBO=knew
+WBO=57
+WBO=withdrawal
+WBO=been
+WBO=requested
+WBO=big
+WBO=investor
+SM1F=claims
+SM1L=government
+WBO=consulting
+WBO=city
+WBO=commerce
+WBO=working
+WBO=alone
+WBL=freed
+SM1F=from
+SM1L=meeting
+SM2L=at
+WBO=tower_investments
+WBO=decided
+WBO=square
+WBO=inspired
+WBO=piazza_navona
+WBO=larry_freedman
+WBO=zoning
+WBO=chairman
+SM1L=instead
+SM1L=mr._rajaratnam
+SM1L=pandora
+WBO=include
+WBO=sheraton
+WBO=nokia
+SM1L=sony
+SM2F=by
+SM2L=2008
+WBF=;
+WBO=emerging
+WBO=markets
+SM1F='s
+SM1L=growth
+SM2L=his
+SM2L=decided
+WBO=nortel
+WBO='s
+WBO=business
+WBO=makes
+WBO=gear
+SM2F=mobile
+SM2L=communication
+WBF=wanted
+WBL=but
+SM2F=that
+SM2F_tag=B-SBAR
+SM2L=billion
+SM1F=by
+SM1L=created
+WBF=exits
+WBO=bankruptcy
+WBO=sale
+WBO=assets
+WBO=lenders
+SM1L=years
+SM2L=october
+WBFL=cpl.
+SM2L=problem
+WBO=told
+WBO=analysts
+WBO=earnings
+WBO=call
+WBO=cbs
+WBO=not
+WBO=know
+WBO=outcome
+WBO=negotiations
+SM2L=chairman
+SM1F=says
+SM2F=coordinator
+WBF=chief
+SM1L=photographs
+SM1F=conglomerate
+WBO=european_aeronautic_defense_
+WBO=&
+WBO=_space
+WBO=assessing
+WBO=effect
+WBO=but
+WBO=insisted
+WBO=current
+WBO=value
+SM2F=order
+SM2L=was
+WBO=principal
+WBO=pushed
+WBO=magna
+WBO=russian
+SM1L=chancellor
+WBO=janus_friis
+WBL=created
+SM1L=sold
+WBO=formerly
+SM2L=is
+WBF=iv
+WBO=west_virginia
+WBO=democrat
+SM1F=senator
+SM1L=by
+SM2L=brussels
+WBO=product
+WBF=are
+WBL=beijing-based
+SM1F=brother
+SM1L=his
+SM2L=one
+SM1L=instance
+SM2L=had
+SM2F=had
+SM2L=put
+WBO=head
+SM1L=advised
+WBF=case
+WBO=extreme
+WBO=example
+SM1F=the
+SM1L=while
+SM1L_tag=B-SBAR
+SM2L=seville
+WBO=nearing
+WBO=decision
+WBO=whether
+WBO=continue
+WBO=her
+WBO=daily
+WBO=talk
+WBO=show
+WBO=broadcast
+WBO=television
+WBO=move
+WBO=forthcoming
+WBO=channel
+WBO=she
+WBO=discovery
+WBO=communications
+WBO=production
+WBO=borrowers
+WBO=have
+WBO=could
+WBO=qualify
+WBL=president
+SM2L=guaranteed
+WBFL=v.
+SM1L=hand
+SM2L=no.
+WBO=end
+WBO=syndicated
+WBO=deal
+WBO_tag=B-LST
+SM1F=that
+SM1L=deadline_hollywood_daily
+SM2F=manager
+WBO=affiliate
+WBO=economics
+WBO=insead
+WBO=served
+SM2F=jury
+SM2L=panel
+WBO=aviation
+WBO=lender
+WBO=received
+WBO=government
+WBO=bail-out
+WBO=are
+WBO=grocery
+WBO=store
+WBO=chain
+WBO=tesco
+SM2L=operations
+SM2F=division
+WBFL=said
+WBFL_tag=B-VP
+SM2F=was
+SM2L=also
+WBO=admissions
+WBO=aid
+WBO=wharton_school
+WBF=contends
+WBO=needs
+WBO=done
+SM2L=reviewing
+WBO=indiana_university
+WBO=backing
+WBO=nasa
+WBO=food_lion
+WBO=myspace
+WBO=newspapers
+WBO=including
+WBO=wall
+WBO=street
+WBO=journal
+SM1F=like
+SM1L=assets
+WBF=himself
+SM1L=it
+SM2F=until
+SM2L=late
+WBO=antitrust
+WBO=expert
+WBF=caught
+WBO=6-year-old
+WBO=daughter
+WBO=june
+WBO=suffered
+WBO=headaches
+WBO=chills
+WBO=diarrhea
+WBO=reported
+WBO=13-an-hour
+WBO=help
+WBO=desk
+WBO=job
+SM2F=insurer
+SM2L=nonetheless
+SM1F=were
+SM1L=they
+SM2L=new_jersey
+WBO=lisa_mathewson
+SM1F=for
+SM1L=lawyer
+SM2L=overstepped
+WBF=destroyed
+WBO=phone
+WBO=biting
+WBL=its
+SM1L=complete
+SM1L_tag=B-ADJP
+SM2F=card
+WBO=perch
+SM1F=oust
+WBO=planned
+WBO=push
+WBO=similar
+WBO=standards
+WBO=final
+WBO=legislation
+SM2L=now
+WBO=competing
+WBO=contractors
+WBO=built
+WBO=most
+WBO=mraps
+WBO=bae_systems
+WBO=navistar
+SM2L=general_dynamics
+WBO=global
+WBO=european
+WBO=competition
+WBO=commissioner
+WBO=has
+WBL=take
+SM2L=court
+WBO=united_states
+WBO=attorney
+WBO=associate
+WBO=management
+WBO=mcdonough_school_of_business
+SM1F=quoted
+SM1L=xinhua
+SM2F=chairman
+WBF=expects
+WBO=108
+WBO=students
+WBO=enroll
+WBO=immersion
+WBO=course
+SM2L=year
+WBO=kevin_howard
+SM2L=houston
+WBO=alcatel-lucent
+WBO=announced
+WBO=cutbacks
+WBO=canadian
+WBO=equipment
+WBL=maker
+SM2F=filed
+SM2L=for
+SM2L=zynga
+WBO=virgin_money
+WBO=consumer
+WBO=credit
+WBO=arm
+WBO=retail_supply_chain_institute
+SM2L=massachusetts
+WBF=earned
+WBO=undergraduate
+WBO=degree
+WBO=engineering
+SM1L=1957
+SM2L=1980
+WBF=refused
+WBO=give
+WBL=family
+SM2L=to
+WBO=deliver
+WBO_tag=I-PP
+WBL=without
+WBO=accused
+WBO=sharing
+WBO=information
+WBO=least
+WBO=handling
+SM1L=is
+WBF=heads
+WBF=advertising
+WBO=design
+WBO=boulder
+WBO=hapa_sushi
+WBO=restaurant
+WBO=based
+WBO=features
+WBO=map
+WBO=denver
+SM1F=with
+SM1L=63
+SM2L=--
+SM2F=at
+SM2L=babson_college
+WBO=compensation
+SM1F=both
+SM2F=have
+SM2L=been
+WBO=88
+WBO=father
+SM2L=november
+WBF=that
+WBF_tag=B-SBAR
+WBO=intel
+WBL=paid
+SM1F=reminded
+SM1L=mr._otellini
+SM2F=more
+SM2L=than
+WBF=will
+WBL=open
+SM1L=2011
+WBO=using
+WBO=term
+WBO=favored
+WBO=proponents
+WBO=like-minded
+WBL=before
+SM1L=secretary
+WBO=programs
+WBO=s.e.c.
+SM2L=.
+WBFL=-
+SM2F=-
+SM2L=report
+WBO=gary_l._pechota
+WBO=giant_cement_holding
+WBO=hardly
+WBO=sitting
+WBO=still
+WBO=under
+SM1L=who
+SM2L=predicted
+WBO=wilson_autographed
+WBO=8
+WBO=x
+WBL=10
+SM1F=authentic
+WBO=like
+WBO=costco
+SM2F=were
+WBFL=founded
+SM1L=logic
+WBO=property
+WBL=consultant
+SM2L=believes
+WBO=4.4
+WBF=broke
+WBO=even
+WBO=selling
+WBO=subscriptions
+WBO=700
+WBO=schools
+SM1L=its
+SM2L=sentenced
+WBO=south_african
+WBO=order
+SM2L=parent
+WBF=for
+WBO=22
+WBO=premium
+WBO=ceded
+WBO=position
+SM2L=toolmaker
+WBO=center_city
+WBO=nearly
+WBO=decade
+WBO=ago
+WBO=artists
+WBO=gravitated
+WBO=surrounding
+WBO=area
+WBO=search
+WBO=cheap
+WBO=housing
+WBO=feared
+WBO=plop
+WBO=unwanted
+WBO=big-box
+WBO=shopping
+WBO=center
+WBO=into
+WBL=gritty
+SM2F=neighborhood
+WBO=court
+WBO=stretches
+WBO=beyond
+WBO=interests
+WBO=a.m.d.
+WBO=which
+WBO=building
+WBO=4.2
+WBO=billion
+WBO=plant
+WBO=saratoga_county
+WBO=upstate_new_york
+WBO=spinoff
+SM1L=filed
+SM2L=food_lion
+WBF=chairman
+SM1L=has
+WBO=trauma
+WBO=surgeon
+SM2F=hospital
+SM1L=put
+WBO=brother
+WBO=wang_zhonglei
+WBO=strategist
+SM1F=commented
+SM2L=hong_kong
+WBO=monopoly
+WBO=power
+WBO=abused
+SM2L=servers
+WBO=speaker
+SM1F=stimulus
+WBO=reserve_bank_of_india
+WBO=aimed
+WBO=increasing
+WBO=resources
+SM2L=as
+WBL=thwarting
+SM1L=conference
+WBO=pick
+WBO=lawsuit
+WBL=against
+SM1L=venue
+WBO=creative
+WBO=audi
+SM2L=san_francisco
+SM2F=agency
+SM2L=told
+WBO=where
+WBO=mr._goffer
+WBO=once
+WBO=incremental_capital
+WBO=health
+WBO=policy
+WBL=backed
+SM1L=linkedin
+SM2L=monday
+WBO=foundation_capital
+WBO=venture
+WBO=capital
+WBO=menlo_park
+WBO=calif.
+WBO=rented
+WBO=suites
+WBL=nearby
+SM2F=office
+SM1F=chief
+WBO=run
+SM1L=jumped
+SM2L=when
+SM2L=will
+WBO=spokesman
+WBO=past
+WBL=represented
+WBO=helped
+WBO=game
+WBO=financing
+SM1L=director
+WBO=support
+SM2F=store
+WBO=latest
+SM1L=win
+SM2L=shifting
+WBF=charged
+WBO=wednesday
+SM1F=had
+SM1L=made
+WBF=set
+WBO=up
+WBO=school
+SM1L=helped
+SM2L=called
+WBL=where
+WBL_tag=B-ADVP
+SM1F=once
+SM1L=worked
+WBF=bought
+WBO=values
+WBO=northern_liberties
+WBO=increased
+WBO=32
+WBO=foot
+WBO=140
+SM1F=since
+WBO=education
+SM2F=who
+WBO=typically
+WBO=given
+WBO=pill
+WBO=relenza
+SM1L=tamiflu
+WBO=architecture
+WBO=critic
+WBF=sampling
+WBO=cookies
+WBO=check-in
+SM1L=stephanie_hilton
+SM2F=guest
+SM2L=suites
+WBO=assistant
+WBO=secretary
+WBO=preparedness
+WBO=response
+WBO=universities
+WBO=cut
+WBO=amount
+WBO=money
+WBO=invests
+WBO=undisclosed
+WBO=greylock
+WBO=represents
+WBO=almost
+WBO=all
+SM1L=.
+WBF=complaint
+WBL=named
+WBO=factors
+WBL=precipitated
+SM2L=uncertainty
+SM2L=president
+WBO=controls
+WBO=cornucopia
+WBO=media
+WBO=fox_news
+SM1L=owned
+SM2L=moscow
+WBO=chrysler
+WBO=plotting
+WBO=turnaround
+WBO=effort
+SM1L=focused
+SM2F=like
+WBF=until
+WBO=late
+WBO=closely
+WBO=intertwined
+WBO=joltid
+WBO=code
+WBO=made
+WBO=difficult
+WBO=ebay
+WBO=make
+WBO=changes
+WBO=without
+WBO=violating
+SM1F=contract
+WBF=reminded
+WBO=mr._dell
+SM2L=paid
+WBO=turner_entertainment_networks
+WBO=orchestrating
+SM2F=cable
+SM2L=channel
+WBF=-
+WBO=hitting
+WBO=brakes
+SM1F=-
+SM1L=preoccupations
+SM2L=nytimes.com
+WBO=brand
+WBO=wisk
+WBO=owned
+WBF=annual
+WBO=meeting
+WBO=oct.
+SM2L=before
+SM2L=rome
+WBO=concerned
+WBL=while
+SM1L=stuck
+SM2L=chips
+SM2L=wrote
+SM1F=also
+SM1L=sued
+WBO=democrat_of_connecticut
+WBO=lead
+WBO=sponsor
+SM2L=st._louis
+WBO=step
+WBO=down
+WBL=as
+SM2L=-
+WBF=hedge
+WBO=managers
+SM1L=above
+SM2F=former
+SM2L=two
+WBO=87
+WBO=producer
+WBL=`
+SM1F='
+SM1L=on
+WBL=an
+SM2F=official
+SM2L=force_protection
+WBO=corporate
+WBO=environmental
+WBO=affairs
+WBO=safety
+WBO=i.b.m.
+WBO=instance
+SM2F=contributed
+WBO=sandy_lewis
+WBO=sampling
+SM1L=tarah_hilton
+SM2L=noted
+WBF=executive
+WBO=sales
+WBO=client
+SM1L=described
+SM2L=interview
+SM2L=has
+WBO=contrast
+SM1L=customers
+WBO=firms
+WBO=cravath
+SM2L=venable
+WBO=identified
+WBO=model
+SM1L=senior
+SM2L=sold
+WBL=century
+SM1F=film
+SM1L=studio
+SM2L=collaboration
+WBL=;
+SM2F=8
+SM2L=x
+WBO=accumulated
+WBO=staggering
+WBO=real
+WBO=estate
+SM1L=site
+WBO=many
+WBO=world
+WBO=now
+WBO=hard
+WBO=ensure
+WBO=come
+WBO=next
+WBO=when
+SM2F=program
+WBO=nokia_siemens
+WBO=feeling
+WBO=pressure
+WBO=huawei
+SM2L=rivals
+SM1F=week
+SM1L=this
+SM2L=upgraded
+SM1L=founder
+SM2L=g.m.
+WBO=host
+SM2L=show
+SM2L=were
+WBL=covers
+SM2L=leerink_swann
+WBO=g.m.
+SM2L=princeton_university
+WBFL=quoted
+SM2L=manufacturing
+SM2L=tempe
+WBF=does
+WBO=unfairly
+WBO=influence
+SM2L=ensure
+WBO=reduce
+WBO=deficit
+WBO=matthew_tannin
+WBO=above
+SM1L=arriving
+WBF=orchestrated
+WBO=illegal
+WBO=profiting
+WBO=secret
+WBO=mr._cutillo
+SM1L=say
+SM2L=navistar
+SM2L=dartmouth
+WBF=delayed
+WBO=buying
+SM1L=in
+SM2L=increased
+SM1L=syngenta
+SM2F=--
+SM2L=companies
+WBO=stephanie_hilton
+SM1L=left
+SM2F=columnist
+WBO=briefly
+WBL=joined
+SM1F=before
+SM1L=being
+SM2F=left
+SM2L=sketched
+WBO=jean_buttner
+WBO=resigned
+WBO=succeeded
+WBO=legal
+WBF=found
+WBO=mr._rajaratnam
+SM1L=another
+WBO=coordinator
+WBO=entrepreneur
+SM1L=mr._henigson
+WBO=force_protection
+SM1F=code
+SM1L=and
+WBO=flies
+SM1F=capt.
+SM2F=170
+WBO=designer
+WBO=chrome
+WBO=browser
+WBO=mozilla
+WBO=creator
+SM1L=requested
+WBO=starwood_hotels
+SM2F=including
+SM1L=managed
+WBF=broadcast
+WBO=september
+WBO=original
+SM2L=bid
+SM2L=its
+WBO=created
+WBO=small
+WBO=price
+WBO=pay
+WBO=loyalty
+WBO=someone
+WBO=e-commerce
+SM2F=covers
+WBO=worldwide
+WBO=jpmorgan_chase
+SM2F=led
+SM2L=financial
+WBO=front
+WBO=agent
+SM1F=winter
+SM2L=boston
+SM2F=chain
+SM2L=store
+WBO=viacom
+SM2L=according
+WBO=dodge
+WBO=steep
+WBO=bill
+WBO=left
+WBO=transaction
+WBL=mogul
+SM2F=allow
+SM2F_tag=I-VP
+WBL=china_europe
+SM2L=shanghai
+SM2F=spokesman
+WBO=united_states_court_of_appeals
+WBO=talking
+WBO=potential
+WBO=partners
+WBL=commercializing
+SM2L=selling
+WBO=securities_and_exchange_commission
+SM2F=conference
+WBF=obtained
+WBO=these
+WBO=reports
+SM2F=under
+WBO=analysis
+WBO=spendingpulse
+WBO=service
+WBF=blog
+WBO=:
+WBO=cuts
+SM1F=:
+SM1L=topics
+WBF=could
+WBO=conceivably
+WBO=considering
+SM2L=evanston
+SM2L=advises
+SM2L=goldman_sachs
+WBF=told
+WBO=reporters
+WBO=london
+SM2F=reported
+WBO=onboard
+WBO=products
+WBF=would
+WBFL=that
+WBFL_tag=B-SBAR
+SM1L=decided
+SM2F=site
+SM2L=web
+WBO=likely
+SM1L=mr._lecroy
+WBO=engineer
+SM2L=demonstrated
+WBFL=owner
+SM2F=salute
+SM2L=we
+WBO=stanley
+SM1L=executives
+WBO=boston
+WBO=flown
+WBO=midwest
+WBO=says
+WBO=portfolio
+WBF=created
+WBO=application
+SM2F=about
+SM2L=20
+WBF=led
+WBO=separated
+WBO=chip
+WBO=manufacturing
+WBO=making
+WBO=independent
+WBO=entity
+WBO=known
+SM1L=declined
+WBO=university_of_alabama
+WBO=monday
+SM1F=accused
+SM2L=insurers
+WBO=export
+WBL=state-owned
+SM2F=founders
+SM1L=enron
+WBF=also
+WBF_tag=B-ADVP
+WBO=turned
+WBO=joint
+WBO=proposal
+SM2L=defense
+WBO=joined
+WBO=automaker
+WBO=three
+WBO=years
+WBF=president
+WBO=banking
+WBO=greenxchange
+WBO=science
+SM2L=filed
+WBO=taken
+WBO=advantage
+WBO=speculation
+WBO=possibly
+WBO=leaving
+WBO=enhance
+WBO=renewals
+WBO=negotiating
+WBO=syndicators
+WBL=than
+SM2L=several
+WBO=2006
+WBO=graduate
+WBO=operating
+WBF=says
+WBO=thinks
+WBO=30
+WBO=upside
+SM2F=stock
+SM2L=price
+SM1L=gary_rosenbach
+SM1F=after
+SM1L=occurred
+SM2L=pressed
+SM2F=would
+WBO=cardiologist
+WBF=wrote
+WBO=letters
+SM2F=directors
+SM2L=suggesting
+WBL=sued
+WBF=owns
+WBO=4
+WBL=on
+SM2F=television
+SM2L=operating
+SM1F=including
+WBO=leo_burnett
+WBO=part
+WBO=impersonating
+WBO=employees
+WBO=new_york_city
+WBO=development
+WBO=solow_realty
+SM1L=prosecutors
+WBF=whether
+WBO=meant
+WBO=taxes
+WBO=rise
+SM1F=avoided
+SM1L=providing
+SM1F=could
+SM1L=benefit
+WBO=university_of_wisconsin
+WBO=early
+WBO=software
+WBL=company
+WBO=buick
+SM2F=lines
+WBO=6
+WBO=decline
+WBL=executive
+SM1L=resigned
+WBO=schottenfeld
+WBO=trader
+WBO=pleaded
+WBO=guilty
+WBO=criminal
+SM1F=named
+SM1L=complaint
+SM2F=itself
+WBO=holds
+WBO=title
+SM2F_tag=B-ADVP
+SM2L=well
+SM2L_tag=I-ADVP
+WBO=owner
+SM2L=portland
+WBFL=at
+WBF=film
+SM1F=century
+SM1L=20th
+SM2L=costa_mesa
+WBF=aside
+SM2L=strong-arming
+WBL=retired
+SM2F=colonel
+WBF=lost
+SM1L=bidding
+WBF=bars
+SM2F=complimentary
+SM2F_tag=B-UCP
+SM2L=namely
+WBO=entrepreneurial
+WBO=morgan_stanley
+WBO=already
+WBO=calling
+WBF=(
+WBO=5
+WBO=)
+WBO=advanced_micro_devices
+WBFL=after
+WBO=best
+WBO=helping
+WBL=oust
+SM2L=nominated
+WBO=zynga
+WBO=digg
+SM1F=;
+SM2L=against
+WBO=europe
+WBO=team
+SM2L=georgetown_university
+WBO=houlihan_lokey_howard_
+WBO=_zukin
+SM2F=;
+WBO=labor
+WBO=started
+WBO=2008
+SM2F=eco-patent
+SM2L=lead
+SM2F=hedge
+SM2L=fund
+WBO=programming
+WBO=open
+WBO=innovation
+SM2L=berkeley
+WBF=derived
+WBO=24.6
+WBO=63.7
+WBO=total
+WBO=revenue
+WBO=last
+WBO=drugs
+SM2F=which
+SM2L=from
+SM1L=was
+WBO=deputy
+WBO=mr._otellini
+WBO=e-mail
+WBO=message
+WBO=colleague
+WBO=yield
+WBO=greater
+WBO=numbers
+WBO=high-quality
+WBO=inventions
+WBL=says
+SM1L=greenxchange
+SM2L=structure
+WBO=seeking
+WBO=costs
+WBO=concessions
+SM1L=ryanair
+SM2L=citigroup
+WBO=hoped
+SM2L=consider
+WBO=david
+WBO=jolly
+WBL=bill
+WBO=actively
+WBO=mentoring
+WBO=entrepreneurs
+WBO=investing
+WBO=since
+WBO=2002
+WBL=when
+SM2L=where
+WBF=once
+SM1F=where
+SM1L=firm
+WBO=29-year-old
+WBO=india
+WBO=studying
+SM1L=month
+WBF=committee
+WBO=referred
+SM1F=as
+WBO=star
+SM1F=star
+SM1L=will
+SM2F=sitcom
+SM1L=resorts
+SM2L=dolphin_resort
+SM1L=now
+SM2F=carmaker
+SM2L=italian
+SM2L=development_company
+WBO=mayflower
+WBO=german
+WBO=prosperous
+WBO=japanese
+WBO=drug
+WBO=licensing
+WBO=rights
+SM2L=ran
+WBO=swaine_
+WBO=_moore
+WBO=strategy
+WBL=left
+SM1L=employee
+SM2L=briefly
+11
+others
+director
+spokesperson
+founder
+head
+lawyer
+advisor
+analyst
+professor
+manager
+leave
+11 0 1 2 3 4 5 6 7 8 9 10 
+11 0 1 2 3 4 5 6 7 8 9 10 
+4 0 4 6 10 
+11 0 1 2 3 4 5 6 7 8 9 10 
+7 0 1 3 4 5 6 10 
+11 0 1 2 3 4 5 6 7 8 9 10 
+6 0 1 3 4 8 10 
+10 0 1 2 3 4 5 6 8 9 10 
+1 0 
+6 0 3 4 5 6 9 
+9 0 1 3 4 5 6 8 9 10 
+2 0 4 
+1 0 
+1 0 
+1 0 
+2 0 3 
+9 0 1 2 3 4 5 7 8 9 
+9 0 1 2 3 4 5 7 8 9 
+11 0 1 2 3 4 5 6 7 8 9 10 
+11 0 1 2 3 4 5 6 7 8 9 10 
+3 0 1 8 
+7 0 1 2 3 4 6 9 
+1 0 
+5 0 1 3 4 6 
+10 0 1 2 3 4 5 7 8 9 10 
+3 0 4 7 
+3 0 4 7 
+3 0 4 7 
+1 0 
+1 0 
+1 0 
+4 0 3 4 6 
+1 0 
+1 0 
+11 0 1 2 3 4 5 6 7 8 9 10 
+11 0 1 2 3 4 5 6 7 8 9 10 
+11 0 1 2 3 4 5 6 7 8 9 10 
+1 0 
+2 0 3 
+3 0 3 4 
+1 0 
+1 0 
+1 0 
+1 0 
+3 0 3 6 
+1 0 
+8 0 1 3 4 5 6 8 9 
+1 0 
+9 0 1 3 4 5 6 8 9 10 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+9 0 1 2 3 4 5 8 9 10 
+6 0 2 3 4 7 9 
+9 0 2 3 4 6 7 8 9 10 
+1 0 
+6 0 1 3 4 6 7 
+1 0 
+2 0 4 
+5 0 1 3 4 7 
+9 0 1 2 3 4 5 7 8 9 
+1 0 
+2 0 4 
+1 0 
+7 0 1 3 4 6 8 10 
+1 0 
+1 0 
+1 0 
+2 0 4 
+2 0 4 
+1 0 
+1 0 
+1 0 
+4 0 3 4 6 
+1 0 
+1 0 
+1 0 
+2 0 3 
+2 0 6 
+3 0 3 4 
+6 0 2 3 4 5 8 
+1 0 
+7 0 2 3 4 6 8 9 
+2 0 1 
+4 0 1 4 8 
+1 0 
+2 0 5 
+1 0 
+9 0 1 2 3 4 5 8 9 10 
+1 0 
+4 0 1 4 9 
+9 0 1 2 3 4 7 8 9 10 
+1 0 
+1 0 
+1 0 
+4 0 3 4 6 
+1 0 
+1 0 
+5 0 1 2 4 5 
+1 0 
+1 0 
+1 0 
+1 0 
+2 0 4 
+1 0 
+4 0 4 6 9 
+1 0 
+3 0 3 4 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+6 0 5 6 7 8 9 
+1 0 
+1 0 
+5 0 1 2 4 8 
+11 0 1 2 3 4 5 6 7 8 9 10 
+8 0 1 2 3 4 5 6 8 
+8 0 1 2 3 4 5 6 8 
+1 1 
+1 1 
+5 0 1 2 4 7 
+10 0 1 2 3 4 5 6 7 8 10 
+8 0 1 4 5 6 7 8 10 
+8 0 1 4 5 6 7 8 10 
+3 0 4 6 
+1 0 
+1 0 
+1 0 
+1 0 
+2 0 1 
+3 0 4 8 
+7 0 1 2 4 5 6 8 
+8 0 1 2 3 4 5 6 8 
+7 0 1 2 4 7 8 9 
+7 0 1 2 4 7 8 9 
+2 0 7 
+1 0 
+1 0 
+1 0 
+1 0 
+6 0 1 3 4 6 8 
+1 0 
+1 0 
+2 0 4 
+1 0 
+2 0 6 
+1 0 
+1 0 
+1 0 
+4 0 3 7 10 
+9 0 1 2 4 5 6 7 8 9 
+1 2 
+5 0 2 3 4 9 
+5 0 2 3 4 9 
+6 0 2 3 4 6 9 
+3 0 2 4 
+5 0 2 3 4 9 
+2 0 2 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+3 0 3 7 
+1 0 
+1 0 
+1 3 
+2 0 3 
+1 3 
+8 0 1 2 3 4 5 7 8 
+1 3 
+3 0 3 10 
+1 0 
+1 0 
+1 0 
+2 0 8 
+1 0 
+4 0 1 4 8 
+2 0 1 
+2 0 1 
+1 0 
+1 0 
+2 0 4 
+1 0 
+2 0 4 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+2 0 8 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+3 0 4 6 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+4 0 3 4 6 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+5 0 1 4 6 9 
+1 0 
+2 0 4 
+1 0 
+4 0 2 4 7 
+1 0 
+2 0 4 
+2 0 4 
+1 2 
+1 2 
+2 0 9 
+1 0 
+4 0 4 5 7 
+2 0 7 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 4 
+1 4 
+9 0 1 2 4 5 7 8 9 10 
+1 4 
+2 0 10 
+4 0 2 4 9 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+2 0 3 
+1 0 
+1 5 
+1 5 
+1 5 
+6 0 1 3 4 5 10 
+3 0 4 5 
+2 0 5 
+1 0 
+2 0 4 
+1 0 
+4 0 3 4 6 
+4 0 3 4 6 
+4 0 1 4 7 
+2 0 4 
+2 0 4 
+7 0 1 2 4 7 8 9 
+1 4 
+1 0 
+2 0 4 
+1 0 
+1 0 
+2 0 4 
+1 0 
+3 0 4 10 
+3 0 4 10 
+1 0 
+1 0 
+1 0 
+1 0 
+3 0 3 6 
+2 0 6 
+4 0 3 4 6 
+3 0 4 8 
+2 0 4 
+1 4 
+4 0 2 4 9 
+1 4 
+1 0 
+1 0 
+1 0 
+5 0 1 2 4 7 
+1 0 
+1 0 
+1 0 
+2 0 8 
+2 0 8 
+2 0 8 
+1 8 
+1 8 
+4 0 4 6 8 
+1 8 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+3 0 4 6 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+2 0 4 
+1 0 
+2 0 4 
+2 0 4 
+2 0 1 
+2 0 1 
+1 1 
+6 0 1 3 4 6 10 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+2 0 4 
+1 0 
+1 0 
+1 0 
+2 0 4 
+1 0 
+1 0 
+1 0 
+2 0 6 
+2 0 6 
+3 0 6 8 
+2 0 6 
+1 6 
+2 0 4 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+2 0 4 
+1 3 
+3 0 3 4 
+3 0 6 9 
+1 0 
+1 0 
+1 0 
+1 1 
+2 0 1 
+1 0 
+1 4 
+1 0 
+1 0 
+2 0 3 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+3 0 4 8 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+3 0 4 7 
+1 0 
+1 0 
+2 0 4 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 4 
+1 0 
+1 0 
+1 0 
+1 0 
+2 0 4 
+1 0 
+1 0 
+1 0 
+1 0 
+2 0 4 
+2 0 6 
+1 0 
+1 0 
+2 0 4 
+1 0 
+2 0 4 
+1 0 
+1 0 
+2 0 10 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+2 0 4 
+1 0 
+1 0 
+2 0 3 
+2 0 1 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+3 0 4 7 
+1 7 
+1 7 
+1 8 
+1 0 
+3 0 3 9 
+3 0 4 9 
+1 0 
+2 0 4 
+2 0 4 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+3 0 4 9 
+1 2 
+4 1 2 4 7 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+2 0 4 
+5 0 1 2 4 8 
+1 0 
+1 0 
+1 4 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+2 0 3 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+2 0 4 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+2 0 4 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+2 0 4 
+2 0 4 
+2 0 4 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+2 0 4 
+1 0 
+1 0 
+1 0 
+1 0 
+1 4 
+1 0 
+1 0 
+3 0 4 8 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+3 0 3 8 
+2 0 8 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+2 0 4 
+3 0 4 8 
+1 0 
+1 4 
+1 0 
+1 0 
+1 0 
+2 0 6 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+2 0 8 
+1 4 
+1 0 
+1 0 
+1 0 
+1 0 
+1 3 
+1 3 
+1 3 
+1 0 
+2 0 8 
+1 4 
+1 4 
+1 4 
+1 4 
+1 4 
+1 0 
+2 0 9 
+2 0 3 
+1 3 
+1 3 
+2 0 3 
+1 3 
+3 0 3 7 
+1 7 
+1 0 
+1 0 
+2 0 4 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 2 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 9 
+1 0 
+2 0 8 
+2 0 4 
+1 0 
+1 0 
+1 0 
+2 4 7 
+1 0 
+1 0 
+1 0 
+1 0 
+2 0 3 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 4 
+1 0 
+2 0 3 
+1 0 
+1 0 
+2 0 1 
+2 0 1 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 4 
+1 4 
+1 4 
+1 4 
+1 8 
+2 0 8 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+2 0 1 
+2 0 1 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 4 
+1 4 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+3 0 1 4 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 5 
+1 5 
+3 0 4 8 
+2 0 8 
+1 0 
+1 4 
+1 4 
+1 4 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+2 0 3 
+1 0 
+2 0 4 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+2 0 4 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 4 
+1 4 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+3 0 1 8 
+1 8 
+1 5 
+1 0 
+1 0 
+1 0 
+1 3 
+1 3 
+1 3 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 4 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 4 
+1 4 
+1 4 
+2 0 4 
+2 0 4 
+1 4 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 3 
+1 3 
+1 1 
+1 1 
+1 1 
+1 0 
+1 3 
+2 0 3 
+1 3 
+1 3 
+1 3 
+1 3 
+1 3 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 4 
+1 4 
+1 0 
+1 0 
+1 0 
+1 4 
+1 3 
+1 3 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+2 0 1 
+1 0 
+1 0 
+1 1 
+1 4 
+1 0 
+1 0 
+1 0 
+1 0 
+1 8 
+1 8 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+2 0 4 
+1 4 
+1 4 
+1 4 
+2 0 10 
+1 2 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+2 4 9 
+1 9 
+1 0 
+1 0 
+1 0 
+1 0 
+2 0 4 
+2 0 4 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+2 6 8 
+2 5 8 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 4 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 4 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+2 0 4 
+2 0 4 
+2 0 4 
+1 4 
+2 3 9 
+1 9 
+1 9 
+2 4 9 
+1 9 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+2 0 4 
+1 0 
+2 0 4 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 4 
+1 4 
+2 4 9 
+1 4 
+1 4 
+1 4 
+1 4 
+1 0 
+1 0 
+2 0 6 
+2 0 6 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+2 0 6 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 7 
+1 7 
+1 7 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 8 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 9 
+1 9 
+1 9 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 8 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 4 
+1 4 
+1 4 
+1 4 
+1 4 
+1 0 
+1 0 
+1 0 
+2 0 4 
+1 10 
+1 0 
+1 0 
+1 0 
+2 0 3 
+1 0 
+1 0 
+1 0 
+1 3 
+1 3 
+1 3 
+2 0 3 
+1 3 
+1 3 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 3 
+1 0 
+1 0 
+1 0 
+2 0 4 
+1 0 
+1 1 
+1 0 
+1 4 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+2 0 6 
+2 0 6 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 2 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 4 
+1 5 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 1 
+1 1 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 4 
+1 4 
+1 4 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 4 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 4 
+1 0 
+1 0 
+1 0 
+1 9 
+1 9 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 4 
+1 8 
+1 4 
+1 4 
+1 8 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 4 
+1 4 
+1 4 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 4 
+1 4 
+1 0 
+1 0 
+1 4 
+1 5 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 6 
+1 6 
+2 0 6 
+1 6 
+1 0 
+1 0 
+1 0 
+1 0 
+1 4 
+1 4 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 4 
+1 4 
+1 0 
+1 0 
+1 0 
+1 0 
+1 9 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 4 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+2 3 10 
+1 3 
+1 4 
+1 4 
+1 8 
+1 0 
+1 0 
+2 0 10 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 4 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 4 
+1 4 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+2 0 10 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 4 
+1 4 
+1 4 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 0 
+1 6 
+1 6 
+1 4 
+1 0 
+1 0 
+1 0 
+2321
+-0.81404741425884274975
+4.2065778236166195825
+5.0281133835199396387
+-5.3162621018848010834
+0.40845109315125888161
+1.9883263251962097762
+-8.5780981611379925056
+4.2065838135077058269
+-3.1281690455497321857
+2.5690340360138095299
+-0.57050975217334043421
+0.62110990631852891486
+3.965233852822777294
+4.874789341993531977
+-2.1424329091255072122
+-2.800258936001516652
+1.8426380299728681855
+-8.8233209913664190083
+4.0481216901159564614
+-3.3651598982774832969
+2.4555416874733229093
+-0.67626177393923780912
+-19.431233517908161446
+34.510996496825590896
+0.82809525796946492626
+7.4776445677003140489
+8.5351069939293733313
+-3.4327028290614447492
+-4.9382949710081849304
+9.602742521332611858
+5.1536931578105740215
+-1.6732232113983231958
+9.1607474555574412989
+-9.4962349122243736588
+-0.034753552101523976781
+-3.8779920564101848512
+-8.9990885963220623722
+-12.390596846515219198
+5.1750669610779063134
+1.4207627338578974197
+2.9554325930958520452
+4.0817781951671943119
+0.95053884828033674559
+7.5877577269601070853
+2.8026741960885548366
+0.73137009566230937185
+-7.7194961125570049632
+-5.7790878604134165997
+-2.0532720915559403707
+5.6265290385404114204
+4.1080035564902193101
+-2.0096346832078753053
+-7.6118516109899205802
+4.3008638171729227651
+7.6039016553734599668
+-3.0537851127685069486
+1.8645906510483183371
+10.337553011177400109
+11.542063978414175196
+2.2279617878821857957
+1.9463768381029551424
+13.03722322975154313
+0.87546867316738052889
+-0.68368204393466169844
+2.8652313389888539596
+-4.755563630377411144
+1.2461033314841141184
+-1.6415223263589489022
+8.5654076972252681799
+-0.32337573407128061831
+-3.5316891312877363163
+3.012718719501534359
+1.475304136583458714
+6.3115448970982219734
+0.76536964862780842989
+1.4623600711119819628
+1.1467170976391043435
+7.464671596613743354
+9.4794657746841082258
+-6.4728100479526382571
+8.6274433587576133675
+0.19438463417645482356
+-1.1712259333586099164
+-2.1793170280005811357
+-2.6851486934473731694
+4.9681810049475076951
+-2.9442238180354820543
+2.1325780979102715307
+-0.74764209392007696664
+3.012718719501534359
+3.012718719501534359
+2.6315087884305885524
+7.0560147571604803218
+6.9380813782916090915
+-9.0644608069486789503
+5.9259678656806622499
+5.2260941373324136805
+-0.57366071870485413342
+3.4594346708945504787
+1.7468920017003211065
+0.95451471310927626934
+0.070313425746132876548
+3.8883707054946192727
+7.6713176322861729162
+6.2597152134165767734
+2.6142167635981397034
+-4.6262342376673935007
+6.4064898760835511382
+2.9604691614222939933
+-2.1980179946886360121
+-0.79927080252301763164
+0.96151904346442718108
+10.883936522571813654
+-0.76990197456214348737
+-3.6843283190526947557
+-2.8878223666129270164
+0.73320768621990306535
+0.34529574580950811447
+-5.9710537345968788259
+-1.1533712540486249498
+0.67989295944807937033
+2.9231462100513172508
+-1.0990014753231731603
+10.883936522571813654
+-0.76990197456214348737
+-3.6843283190526947557
+-2.8878223666129270164
+0.73320768621990306535
+0.34529574580950811447
+-5.9710537345968788259
+-1.1533712540486249498
+0.67989295944807937033
+2.9231462100513172508
+-1.0990014753231731603
+13.006746300848016418
+3.5863707548272136805
+0.37385382382238457888
+3.0976049212303391478
+3.0209874439562085513
+1.1119639869441844127
+2.2761942673883850397
+3.3794903620371572472
+-1.6967820443652632534
+9.507021572433835388
+2.6315087884305885524
+8.0598905351787255569
+6.2044378502752008941
+5.1407832814873311023
+5.7655697557333098757
+-1.3641900849438362009
+-11.221565420937498203
+-5.536196469507268958
+11.727177128082987068
+1.0281670875391366593
+-7.9051994298885759349
+2.657054679408052511
+1.9710208469310719348
+17.771981531377846864
+-6.3760383943698135667
+4.7212678780790673372
+4.8365378876591069712
+8.8872803486818874319
+2.9839766487340457779
+4.3606473968148042886
+-0.37680288262097211271
+4.6845991781223945694
+-9.7592078813713545316
+-7.5788215969872334554
+33.608799735510331175
+9.4545499830443215927
+0.29649797870174332548
+6.9991896965028903566
+23.849908616043197895
+-1.836523004186837893
+2.3973736608345186383
+3.3965561087314708466
+0.40592510135426518314
+0.82297481285762552616
+-4.5594120272398059868
+4.6629507386799762259
+-0.64308099700376752939
+-5.1420553158462958265
+4.8794990973366036968
+0.50057361664752486607
+-2.7486133939872798848
+13.155876071889101908
+-2.2497264373858096853
+-6.7897208208768429216
+-1.066290532216608522
+-2.9431470448637657711
+0.69880561451627776215
+3.7319089014560535844
+-1.6400940114386770574
+2.44738261443509586
+-1.5806094648100923461
+0.27583826245636300367
+-2.0526766014143511541
+-3.9372616068107224585
+-0.19365965881543534266
+5.1935129952697334232
+-2.9431470448637657711
+0.69880561451627776215
+3.7319089014560535844
+-1.6400940114386770574
+2.44738261443509586
+-1.5806094648100923461
+0.27583826245636300367
+-2.0526766014143511541
+-3.9372616068107224585
+-0.19365965881543534266
+5.1935129952697334232
+0.19898696403340021543
+3.8476620161332011349
+7.4739221159686684004
+-2.9390826045197968597
+3.7086216882928120242
+0.62460014657681217631
+0.55844785250964157353
+0.55844785250964157353
+0.55844785250964157353
+0.55844785250964157353
+-1.7683565007056556428
+2.938149538974229813
+4.2905940040907077915
+0.5646640334033311559
+-5.4553141764229060584
+-0.085476101537924328855
+-0.83831702090735049637
+-11.045313034710831701
+2.4426797301961875597
+1.6352228266495112408
+12.880440771561964652
+7.6496127685080113068
+0.13280476235237953508
+-2.5478677942667307121
+-2.1419036398559958556
+4.611569989730968544
+5.758908362827851235
+3.3939324623020512561
+8.872789448032898818
+-7.958337318938440319
+4.1118666680046258577
+0.60955651247033448836
+1.0705871132774451571
+5.273986097351398783
+0.069896746180703600571
+0.69204034602776764995
+0.069896746180703600571
+-4.3805365775550590968
+0.46942551235225155049
+5.0514684869645831711
+8.151064056945727998
+6.8329595702580441241
+0.8826377791822710428
+2.1748052702787266099
+-0.55684145105715654456
+-0.4641664385376678692
+3.2025354644736214738
+2.8307904980006735052
+6.9971532768671167446
+9.1063094248097122829
+1.1004954379454880975
+3.018431886617273463
+5.1907536409538153066
+-1.8992886270222157918
+9.6066216749133790387
+10.051055658968136797
+3.4892655343138665458
+-2.2203220742192164572
+-3.9727074176989640719
+0.2586869515114286755
+-2.6175075813843653449
+0.62281651751134381456
+19.03839516154667777
+3.6122213518533019538
+4.7881574238459476689
+-1.9913976651644533788
+2.1640691841601977785
+0.20577920980411049112
+0.82492755970353259798
+16.019985166711336433
+2.8589102254029667982
+1.7829776177653624547
+1.445308536706217506
+3.7568433588012495328
+5.0417425939792570588
+1.3543471508353583932
+10.3814618641991121
+1.4080279815719083381
+1.5809244614920823224
+5.3959576843296161996
+6.722326879371133046
+-4.0867261892183321947
+0.017210651891909917871
+-2.2528533128042131928
+1.8538276498120398461
+4.5248964739431363213
+9.4593905888972358298
+5.7717600256842880313
+0.03454939735030586323
+2.9302299411510199789
+0.47055451964523908881
+-3.6430652688289799634
+1.5532403972843453754
+-0.17843845965932969566
+6.8108798451664114282
+1.5224319912487058737
+0.03454939735030586323
+0.03454939735030586323
+0.03454939735030586323
+0.59176656819558426381
+4.6980163712338409709
+-0.76505789368855803279
+5.1761017771144963717
+0.70191624236658101132
+0.74485701437085805043
+0.03454939735030586323
+3.5585935534243513523
+6.3429340304377355153
+-1.241390087110395779
+8.0363238203326599063
+0.03454939735030586323
+0.03454939735030586323
+0.03454939735030586323
+-1.346977281746329913
+2.8488740085658128542
+7.1511244808791349925
+7.0312520135090208484
+9.8645517618038489616
+2.7749653121992188254
+11.73853689223822272
+7.8644481806075203778
+4.4527262908932820906
+1.6715481061414851904
+-0.25098105982806556691
+1.6139629654796998626
+1.8253599176986960995
+0.871670380150690427
+10.427338924776723417
+2.4217793791704784745
+2.2758497349376130003
+-3.9379798278910578269
+1.3743906937083316677
+-0.56848198551857864746
+1.3434026133899046318
+1.100530651334093335
+9.4734228635256858553
+-10.129808183210617045
+45.472236409371596721
+-13.832079265758453701
+0.30345792045807140624
+0.19415155021306582106
+4.7977684110934450956
+6.4973429891672314085
+0.29744095605641929225
+0.11986759489419569757
+3.701928537422718879
+-1.6908086685755079337
+1.8008804611887667679
+5.739459538367862379
+1.8827843351422659524
+4.2949401328735374861
+-0.37690939537215395472
+0.39612764795274024721
+0.19415155021306582106
+-0.83080410621512212899
+0.37782050023755858748
+4.5432648202891714462
+4.9691053589010847347
+8.7281937236698503568
+-3.3145484020294362359
+0.82942782598576869635
+2.7138567953110865894
+-0.71595161419276531767
+-0.2335357588415803709
+-5.4591033693092709811
+7.829041660273549752
+-0.042234975743329447595
+0.0064255194422343144683
+0.20970633222729809231
+0.0064255194422343144683
+-8.0397373546778432285
+3.1371923562021724052
+3.9876527036665119219
+7.5532953195014629344
+0.0064255194422343144683
+0.0064255194422343144683
+-0.383739186256028042
+0.82895268146957223898
+7.1430269892031166279
+3.6800277688780376195
+7.3408197314908250064
+0.0064255194422343144683
+0.040651922254961420089
+0.0064255194422343144683
+0.0064255194422343144683
+1.075686516434569695
+2.6238583249408260478
+1.2911157752177153668
+3.2407923393883151242
+-1.6608458227084312853
+2.6764065918501187546
+2.9638154345274432266
+0.0064255194422343144683
+-1.5625212720116694598
+4.0554494046901128357
+2.0710788200886525168
+0.0064255194422343144683
+0.0064255194422343144683
+0.0064255194422343144683
+0.0064255194422343144683
+4.7495128502367460754
+-2.3678228966158734181
+5.0169226410049345688
+10.515986246335955911
+13.516436914762003596
+-1.3418807480600798421
+4.2586506092713003468
+0.0064255194422343144683
+0.0064255194422343144683
+6.3924884447575820445
+2.1826053175571398235
+1.528486228304359873
+-5.5528757653893423551
+2.7781945801297749377
+10.316680011362274527
+-1.0851279195754961471
+0.51666399000347662529
+3.9112443758337702704
+0.82178354001508102655
+1.2508711267365517639
+-5.5690541276644607294
+1.2027190435815628966
+-7.055884562107737068
+-6.3104375128316325672
+2.0005420346033031542
+2.4500707000687995674
+0.75640297288438684831
+5.3062393339306694884
+0.74010255930835755489
+5.4337420978716739484
+0.65169768166443797774
+4.3174829861162278277
+1.4372643255688244412
+2.4500707000687995674
+0.75640297288438684831
+5.3062393339306694884
+0.74010255930835755489
+5.4337420978716739484
+0.65169768166443797774
+4.3174829861162278277
+1.4372643255688244412
+2.2921208662598950845
+2.2921208662598950845
+-4.0570977657357119028
+5.1567637497492651022
+6.8614143199798593997
+-5.9843445357638165305
+8.228319211724828719
+-1.780049123249661136
+-3.5109902366549929909
+-0.4759217885872020215
+11.643184691495894967
+4.5099310495475988247
+1.1447729515616498208
+1.9377041594494226473
+3.3409153303548171365
+-11.686539912795572249
+3.4359523362401325208
+-8.9724991070283177663
+-2.2052352374284485137
+3.9299553668507458681
+5.1311562219749040636
+3.3168503065648158312
+3.1033618387018480078
+-2.2739936208461446476
+5.5428401332379380051
+6.2521799901315446846
+-4.3377693567336725877
+-3.6403724131079457926
+5.7926761085573552634
+0.73053018419423443319
+6.5664194904968322675
+-0.42867115268241867687
+8.2956538840239453236
+-3.1813137181907569229
+4.3713601920960281078
+3.1427705204111706649
+0.61253696007786895272
+0.67690562507955975846
+0.75878001302531816741
+1.1270108431226313339
+-1.2589011051381986395
+4.9058191152609555985
+0.25254956214205354081
+4.3415670607115304236
+3.8003633883737246713
+4.4075846111697076779
+1.2738500586607108822
+4.9953678756519535042
+4.2741715400106725653
+2.7377580194188726459
+0.88221538633405538476
+-1.6363235427630817842
+7.0535263040645110877
+0.64330014900814269652
+4.3489091445080330089
+-1.488607429656258363
+1.2231422368005528956
+2.2579228400564463897
+0.07484185817478257452
+-2.5632147472511777053
+-2.0828553860087115623
+0.85009719630850411054
+3.3567047568102301724
+-0.45017486326637218275
+5.0087042972586424128
+1.0442949316360934375
+1.7818839190852384657
+10.71868628595066042
+0.36816101024656466834
+1.0602017949260083007
+4.0938030695107290313
+2.2943304954301986243
+3.93126076899553345
+-0.64859627546273457277
+-1.4784693995415723045
+3.8241453569605345919
+1.1709753980135655382
+13.627903765634059141
+1.1709753980135655382
+3.1116638211293787819
+9.8726941909104777295
+0.11622421894325746239
+4.6898863801677173058
+-1.3616367930985984191
+6.2014336348244532005
+-1.0300184331874506771
+0.78161864557345694937
+0.78161864557345694937
+1.8286825009501617156
+0.85652527995329930111
+1.1588640855479102054
+4.4016480418184915635
+3.1445150515190118945
+2.4779107183572328665
+3.0527356245175054639
+0.78161864557345694937
+23.945686931252463836
+7.1158811576261449261
+-0.2296250713269311905
+1.7732335542655668359
+-10.654904342983694931
+1.8298399547900976447
+0.23320014479544759478
+8.0741634498928576136
+2.4628086899816037381
+-0.48142753350004718893
+0.59730478082126481354
+1.3729457216789322516
+4.6095701739281453868
+9.3996435742717974193
+0.21009877946073099442
+4.0628090198710644643
+6.4850028726979012106
+3.0689810906394852097
+4.4275331286487205062
+11.033342799026160108
+4.219544552466571119
+1.7712261317365483038
+0.15084196405477345859
+1.2714706940408464497
+9.9190970817896122469
+3.7876353478116473461
+-0.4301843811123328698
+-2.2316902819712018946
+-0.26206611975151733462
+4.5074078866817970379
+-3.5415656945894244956
+8.3557944083374735555
+-0.63964111222378949861
+-1.3295197861013354768
+4.3867998713426805679
+1.4904157005142830705
+12.520797320643341166
+0.99317743147297909978
+-2.7220900490530008931
+9.346869390525375465
+3.5237358195782895187
+1.9996050106666214408
+2.9696874061468152561
+1.9996050106666214408
+2.417584870680272946
+1.4475024752000764661
+14.29064502193233821
+1.6447604052662623264
+1.0381750115297150305
+1.4475024752000764661
+2.9716332841117423236
+5.5494261768116226463
+-11.237370097493505128
+17.511174787279912834
+5.5494261768116226463
+12.448876067471443818
+0.89470818216445002768
+0.47881190178345695019
+2.7047497541734082382
+-5.0056291746844108204
+-0.15279842240288216138
+-1.4577078292699974238
+-1.2935354834691847881
+5.5494261768116226463
+2.97144556906351065
+6.471562246501637361
+2.6588717271479658244
+0.61688629052471055658
+0.61688629052471055658
+0.61688629052471055658
+9.7691808880466979303
+3.7228573683036461084
+0.61688629052471055658
+0.26585219179374453002
+4.3520271920567950019
+-1.8119056044688570672
+2.4636563074239470339
+-3.8578942108336562455
+5.1057813520463630752
+-3.8578942108336562455
+5.1057813520463630752
+0.75685491764174561702
+0.63114775799058453476
+-0.4369789313761464622
+1.2183665751759640283
+0.63114775799058453476
+3.3109245687580441952
+1.8552508258856890144
+0.63114775799058453476
+0.63114775799058453476
+0.63114775799058453476
+0.63114775799058453476
+0.63114775799058453476
+0.37536883544727372986
+3.0536823334246676609
+0.034226402812727221847
+0.034226402812727221847
+1.9792830128396061706
+0.63950225612982036782
+0.034226402812727221847
+0.034226402812727221847
+0.32057041503374850144
+0.16503615142508643032
+0.034226402812727221847
+0.034226402812727221847
+0.034226402812727221847
+2.4336805516543487116
+0.034226402812727221847
+11.851851953235858161
+0.49598659543623430102
+-5.7146873570657259478
+2.8666868449404887542
+4.6654036226146553545
+0.53394205040495967829
+1.2688562647107537451
+0.53394205040495967829
+0.53394205040495967829
+1.188903676137167853
+8.9321373480965249314
+0.53394205040495967829
+-2.8753721691270732741
+4.1867119941393609039
+-1.6994867945772074158
+4.6576309306115604159
+2.5459382726425374699
+2.1552779416459406647
+7.0445112135957970168
+0.43108161998754612743
+0.44685883454251767999
+0.43108161998754612743
+0.43108161998754612743
+0.43108161998754612743
+4.723187456059521061
+-0.37260765979272975068
+4.5201331524641465975
+4.4041303304995205181
+4.4333431909193503628
+0.43108161998754612743
+7.0368394229934256856
+5.0457318435400155821
+0.43108161998754612743
+-3.6675754434750049704
+2.8657607242205815901
+6.493614880745185225
+1.8884233512531385379
+0.43108161998754612743
+10.052517306614332071
+5.2530498696080600851
+12.62202849939175664
+4.8206349880851373513
+5.8219624212682434816
+5.8219624212682434816
+0.28391987624275455415
+4.4648007536251830274
+8.9084693610422114318
+-2.7011381825877003315
+-0.11883492279057351892
+3.2582538524066357866
+8.0808723879252646327
+0.054877112352753970592
+4.1887888408619460279
+0.034620972418924679526
+0.0842160776250644727
+0.034620972418924679526
+0.034620972418924679526
+0.76562022978756549829
+0.73907174530107178079
+0.034620972418924679526
+0.034620972418924679526
+1.6023451216051163293
+1.6023451216051163293
+1.2121642348099432862
+-5.6390708549271613137
+-2.3372538513976275354
+8.085611509242056627
+-2.2065998202798136063
+3.7187126390507736495
+10.614326535232541104
+0.33621874839349019659
+-2.4775052514298958606
+1.6023451216051163293
+1.4167487636272295681
+5.1168622795307650009
+0.053011445595539247178
+7.2540116671582355323
+-1.1781665271578609655
+2.7717049261792636727
+0.21712109700834159032
+3.5305877849347213626
+0.21712109700834159032
+0.21712109700834159032
+0.21712109700834159032
+0.21712109700834159032
+0.097149788406843309851
+5.7864350259620787043
+1.0655375409023706279
+3.8784089255615490366
+23.090904561943155215
+7.0098874058637381523
+-9.7127405841083245264
+4.3949486242469602004
+2.8613886473318244086
+9.9647367674496045709
+3.169315772171463319
+5.9864342853219785212
+-1.7149435606051073311
+0.95978886986719502694
+3.7299445758250682204
+4.6490269687995233738
+6.6547863784384135855
+5.1041545228071028006
+3.8654994646070672815
+1.0070524053357394756
+5.1180738980165125795
+7.6343783901236692557
+6.7561025190050845168
+0.26727159385906773537
+5.4654453957969995059
+7.6343783901236692557
+6.7561025190050845168
+0.26727159385906773537
+5.4654453957969995059
+-0.78597911031617540001
+1.1748780586496112566
+-0.53877161954017416257
+3.6773010425623056108
+-1.2299012338955495061
+5.5870808026881322306
+-3.0026864082401463207
+15.382350209777683858
+2.7489217857191996508
+-1.6919300316928591599
+4.0098134702954579822
+-2.2666429588169187959
+2.2579672183115309103
+-2.2371713852498662511
+5.9299699205833782401
+0.94876089986724432279
+13.498099599209133714
+7.2213727619877561281
+4.8714895596293708024
+1.7203409064840986531
+1.7203409064840986531
+1.5270631490670147912
+5.8900229452990471302
+3.8136677152536084812
+3.4997965446919017118
+12.072773677467099063
+1.2978365898762402875
+-4.114813716351274131
+29.982333554543505016
+0.75368159576988313919
+2.3295219373711861799
+2.3295219373711861799
+3.1371571882128765907
+2.3295219373711861799
+-5.7667583815673815195
+4.0659560718220690845
+10.312351944579125629
+-1.8063961723174344343
+10.534653646606152222
+-4.2977955052514751344
+2.6556051616774642987
+-0.8849157610472653257
+11.122409633771932036
+-3.1948457241323793276
+4.0078106176664585192
+3.9693627897279966099
+0.32425207324444244028
+7.3057399480481439724
+7.7098172987848707649
+-6.7744961376344372539
+7.3697942161352631985
+4.4231678330555048717
+0.99095781871798716001
+7.7098172987848707649
+1.1383774358953981931
+1.1436854519513082185
+1.8249937481733546907
+-5.1126912578662420117
+4.1374860417731103013
+2.5758238858855166953
+2.1850735435551515984
+1.6027927763788976101
+1.1383774358953981931
+1.95822583374718584
+1.0083781697958500434
+0.96504728395992711576
+1.0752453555143921538
+0.96504728395992711576
+1.0752453555143921538
+-2.6634825875727403677
+3.8266506832705160512
+4.6606479184295839246
+4.6606479184295839246
+-19.919540056895606028
+-6.8977707265000152148
+2.9698921475325112951
+44.314113891875543061
+4.6606479184295839246
+0.0273999080915282682
+0.058798124081747192571
+0.058798124081747192571
+0.22871945251456896053
+0.058798124081747192571
+0.13168289483568612619
+0.15102926972077632128
+0.058798124081747192571
+-3.7261923170499229307
+1.4694726732544258763
+5.1065481230225788778
+0.058798124081747192571
+0.058798124081747192571
+0.51608172228976190166
+0.058798124081747192571
+0.094316618421193751387
+0.058798124081747192571
+0.0273999080915282682
+1.0716693568337898324
+1.0716693568337898324
+1.8589519500962052856
+2.3751296699049988526
+0.43750379666171934634
+3.1433338667097396879
+0.47283512108171388277
+0.73193256487494418039
+0.47283512108171388277
+0.43750379666171934634
+0.47283512108171388277
+0.39025737333395699169
+0.39025737333395699169
+2.5461186749589894696
+-1.899118365683105436
+3.5685044332656334909
+4.499227173440448091
+-4.4560775568399861868
+8.4472186101174706607
+-4.0281724407069576799
+7.4391449052085576454
+-2.3518553430129105486
+4.5173511286042939972
+-2.3518553430129105486
+4.5173511286042939972
+5.0483449065605068284
+3.5006408943863958072
+2.026714015267562452
+3.0058555383312817177
+-14.125431353773837628
+0.77213802013829890836
+14.932477580009127394
+3.3875142798923496557
+2.6632842685919153602
+0.56995745982235623828
+0.56995745982235623828
+0.90259629634410976085
+1.2949282890947606539
+0.56995745982235623828
+0.56995745982235623828
+0.56995745982235623828
+0.56995745982235623828
+0.56995745982235623828
+0.56995745982235623828
+0.56995745982235623828
+0.56995745982235623828
+3.5102838733221326528
+0.56995745982235623828
+0.56995745982235623828
+0.82671708647555675054
+4.5360480921513310903
+0.81662973209634448502
+0.81662973209634448502
+3.0080360885163397455
+-2.9364056086216585584
+3.472435573965857003
+0.72423001130043451745
+1.4186974205247431247
+1.4186974205247431247
+-3.4759065481572193335
+5.3788454838634640609
+-5.040718333590593403
+5.6810404138271151098
+-3.5543476160954901033
+5.2787296689599179089
+5.2877635975063865814
+-2.7523079906557237351
+4.2822842639153320121
+4.381478963723333564
+1.3411222375771503224
+2.3281542272353132894
+2.6422799547908053519
+0.6381073763132891763
+4.1424850735054041806
+3.2088460739670363608
+1.6685542572314324694
+1.3920396926732794274
+1.3920396926732794274
+4.5723788474855568964
+4.3290577886806014263
+1.6615927523286704304
+5.9466860728080899179
+-5.8715446847244905371
+5.1674414361578957511
+7.9133645462260355785
+7.9169153112783874349
+1.9843627934614735953
+2.7833890735346673573
+1.1538765566172903831
+1.9212650009418137387
+1.9929881822638750855
+6.3682755621336921692
+-2.1955225732869960709
+6.2948287643724043505
+1.1085179004067944319
+3.133770019073091273
+4.2564836202650129238
+2.9805524144164143863
+-1.6306133757858620736
+7.6493836788740940946
+1.1244382077781978069
+0.37236554378419878253
+0.35777331809897783277
+0.35777331809897783277
+0.35777331809897783277
+9.5331932616425003602
+1.8041715180510302652
+1.0461948503791951293
+1.8215561930905908028
+0.7613003878385662393
+0.7613003878385662393
+0.7613003878385662393
+0.7613003878385662393
+2.1156005960362662677
+0.30012742061511338276
+0.30012742061511338276
+0.30012742061511338276
+7.4403221054077253171
+8.0998312960680856065
+9.294098020966110596
+0.30012742061511338276
+0.30012742061511338276
+0.037947158638982882162
+0.037947158638982882162
+0.037947158638982882162
+0.037947158638982882162
+-2.2831667845354739477
+-0.19704244757264735566
+5.6506715121924830925
+0.037947158638982882162
+0.037947158638982882162
+-2.4146574886266956028
+4.4675457747934661512
+0.037947158638982882162
+0.037947158638982882162
+0.037947158638982882162
+0.037947158638982882162
+6.3897866443745332532
+6.3897866443745332532
+6.4526946605462152107
+0.77955303129338193724
+2.2062270134931987187
+10.171561386151093842
+2.2062270134931987187
+2.0974492517874283593
+-0.52737077481866045936
+1.1872944043109590062
+0.34112945608226680205
+0.86786218271071624564
+0.34112945608226680205
+0.34112945608226680205
+4.0823194360524741597
+2.1340801700106637462
+-4.485104743167235064
+8.1901224351427117654
+0.34112945608226680205
+2.0378643397199076581
+-1.0409945039349701723
+2.0332175298143830844
+0.17228861222779309759
+3.3394560162294117944
+2.4278739244373110928
+0.072884770753923730502
+0.072884770753923730502
+-0.48361085985073509752
+3.0914067599207868398
+0.072884770753923730502
+0.5629861871503634152
+0.072884770753923730502
+3.7584227996916110826
+0.072884770753923730502
+0.072884770753923730502
+0.83768292643805386533
+0.94563504032934730947
+7.0899629114377669126
+1.3235994249384366306
+1.0687480730236569304
+1.3276702764989334327
+1.0687480730236569304
+1.0687480730236569304
+1.5529476315439909584
+1.0687480730236569304
+1.0687480730236569304
+7.1190127645668663803
+2.9242743174398846406
+1.0687480730236569304
+1.0082538672433714044
+1.2707138042012995349
+1.3644793111840267663
+0.81935518864355449953
+-0.79587042949043729223
+2.7904682822459720981
+6.1023412403318433306
+0.73783305806397625481
+-2.3355260870328677925
+5.802687830057720042
+0.16132691603590670892
+4.049865334785169857
+3.5619327775098308386
+1.6962920727837755841
+1.6962920727837755841
+1.6962920727837755841
+2.1564204881203683506
+3.5336543781746598825
+3.5336543781746598825
+-1.2285425844798010253
+0.40018516899632694539
+3.8054365956449816011
+2.9711017876519720815
+2.9711017876519720815
+3.5934142415973702178
+2.0735881458832321478
+-7.665055852805318537
+5.4738292975204192459
+6.859508871369413896
+-9.1459261032539789227
+-3.0970404200996077826
+19.286085175950013593
+2.0735881458832321478
+7.3170929484297575485
+-1.6926256811729822882
+1.4666062106588182434
+0.78158950771382762479
+3.8182078701990391778
+1.8879848753370511716
+0.63431742757297493451
+0.63431742757297493451
+0.63431742757297493451
+0.63431742757297493451
+0.63431742757297493451
+2.8129976575808566253
+1.3549865028001832901
+1.3549865028001832901
+2.9953632291102274543
+2.9953632291102274543
+1.9771857352005777209
+0.20328081278506385243
+0.31941222102525512749
+0.20328081278506385243
+0.20328081278506385243
+0.20328081278506385243
+0.20328081278506385243
+0.20328081278506385243
+0.20328081278506385243
+0.26151829567651746489
+0.26151829567651746489
+-2.6122135820009311225
+1.7569008382128481482
+3.5473806422336906508
+15.227179176909066527
+4.2957023720586038351
+2.6779416282352075385
+2.5275556336164499704
+1.7520080640846624753
+0.18560327054618100395
+0.18560327054618100395
+0.34643854917869704169
+0.33603335493515096299
+0.18560327054618100395
+0.32440623321683137448
+2.9535342964360946638
+0.19091128660209050194
+1.6139264491367684151
+0.18560327054618100395
+3.7117287897285762277
+2.0445226628518526901
+-8.4077135398633995322
+8.9621955450031567381
+4.3969199355358208336
+3.3802549118147142693
+-0.27107630109736691182
+0.88291650922728559525
+6.5485246181595657688
+10.17545545114370853
+0.1388029626706507591
+0.30131917463308499627
+0.23819026201943310772
+0.1388029626706507591
+0.23595988292359315608
+0.1388029626706507591
+0.1388029626706507591
+0.1388029626706507591
+0.28504601561794740139
+0.43886333159802914938
+0.17412135616538837457
+0.43886333159802914938
+0.077854991403329992794
+0.077854991403329992794
+-0.64558645881260590116
+5.2752216189450287231
+0.077854991403329992794
+0.14624305294729667004
+0.14624305294729667004
+0.14624305294729667004
+0.50392372144308794635
+0.53299060264945175014
+0.035318393494737677918
+0.035318393494737677918
+0.035318393494737677918
+0.035318393494737677918
+0.035318393494737677918
+0.035318393494737677918
+1.3748119999832297822
+0.035318393494737677918
+0.035318393494737677918
+0.035318393494737677918
+0.035318393494737677918
+0.035318393494737677918
+-2.7296527096073668339
+3.9312342089509666465
+0.2548513519147773132
+0.2548513519147773132
+0.26877072712418464961
+0.2548513519147773132
+0.2548513519147773132
+0.58840784441660642923
+0.2548513519147773132
+0.54269419466122126305
+3.6612029768003502284
+0.12444002792043769301
+0.50056730239254487724
+0.16999806014638754736
+0.1308097486123564468
+0.011331379061918873605
+0.0049616583700009724359
+-0.89341448081382368596
+1.7704331131304045233
+-8.6670779403056599222
+19.37705027552312842
+-0.13244886322651402977
+0.93416918717584418452
+0.031398215990218830695
+1.2562118161308990505
+0.38120993107094774954
+0.38120993107094774954
+0.98507015462237801362
+0.98507015462237801362
+2.368307915079338688
+0.83464007023340824887
+1.2159841482754141229
+2.0338076711804458085
+2.4120021635896775614
+4.8826792897262727422
+4.580099892102786896
+4.580099892102786896
+1.4067497290978472346
+0.99179725701248178105
+0.12999926609954814971
+0.12999926609954814971
+-2.2836260332951496821
+3.3285864732345404882
+1.8665801404926882778
+0.12999926609954814971
+0.12999926609954814971
+0.12999926609954814971
+0.12999926609954814971
+0.63534942105192404593
+0.63534942105192404593
+2.9371258011028911206
+2.9371258011028911206
+0.63534942105192404593
+6.3599108522156067025
+0.56516555682502545022
+1.8566190816027356991
+1.5855999932812978592
+2.5391371700584226545
+0.22226691236842727184
+0.22226691236842727184
+0.88487333629616515829
+1.2274425256889562874
+0.22226691236842727184
+0.22226691236842727184
+1.546402997339596519
+0.88848401084492434343
+0.88848401084492434343
+0.71520468162772454779
+0.61645561213069566264
+0.097156920252941106342
+0.097156920252941106342
+0.097156920252941106342
+2.2079142407545311322
+0.41218128863303654663
+0.41218128863303654663
+0.41218128863303654663
+-3.7698402337955601027
+4.5980562767289185899
+5.2586089525029393599
+-4.3895523279132087069
+3.4976712002482890362
+1.4696246522359452946
+5.283997972620414707
+1.9243141650150530353
+4.2728982855971660015
+0.054275690670289464257
+0.61723988772222038168
+2.4746704371436996084
+0.054275690670289464257
+0.092231145639014772142
+0.092231145639014772142
+0.10800836019398729615
+0.092231145639014772142
+0.092231145639014772142
+0.092231145639014772142
+0.054275690670289464257
+-1.1679965504450020575
+2.7614487402794818394
+5.0117613927468669388
+0.66260642392774149467
+0.11360774862587635914
+0.11360774862587635914
+0.66260642392774149467
+5.0983421347808439705
+5.0983421347808439705
+5.0983421347808439705
+2.0746571454350140051
+1.5252451393494528276
+1.5715196276413072596
+3.9757432886013828188
+3.9757432886013828188
+3.9757432886013828188
+8.6124806944709302314
+3.9757432886013828188
+1.481291909292323572
+0.2560674077008654459
+4.2936370521432971614
+-1.8177761981715985229
+3.1566030923035199862
+7.284913212338414823
+3.2483215648931627051
+-1.8415612846806113101
+3.2197085296660237219
+7.284913212338414823
+-3.6715058536027971314
+3.7175827285064868555
+2.7264283398050208618
+2.8145059779398913236
+4.1439223007087413464
+0.76137401346787969558
+-8.7058697545003358442
+15.594965398866861506
+1.1990699357294358762
+0.76479815568412967686
+0.76479815568412967686
+1.5198289692069579804
+1.7397723702308147686
+0.76479815568412967686
+0.76479815568412967686
+5.0941257898006560012
+0.0062161808936843955531
+1.032761000397759199
+0.0062161808936843955531
+0.23829421228835573343
+0.098330858168997281599
+0.0062161808936843955531
+0.0062161808936843955531
+0.060560248165367543127
+0.97629857637387851277
+0.0062161808936843955531
+0.15754721909743529817
+0.0062161808936843955531
+0.049595105206140965848
+0.63907047649469528317
+0.0062161808936843955531
+0.0062161808936843955531
+0.0062161808936843955531
+0.085467924139373624426
+0.22119348814650929835
+0.1704720900492257829
+0.085467924139373624426
+0.085467924139373624426
+0.085467924139373624426
+1.8895901397642387298
+1.8895901397642387298
+1.8895901397642387298
+0.04337892431245653907
+0.04337892431245653907
+0.04337892431245653907
+0.04337892431245653907
+0.090625347640219053313
+0.04337892431245653907
+6.5557408812294193368
+0.44472397460537121949
+-1.3175954055336775994
+2.8324883982948914074
+-2.0321883722067370925
+3.1411489267272418857
+0.44472397460537121949
+0.44472397460537121949
+0.44472397460537121949
+3.1408421994479764905
+4.0686228041199781202
+0.13955063927509200883
+0.13955063927509200883
+0.13955063927509200883
+0.13955063927509200883
+-3.6114918727863978276
+4.0260937116838180216
+0.13955063927509200883
+0.13955063927509200883
+0.23996464194252936641
+0.13955063927509200883
+0.13955063927509200883
+3.9307586870525828004
+1.2693526408376352155
+0.19940405544826658724
+4.2247972821682067135
+1.6003034950655103952
+1.2693526408376352155
+1.5207929066270784446
+1.48802047099260637
+1.5207929066270784446
+1.48802047099260637
+3.3332783920941069233
+0.24763467061190164165
+0.24763467061190164165
+0.24763467061190164165
+0.24763467061190164165
+2.1003011192998903844
+2.1003011192998903844
+1.0394026342031441601
+0.50101053771183878816
+0.55210253546654441958
+1.9450566100268800174
+1.9450566100268800174
+1.9450566100268800174
+1.9450566100268800174
+1.9450566100268800174
+1.7473877205639336552
+1.7473877205639336552
+2.0412134629444564915
+2.0412134629444564915
+2.0412134629444564915
+2.0412134629444564915
+4.2495764073083197587
+-1.6276991537571454671
+4.2077296172294262888
+0.015777214554971878691
+0.015777214554971878691
+0.015777214554971878691
+0.015777214554971878691
+0.015777214554971878691
+0.015777214554971878691
+0.015777214554971878691
+0.015777214554971878691
+0.015777214554971878691
+0.015777214554971878691
+0.015777214554971878691
+1.0604377052184079666
+0.015777214554971878691
+0.015777214554971878691
+0.015777214554971878691
+2.7266342526148070746
+3.9831325655796185892
+2.7266342526148070746
+3.9831325655796185892
+1.8503399339463477702
+0.62773958489649162029
+3.6399636914587225611
+0.62773958489649162029
+1.3316354317912086902
+0.62644717462562538035
+0.62644717462562538035
+0.62644717462562538035
+0.63803106398837095004
+0.62644717462562538035
+0.62644717462562538035
+0.62644717462562538035
+1.1989730202914095081
+1.1989730202914095081
+0.083316183615971706189
+0.083316183615971706189
+0.083316183615971706189
+0.083316183615971706189
+0.083316183615971706189
+0.16742621950992830904
+0.083316183615971706189
+0.30006036892737808497
+0.30006036892737808497
+0.30006036892737808497
+0.30536838498328738867
+0.30006036892737808497
+0.14384879201767691859
+0.056308798479075959642
+0.030397802284415235963
+-7.8963613295175356654
+4.1535374326284442148
+7.7877543879177979491
+0.10328940584335272179
+4.1538970621344342149
+4.1538970621344342149
+2.9372461087726380313
+0.10328940584335272179
+0.10328940584335272179
+7.2829815166617128952
+7.2829815166617128952
+2.7654253802005359653
+2.0943956128147984685
+0.65369387297707071127
+5.1134100041378891532
+0.77675950640377544598
+5.8965192845786793541
+7.0244725616002217095
+7.0244725616002217095
+10.651779577005656918
+0.11244998473242895365
+0.11244998473242895365
+0.11244998473242895365
+0.11244998473242895365
+0.11244998473242895365
+0.11244998473242895365
+-2.9014839088380233179
+3.6795927035220512558
+0.67084239491985864223
+1.5571168400617625416
+0.57190450259636904651
+0.11613140824019228814
+0.11613140824019228814
+0.11613140824019228814
+0.11613140824019228814
+0.11613140824019228814
+0.11613140824019228814
+0.11613140824019228814
+1.4345339113346737836
+0.94642733534746870117
+0.7493196958054150203
+0.7493196958054150203
+0.7493196958054150203
+0.77023238567734797488
+2.3655082488716683287
+2.3655082488716683287
+0.28939563508900401079
+0.28939563508900401079
+-1.7250324963466547867
+3.7692257116996930044
+0.28939563508900401079
+0.28939563508900401079
+0.28939563508900401079
+0.52176858708746620685
+0.52176858708746620685
+0.52176858708746620685
+3.1237796367417076659
+0.2320780313946713691
+0.2320780313946713691
+0.2320780313946713691
+0.035331324419994342145
+0.035331324419994342145
+2.0452470721387103758
+0.035331324419994342145
+0.035331324419994342145
+4.3809131376747929565
+4.6367374058695496331
+0.013486586919816724583
+2.7320164779117881437
+0.11390058958725500504
+0.013486586919816724583
+0.1004140026674386621
+0.1004140026674386621
+0.1004140026674386621
+0.1004140026674386621
+0.1004140026674386621
+0.1004140026674386621
+0.1004140026674386621
+0.1004140026674386621
+-3.6861403416701237212
+2.1635568821428323716
+6.1443049857992733109
+4.9308182077877011906
+6.8492696371914387754
+0.94418193318915100143
+1.4087873359425311381
+0.94418193318915100143
+8.2476072904422021992
+8.2476072904422021992
+8.2476072904422021992
+0.77796202920466228647
+1.1356426977004532297
+1.1859457584967019184
+1.1859457584967019184
+2.1817008242714699406
+2.1817008242714699406
+1.1859457584967019184
+1.1859457584967019184
+0.92295687453300467862
+0.62709108706038985126
+0.62709108706038985126
+0.084110035893956838771
+0.084110035893956838771
+0.084110035893956838771
+0.084110035893956838771
+0.084110035893956838771
+0.084110035893956838771
+0.084110035893956838771
+3.8557582465902209279
+0.16884084385447345467
+7.3737445775590106933
+0.86162883353313657331
+1.4530307088639182744
+0.86162883353313657331
+3.8772257257865727631
+0.13575289590608455303
+3.3545445891087006807
+3.3545445891087006807
+3.3545445891087006807
+-3.1535617425048809714
+3.3434015362817879335
+-10.229490778490280434
+13.50343555440853649
+1.158603310585820001
+0.40765162564236351317
+0.40765162564236351317
+0.40765162564236351317
+0.40765162564236351317
+1.3914499841752010489
+1.1479885161378864389
+0.09751101466834333209
+0.09751101466834333209
+6.1266149353652226139
+6.1266149353652226139
+3.4935716646428334187
+3.4935716646428334187
+3.4935716646428334187
+0.49064312579506069723
+3.7340319354880349145
+-2.1562551107012200013
+3.6450502177045773777
+3.7340319354880349145
+3.7340319354880349145
+3.7340319354880349145
+3.7340319354880349145
+3.7340319354880349145
+1.2011107704579031541
+0.037955454968725411968
+0.048920597927951746386
+0.037955454968725411968
+0.19871549121062470622
+1.5249847417982518305
+0.19871549121062470622
+0.19871549121062470622
+0.19871549121062470622
+0.19871549121062470622
+0.060494205780285366381
+0.060494205780285366381
+0.060494205780285366381
+0.58527952567118846083
+0.060494205780285366381
+0.060494205780285366381
+0.060494205780285366381
+0.060494205780285366381
+0.060494205780285366381
+0.060494205780285366381
+0.5446937643006107832
+0.060494205780285366381
+0.060494205780285366381
+0.060494205780285366381
+0.060494205780285366381
+0.060494205780285366381
+2.4195017871565163148
+0.081406895652219035675
+0.060494205780285366381
+0.060494205780285366381
+0.014592225685220189951
+0.014592225685220189951
+0.014592225685220189951
+0.014592225685220189951
+0.4747206410218060002
+2.1929694541966013865
+0.014592225685220189951
+0.014592225685220189951
+0.6346869096888053674
+0.014592225685220189951
+0.014592225685220189951
+0.014592225685220189951
+0.014592225685220189951
+0.014592225685220189951
+1.0608984850969480629
+4.0765989313111621328
+4.0765989313111621328
+1.6288080194447487337
+1.6288080194447487337
+1.6288080194447487337
+4.6157840223708150873
+4.0365916474452490093
+4.0365916474452490093
+9.0625182405941941965
+2.2314503077326546254
+2.2314503077326546254
+0.24520129947507096624
+0.24520129947507096624
+0.24520129947507096624
+0.24520129947507096624
+3.3222701235683480547
+3.3222701235683480547
+0.10795211389129283353
+0.15519853721905510491
+0.10795211389129283353
+0.10795211389129283353
+0.62509417306952153037
+1.0817249194004066037
+1.0817249194004066037
+1.2566473736035792541
+1.6372728249379959742
+1.2566473736035792541
+1.2566473736035792541
+-1.2920954798422750187
+6.3423500206728764539
+0.80763525084168952262
+0.80763525084168952262
+2.6584492192090660723
+3.4378286321007047732
+0.10877776170576906878
+0.10877776170576906878
+0.10877776170576906878
+0.10877776170576906878
+2.2779747165109922591
+2.2779747165109922591
+1.1808039331206503508
+1.1808039331206503508
+1.1808039331206503508
+0.020129409762778379539
+0.030745441874597736337
+0.025437425818687957324
+0.020129409762778379539
+0.020129409762778379539
+0.020129409762778379539
+0.020129409762778379539
+0.020129409762778379539
+0.020129409762778379539
+0.24992210657477664792
+2.5762170797091616947
+4.1167421929199647934
+4.1167421929199647934
+4.1167421929199647934
+-0.26293747995910837778
+6.1306825620534572963
+5.4132083142615812221
+0.7553102357728072036
+0.74434509281358052224
+0.28454291162004285987
+0.28454291162004285987
+0.28454291162004285987
+0.28454291162004285987
+1.3502714296737194921
+3.8937026633493663219
+3.9275648178644848585
+0.75503081352282852556
+0.75503081352282852556
+0.75503081352282852556
+0.38062545133441716416
+-3.2800101685876819069
+3.5853360428892191436
+2.2953868769633407609
+2.7872901725203602652
+0.38062545133441716416
+2.7520654001997497673
+3.2443954667075987075
+2.7520654001997497673
+2.7520654001997497673
+2.7659847754091591021
+2.4731038781856873321
+2.5825310008382160731
+2.4731038781856873321
+2.4731038781856873321
+0.48419955852032481314
+0.48419955852032481314
+0.019594155766943569669
+0.019594155766943569669
+0.019594155766943569669
+0.039188311533887132398
+0.019594155766943569669
+0.48419955852032481314
+4.8047505822484861682
+2.6932839738171816535
+4.2063452811151753608
+5.1769112595840498514
+0.23869574506931590108
+0.23869574506931590108
+0.23869574506931590108
+0.23869574506931590108
+0.23869574506931590108
+4.1792938226530873536
+4.1792938226530873536
+0.61973682511607708356
+1.1067560154766007408
+1.1067560154766007408
+0.61973682511607708356
+1.1067560154766007408
+1.1067560154766007408
+1.5273664941183067167
+1.5273664941183067167
+1.5273664941183067167
+1.5273664941183067167
+0.0053080160559094329356
+0.0053080160559094329356
+1.1605103627339217187
+0.33886450855774014057
+0.0053080160559094329356
+0.0053080160559094329356
+0.0053080160559094329356
+0.0053080160559094329356
+0.0053080160559094329356
+0.0053080160559094329356
+1.6695397854738704968
+1.0592951596762634203
+1.0592951596762634203
+0.29828035192143292909
+0.29828035192143292909
+0.29828035192143292909
+1.3469858181183138601
+1.0051756133205294041
+1.0051756133205294041
+1.0695442783222264271
+1.0051756133205294041
+1.0051756133205294041
+2.8069626175582245153
+0.17723755181301742434
+0.44050631119058381024
+0.44050631119058381024
+0.46141900106250727243
+0.44050631119058381024
+0.13724367971991260906
+0.29442876821322677694
+0.29442876821322677694
+0.29442876821322677694
+0.29442876821322677694
+0.51675521962426751443
+0.011583889362745548868
+0.075952554364443009005
+0.011583889362745548868
+0.011583889362745548868
+0.011583889362745548868
+0.011583889362745548868
+0.011583889362745548868
+0.011583889362745548868
+0.011583889362745548868
+1.0551577896748973728
+1.0551577896748973728
+2.0509128554496651731
+1.2300664838359298692
+1.2300664838359298692
+1.2300664838359298692
+1.2300664838359298692
+0.59140187533078214521
+0.59140187533078214521
+0.59140187533078214521
+0.59140187533078214521
+0.59140187533078214521
+0.59140187533078214521
+0.3649204301128043948
+0.3649204301128043948
+0.3649204301128043948
+1.3262692505876267912
+1.3262692505876267912
+1.3262692505876267912
+1.3262692505876267912
+0.11947836955043680818
+2.4339869793719293156
+1.9302229948619766819
+1.9302229948619766819
+1.9302229948619766819
+0.77955303129338193724
+0.96422545148400773396
+0.96422545148400773396
+0.4725355581278528061
+0.4725355581278528061
+0.4725355581278528061
+1.1316910602635659178
+-3.3384002256682325793
+4.9039995580645818762
+-2.9339659232019843493
+4.7914073168151869453
+-2.6136319953606390598
+3.6161639625786548002
+3.627307015405565771
+5.6665322084024341009
+7.0977878188392775627
+7.3014410829031630712
+3.6842583179006727079
+1.5078761556642943376
+7.1879813932090144135
+7.3014410829031630712
+1.8875811528247790072
+1.8875811528247790072
+1.8875811528247790072
+1.8875811528247790072
+1.8875811528247790072
+4.5105527824541322701
+4.5105527824541322701
+0.087539993538610055834
+0.14657472344484970272
+2.2453978567550580969
+1.0439262647064555534
+-1.3802783603944526192
+4.3724101816482514593
+1.0439262647064555534
+1.1943563490954252071
+1.0439262647064555534
+1.0439262647064555534
+0.48701919036052399026
+0.48701919036052399026
+0.28348942003701443904
+1.4289969593210207766
+1.6632765684084016566
+1.9126460733256880342
+4.604197258767478651
+1.6632765684084016566
+1.6632765684084016566
+1.6632765684084016566
+0.93045993527177950355
+1.2771556095709395429
+1.2771556095709395429
+-1.0893404072054337917
+1.2995614501037506816
+-1.0893404072054337917
+1.2995614501037506816
+2.0891682256230850179
+0.35734157901084262488
+0.35734157901084262488
+0.35734157901084262488
+0.35734157901084262488
+1.5241308089116638591
+1.5241308089116638591
+1.5241308089116638591
+0.78728259326241445404
+0.66435319321680885718
+0.98379835853283659208
+0.98379835853283659208
+1.1498943306221023342
+1.1498943306221023342
+1.1498943306221023342
+1.1498943306221023342
+1.1498943306221023342
+0.013919375209408887256
+0.013919375209408887256
+1.1258703722296534711
+3.4144683130035997642
+0.013919375209408887256
+0.013919375209408887256
+0.013919375209408887256
+0.013919375209408887256
+0.013919375209408887256
+0.013919375209408887256
+0.22379259605861306914
+0.22379259605861306914
+0.22379259605861306914
+0.22379259605861306914
+0.22379259605861306914
+2.3812933831090061787
+2.3812933831090061787
+2.3812933831090061787
+0.068388061543966621736
+0.26326875937756549773
+0.94984766395139563766
+0.94984766395139563766
+0.88350666025477520016
+0.90397620918047616456
+0.90397620918047616456
+0.039993872093104711196
+3.628529871532729878
+2.9857310259018658982
+2.9857310259018658982
+2.0511760936029164171
+1.0265448195040751678
+1.0265448195040751678
+1.0265448195040751678
+1.0265448195040751678
+0.32637862946758827709
+0.32637862946758827709
+3.6171827650024934719
+3.6171827650024934719
+3.6171827650024934719
+0.047246423327762257505
+0.047246423327762257505
+0.047246423327762257505
+0.047246423327762257505
+0.047246423327762257505
+0.047246423327762257505
+0.15621157690970111087
+1.9444277076263671855
+0.4601284153365863272
+0.4601284153365863272
+0.42460992099715516579
+0.46460540275338119143
+0.8674944217606570529
+0.89340541795531824842
+0.8674944217606570529
+0.20352977032350991204
+0.20352977032350991204
+3.7964582877894792468
+1.6753397965358456378
+1.6753397965358456378
+1.6753397965358456378
+1.6753397965358456378
+1.6753397965358456378
+2.6740260548354006787
+3.6722942005001919519
+3.6722942005001919519
+3.6722942005001919519
+3.6722942005001919519
+1.7330359553108973802
+0.56502956187479280725
+0.56502956187479280725
+3.4952712412776492101
+-2.0792103109446480325
+3.095725840281557506
+0.56602870607836153205
+0.025910996194661379405
+0.2828448788504814293
+-2.2476241072455835912
+5.9299239046133642717
+0.81735134134966413999
+0.81735134134966413999
+0.81735134134966413999
+2.1166252139729349047
+2.1166252139729349047
+2.1166252139729349047
+-1.0760190664193860499
+2.089148873785723115
+2.1166252139729349047
+2.1166252139729349047
+0.83581192238028034769
+1.6019698217111280059
+1.3184025030944810375
+0.97497421454668642404
+3.1588138017231037757
+3.1588138017231037757
+3.1588138017231037757
+0.54899867530186452491
+6.3158469907550669475
+0.055018303347151235883
+0.055018303347151235883
+0.055018303347151235883
+-0.30539680364351134978
+1.1041880941547050909
+0.055018303347151235883
+2.4854516426999260226
+0.80371961311604700473
+1.2934711597926715765
+0.84507554328072709282
+0.84507554328072709282
+0.84507554328072709282
+1.0446604906634218146
+1.0446604906634218146
+1.0446604906634218146
+5.0793491447452270293
+1.4360228748772212448
+1.4360228748772212448
+-0.33728487144251767527
+3.483054472342015373
+-0.33728487144251767527
+3.483054472342015373
+0.06436866500169738381
+0.06436866500169738381
+0.06436866500169738381
+0.06436866500169738381
+0.06436866500169738381
+0.06436866500169738381
+0.06436866500169738381
+0.06436866500169738381
+0.30257939762346069967
+0.30257939762346069967
+8.2416820533949941563
+3.0761755595862334545
+0.26087794771686650952
+0.26087794771686650952
+0.26087794771686650952
+0.26087794771686650952
+0.26087794771686650952
+0.61804776137478301123
+0.61804776137478301123
+0.65866769177354766995
+0.65866769177354766995
+0.65866769177354766995
+0.65866769177354766995
+1.9626693243909527631
+1.9626693243909527631
+1.9626693243909527631
+0.3929149332063012201
+0.3929149332063012201
+0.3929149332063012201
+0.3929149332063012201
+0.3929149332063012201
+0.28634401222102123796
+0.28634401222102123796
+0.28634401222102123796
+1.417279474252970628
+4.645022772414859169
+7.6548771100380683663
+0.45922966119722419265
+0.45922966119722419265
+0.45922966119722419265
+0.45922966119722419265
+2.7299156806986926149
+2.7299156806986926149
+0.38674754970215480254
+3.366829830602404261
+3.366829830602404261
+1.9630910355356061547
+1.9630910355356061547
+1.9630910355356061547
+0.48293731455717014978
+0.7038958468947165148
+3.1950880602176940926
+3.1950880602176940926
+8.1599084623339699363
+8.1599084623339699363
+8.1599084623339699363
+0.85427824785527939344
+0.85427824785527939344
+0.15194783371219197643
+0.15194783371219197643
+0.15194783371219197643
+0.15194783371219197643
+1.0805378476615112859
+0.98508894077410247281
+0.98508894077410247281
+0.98508894077410247281
+0.98508894077410247281
+0.020912689871933728275
+0.020912689871933728275
+0.020912689871933728275
+0.020912689871933728275
+0.020912689871933728275
+0.020912689871933728275
+0.020912689871933728275
+0.35446918237376462413
+0.020912689871933728275
+5.4352142200728943422
+1.2287770048208248586
+2.1672168586750530928
+1.2287770048208248586
+6.6912589542538185583
+6.6912589542538185583
+0.30253062224569882144
+1.6999026297285699805
+0.40443430246625799995
+2.0347001589182891479
+0.40443430246625799995
+0.40443430246625799995
+0.40443430246625799995
+0.40443430246625799995
+0.52478531989090337895
+0.52478531989090337895
+0.52478531989090337895
+0.52478531989090337895
+7.2633354174869300124
+1.8244998211392022824
+1.2860859969998261754
+1.2860859969998261754
+2.0165090861282912726
+0.010965142959226424624
+0.010965142959226424624
+0.010965142959226424624
+0.010965142959226424624
+0.010965142959226424624
+0.010965142959226424624
+0.010965142959226424624
+0.010965142959226424624
+0.010965142959226424624
+0.010965142959226424624
+0.010965142959226424624
+3.2477942989334187551
+3.2477942989334187551
+3.2477942989334187551
+0.085004165909851991945
+0.085004165909851991945
+0.085004165909851991945
+0.085004165909851991945
+0.085004165909851991945
+0.085004165909851991945
+1.1680063934361060163
+4.0506076562910813266
+4.0506076562910813266
+4.0506076562910813266
+0.56973364196977560603
+4.0346886540817914479
+1.8397490298612462212
+1.8397490298612462212
+1.8397490298612462212
+1.8397490298612462212
+0.50517133026152183373
+2.0083320165922668998
+2.0083320165922668998
+2.8887215789374369734
+2.8887215789374369734
+4.8787141768518740292
+3.131478480302105627
+0.27651456455815609514
+0.27651456455815609514
+0.93843985385422201695
+0.93843985385422201695
+0.93843985385422201695
+0.93843985385422201695
+0.51714205917822841929
+0.93843985385422201695
+0.35768066849579116528
+0.35768066849579116528
+0.35768066849579116528
+0.35768066849579116528
+0.35768066849579116528
+0.35768066849579116528
+1.3347089495019255345
+1.3347089495019255345
+4.8945838486072661411
+4.8945838486072661411
+-4.2300271243321221348
+4.8721540514606669348
+4.8945838486072661411
+1.4518460244537789716
+1.4518460244537789716
+1.3406160974263960917
+1.3406160974263960917
+3.7327335154769194503
+3.7327335154769194503
+0.2294278674266492235
+0.2294278674266492235
+0.2294278674266492235
+0.2294278674266492235
+0.2294278674266492235
+0.2294278674266492235
+0.2294278674266492235
+0.2294278674266492235
+1.4283231785905872169
+1.4283231785905872169
+1.4283231785905872169
+1.4283231785905872169
+1.4283231785905872169
+2.2328301370116041547
+2.2328301370116041547
+0.95658031680973742983
+0.4179798600136469533
+0.4179798600136469533
+0.4179798600136469533
+4.6482760968527054857
+0.51929869187775423711
+0.51929869187775423711
+1.3893372500732239505
+1.3893372500732239505
+1.2286239356514747634
+1.2286239356514747634
+4.1550740991570194183
+4.1550740991570194183
+4.1550740991570194183
+4.1550740991570194183
+0.62214359984706379958
+0.12531759483181839632
+0.12531759483181839632
+0.12531759483181839632
+0.49233006650784877367
+0.49233006650784877367
+0.49233006650784877367
+1.3641696407151953085
+0.84845236186230454933
+0.33355649250183039278
+0.33355649250183039278
+0.33355649250183039278
+0.33355649250183039278
+0.27382783282299455463
+0.27382783282299455463
+5.8363282418008779473
+4.0012897261425495188
+6.0248845977716500855
+3.288568565473905192
+3.288568565473905192
+2.5823860162000831231
+3.7414728298804926787
+3.7414728298804926787
+3.3152040117883760928
+3.0979998074003329833
+6.3115404695849939287
+0.15043008438896993129
+0.15043008438896993129
+0.15043008438896993129
+1.5452024513715336695
+0.060947971267320780187
+0.060947971267320780187
+3.2415150870165896357
+2.3590075813762312329
+2.3590075813762312329
+2.3590075813762312329
+0.31004734200179279169
+0.31004734200179279169
+0.31004734200179279169
+0.31004734200179279169
+0.31004734200179279169
+0.31004734200179279169
+0.31004734200179279169
+0.31004734200179279169
+0.31004734200179279169
+2.4409195843348832078
+0.90032221963984337965
+0.0355184943394313557
+0.0355184943394313557
+0.0355184943394313557
+0.0355184943394313557
+0.29586578747262121114
+0.29586578747262121114
+0.29586578747262121114
+0.29586578747262121114
+0.29586578747262121114
+0.29586578747262121114
+0.29586578747262121114
+0.29586578747262121114
+0.6768129708836193581
+0.6768129708836193581
+0.6768129708836193581
+0.6768129708836193581
+0.87368777419138399232
+0.49801046064771625765
+0.49801046064771625765
+0.42131504605620323511
+0.42131504605620323511
+0.42131504605620323511
+0.10942712265252109438
+0.10942712265252109438
+0.10942712265252109438
+0.10942712265252109438
+0.10942712265252109438
+0.10942712265252109438
+0.10942712265252109438
+0.10942712265252109438
+1.1109671645742567048
+1.1109671645742567048
+0.68469834648213001582
+3.9950173682166210121
+0.431440647987471948
+0.431440647987471948
+0.431440647987471948
+0.431440647987471948
+0.49276356097445622728
+0.49276356097445622728
+0.49276356097445622728
+5.8504867377709297571
+5.8504867377709297571
+5.8504867377709297571
+5.8504867377709297571
+2.5482000570959355557
+2.5482000570959355557
+1.6861435176144865533
+1.6861435176144865533
+1.6861435176144865533
+0.42129779467599370868
+0.2589222034752767243
+0.2589222034752767243
+0.2589222034752767243
+1.9132743035990724678
+1.9132743035990724678
+1.9132743035990724678
+1.9132743035990724678
+1.9132743035990724678
+3.2826053734291638087
+3.2826053734291638087
+4.3679284956644481852
+1.9915870999831410959
+1.9915870999831410959
+1.9915870999831410959

@@ -1,0 +1,1070 @@
+others:['WBF=,', 'WBF_tag=O', 'WBO=chief', 'WBO_tag=B-NP', 'WBO=executive', 'WBO_tag=I-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBO=starwood', 'WBO_tag=B-NP', 'WBO=,', 'WBO_tag=O', 'WBO=whose', 'WBO_tag=B-NP', 'WBO=upmarket', 'WBO_tag=I-NP', 'WBO=brands', 'WBO_tag=I-NP', 'WBL=include', 'WBL_tag=B-VP']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=senior', 'WBO_tag=I-NP', 'WBO=research', 'WBO_tag=I-NP', 'WBO=analyst', 'WBO_tag=I-NP', 'WBO=with', 'WBO_tag=B-PP', 'WBO=deutsche_bank_securities', 'WBO_tag=B-NP', 'WBO=,', 'WBO_tag=O', 'WBO=said', 'WBO_tag=B-VP', 'WBO=companies', 'WBO_tag=B-NP', 'WBL=like', 'WBL_tag=B-PP']
+
+others:['WBF=and', 'WBF_tag=O', 'WBO=his', 'WBO_tag=B-NP', 'WBO=colleagues', 'WBO_tag=I-NP', 'WBO=submitted', 'WBO_tag=B-VP', 'WBO=a', 'WBO_tag=B-NP', 'WBO=three-year', 'WBO_tag=I-NP', 'WBO=plan', 'WBO_tag=I-NP', 'WBO=to', 'WBO_tag=B-PP', 'WBO=executives', 'WBO_tag=B-NP', 'WBO=at', 'WBO_tag=B-PP', 'WBO=time_warner', 'WBO_tag=B-NP', 'WBO=,', 'WBO_tag=O', 'WBO=the', 'WBO_tag=B-NP', 'WBO=parent', 'WBO_tag=I-NP', 'WBO=company', 'WBO_tag=I-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBO=the', 'WBO_tag=B-NP', 'WBO=turner_broadcasting', 'WBO_tag=I-NP', 'WBO=unit', 'WBO_tag=I-NP', 'WBO=,', 'WBO_tag=O', 'WBO=of', 'WBO_tag=B-PP', 'WBL=which', 'WBL_tag=B-NP']
+
+others:['WBF=in', 'WBF_tag=B-PP', 'WBO=rome', 'WBO_tag=B-NP', 'WBO=,', 'WBO_tag=O', 'WBO=and', 'WBO_tag=O', 'WBO=then', 'WBO_tag=O', 'WBO=the', 'WBO_tag=B-NP', 'WBO=residents', 'WBO_tag=I-NP', 'WBO=worried', 'WBO_tag=B-VP', 'WBO=that', 'WBO_tag=B-SBAR', 'WBO=he', 'WBO_tag=B-NP', 'WBO=would', 'WBO_tag=B-VP', 'WBO=create', 'WBO_tag=I-VP', 'WBO=a', 'WBO_tag=B-NP', 'WBO=kitschy', 'WBO_tag=I-NP', 'WBO=theme', 'WBO_tag=I-NP', 'WBO=park', 'WBO_tag=I-NP', 'WBO=,', 'WBO_tag=O', 'WBL=said', 'WBL_tag=B-VP']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=managing', 'WBO_tag=B-NP', 'WBO=director', 'WBO_tag=I-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBO=oxford_economics', 'WBO_tag=B-NP', 'WBO=,', 'WBO_tag=O', 'WBO=the', 'WBO_tag=B-NP', 'WBO=firm', 'WBO_tag=I-NP', 'WBO=that', 'WBO_tag=B-NP', 'WBO=prepared', 'WBO_tag=B-VP', 'WBL=the', 'WBL_tag=B-NP']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=retired', 'WBO_tag=I-NP', 'WBO=army', 'WBO_tag=I-NP', 'WBO=colonel', 'WBO_tag=I-NP', 'WBO=who', 'WBO_tag=B-NP', 'WBO=heads', 'WBO_tag=B-VP', 'WBO=the', 'WBO_tag=B-NP', 'WBO=program', 'WBO_tag=I-NP', 'WBO=for', 'WBO_tag=B-PP', 'WBO=oshkosh', 'WBO_tag=B-NP', 'WBO=,', 'WBO_tag=O', 'WBO=said', 'WBO_tag=B-VP', 'WBO=he', 'WBO_tag=B-NP', 'WBO=quickly', 'WBO_tag=B-VP', 'WBO=sketched', 'WBO_tag=I-VP', 'WBO=out', 'WBO_tag=B-PRT', 'WBO=how', 'WBO_tag=B-ADVP', 'WBO=to', 'WBO_tag=B-VP', 'WBO=combine', 'WBO_tag=I-VP', 'WBO=its', 'WBO_tag=B-NP', 'WBO=suspension', 'WBO_tag=I-NP', 'WBO=with', 'WBO_tag=B-PP', 'WBO=advanced', 'WBO_tag=B-NP', 'WBO=bolt-on', 'WBO_tag=I-NP', 'WBO=armor', 'WBO_tag=I-NP', 'WBO=from', 'WBO_tag=B-PP', 'WBO=an', 'WBO_tag=B-NP', 'WBO=israeli', 'WBO_tag=I-NP', 'WBO=company', 'WBO_tag=I-NP', 'WBO=to', 'WBO_tag=B-VP', 'WBO=meet', 'WBO_tag=I-VP', 'WBL=the', 'WBL_tag=B-NP']
+
+director:['WBF=,', 'WBF_tag=O', 'WBO=director', 'WBO_tag=B-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBO=external', 'WBO_tag=B-NP', 'WBO=relations', 'WBO_tag=I-NP', 'WBL=for', 'WBL_tag=B-PP']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=who', 'WBO_tag=B-NP', 'WBO=is', 'WBO_tag=B-VP', 'WBO=presiding', 'WBO_tag=I-VP', 'WBO=over', 'WBO_tag=B-PP', 'WBO=the', 'WBO_tag=B-NP', 'WBO=civil', 'WBO_tag=I-NP', 'WBO=case', 'WBO_tag=I-NP', 'WBL=in', 'WBL_tag=B-PP']
+
+others:['WBFL=to', 'WBFL_tag=B-PP']
+
+others:['WBF=has', 'WBF_tag=B-VP', 'WBO=managed', 'WBO_tag=I-VP', 'WBO=5.2', 'WBO_tag=B-NP', 'WBO=percent', 'WBO_tag=I-NP', 'WBO=,', 'WBO_tag=O', 'WBO=according', 'WBO_tag=B-PP', 'WBL=to', 'WBL_tag=B-PP']
+
+spokesperson:['WBF=spokeswoman', 'WBF_tag=I-NP', 'WBL=,', 'WBL_tag=O']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=the', 'WBO_tag=B-NP', 'WBO=20th', 'WBO_tag=I-NP', 'WBO=century', 'WBO_tag=I-NP', 'WBO=fox', 'WBO_tag=I-NP', 'WBO=film', 'WBO_tag=I-NP', 'WBO=studio', 'WBO_tag=I-NP', 'WBO=,', 'WBO_tag=O', 'WBL=the', 'WBL_tag=B-NP']
+
+founder:['WBF=,', 'WBF_tag=O', 'WBO=the', 'WBO_tag=B-NP', 'WBO=billionaire', 'WBO_tag=I-NP', 'WBO=founder', 'WBO_tag=I-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBL=the', 'WBL_tag=B-NP']
+
+others:['WBF=coached', 'WBF_tag=B-VP', 'WBO=winning', 'WBO_tag=I-VP', 'WBO=teams', 'WBO_tag=B-NP', 'WBO=in', 'WBO_tag=B-PP', 'WBL=the', 'WBL_tag=B-NP']
+
+others:['WBF=is', 'WBF_tag=B-VP', 'WBO=the', 'WBO_tag=B-NP', 'WBO=biotechnology', 'WBO_tag=I-NP', 'WBO=project', 'WBO_tag=I-NP', 'WBO=director', 'WBO_tag=I-NP', 'WBO=at', 'WBO_tag=B-PP', 'WBO=the', 'WBO_tag=B-NP', 'WBO=center_for_science', 'WBO_tag=I-NP', 'WBO=in', 'WBO_tag=B-PP', 'WBL=the', 'WBL_tag=B-NP']
+
+others:['WBF=name', 'WBF_tag=I-NP', 'WBO=will', 'WBO_tag=B-VP', 'WBO=appear', 'WBO_tag=I-VP', 'WBO=on', 'WBO_tag=B-PP', 'WBO=shelves', 'WBO_tag=B-NP', 'WBO=only', 'WBO_tag=B-ADVP', 'WBL=after', 'WBL_tag=B-PP']
+
+others:['WBF=agreed', 'WBF_tag=B-VP', 'WBO=to', 'WBO_tag=I-VP', 'WBO=invest', 'WBO_tag=I-VP', 'WBO=several', 'WBO_tag=B-NP', 'WBO=million', 'WBO_tag=I-NP', 'WBO=dollars', 'WBO_tag=I-NP', 'WBO=to', 'WBO_tag=B-VP', 'WBO=quickly', 'WBO_tag=I-VP', 'WBO=prepare', 'WBO_tag=I-VP', 'WBO=the', 'WBO_tag=B-NP', 'WBO=bid', 'WBO_tag=I-NP', 'WBO=and', 'WBO_tag=O', 'WBO=build', 'WBO_tag=B-VP', 'WBO=five', 'WBO_tag=B-NP', 'WBO=vehicles', 'WBO_tag=I-NP', 'WBO=for', 'WBO_tag=B-PP', 'WBL=the', 'WBL_tag=B-NP']
+
+others:['WBF=order', 'WBF_tag=I-NP', 'WBO=was', 'WBO_tag=B-VP', 'WBO=much', 'WBO_tag=B-ADJP', 'WBO=lower', 'WBO_tag=I-ADJP', 'WBO=than', 'WBO_tag=B-PP', 'WBO=the', 'WBO_tag=B-NP', 'WBO=one', 'WBO_tag=I-NP', 'WBO=cited', 'WBO_tag=B-VP', 'WBL=by', 'WBL_tag=B-PP']
+
+others:['WBF=declared', 'WBF_tag=B-VP', 'WBO=h1n1', 'WBO_tag=B-NP', 'WBO=a', 'WBO_tag=B-NP', 'WBO=national', 'WBO_tag=I-NP', 'WBO=emergency', 'WBO_tag=I-NP', 'WBO=,', 'WBO_tag=O', 'WBO=the', 'WBO_tag=B-NP', 'WBL=federal', 'WBL_tag=I-NP']
+
+others:['WBFL=,', 'WBFL_tag=O']
+
+spokesperson:['WBF=spokesman', 'WBF_tag=I-NP', 'WBL=,', 'WBL_tag=O']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=general', 'WBO_tag=I-NP', 'WBO=partner', 'WBO_tag=I-NP', 'WBL=with', 'WBL_tag=B-PP']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=network', 'WBO_tag=I-NP', 'WBO=analyst', 'WBO_tag=I-NP', 'WBO=for', 'WBO_tag=B-PP', 'WBO=cableu', 'WBO_tag=B-NP', 'WBO=,', 'WBO_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=cable', 'WBO_tag=I-NP', 'WBO=tv', 'WBO_tag=I-NP', 'WBO=research', 'WBO_tag=I-NP', 'WBO=company', 'WBO_tag=I-NP', 'WBO=,', 'WBO_tag=O', 'WBO=noting', 'WBO_tag=B-VP', 'WBO=that', 'WBO_tag=B-SBAR', 'WBO=it', 'WBO_tag=B-NP', 'WBO=would', 'WBO_tag=B-VP', 'WBO=be', 'WBO_tag=I-VP', 'WBO=a', 'WBO_tag=B-NP', 'WBO=good', 'WBO_tag=I-NP', 'WBO=fit', 'WBO_tag=I-NP', 'WBO=with', 'WBO_tag=B-PP', 'WBL=the', 'WBL_tag=B-NP']
+
+head:['WBF=,', 'WBF_tag=O', 'WBO=chief', 'WBO_tag=B-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBO=infectious', 'WBO_tag=B-NP', 'WBO=diseases', 'WBO_tag=I-NP', 'WBL=at', 'WBL_tag=B-PP']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=the', 'WBO_tag=B-NP', 'WBO=governor', 'WBO_tag=I-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBL=the', 'WBL_tag=B-NP']
+
+others:['WBF=line', 'WBF_tag=I-NP', 'WBO=is', 'WBO_tag=B-VP', 'WBO=also', 'WBO_tag=I-VP', 'WBO=going', 'WBO_tag=I-VP', 'WBO=with', 'WBO_tag=B-PP', 'WBO=two', 'WBO_tag=B-NP', 'WBO=thousand', 'WBO_tag=I-NP', 'WBO=ten', 'WBO_tag=B-ADVP', 'WBO=,', 'WBO_tag=O', 'WBL=said', 'WBL_tag=B-VP']
+
+lawyer:['WBF=,', 'WBF_tag=O', 'WBO=33', 'WBO_tag=B-NP', 'WBO=,', 'WBO_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=lawyer', 'WBO_tag=I-NP', 'WBO=at', 'WBO_tag=B-PP', 'WBO=the', 'WBO_tag=B-NP', 'WBO=prestigious', 'WBO_tag=I-NP', 'WBO=firm', 'WBO_tag=I-NP', 'WBL=of', 'WBL_tag=B-PP']
+
+others:["WBF='s", 'WBF_tag=B-NP', 'WBL=new', 'WBL_tag=I-NP']
+
+head:['WBF=,', 'WBF_tag=O', 'WBO=the', 'WBO_tag=B-NP', 'WBO=chief', 'WBO_tag=I-NP', 'WBO=financial', 'WBO_tag=I-NP', 'WBO=officer', 'WBO_tag=I-NP', 'WBL=at', 'WBL_tag=B-PP']
+
+head:['WBF=,', 'WBF_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=senior', 'WBO_tag=I-NP', 'WBO=economist', 'WBO_tag=I-NP', 'WBL=at', 'WBL_tag=B-PP']
+
+head:['WBF=,', 'WBF_tag=O', 'WBO=the', 'WBO_tag=B-NP', 'WBO=chief', 'WBO_tag=I-NP', 'WBO=executive', 'WBO_tag=I-NP', 'WBL=of', 'WBL_tag=B-PP']
+
+others:['WBFL=and', 'WBFL_tag=I-NP']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=senior', 'WBO_tag=B-NP', 'WBO=vice', 'WBO_tag=I-NP', 'WBO=president', 'WBO_tag=I-NP', 'WBO=and', 'WBO_tag=O', 'WBO=group', 'WBO_tag=B-NP', 'WBO=account', 'WBO_tag=I-NP', 'WBO=director', 'WBO_tag=I-NP', 'WBO=at', 'WBO_tag=B-PP', 'WBO=its', 'WBO_tag=B-NP', 'WBO=agency', 'WBO_tag=I-NP', 'WBL=,', 'WBL_tag=O']
+
+advisor:['WBF=was', 'WBF_tag=B-VP', 'WBO=advised', 'WBO_tag=I-VP', 'WBL=by', 'WBL_tag=B-PP']
+
+analyst:['WBF=,', 'WBF_tag=O', 'WBO=an', 'WBO_tag=B-NP', 'WBO=analyst', 'WBO_tag=I-NP', 'WBL=at', 'WBL_tag=B-PP']
+
+head:['WBF=,', 'WBF_tag=O', 'WBO=vice', 'WBO_tag=B-NP', 'WBO=president', 'WBO_tag=I-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBO=marketing', 'WBO_tag=B-NP', 'WBO=for', 'WBO_tag=B-PP', 'WBL=the', 'WBL_tag=B-NP']
+
+head:['WBF=of', 'WBF_tag=B-PP', 'WBO=ohio', 'WBO_tag=B-NP', 'WBO=,', 'WBO_tag=O', 'WBL=a', 'WBL_tag=B-NP']
+
+others:['WBF=in', 'WBF_tag=B-PP', 'WBO=bidding', 'WBO_tag=B-VP', 'WBO=this', 'WBO_tag=B-NP', 'WBO=year', 'WBO_tag=I-NP', 'WBL=for', 'WBL_tag=B-PP']
+
+professor:['WBF=,', 'WBF_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=visiting', 'WBO_tag=I-NP', 'WBO=fellow', 'WBO_tag=I-NP', 'WBO=at', 'WBO_tag=B-PP', 'WBO=the', 'WBO_tag=B-NP', 'WBO=center_for_information_technology_policy', 'WBO_tag=I-NP', 'WBO=at', 'WBO_tag=B-PP', 'WBO=princeton_university', 'WBO_tag=B-NP', 'WBO=in', 'WBO_tag=B-PP', 'WBO=new_jersey', 'WBO_tag=B-NP', 'WBO=and', 'WBO_tag=O', 'WBO=professor', 'WBO_tag=B-NP', 'WBO=at', 'WBO_tag=B-PP', 'WBL=the', 'WBL_tag=B-NP']
+
+others:['WBF=and', 'WBF_tag=O', 'WBO=gary_rosenbach', 'WBO_tag=B-NP', 'WBO=,', 'WBO_tag=O', 'WBO=another', 'WBO_tag=B-NP', 'WBO=galleon', 'WBO_tag=I-NP', 'WBO=executive', 'WBO_tag=I-NP', 'WBO=,', 'WBO_tag=O', 'WBO=on', 'WBO_tag=B-PP', 'WBO=their', 'WBO_tag=B-NP', 'WBO=claim', 'WBO_tag=I-NP', 'WBO=that', 'WBO_tag=B-SBAR', 'WBO=they', 'WBO_tag=B-NP', 'WBO=were', 'WBO_tag=B-VP', 'WBO=misled', 'WBO_tag=I-VP', 'WBO=by', 'WBO_tag=B-PP', 'WBO=the', 'WBO_tag=B-NP', 'WBO=creators', 'WBO_tag=I-NP', 'WBO=and', 'WBO_tag=I-NP', 'WBO=promoters', 'WBO_tag=I-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBO=a', 'WBO_tag=B-NP', 'WBO=tax', 'WBO_tag=I-NP', 'WBO=shelter', 'WBO_tag=I-NP', 'WBO=later', 'WBO_tag=B-VP', 'WBO=disallowed', 'WBO_tag=I-VP', 'WBO=by', 'WBO_tag=B-PP', 'WBL=the', 'WBL_tag=B-NP']
+
+others:['WBFL=,', 'WBFL_tag=O']
+
+others:['WBF=and', 'WBF_tag=O', 'WBO=sony', 'WBO_tag=B-NP', 'WBO=in', 'WBO_tag=B-PP', 'WBO=collaboration', 'WBO_tag=B-NP', 'WBO=with', 'WBO_tag=B-PP', 'WBL=the', 'WBL_tag=B-NP']
+
+others:['WBF=had', 'WBF_tag=B-VP', 'WBO=supplied', 'WBO_tag=I-VP', 'WBO=about', 'WBO_tag=B-PP', 'WBO=four', 'WBO_tag=B-NP', 'WBO=2007', 'WBO_tag=I-NP', 'WBO=deals', 'WBO_tag=I-NP', 'WBO=involving', 'WBO_tag=B-VP', 'WBO=clients', 'WBO_tag=B-NP', 'WBL=of', 'WBL_tag=B-PP']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=partner', 'WBO_tag=I-NP', 'WBL=at', 'WBL_tag=B-PP']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=and', 'WBO_tag=O', 'WBO=tom_freston', 'WBO_tag=B-NP', 'WBO=,', 'WBO_tag=O', 'WBO=the', 'WBO_tag=B-NP', 'WBL=former', 'WBL_tag=I-NP']
+
+director:['WBF=,', 'WBF_tag=O', 'WBO=director', 'WBO_tag=B-NP', 'WBO=for', 'WBO_tag=B-PP', 'WBO=advertising', 'WBO_tag=B-NP', 'WBO=and', 'WBO_tag=I-NP', 'WBO=promotion', 'WBO_tag=I-NP', 'WBO=for', 'WBO_tag=B-PP', 'WBL=the', 'WBL_tag=B-NP']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=the', 'WBO_tag=B-NP', 'WBO=former', 'WBO_tag=I-NP', 'WBO=chief', 'WBO_tag=I-NP', 'WBO=compliance', 'WBO_tag=I-NP', 'WBO=officer', 'WBO_tag=I-NP', 'WBO=david_henigson', 'WBO_tag=I-NP', 'WBO=and', 'WBO_tag=I-NP', 'WBO=value_line_securities', 'WBO_tag=I-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBO=charging', 'WBO_tag=B-VP', 'WBO=more', 'WBO_tag=B-NP', 'WBO=than', 'WBO_tag=I-NP', 'WBO=$', 'WBO_tag=I-NP', 'WBO=24', 'WBO_tag=I-NP', 'WBO=million', 'WBO_tag=I-NP', 'WBO=in', 'WBO_tag=B-PP', 'WBO=bogus', 'WBO_tag=B-NP', 'WBO=commissions', 'WBO_tag=I-NP', 'WBO=on', 'WBO_tag=B-PP', 'WBO=phantom', 'WBO_tag=B-NP', 'WBO=trades', 'WBO_tag=I-NP', 'WBO=and', 'WBO_tag=O', 'WBO=brokerage', 'WBO_tag=B-NP', 'WBO=services', 'WBO_tag=I-NP', 'WBO=in', 'WBO_tag=B-PP', 'WBL=nine', 'WBL_tag=B-NP']
+
+others:['WBF=said', 'WBF_tag=B-VP', 'WBL=,', 'WBL_tag=O']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=ms._buttner', 'WBO_tag=B-NP', 'WBO=,', 'WBO_tag=O', 'WBO=the', 'WBO_tag=B-NP', 'WBO=former', 'WBO_tag=I-NP', 'WBO=chief', 'WBO_tag=I-NP', 'WBO=compliance', 'WBO_tag=I-NP', 'WBL=officer', 'WBL_tag=I-NP']
+
+advisor:['WBF=was', 'WBF_tag=B-VP', 'WBO=advised', 'WBO_tag=I-VP', 'WBO=by', 'WBO_tag=B-PP', 'WBO=deutsche_bank', 'WBO_tag=B-NP', 'WBO=,', 'WBO_tag=O', 'WBO=goldman_sachs', 'WBO_tag=B-NP', 'WBO=and', 'WBO_tag=O', 'WBO=the', 'WBO_tag=B-NP', 'WBO=law', 'WBO_tag=I-NP', 'WBL=firms', 'WBL_tag=I-NP']
+
+others:['WBF=of', 'WBF_tag=B-PP', 'WBO=the', 'WBO_tag=B-NP', 'WBO=research', 'WBO_tag=I-NP', 'WBL=firm', 'WBL_tag=I-NP']
+
+others:['WBF=agency', 'WBF_tag=I-NP', 'WBL=is', 'WBL_tag=B-VP']
+
+others:['WBFL=,', 'WBFL_tag=O']
+
+founder:['WBF=,', 'WBF_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=former', 'WBO_tag=I-NP', 'WBO=executive', 'WBO_tag=I-NP', 'WBO=at', 'WBO_tag=B-PP', 'WBO=activision', 'WBO_tag=B-NP', 'WBO=and', 'WBO_tag=O', 'WBO=the', 'WBO_tag=B-NP', 'WBO=founder', 'WBO_tag=I-NP', 'WBL=of', 'WBL_tag=B-PP']
+
+others:['WBF=,', 'WBF_tag=I-NP', 'WBL=and', 'WBL_tag=I-NP']
+
+director:['WBF=,', 'WBF_tag=O', 'WBL=the', 'WBL_tag=B-NP']
+
+others:['WBF=,', 'WBF_tag=I-NP', 'WBO=mr._henigson', 'WBO_tag=I-NP', 'WBO=,', 'WBO_tag=I-NP', 'WBL=and', 'WBL_tag=I-NP']
+
+head:['WBF=,', 'WBF_tag=O', 'WBO=the', 'WBO_tag=B-NP', 'WBO=chief', 'WBO_tag=I-NP', 'WBO=market', 'WBO_tag=I-NP', 'WBO=analyst', 'WBO_tag=I-NP', 'WBL=at', 'WBL_tag=B-PP']
+
+others:['WBF=)', 'WBF_tag=I-NP', 'WBL=--', 'WBL_tag=O']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=said', 'WBO_tag=B-VP', 'WBO=delaware', 'WBO_tag=B-NP', 'WBO=was', 'WBO_tag=B-VP', 'WBO=an', 'WBO_tag=B-NP', 'WBO=odd', 'WBO_tag=I-NP', 'WBO=venue', 'WBO_tag=I-NP', 'WBL=for', 'WBL_tag=B-PP']
+
+others:['WBF=)', 'WBF_tag=I-NP', 'WBO=--', 'WBO_tag=O', 'WBO=treasury', 'WBO_tag=B-NP', 'WBL=secretary', 'WBL_tag=I-NP']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=upgraded', 'WBO_tag=B-VP', 'WBO=the', 'WBO_tag=B-NP', 'WBO=stock', 'WBO_tag=I-NP', 'WBO=,', 'WBO_tag=O', 'WBO=writing', 'WBO_tag=B-VP', 'WBL=that', 'WBL_tag=B-SBAR']
+
+others:['WBF=in', 'WBF_tag=B-PP', 'WBO=portland', 'WBO_tag=B-NP', 'WBO=,', 'WBO_tag=O', 'WBO=ore.', 'WBO_tag=B-NP', 'WBO=,', 'WBO_tag=O', 'WBO=is', 'WBO_tag=B-VP', 'WBO=among', 'WBO_tag=B-PP', 'WBO=50', 'WBO_tag=B-NP', 'WBO=travel', 'WBO_tag=I-NP', 'WBO=consultants', 'WBO_tag=I-NP', 'WBO=chosen', 'WBO_tag=B-VP', 'WBO=as', 'WBO_tag=B-PP', 'WBO=accredited', 'WBO_tag=B-NP', 'WBO=space', 'WBO_tag=I-NP', 'WBO=agents', 'WBO_tag=I-NP', 'WBL=for', 'WBL_tag=B-PP']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=and', 'WBO_tag=O', 'WBO=its', 'WBO_tag=B-NP', 'WBO=vice', 'WBO_tag=I-NP', 'WBO=president', 'WBO_tag=I-NP', 'WBO=in', 'WBO_tag=B-PP', 'WBO=charge', 'WBO_tag=B-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBL=the', 'WBL_tag=B-NP']
+
+head:['WBF=,', 'WBF_tag=O', 'WBO=the', 'WBO_tag=B-NP', 'WBO=chief', 'WBO_tag=I-NP', 'WBO=executive', 'WBO_tag=I-NP', 'WBL=of', 'WBL_tag=B-PP']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=the', 'WBO_tag=B-NP', 'WBL=firm', 'WBL_tag=I-NP']
+
+others:['WBF=from', 'WBF_tag=B-PP', 'WBO=associating', 'WBO_tag=B-VP', 'WBO=with', 'WBO_tag=B-PP', 'WBO=any', 'WBO_tag=B-NP', 'WBO=broker', 'WBO_tag=I-NP', 'WBO=,', 'WBO_tag=O', 'WBO=dealer', 'WBO_tag=B-NP', 'WBO=,', 'WBO_tag=O', 'WBO=investment', 'WBO_tag=B-NP', 'WBO=adviser', 'WBO_tag=I-NP', 'WBO=and', 'WBO_tag=I-NP', 'WBO=investment', 'WBO_tag=I-NP', 'WBO=company', 'WBO_tag=I-NP', 'WBO=and', 'WBO_tag=B-PP', 'WBO=from', 'WBO_tag=B-PP', 'WBO=acting', 'WBO_tag=B-VP', 'WBO=as', 'WBO_tag=B-PP', 'WBO=an', 'WBO_tag=B-NP', 'WBO=officer', 'WBO_tag=I-NP', 'WBO=or', 'WBO_tag=I-NP', 'WBO=director', 'WBO_tag=I-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBO=any', 'WBO_tag=B-NP', 'WBO=public', 'WBO_tag=I-NP', 'WBO=company', 'WBO_tag=I-NP', 'WBO=,', 'WBO_tag=O', 'WBL=the', 'WBL_tag=B-NP']
+
+others:['WBF=to', 'WBF_tag=B-VP', 'WBO=use', 'WBO_tag=I-VP', 'WBO=a', 'WBO_tag=B-NP', 'WBO=core', 'WBO_tag=I-NP', 'WBO=technology', 'WBO_tag=I-NP', 'WBO=,', 'WBO_tag=O', 'WBO=held', 'WBO_tag=B-VP', 'WBO=by', 'WBO_tag=B-PP', 'WBO=a', 'WBO_tag=B-NP', 'WBO=company', 'WBO_tag=I-NP', 'WBO=they', 'WBO_tag=B-NP', 'WBO=own', 'WBO_tag=B-VP', 'WBL=called', 'WBL_tag=I-VP']
+
+director:['WBF=,', 'WBF_tag=O', 'WBO=executive', 'WBO_tag=B-NP', 'WBO=director', 'WBO_tag=I-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBL=the', 'WBL_tag=B-NP']
+
+others:['WBFL=for', 'WBFL_tag=B-PP']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=local', 'WBO_tag=I-NP', 'WBO=strip-mall', 'WBO_tag=I-NP', 'WBO=developer', 'WBO_tag=I-NP', 'WBO=,', 'WBO_tag=O', 'WBO=acquired', 'WBO_tag=B-VP', 'WBO=an', 'WBO_tag=B-NP', 'WBO=abandoned', 'WBO_tag=I-NP', 'WBO=brewery', 'WBO_tag=I-NP', 'WBO=a', 'WBO_tag=B-NP', 'WBO=few', 'WBO_tag=I-NP', 'WBO=miles', 'WBO_tag=I-NP', 'WBL=from', 'WBL_tag=B-PP']
+
+others:['WBF=argues', 'WBF_tag=B-VP', 'WBL=that', 'WBL_tag=B-NP']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=new', 'WBO_tag=I-NP', 'WBO=partner', 'WBO_tag=I-NP', 'WBO=there', 'WBO_tag=B-ADVP', 'WBO=,', 'WBO_tag=O', 'WBO=had', 'WBO_tag=B-VP', 'WBO=worked', 'WBO_tag=I-VP', 'WBO=for', 'WBO_tag=B-PP', 'WBO=the', 'WBO_tag=B-NP', 'WBO=skype', 'WBO_tag=I-NP', 'WBO=founders', 'WBO_tag=I-NP', 'WBL=at', 'WBL_tag=B-PP']
+
+others:['WBFL=of', 'WBFL_tag=B-PP']
+
+others:['WBF=had', 'WBF_tag=B-VP', 'WBO=stuck', 'WBO_tag=I-VP', 'WBO=loyally', 'WBO_tag=B-ADVP', 'WBO=with', 'WBO_tag=B-PP', 'WBO=slower', 'WBO_tag=B-NP', 'WBO=chips', 'WBO_tag=I-NP', 'WBL=from', 'WBL_tag=B-PP']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=an', 'WBO_tag=B-NP', 'WBO=auto', 'WBO_tag=I-NP', 'WBO=specialist', 'WBO_tag=I-NP', 'WBL=at', 'WBL_tag=B-PP']
+
+analyst:['WBF=,', 'WBF_tag=O', 'WBO=travel', 'WBO_tag=B-NP', 'WBO=analyst', 'WBO_tag=I-NP', 'WBL=for', 'WBL_tag=B-PP']
+
+professor:['WBF=,', 'WBF_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=professor', 'WBO_tag=I-NP', 'WBL=at', 'WBL_tag=B-PP']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=california', 'WBO_tag=I-NP', 'WBO=fund', 'WBO_tag=I-NP', 'WBO=manager', 'WBO_tag=I-NP', 'WBO=who', 'WBO_tag=B-NP', 'WBO=worked', 'WBO_tag=B-VP', 'WBL=at', 'WBL_tag=B-PP']
+
+others:['WBFL=for', 'WBFL_tag=B-PP']
+
+others:['WBF=makes', 'WBF_tag=B-VP', 'WBO=a', 'WBO_tag=B-NP', 'WBO=mouth-watering', 'WBO_tag=I-NP', 'WBO=morsel', 'WBO_tag=I-NP', 'WBO=for', 'WBO_tag=B-PP', 'WBL=humdrum', 'WBL_tag=B-NP']
+
+others:['WBF=and', 'WBF_tag=I-NP', 'WBO=resorts', 'WBO_tag=I-NP', 'WBO=,', 'WBO_tag=I-NP', 'WBO=omni_hotels', 'WBO_tag=I-NP', 'WBO=and', 'WBO_tag=O', 'WBO=the', 'WBO_tag=B-NP', 'WBO=walt_disney_world_swan', 'WBO_tag=I-NP', 'WBL=and', 'WBL_tag=I-NP']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=an', 'WBO_tag=B-NP', 'WBO=army', 'WBO_tag=I-NP', 'WBO=official', 'WBO_tag=I-NP', 'WBO=who', 'WBO_tag=B-NP', 'WBO=recently', 'WBO_tag=B-ADVP', 'WBO=ran', 'WBO_tag=B-VP', 'WBO=a', 'WBO_tag=B-NP', 'WBO=task', 'WBO_tag=I-NP', 'WBO=force', 'WBO_tag=I-NP', 'WBO=examining', 'WBO_tag=B-VP', 'WBO=how', 'WBO_tag=B-ADVP', 'WBL=the', 'WBL_tag=B-NP']
+
+others:['WBF=and', 'WBF_tag=I-NP', 'WBO=mr._henigson', 'WBO_tag=I-NP', 'WBO=from', 'WBO_tag=B-PP', 'WBO=associating', 'WBO_tag=B-VP', 'WBO=with', 'WBO_tag=B-PP', 'WBO=any', 'WBO_tag=B-NP', 'WBO=broker', 'WBO_tag=I-NP', 'WBO=,', 'WBO_tag=O', 'WBO=dealer', 'WBO_tag=B-NP', 'WBO=,', 'WBO_tag=O', 'WBO=investment', 'WBO_tag=B-NP', 'WBO=adviser', 'WBO_tag=I-NP', 'WBO=and', 'WBO_tag=I-NP', 'WBO=investment', 'WBO_tag=I-NP', 'WBO=company', 'WBO_tag=I-NP', 'WBO=and', 'WBO_tag=B-PP', 'WBO=from', 'WBO_tag=B-PP', 'WBO=acting', 'WBO_tag=B-VP', 'WBO=as', 'WBO_tag=B-PP', 'WBO=an', 'WBO_tag=B-NP', 'WBO=officer', 'WBO_tag=I-NP', 'WBO=or', 'WBO_tag=I-NP', 'WBO=director', 'WBO_tag=I-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBO=any', 'WBO_tag=B-NP', 'WBO=public', 'WBO_tag=I-NP', 'WBO=company', 'WBO_tag=I-NP', 'WBO=,', 'WBO_tag=O', 'WBL=the', 'WBL_tag=B-NP']
+
+spokesperson:['WBF=,', 'WBF_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=spokeswoman', 'WBO_tag=I-NP', 'WBO=for', 'WBO_tag=B-PP', 'WBL=the', 'WBL_tag=B-NP']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=california', 'WBO_tag=I-NP', 'WBO=fund', 'WBO_tag=I-NP', 'WBO=manager', 'WBO_tag=I-NP', 'WBO=who', 'WBO_tag=B-NP', 'WBO=worked', 'WBO_tag=B-VP', 'WBO=at', 'WBO_tag=B-PP', 'WBO=s.a.c.', 'WBO_tag=B-NP', 'WBO=from', 'WBO_tag=B-PP', 'WBO=1999', 'WBO_tag=B-NP', 'WBO=through', 'WBO_tag=B-PP', 'WBO=january', 'WBO_tag=B-NP', 'WBO=2004', 'WBO_tag=I-NP', 'WBO=,', 'WBO_tag=O', 'WBO=on', 'WBO_tag=B-PP', 'WBO=any', 'WBO_tag=B-NP', 'WBO=insider', 'WBO_tag=I-NP', 'WBO=trading', 'WBO_tag=I-NP', 'WBO=he', 'WBO_tag=B-NP', 'WBO=committed', 'WBO_tag=B-VP', 'WBL=at', 'WBL_tag=B-PP']
+
+director:['WBF=is', 'WBF_tag=B-VP', 'WBO=the', 'WBO_tag=B-NP', 'WBO=biotechnology', 'WBO_tag=I-NP', 'WBO=project', 'WBO_tag=I-NP', 'WBO=director', 'WBO_tag=I-NP', 'WBO=at', 'WBO_tag=B-PP', 'WBL=the', 'WBL_tag=B-NP']
+
+others:['WBFL=and', 'WBFL_tag=O']
+
+others:['WBF=unit', 'WBF_tag=I-NP', 'WBL=,', 'WBL_tag=O']
+
+head:['WBF=,', 'WBF_tag=O', 'WBO=dean', 'WBO_tag=B-NP', 'WBL=of', 'WBL_tag=B-PP']
+
+others:['WBF=and', 'WBF_tag=O', 'WBO=some', 'WBO_tag=B-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBO=the', 'WBO_tag=B-NP', 'WBO=other', 'WBO_tag=I-NP', 'WBO=people', 'WBO_tag=I-NP', 'WBO=arrested', 'WBO_tag=B-VP', 'WBO=thursday', 'WBO_tag=B-NP', 'WBO=had', 'WBO_tag=B-VP', 'WBO=personal', 'WBO_tag=B-NP', 'WBO=and', 'WBO_tag=I-NP', 'WBO=professional', 'WBO_tag=I-NP', 'WBO=links', 'WBO_tag=I-NP', 'WBO=with', 'WBO_tag=B-PP', 'WBO=defendants', 'WBO_tag=B-NP', 'WBO=in', 'WBO_tag=B-PP', 'WBO=a', 'WBO_tag=B-NP', 'WBO=larger', 'WBO_tag=I-NP', 'WBO=insider', 'WBO_tag=I-NP', 'WBO=trading', 'WBO_tag=I-NP', 'WBO=case', 'WBO_tag=I-NP', 'WBO=pending', 'WBO_tag=I-NP', 'WBO=against', 'WBO_tag=B-PP', 'WBO=the', 'WBO_tag=B-NP', 'WBO=galleon_group', 'WBO_tag=I-NP', 'WBO=hedge', 'WBO_tag=I-NP', 'WBO=fund', 'WBO_tag=I-NP', 'WBO=;', 'WBO_tag=O', 'WBO=its', 'WBO_tag=B-NP', 'WBO=founder', 'WBO_tag=I-NP', 'WBO=,', 'WBO_tag=O', 'WBO=raj_rajaratnam', 'WBO_tag=B-NP', 'WBO=;', 'WBO_tag=O', 'WBO=and', 'WBO_tag=O', 'WBO=other', 'WBO_tag=B-NP', 'WBO=defendants', 'WBO_tag=I-NP', 'WBO=added', 'WBO_tag=B-VP', 'WBO=to', 'WBO_tag=B-PP', 'WBO=the', 'WBO_tag=B-NP', 'WBO=case', 'WBO_tag=I-NP', 'WBO=through', 'WBO_tag=B-PP', 'WBO=a', 'WBO_tag=B-NP', 'WBO=new', 'WBO_tag=I-NP', 'WBO=civil', 'WBO_tag=I-NP', 'WBO=complaint', 'WBO_tag=I-NP', 'WBO=filed', 'WBO_tag=B-VP', 'WBO=by', 'WBO_tag=B-PP', 'WBL=the', 'WBL_tag=B-NP']
+
+others:['WBF=lied', 'WBF_tag=B-VP', 'WBO=at', 'WBO_tag=B-PP', 'WBO=that', 'WBO_tag=B-NP', 'WBO=point', 'WBO_tag=I-NP', 'WBO=because', 'WBO_tag=B-SBAR', 'WBO=he', 'WBO_tag=B-NP', 'WBO=knew', 'WBO_tag=B-VP', 'WBO=of', 'WBO_tag=B-PP', 'WBO=a', 'WBO_tag=B-NP', 'WBO=pending', 'WBO_tag=I-NP', 'WBO=$', 'WBO_tag=I-NP', 'WBO=57', 'WBO_tag=I-NP', 'WBO=million', 'WBO_tag=I-NP', 'WBO=withdrawal', 'WBO_tag=I-NP', 'WBO=that', 'WBO_tag=B-NP', 'WBO=had', 'WBO_tag=B-VP', 'WBO=been', 'WBO_tag=I-VP', 'WBO=requested', 'WBO_tag=I-VP', 'WBO=by', 'WBO_tag=B-PP', 'WBO=a', 'WBO_tag=B-NP', 'WBO=big', 'WBO_tag=I-NP', 'WBO=investor', 'WBO_tag=I-NP', 'WBL=,', 'WBL_tag=O']
+
+others:["WBF='s", 'WBF_tag=B-NP', 'WBL=new', 'WBL_tag=I-NP']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=local', 'WBO_tag=I-NP', 'WBO=consulting', 'WBO_tag=I-NP', 'WBO=company', 'WBO_tag=I-NP', 'WBO=,', 'WBO_tag=O', 'WBO=and', 'WBO_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=former', 'WBO_tag=I-NP', 'WBO=city', 'WBO_tag=I-NP', 'WBO=commerce', 'WBO_tag=I-NP', 'WBO=director', 'WBO_tag=I-NP', 'WBO=,', 'WBO_tag=O', 'WBO=said', 'WBO_tag=B-VP', 'WBO=that', 'WBO_tag=B-SBAR', 'WBO=working', 'WBO_tag=B-VP', 'WBO=alone', 'WBO_tag=I-VP', 'WBL=freed', 'WBL_tag=I-VP']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=the', 'WBO_tag=B-NP', 'WBO=president', 'WBO_tag=I-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBO=tower_investments', 'WBO_tag=B-NP', 'WBO=,', 'WBO_tag=O', 'WBO=decided', 'WBO_tag=B-VP', 'WBO=to', 'WBO_tag=I-VP', 'WBO=build', 'WBO_tag=I-VP', 'WBO=a', 'WBO_tag=B-NP', 'WBO=public', 'WBO_tag=I-NP', 'WBO=square', 'WBO_tag=I-NP', 'WBO=inspired', 'WBO_tag=B-VP', 'WBO=by', 'WBO_tag=B-PP', 'WBO=the', 'WBO_tag=B-NP', 'WBO=piazza_navona', 'WBO_tag=I-NP', 'WBO=in', 'WBO_tag=B-PP', 'WBO=rome', 'WBO_tag=B-NP', 'WBO=,', 'WBO_tag=O', 'WBO=and', 'WBO_tag=O', 'WBO=then', 'WBO_tag=O', 'WBO=the', 'WBO_tag=B-NP', 'WBO=residents', 'WBO_tag=I-NP', 'WBO=worried', 'WBO_tag=B-VP', 'WBO=that', 'WBO_tag=B-SBAR', 'WBO=he', 'WBO_tag=B-NP', 'WBO=would', 'WBO_tag=B-VP', 'WBO=create', 'WBO_tag=I-VP', 'WBO=a', 'WBO_tag=B-NP', 'WBO=kitschy', 'WBO_tag=I-NP', 'WBO=theme', 'WBO_tag=I-NP', 'WBO=park', 'WBO_tag=I-NP', 'WBO=,', 'WBO_tag=O', 'WBO=said', 'WBO_tag=B-VP', 'WBO=larry_freedman', 'WBO_tag=B-NP', 'WBO=,', 'WBO_tag=O', 'WBO=the', 'WBO_tag=B-NP', 'WBO=zoning', 'WBO_tag=I-NP', 'WBO=chairman', 'WBO_tag=I-NP', 'WBO=for', 'WBO_tag=B-PP', 'WBL=the', 'WBL_tag=B-NP']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=another', 'WBO_tag=B-NP', 'WBO=galleon', 'WBO_tag=I-NP', 'WBO=executive', 'WBO_tag=I-NP', 'WBO=,', 'WBO_tag=O', 'WBO=on', 'WBO_tag=B-PP', 'WBO=their', 'WBO_tag=B-NP', 'WBO=claim', 'WBO_tag=I-NP', 'WBO=that', 'WBO_tag=B-SBAR', 'WBO=they', 'WBO_tag=B-NP', 'WBO=were', 'WBO_tag=B-VP', 'WBO=misled', 'WBO_tag=I-VP', 'WBO=by', 'WBO_tag=B-PP', 'WBO=the', 'WBO_tag=B-NP', 'WBO=creators', 'WBO_tag=I-NP', 'WBO=and', 'WBO_tag=I-NP', 'WBO=promoters', 'WBO_tag=I-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBO=a', 'WBO_tag=B-NP', 'WBO=tax', 'WBO_tag=I-NP', 'WBO=shelter', 'WBO_tag=I-NP', 'WBO=later', 'WBO_tag=B-VP', 'WBO=disallowed', 'WBO_tag=I-VP', 'WBO=by', 'WBO_tag=B-PP', 'WBL=the', 'WBL_tag=B-NP']
+
+others:['WBFL=and', 'WBFL_tag=I-NP']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=chief', 'WBO_tag=B-NP', 'WBO=executive', 'WBO_tag=I-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBO=starwood', 'WBO_tag=B-NP', 'WBO=,', 'WBO_tag=O', 'WBO=whose', 'WBO_tag=B-NP', 'WBO=upmarket', 'WBO_tag=I-NP', 'WBO=brands', 'WBO_tag=I-NP', 'WBO=include', 'WBO_tag=B-VP', 'WBO=sheraton', 'WBO_tag=B-NP', 'WBL=and', 'WBL_tag=I-NP']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=nokia', 'WBO_tag=B-NP', 'WBL=,', 'WBL_tag=O']
+
+others:['WBF=;', 'WBF_tag=O', 'WBL=and', 'WBL_tag=O']
+
+head:['WBF=,', 'WBF_tag=O', 'WBO=the', 'WBO_tag=B-NP', 'WBO=chairman', 'WBO_tag=I-NP', 'WBL=of', 'WBL_tag=B-PP']
+
+others:['WBFL=,', 'WBFL_tag=O']
+
+head:['WBF=,', 'WBF_tag=O', 'WBO=chief', 'WBO_tag=B-NP', 'WBO=executive', 'WBO_tag=I-NP', 'WBL=of', 'WBL_tag=B-PP']
+
+others:['WBF=to', 'WBF_tag=B-PP', 'WBO=emerging', 'WBO_tag=B-NP', 'WBO=markets', 'WBO_tag=I-NP', 'WBL=for', 'WBL_tag=B-PP']
+
+others:['WBFL=and', 'WBFL_tag=I-NP']
+
+director:['WBF=,', 'WBF_tag=O', 'WBO=managing', 'WBO_tag=B-NP', 'WBO=director', 'WBO_tag=I-NP', 'WBL=of', 'WBL_tag=B-PP']
+
+head:['WBF=,', 'WBF_tag=O', 'WBO=the', 'WBO_tag=B-NP', 'WBO=president', 'WBO_tag=I-NP', 'WBL=of', 'WBL_tag=B-PP']
+
+others:['WBF=in', 'WBF_tag=B-PP', 'WBO=bidding', 'WBO_tag=B-VP', 'WBO=this', 'WBO_tag=B-NP', 'WBO=year', 'WBO_tag=I-NP', 'WBO=for', 'WBO_tag=B-PP', 'WBO=nortel', 'WBO_tag=B-NP', "WBO='s", 'WBO_tag=B-NP', 'WBO=business', 'WBO_tag=I-NP', 'WBO=that', 'WBO_tag=B-NP', 'WBO=makes', 'WBO_tag=B-VP', 'WBO=gear', 'WBO_tag=B-NP', 'WBL=for', 'WBL_tag=B-PP']
+
+others:['WBF=wanted', 'WBF_tag=B-VP', 'WBO=,', 'WBO_tag=O', 'WBL=but', 'WBL_tag=O']
+
+others:['WBF=of', 'WBF_tag=B-PP', 'WBL=the', 'WBL_tag=B-NP']
+
+professor:['WBF=,', 'WBF_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=professor', 'WBO_tag=I-NP', 'WBL=at', 'WBL_tag=B-PP']
+
+others:['WBF=exits', 'WBF_tag=I-NP', 'WBO=bankruptcy', 'WBO_tag=I-NP', 'WBO=with', 'WBO_tag=B-PP', 'WBO=sale', 'WBO_tag=B-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBO=assets', 'WBO_tag=B-NP', 'WBO=to', 'WBO_tag=B-PP', 'WBO=lenders', 'WBO_tag=B-NP', 'WBL=and', 'WBL_tag=I-NP']
+
+others:['WBFL=cpl.', 'WBFL_tag=I-NP']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=told', 'WBO_tag=B-VP', 'WBO=analysts', 'WBO_tag=B-NP', 'WBO=in', 'WBO_tag=B-PP', 'WBO=an', 'WBO_tag=B-NP', 'WBO=earnings', 'WBO_tag=I-NP', 'WBO=call', 'WBO_tag=I-NP', 'WBO=on', 'WBO_tag=B-PP', 'WBO=thursday', 'WBO_tag=B-NP', 'WBO=that', 'WBO_tag=B-SBAR', 'WBO=cbs', 'WBO_tag=B-NP', 'WBO=would', 'WBO_tag=B-VP', 'WBO=not', 'WBO_tag=I-VP', 'WBO=know', 'WBO_tag=I-VP', 'WBO=the', 'WBO_tag=B-NP', 'WBO=outcome', 'WBO_tag=I-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBO=the', 'WBO_tag=B-NP', 'WBO=negotiations', 'WBO_tag=I-NP', 'WBL=with', 'WBL_tag=B-PP']
+
+analyst:['WBF=,', 'WBF_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=travel', 'WBO_tag=I-NP', 'WBO=analyst', 'WBO_tag=I-NP', 'WBL=for', 'WBL_tag=B-PP']
+
+others:['WBFL=,', 'WBFL_tag=O']
+
+head:['WBF=chief', 'WBF_tag=I-NP', 'WBO=executive', 'WBO_tag=I-NP', 'WBL=,', 'WBL_tag=O']
+
+others:['WBFL=for', 'WBFL_tag=B-PP']
+
+others:['WBF=,', 'WBF_tag=O', 'WBL=the', 'WBL_tag=B-NP']
+
+others:['WBF=said', 'WBF_tag=B-VP', 'WBO=the', 'WBO_tag=B-NP', 'WBO=company', 'WBO_tag=I-NP', 'WBO=and', 'WBO_tag=O', 'WBO=its', 'WBO_tag=B-NP', 'WBO=parent', 'WBO_tag=I-NP', 'WBO=,', 'WBO_tag=I-NP', 'WBO=european_aeronautic_defense_', 'WBO_tag=I-NP', 'WBO=&', 'WBO_tag=I-NP', 'WBO=_space', 'WBO_tag=I-NP', 'WBO=,', 'WBO_tag=O', 'WBO=were', 'WBO_tag=B-VP', 'WBO=assessing', 'WBO_tag=I-VP', 'WBO=the', 'WBO_tag=B-NP', 'WBO=financial', 'WBO_tag=I-NP', 'WBO=effect', 'WBO_tag=I-NP', 'WBO=,', 'WBO_tag=O', 'WBO=but', 'WBO_tag=O', 'WBO=insisted', 'WBO_tag=B-VP', 'WBO=that', 'WBO_tag=B-SBAR', 'WBO=the', 'WBO_tag=B-NP', 'WBO=current', 'WBO_tag=I-NP', 'WBO=value', 'WBO_tag=I-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBL=the', 'WBL_tag=B-NP']
+
+others:["WBF='s", 'WBF_tag=B-NP', 'WBL=new', 'WBL_tag=I-NP']
+
+others:['WBFL=,', 'WBFL_tag=O']
+
+head:['WBF=,', 'WBF_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=principal', 'WBO_tag=I-NP', 'WBL=at', 'WBL_tag=B-PP']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=had', 'WBO_tag=B-VP', 'WBO=pushed', 'WBO_tag=I-VP', 'WBO=for', 'WBO_tag=B-PP', 'WBO=the', 'WBO_tag=B-NP', 'WBO=sale', 'WBO_tag=I-NP', 'WBO=to', 'WBO_tag=B-PP', 'WBO=magna', 'WBO_tag=B-NP', 'WBO=and', 'WBO_tag=O', 'WBO=its', 'WBO_tag=B-NP', 'WBO=russian', 'WBO_tag=I-NP', 'WBO=partner', 'WBO_tag=I-NP', 'WBL=,', 'WBL_tag=O']
+
+founder:['WBF=and', 'WBF_tag=I-NP', 'WBO=janus_friis', 'WBO_tag=I-NP', 'WBO=,', 'WBO_tag=O', 'WBO=who', 'WBO_tag=B-NP', 'WBL=created', 'WBL_tag=B-VP']
+
+director:['WBF=,', 'WBF_tag=O', 'WBO=director', 'WBO_tag=B-NP', 'WBL=of', 'WBL_tag=B-PP']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=an', 'WBO_tag=B-NP', 'WBO=economist', 'WBO_tag=I-NP', 'WBO=who', 'WBO_tag=B-NP', 'WBO=formerly', 'WBO_tag=B-ADVP', 'WBO=worked', 'WBO_tag=B-VP', 'WBL=at', 'WBL_tag=B-PP']
+
+head:['WBF=iv', 'WBF_tag=I-NP', 'WBO=,', 'WBO_tag=O', 'WBO=the', 'WBO_tag=B-NP', 'WBO=west_virginia', 'WBO_tag=I-NP', 'WBO=democrat', 'WBO_tag=I-NP', 'WBO=,', 'WBO_tag=O', 'WBO=who', 'WBO_tag=B-NP', 'WBO=is', 'WBO_tag=B-VP', 'WBO=chairman', 'WBO_tag=B-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBL=the', 'WBL_tag=B-NP']
+
+others:['WBF=of', 'WBF_tag=B-PP', 'WBO=the', 'WBO_tag=B-NP', 'WBO=law', 'WBO_tag=I-NP', 'WBL=firm', 'WBL_tag=I-NP']
+
+manager:['WBF=,', 'WBF_tag=O', 'WBO=product', 'WBO_tag=B-NP', 'WBO=manager', 'WBO_tag=I-NP', 'WBL=at', 'WBL_tag=B-PP']
+
+founder:['WBF=are', 'WBF_tag=B-VP', 'WBO=the', 'WBO_tag=B-NP', 'WBO=founders', 'WBO_tag=I-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBL=beijing-based', 'WBL_tag=B-NP']
+
+director:['WBF=,', 'WBF_tag=O', 'WBO=the', 'WBO_tag=B-NP', 'WBO=executive', 'WBO_tag=I-NP', 'WBO=director', 'WBO_tag=I-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBL=the', 'WBL_tag=B-NP']
+
+analyst:['WBF=,', 'WBF_tag=O', 'WBO=an', 'WBO_tag=B-NP', 'WBO=analyst', 'WBO_tag=I-NP', 'WBL=at', 'WBL_tag=B-PP']
+
+others:['WBF=said', 'WBF_tag=B-VP', 'WBL=that', 'WBL_tag=B-SBAR']
+
+head:['WBF=,', 'WBF_tag=O', 'WBO=head', 'WBO_tag=B-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBO=marketing', 'WBO_tag=B-NP', 'WBL=at', 'WBL_tag=B-PP']
+
+others:['WBF=and', 'WBF_tag=O', 'WBO=the', 'WBO_tag=B-NP', 'WBO=law', 'WBO_tag=I-NP', 'WBL=firms', 'WBL_tag=I-NP']
+
+others:['WBF=case', 'WBF_tag=I-NP', 'WBO=was', 'WBO_tag=B-VP', 'WBO=an', 'WBO_tag=B-NP', 'WBO=extreme', 'WBO_tag=I-NP', 'WBO=example', 'WBO_tag=I-NP', 'WBO=,', 'WBO_tag=O', 'WBL=the', 'WBL_tag=B-NP']
+
+spokesperson:['WBF=,', 'WBF_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=spokeswoman', 'WBO_tag=I-NP', 'WBL=for', 'WBL_tag=B-PP']
+
+others:['WBF=is', 'WBF_tag=B-VP', 'WBO=nearing', 'WBO_tag=I-VP', 'WBO=a', 'WBO_tag=B-NP', 'WBO=decision', 'WBO_tag=I-NP', 'WBO=on', 'WBO_tag=B-PP', 'WBO=whether', 'WBO_tag=B-SBAR', 'WBO=to', 'WBO_tag=B-VP', 'WBO=continue', 'WBO_tag=I-VP', 'WBO=her', 'WBO_tag=B-NP', 'WBO=daily', 'WBO_tag=I-NP', 'WBO=talk', 'WBO_tag=I-NP', 'WBO=show', 'WBO_tag=I-NP', 'WBO=on', 'WBO_tag=B-PP', 'WBO=broadcast', 'WBO_tag=B-NP', 'WBO=television', 'WBO_tag=I-NP', 'WBO=or', 'WBO_tag=O', 'WBO=move', 'WBO_tag=B-VP', 'WBO=it', 'WBO_tag=B-NP', 'WBO=to', 'WBO_tag=B-PP', 'WBO=the', 'WBO_tag=B-NP', 'WBO=forthcoming', 'WBO_tag=I-NP', 'WBO=cable', 'WBO_tag=I-NP', 'WBO=channel', 'WBO_tag=I-NP', 'WBO=that', 'WBO_tag=B-SBAR', 'WBO=she', 'WBO_tag=B-NP', 'WBO=will', 'WBO_tag=B-VP', 'WBO=own', 'WBO_tag=I-VP', 'WBO=with', 'WBO_tag=B-PP', 'WBO=discovery', 'WBO_tag=B-NP', 'WBO=communications', 'WBO_tag=I-NP', 'WBO=,', 'WBO_tag=O', 'WBO=executives', 'WBO_tag=B-NP', 'WBO=from', 'WBO_tag=B-PP', 'WBO=her', 'WBO_tag=B-NP', 'WBO=production', 'WBO_tag=I-NP', 'WBO=company', 'WBO_tag=I-NP', 'WBO=and', 'WBO_tag=O', 'WBL=the', 'WBL_tag=B-NP']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=and', 'WBO_tag=O', 'WBO=the', 'WBO_tag=B-NP', 'WBO=borrowers', 'WBO_tag=I-NP', 'WBO=have', 'WBO_tag=B-VP', 'WBO=to', 'WBO_tag=I-VP', 'WBO=be', 'WBO_tag=I-VP', 'WBO=people', 'WBO_tag=B-NP', 'WBO=who', 'WBO_tag=B-NP', 'WBO=could', 'WBO_tag=B-VP', 'WBO=not', 'WBO_tag=I-VP', 'WBO=qualify', 'WBO_tag=I-VP', 'WBO=for', 'WBO_tag=B-PP', 'WBL=president', 'WBL_tag=B-NP']
+
+others:['WBFL=v.', 'WBFL_tag=I-NP']
+
+others:['WBF=had', 'WBF_tag=B-VP', 'WBO=decided', 'WBO_tag=I-VP', 'WBO=to', 'WBO_tag=I-VP', 'WBO=end', 'WBO_tag=I-VP', 'WBO=her', 'WBO_tag=B-NP', 'WBO=syndicated', 'WBO_tag=B-VP', 'WBO=deal', 'WBO_tag=B-LST', 'WBO=and', 'WBO_tag=O', 'WBO=move', 'WBO_tag=B-VP', 'WBO=the', 'WBO_tag=B-NP', 'WBO=show', 'WBO_tag=I-NP', 'WBO=to', 'WBO_tag=B-PP', 'WBO=the', 'WBO_tag=B-NP', 'WBO=new', 'WBO_tag=I-NP', 'WBO=own', 'WBO_tag=I-NP', 'WBO=cable', 'WBO_tag=I-NP', 'WBO=channel', 'WBO_tag=I-NP', 'WBO=,', 'WBO_tag=O', 'WBL=the', 'WBL_tag=B-NP']
+
+analyst:['WBF=,', 'WBF_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=senior', 'WBO_tag=I-NP', 'WBO=research', 'WBO_tag=I-NP', 'WBO=analyst', 'WBO_tag=I-NP', 'WBL=with', 'WBL_tag=B-PP']
+
+manager:['WBF=,', 'WBF_tag=O', 'WBL=the', 'WBL_tag=B-NP']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=an', 'WBO_tag=B-NP', 'WBO=affiliate', 'WBO_tag=I-NP', 'WBO=professor', 'WBO_tag=I-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBO=economics', 'WBO_tag=B-NP', 'WBO=at', 'WBO_tag=B-PP', 'WBO=insead', 'WBO_tag=B-NP', 'WBO=who', 'WBO_tag=B-NP', 'WBO=served', 'WBO_tag=B-VP', 'WBO=on', 'WBO_tag=B-PP', 'WBL=the', 'WBL_tag=B-NP']
+
+head:['WBF=,', 'WBF_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=senior', 'WBO_tag=I-NP', 'WBO=vice', 'WBO_tag=I-NP', 'WBO=president', 'WBO_tag=I-NP', 'WBO=at', 'WBO_tag=B-PP', 'WBL=the', 'WBL_tag=B-NP']
+
+others:['WBF=to', 'WBF_tag=B-PP', 'WBO=emerging', 'WBO_tag=B-NP', 'WBO=markets', 'WBO_tag=I-NP', 'WBL=for', 'WBL_tag=B-PP']
+
+head:['WBF=,', 'WBF_tag=O', 'WBO=the', 'WBO_tag=B-NP', 'WBO=president', 'WBO_tag=I-NP', 'WBO=and', 'WBO_tag=O', 'WBO=chief', 'WBO_tag=B-NP', 'WBO=executive', 'WBO_tag=I-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBL=the', 'WBL_tag=B-NP']
+
+analyst:['WBF=,', 'WBF_tag=O', 'WBO=an', 'WBO_tag=B-NP', 'WBO=aviation', 'WBO_tag=I-NP', 'WBO=analyst', 'WBO_tag=I-NP', 'WBL=at', 'WBL_tag=B-PP']
+
+others:['WBF=to', 'WBF_tag=B-PP', 'WBO=emerging', 'WBO_tag=B-NP', 'WBO=markets', 'WBO_tag=I-NP', 'WBL=for', 'WBL_tag=B-PP']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=lender', 'WBO_tag=I-NP', 'WBO=that', 'WBO_tag=B-NP', 'WBO=also', 'WBO_tag=B-ADVP', 'WBO=received', 'WBO_tag=B-VP', 'WBO=a', 'WBO_tag=B-NP', 'WBO=government', 'WBO_tag=I-NP', 'WBO=bail-out', 'WBO_tag=I-NP', 'WBO=,', 'WBO_tag=O', 'WBO=are', 'WBO_tag=B-VP', 'WBO=the', 'WBO_tag=B-NP', 'WBO=grocery', 'WBO_tag=I-NP', 'WBO=store', 'WBO_tag=I-NP', 'WBO=chain', 'WBO_tag=I-NP', 'WBO=tesco', 'WBO_tag=I-NP', 'WBL=and', 'WBL_tag=I-NP']
+
+head:['WBF=,', 'WBF_tag=O', 'WBO=head', 'WBO_tag=B-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBL=the', 'WBL_tag=B-NP']
+
+others:['WBFL=said', 'WBFL_tag=B-VP']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=director', 'WBO_tag=B-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBO=admissions', 'WBO_tag=B-NP', 'WBO=and', 'WBO_tag=O', 'WBO=financial', 'WBO_tag=B-NP', 'WBO=aid', 'WBO_tag=I-NP', 'WBO=at', 'WBO_tag=B-PP', 'WBO=the', 'WBO_tag=B-NP', 'WBO=wharton_school', 'WBO_tag=I-NP', 'WBO=at', 'WBO_tag=B-PP', 'WBL=the', 'WBL_tag=B-NP']
+
+others:['WBF=contends', 'WBF_tag=B-VP', 'WBO=more', 'WBO_tag=B-NP', 'WBO=needs', 'WBO_tag=I-NP', 'WBO=to', 'WBO_tag=B-VP', 'WBO=be', 'WBO_tag=I-VP', 'WBO=done', 'WBO_tag=I-VP', 'WBO=and', 'WBO_tag=O', 'WBO=said', 'WBO_tag=B-VP', 'WBL=the', 'WBL_tag=B-NP']
+
+spokesperson:['WBF=spokeswoman', 'WBF_tag=I-NP', 'WBL=,', 'WBL_tag=O']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=professor', 'WBO_tag=I-NP', 'WBO=at', 'WBO_tag=B-PP', 'WBO=indiana_university', 'WBO_tag=B-NP', 'WBO=,', 'WBO_tag=O', 'WBO=with', 'WBO_tag=B-PP', 'WBO=backing', 'WBO_tag=B-NP', 'WBO=from', 'WBO_tag=B-PP', 'WBO=nasa', 'WBO_tag=B-NP', 'WBO=,', 'WBO_tag=O', 'WBO=food_lion', 'WBO_tag=B-NP', 'WBO=and', 'WBO_tag=O', 'WBL=the', 'WBL_tag=B-NP']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=myspace', 'WBO_tag=B-NP', 'WBO=,', 'WBO_tag=O', 'WBO=the', 'WBO_tag=B-NP', 'WBO=20th', 'WBO_tag=I-NP', 'WBO=century', 'WBO_tag=I-NP', 'WBO=fox', 'WBO_tag=I-NP', 'WBO=film', 'WBO_tag=I-NP', 'WBO=studio', 'WBO_tag=I-NP', 'WBO=,', 'WBO_tag=O', 'WBO=the', 'WBO_tag=B-NP', 'WBO=fox', 'WBO_tag=I-NP', 'WBO=broadcast', 'WBO_tag=I-NP', 'WBO=network', 'WBO_tag=I-NP', 'WBO=and', 'WBO_tag=O', 'WBO=several', 'WBO_tag=B-NP', 'WBO=newspapers', 'WBO_tag=I-NP', 'WBO=including', 'WBO_tag=B-PP', 'WBO=the', 'WBO_tag=B-NP', 'WBO=wall', 'WBO_tag=I-NP', 'WBO=street', 'WBO_tag=I-NP', 'WBO=journal', 'WBO_tag=I-NP', 'WBO=and', 'WBO_tag=O', 'WBL=the', 'WBL_tag=B-NP']
+
+head:['WBF=himself', 'WBF_tag=B-NP', 'WBO=who', 'WBO_tag=B-NP', 'WBO=,', 'WBO_tag=O', 'WBO=as', 'WBO_tag=B-PP', 'WBO=chief', 'WBO_tag=B-NP', 'WBO=executive', 'WBO_tag=I-NP', 'WBL=of', 'WBL_tag=B-PP']
+
+professor:['WBF=,', 'WBF_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=professor', 'WBO_tag=I-NP', 'WBO=and', 'WBO_tag=I-NP', 'WBO=antitrust', 'WBO_tag=I-NP', 'WBO=expert', 'WBO_tag=I-NP', 'WBL=at', 'WBL_tag=B-PP']
+
+lawyer:['WBF=,', 'WBF_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=lawyer', 'WBO_tag=I-NP', 'WBO=for', 'WBO_tag=B-PP', 'WBL=the', 'WBL_tag=B-NP']
+
+others:['WBF=caught', 'WBF_tag=B-VP', 'WBO=h1n1', 'WBO_tag=B-NP', 'WBO=from', 'WBO_tag=B-PP', 'WBO=her', 'WBO_tag=B-NP', 'WBO=6-year-old', 'WBO_tag=I-NP', 'WBO=daughter', 'WBO_tag=I-NP', 'WBO=in', 'WBO_tag=B-PP', 'WBO=june', 'WBO_tag=B-NP', 'WBO=,', 'WBO_tag=O', 'WBO=she', 'WBO_tag=B-NP', 'WBO=suffered', 'WBO_tag=B-VP', 'WBO=headaches', 'WBO_tag=B-NP', 'WBO=,', 'WBO_tag=I-NP', 'WBO=chills', 'WBO_tag=I-NP', 'WBO=and', 'WBO_tag=I-NP', 'WBO=diarrhea', 'WBO_tag=I-NP', 'WBO=,', 'WBO_tag=O', 'WBO=but', 'WBO_tag=O', 'WBO=she', 'WBO_tag=B-NP', 'WBO=reported', 'WBO_tag=B-VP', 'WBO=to', 'WBO_tag=B-PP', 'WBO=her', 'WBO_tag=B-NP', 'WBO=$', 'WBO_tag=B-NP', 'WBO=13-an-hour', 'WBO_tag=I-NP', 'WBO=help', 'WBO_tag=I-NP', 'WBO=desk', 'WBO_tag=I-NP', 'WBO=job', 'WBO_tag=I-NP', 'WBO=at', 'WBO_tag=B-PP', 'WBL=a', 'WBL_tag=B-NP']
+
+director:['WBF=,', 'WBF_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=former', 'WBO_tag=I-NP', 'WBO=managing', 'WBO_tag=I-NP', 'WBO=director', 'WBO_tag=I-NP', 'WBL=of', 'WBL_tag=B-PP']
+
+head:['WBF=,', 'WBF_tag=O', 'WBO=chief', 'WBO_tag=B-NP', 'WBO=economist', 'WBO_tag=I-NP', 'WBO=for', 'WBO_tag=B-PP', 'WBL=the', 'WBL_tag=B-NP']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=visiting', 'WBO_tag=I-NP', 'WBO=fellow', 'WBO_tag=I-NP', 'WBO=at', 'WBO_tag=B-PP', 'WBO=the', 'WBO_tag=B-NP', 'WBO=center_for_information_technology_policy', 'WBO_tag=I-NP', 'WBL=at', 'WBL_tag=B-PP']
+
+others:['WBF=and', 'WBF_tag=I-NP', 'WBO=resorts', 'WBO_tag=I-NP', 'WBL=,', 'WBL_tag=I-NP']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=lisa_mathewson', 'WBO_tag=B-NP', 'WBO=,', 'WBO_tag=O', 'WBO=said', 'WBO_tag=B-VP', 'WBL=the', 'WBL_tag=B-NP']
+
+others:['WBF=destroyed', 'WBF_tag=B-VP', 'WBO=his', 'WBO_tag=B-NP', 'WBO=phone', 'WBO_tag=I-NP', 'WBO=by', 'WBO_tag=B-PP', 'WBO=biting', 'WBO_tag=B-VP', 'WBL=its', 'WBL_tag=B-NP']
+
+head:['WBF=from', 'WBF_tag=B-PP', 'WBO=his', 'WBO_tag=B-NP', 'WBO=perch', 'WBO_tag=I-NP', 'WBO=as', 'WBO_tag=B-PP', 'WBO=chief', 'WBO_tag=B-NP', 'WBO=executive', 'WBO_tag=I-NP', 'WBL=of', 'WBL_tag=B-PP']
+
+others:['WBF=said', 'WBF_tag=B-VP', 'WBO=he', 'WBO_tag=B-NP', 'WBO=planned', 'WBO_tag=B-VP', 'WBO=to', 'WBO_tag=I-VP', 'WBO=push', 'WBO_tag=I-VP', 'WBO=for', 'WBO_tag=B-PP', 'WBO=similar', 'WBO_tag=B-NP', 'WBO=standards', 'WBO_tag=I-NP', 'WBO=in', 'WBO_tag=B-PP', 'WBO=the', 'WBO_tag=B-NP', 'WBO=final', 'WBO_tag=I-NP', 'WBO=legislation', 'WBO_tag=I-NP', 'WBL=the', 'WBL_tag=B-NP']
+
+others:['WBF=was', 'WBF_tag=B-VP', 'WBO=competing', 'WBO_tag=I-VP', 'WBO=against', 'WBO_tag=B-PP', 'WBO=the', 'WBO_tag=B-NP', 'WBO=contractors', 'WBO_tag=I-NP', 'WBO=that', 'WBO_tag=B-SBAR', 'WBO=built', 'WBO_tag=B-VP', 'WBO=most', 'WBO_tag=B-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBO=the', 'WBO_tag=B-NP', 'WBO=larger', 'WBO_tag=I-NP', 'WBO=mraps', 'WBO_tag=I-NP', 'WBO=--', 'WBO_tag=O', 'WBO=bae_systems', 'WBO_tag=B-NP', 'WBO=,', 'WBO_tag=O', 'WBO=navistar', 'WBO_tag=B-NP', 'WBL=,', 'WBL_tag=O']
+
+head:['WBF=,', 'WBF_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=marketing', 'WBO_tag=I-NP', 'WBO=vice', 'WBO_tag=I-NP', 'WBO=president', 'WBO_tag=I-NP', 'WBL=with', 'WBL_tag=B-PP']
+
+director:['WBF=,', 'WBF_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=global', 'WBO_tag=I-NP', 'WBO=director', 'WBO_tag=I-NP', 'WBL=in', 'WBL_tag=B-PP']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=the', 'WBO_tag=B-NP', 'WBO=european', 'WBO_tag=I-NP', 'WBO=competition', 'WBO_tag=I-NP', 'WBO=commissioner', 'WBO_tag=I-NP', 'WBO=,', 'WBO_tag=O', 'WBO=has', 'WBO_tag=B-VP', 'WBO=said', 'WBO_tag=I-VP', 'WBO=she', 'WBO_tag=B-NP', 'WBO=is', 'WBO_tag=B-VP', 'WBO=prepared', 'WBO_tag=I-VP', 'WBO=to', 'WBO_tag=I-VP', 'WBL=take', 'WBL_tag=I-VP']
+
+lawyer:['WBF=,', 'WBF_tag=O', 'WBO=the', 'WBO_tag=B-NP', 'WBO=united_states', 'WBO_tag=I-NP', 'WBO=attorney', 'WBO_tag=I-NP', 'WBO=for', 'WBO_tag=B-PP', 'WBL=the', 'WBL_tag=B-NP']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=associate', 'WBO_tag=B-NP', 'WBO=professor', 'WBO_tag=I-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBO=management', 'WBO_tag=B-NP', 'WBO=at', 'WBO_tag=B-PP', 'WBO=the', 'WBO_tag=B-NP', 'WBO=mcdonough_school_of_business', 'WBO_tag=I-NP', 'WBL=at', 'WBL_tag=B-PP']
+
+head:['WBF=,', 'WBF_tag=O', 'WBL=the', 'WBL_tag=B-NP']
+
+others:['WBF=expects', 'WBF_tag=B-VP', 'WBO=that', 'WBO_tag=B-NP', 'WBO=108', 'WBO_tag=I-NP', 'WBO=students', 'WBO_tag=I-NP', 'WBO=will', 'WBO_tag=B-VP', 'WBO=enroll', 'WBO_tag=I-VP', 'WBO=in', 'WBO_tag=B-PP', 'WBO=a', 'WBO_tag=B-NP', 'WBO=global', 'WBO_tag=I-NP', 'WBO=immersion', 'WBO_tag=I-NP', 'WBO=course', 'WBO_tag=I-NP', 'WBO=,', 'WBO_tag=O', 'WBO=according', 'WBO_tag=B-PP', 'WBL=to', 'WBL_tag=B-PP']
+
+others:['WBF=)', 'WBF_tag=I-NP', 'WBO=--', 'WBO_tag=O', 'WBO=kevin_howard', 'WBO_tag=B-ADVP', 'WBL=,', 'WBL_tag=O']
+
+others:['WBF=and', 'WBF_tag=I-NP', 'WBO=alcatel-lucent', 'WBO_tag=I-NP', 'WBO=have', 'WBO_tag=B-VP', 'WBO=recently', 'WBO_tag=I-VP', 'WBO=announced', 'WBO_tag=I-VP', 'WBO=cutbacks', 'WBO_tag=B-NP', 'WBO=,', 'WBO_tag=O', 'WBO=and', 'WBO_tag=O', 'WBO=the', 'WBO_tag=B-NP', 'WBO=canadian', 'WBO_tag=I-NP', 'WBO=equipment', 'WBO_tag=I-NP', 'WBL=maker', 'WBL_tag=I-NP']
+
+others:['WBFL=and', 'WBFL_tag=O']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=lender', 'WBO_tag=I-NP', 'WBO=that', 'WBO_tag=B-NP', 'WBO=also', 'WBO_tag=B-ADVP', 'WBO=received', 'WBO_tag=B-VP', 'WBO=a', 'WBO_tag=B-NP', 'WBO=government', 'WBO_tag=I-NP', 'WBO=bail-out', 'WBO_tag=I-NP', 'WBO=,', 'WBO_tag=O', 'WBO=are', 'WBO_tag=B-VP', 'WBO=the', 'WBO_tag=B-NP', 'WBO=grocery', 'WBO_tag=I-NP', 'WBO=store', 'WBO_tag=I-NP', 'WBO=chain', 'WBO_tag=I-NP', 'WBO=tesco', 'WBO_tag=I-NP', 'WBO=and', 'WBO_tag=I-NP', 'WBO=virgin_money', 'WBO_tag=I-NP', 'WBO=,', 'WBO_tag=O', 'WBO=the', 'WBO_tag=B-NP', 'WBO=consumer', 'WBO_tag=I-NP', 'WBO=credit', 'WBO_tag=I-NP', 'WBO=arm', 'WBO_tag=I-NP', 'WBL=of', 'WBL_tag=B-PP']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=marketing', 'WBO_tag=I-NP', 'WBO=professor', 'WBO_tag=I-NP', 'WBO=and', 'WBO_tag=O', 'WBO=the', 'WBO_tag=B-NP', 'WBO=director', 'WBO_tag=I-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBO=the', 'WBO_tag=B-NP', 'WBO=retail_supply_chain_institute', 'WBO_tag=I-NP', 'WBL=at', 'WBL_tag=B-PP']
+
+others:['WBF=earned', 'WBF_tag=B-VP', 'WBO=an', 'WBO_tag=B-NP', 'WBO=undergraduate', 'WBO_tag=I-NP', 'WBO=degree', 'WBO_tag=I-NP', 'WBO=in', 'WBO_tag=B-PP', 'WBO=engineering', 'WBO_tag=B-NP', 'WBO=from', 'WBO_tag=B-PP', 'WBL=the', 'WBL_tag=B-NP']
+
+head:['WBF=,', 'WBF_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=senior', 'WBO_tag=I-NP', 'WBO=vice', 'WBO_tag=I-NP', 'WBO=president', 'WBO_tag=I-NP', 'WBL=at', 'WBL_tag=B-PP']
+
+others:['WBF=refused', 'WBF_tag=B-VP', 'WBO=to', 'WBO_tag=I-VP', 'WBO=give', 'WBO_tag=I-VP', 'WBO=the', 'WBO_tag=B-NP', 'WBL=family', 'WBL_tag=I-NP']
+
+others:['WBFL=for', 'WBFL_tag=B-PP']
+
+others:['WBF=said', 'WBF_tag=B-VP', 'WBO=it', 'WBO_tag=B-NP', 'WBO=would', 'WBO_tag=B-VP', 'WBO=continue', 'WBO_tag=I-VP', 'WBO=to', 'WBO_tag=I-VP', 'WBO=deliver', 'WBO_tag=I-VP', 'WBO=--', 'WBO_tag=O', 'WBO=with', 'WBO_tag=B-PP', 'WBO=or', 'WBO_tag=I-PP', 'WBL=without', 'WBL_tag=B-PP']
+
+others:['WBF=was', 'WBF_tag=B-VP', 'WBO=accused', 'WBO_tag=I-VP', 'WBO=of', 'WBO_tag=B-PP', 'WBO=sharing', 'WBO_tag=B-NP', 'WBO=information', 'WBO_tag=I-NP', 'WBO=on', 'WBO_tag=B-PP', 'WBO=at', 'WBO_tag=B-NP', 'WBO=least', 'WBO_tag=I-NP', 'WBO=four', 'WBO_tag=I-NP', 'WBO=deals', 'WBO_tag=I-NP', 'WBO=he', 'WBO_tag=B-NP', 'WBO=was', 'WBO_tag=B-VP', 'WBO=handling', 'WBO_tag=I-VP', 'WBO=for', 'WBO_tag=B-PP', 'WBO=clients', 'WBO_tag=B-NP', 'WBO=at', 'WBO_tag=B-PP', 'WBO=his', 'WBO_tag=B-NP', 'WBO=firm', 'WBO_tag=I-NP', 'WBL=,', 'WBL_tag=O']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=one', 'WBO_tag=B-NP', 'WBL=of', 'WBL_tag=B-PP']
+
+head:['WBFL=,', 'WBFL_tag=O']
+
+head:['WBF=heads', 'WBF_tag=B-VP', 'WBL=the', 'WBL_tag=B-NP']
+
+others:['WBF=was', 'WBF_tag=B-VP', 'WBO=advised', 'WBO_tag=I-VP', 'WBO=by', 'WBO_tag=B-PP', 'WBO=deutsche_bank', 'WBO_tag=B-NP', 'WBL=,', 'WBL_tag=O']
+
+others:['WBF=advertising', 'WBF_tag=I-NP', 'WBO=and', 'WBO_tag=O', 'WBO=design', 'WBO_tag=B-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBO=boulder', 'WBO_tag=B-NP', 'WBO=--', 'WBO_tag=O', 'WBO=for', 'WBO_tag=B-PP', 'WBO=hapa_sushi', 'WBO_tag=B-NP', 'WBO=,', 'WBO_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=restaurant', 'WBO_tag=I-NP', 'WBO=chain', 'WBO_tag=I-NP', 'WBO=based', 'WBO_tag=B-VP', 'WBO=in', 'WBO_tag=B-PP', 'WBO=boulder', 'WBO_tag=B-NP', 'WBO=,', 'WBO_tag=O', 'WBO=features', 'WBO_tag=B-VP', 'WBO=a', 'WBO_tag=B-NP', 'WBO=map', 'WBO_tag=I-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBO=denver', 'WBO_tag=B-NP', 'WBL=and', 'WBL_tag=I-NP']
+
+professor:['WBF=,', 'WBF_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=marketing', 'WBO_tag=I-NP', 'WBO=professor', 'WBO_tag=I-NP', 'WBO=and', 'WBO_tag=O', 'WBO=the', 'WBO_tag=B-NP', 'WBO=director', 'WBO_tag=I-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBL=the', 'WBL_tag=B-NP']
+
+lawyer:['WBF=,', 'WBF_tag=O', 'WBO=an', 'WBO_tag=B-NP', 'WBO=executive', 'WBO_tag=I-NP', 'WBO=compensation', 'WBO_tag=I-NP', 'WBO=lawyer', 'WBO_tag=I-NP', 'WBL=at', 'WBL_tag=B-PP']
+
+others:['WBFL=and', 'WBFL_tag=O']
+
+founder:['WBF=,', 'WBF_tag=O', 'WBO=88', 'WBO_tag=B-NP', 'WBO=,', 'WBO_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=father', 'WBO_tag=I-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBL=the', 'WBL_tag=B-NP']
+
+others:['WBFL=for', 'WBFL_tag=B-PP']
+
+others:['WBF=that', 'WBF_tag=B-SBAR', 'WBO=intel', 'WBO_tag=B-NP', 'WBO=had', 'WBO_tag=B-VP', 'WBL=paid', 'WBL_tag=I-VP']
+
+others:['WBF=will', 'WBF_tag=B-VP', 'WBL=open', 'WBL_tag=I-VP']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=using', 'WBO_tag=B-VP', 'WBO=the', 'WBO_tag=B-NP', 'WBO=term', 'WBO_tag=I-NP', 'WBO=favored', 'WBO_tag=B-VP', 'WBO=by', 'WBO_tag=B-PP', 'WBO=proponents', 'WBO_tag=B-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBO=like-minded', 'WBO_tag=B-NP', 'WBO=legislation', 'WBO_tag=I-NP', 'WBO=that', 'WBO_tag=B-NP', 'WBO=is', 'WBO_tag=B-VP', 'WBL=before', 'WBL_tag=B-PP']
+
+others:['WBF=and', 'WBF_tag=I-NP', 'WBO=value_line_securities', 'WBO_tag=I-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBO=charging', 'WBO_tag=B-VP', 'WBO=more', 'WBO_tag=B-NP', 'WBO=than', 'WBO_tag=I-NP', 'WBO=$', 'WBO_tag=I-NP', 'WBO=24', 'WBO_tag=I-NP', 'WBO=million', 'WBO_tag=I-NP', 'WBO=in', 'WBO_tag=B-PP', 'WBO=bogus', 'WBO_tag=B-NP', 'WBO=commissions', 'WBO_tag=I-NP', 'WBO=on', 'WBO_tag=B-PP', 'WBO=phantom', 'WBO_tag=B-NP', 'WBO=trades', 'WBO_tag=I-NP', 'WBO=and', 'WBO_tag=O', 'WBO=brokerage', 'WBO_tag=B-NP', 'WBO=services', 'WBO_tag=I-NP', 'WBO=in', 'WBO_tag=B-PP', 'WBL=nine', 'WBL_tag=B-NP']
+
+head:['WBF=,', 'WBF_tag=O', 'WBO=the', 'WBO_tag=B-NP', 'WBO=senior', 'WBO_tag=I-NP', 'WBO=associate', 'WBO_tag=I-NP', 'WBO=dean', 'WBO_tag=I-NP', 'WBO=for', 'WBO_tag=B-PP', 'WBO=business', 'WBO_tag=B-NP', 'WBO=degree', 'WBO_tag=I-NP', 'WBO=programs', 'WBO_tag=I-NP', 'WBL=at', 'WBL_tag=B-PP']
+
+others:['WBF=and', 'WBF_tag=I-NP', 'WBO=mr._henigson', 'WBO_tag=I-NP', 'WBO=from', 'WBO_tag=B-PP', 'WBO=associating', 'WBO_tag=B-VP', 'WBO=with', 'WBO_tag=B-PP', 'WBO=any', 'WBO_tag=B-NP', 'WBO=broker', 'WBO_tag=I-NP', 'WBO=,', 'WBO_tag=O', 'WBO=dealer', 'WBO_tag=B-NP', 'WBO=,', 'WBO_tag=O', 'WBO=investment', 'WBO_tag=B-NP', 'WBO=adviser', 'WBO_tag=I-NP', 'WBO=and', 'WBO_tag=I-NP', 'WBO=investment', 'WBO_tag=I-NP', 'WBO=company', 'WBO_tag=I-NP', 'WBO=and', 'WBO_tag=B-PP', 'WBO=from', 'WBO_tag=B-PP', 'WBO=acting', 'WBO_tag=B-VP', 'WBO=as', 'WBO_tag=B-PP', 'WBO=an', 'WBO_tag=B-NP', 'WBO=officer', 'WBO_tag=I-NP', 'WBO=or', 'WBO_tag=I-NP', 'WBO=director', 'WBO_tag=I-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBO=any', 'WBO_tag=B-NP', 'WBO=public', 'WBO_tag=I-NP', 'WBO=company', 'WBO_tag=I-NP', 'WBO=,', 'WBO_tag=O', 'WBO=the', 'WBO_tag=B-NP', 'WBO=s.e.c.', 'WBO_tag=I-NP', 'WBL=and', 'WBL_tag=I-NP']
+
+others:['WBFL=-', 'WBFL_tag=O']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=an', 'WBO_tag=B-NP', 'WBO=investment', 'WBO_tag=I-NP', 'WBO=firm', 'WBO_tag=I-NP', 'WBO=;', 'WBO_tag=O', 'WBO=gary_l._pechota', 'WBO_tag=B-NP', 'WBO=,', 'WBO_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=former', 'WBO_tag=I-NP', 'WBO=chief', 'WBO_tag=I-NP', 'WBO=executive', 'WBO_tag=I-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBO=giant_cement_holding', 'WBO_tag=B-VP', 'WBO=;', 'WBO_tag=O', 'WBL=and', 'WBL_tag=O']
+
+head:['WBF=is', 'WBF_tag=B-VP', 'WBO=hardly', 'WBO_tag=I-VP', 'WBO=sitting', 'WBO_tag=I-VP', 'WBO=still', 'WBO_tag=B-ADVP', 'WBO=under', 'WBO_tag=B-PP', 'WBO=its', 'WBO_tag=B-NP', 'WBO=chief', 'WBO_tag=I-NP', 'WBO=executive', 'WBO_tag=I-NP', 'WBL=,', 'WBL_tag=O']
+
+head:['WBF=,', 'WBF_tag=O', 'WBO=chief', 'WBO_tag=B-NP', 'WBO=investment', 'WBO_tag=I-NP', 'WBO=officer', 'WBO_tag=I-NP', 'WBL=at', 'WBL_tag=B-PP']
+
+others:['WBF=and', 'WBF_tag=I-NP', 'WBO=wilson_autographed', 'WBO_tag=I-NP', 'WBO=8', 'WBO_tag=I-NP', 'WBO=x', 'WBO_tag=I-NP', 'WBL=10', 'WBL_tag=I-NP']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=senior', 'WBO_tag=I-NP', 'WBO=research', 'WBO_tag=I-NP', 'WBO=analyst', 'WBO_tag=I-NP', 'WBO=with', 'WBO_tag=B-PP', 'WBO=deutsche_bank_securities', 'WBO_tag=B-NP', 'WBO=,', 'WBO_tag=O', 'WBO=said', 'WBO_tag=B-VP', 'WBO=companies', 'WBO_tag=B-NP', 'WBO=like', 'WBO_tag=B-PP', 'WBO=costco', 'WBO_tag=B-NP', 'WBL=and', 'WBL_tag=I-NP']
+
+founder:['WBFL=founded', 'WBFL_tag=B-VP']
+
+director:['WBF=,', 'WBF_tag=O', 'WBO=executive', 'WBO_tag=B-NP', 'WBO=director', 'WBO_tag=I-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBO=the', 'WBO_tag=B-NP', 'WBO=property', 'WBO_tag=I-NP', 'WBL=consultant', 'WBL_tag=I-NP']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=4.4', 'WBO_tag=B-NP', 'WBO=percent', 'WBO_tag=I-NP', 'WBL=,', 'WBL_tag=O']
+
+founder:['WBF=broke', 'WBF_tag=B-VP', 'WBO=even', 'WBO_tag=I-VP', 'WBO=selling', 'WBO_tag=I-VP', 'WBO=subscriptions', 'WBO_tag=B-NP', 'WBO=to', 'WBO_tag=B-PP', 'WBO=700', 'WBO_tag=B-NP', 'WBO=schools', 'WBO_tag=I-NP', 'WBO=,', 'WBO_tag=O', 'WBL=said', 'WBL_tag=B-VP']
+
+others:['WBFL=,', 'WBFL_tag=O']
+
+others:['WBFL=,', 'WBFL_tag=O']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=were', 'WBO_tag=B-VP', 'WBO=assessing', 'WBO_tag=I-VP', 'WBO=the', 'WBO_tag=B-NP', 'WBO=financial', 'WBO_tag=I-NP', 'WBO=effect', 'WBO_tag=I-NP', 'WBO=,', 'WBO_tag=O', 'WBO=but', 'WBO_tag=O', 'WBO=insisted', 'WBO_tag=B-VP', 'WBO=that', 'WBO_tag=B-SBAR', 'WBO=the', 'WBO_tag=B-NP', 'WBO=current', 'WBO_tag=I-NP', 'WBO=value', 'WBO_tag=I-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBO=the', 'WBO_tag=B-NP', 'WBO=south_african', 'WBO_tag=I-NP', 'WBO=order', 'WBO_tag=I-NP', 'WBO=was', 'WBO_tag=B-VP', 'WBO=much', 'WBO_tag=B-ADJP', 'WBO=lower', 'WBO_tag=I-ADJP', 'WBO=than', 'WBO_tag=B-PP', 'WBO=the', 'WBO_tag=B-NP', 'WBO=one', 'WBO_tag=I-NP', 'WBO=cited', 'WBO_tag=B-VP', 'WBL=by', 'WBL_tag=B-PP']
+
+others:['WBFL=,', 'WBFL_tag=O']
+
+others:['WBF=to', 'WBF_tag=B-PP', 'WBO=emerging', 'WBO_tag=B-NP', 'WBO=markets', 'WBO_tag=I-NP', 'WBL=for', 'WBL_tag=B-PP']
+
+others:['WBF=for', 'WBF_tag=B-PP', 'WBO=a', 'WBO_tag=B-NP', 'WBO=22', 'WBO_tag=I-NP', 'WBO=percent', 'WBO_tag=I-NP', 'WBO=premium', 'WBO_tag=I-NP', 'WBO=and', 'WBO_tag=O', 'WBO=ceded', 'WBO_tag=B-VP', 'WBO=his', 'WBO_tag=B-NP', 'WBO=position', 'WBO_tag=I-NP', 'WBL=to', 'WBL_tag=B-PP']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=local', 'WBO_tag=I-NP', 'WBO=strip-mall', 'WBO_tag=I-NP', 'WBO=developer', 'WBO_tag=I-NP', 'WBO=,', 'WBO_tag=O', 'WBO=acquired', 'WBO_tag=B-VP', 'WBO=an', 'WBO_tag=B-NP', 'WBO=abandoned', 'WBO_tag=I-NP', 'WBO=brewery', 'WBO_tag=I-NP', 'WBO=a', 'WBO_tag=B-NP', 'WBO=few', 'WBO_tag=I-NP', 'WBO=miles', 'WBO_tag=I-NP', 'WBO=from', 'WBO_tag=B-PP', 'WBO=center_city', 'WBO_tag=B-NP', 'WBO=nearly', 'WBO_tag=B-NP', 'WBO=a', 'WBO_tag=I-NP', 'WBO=decade', 'WBO_tag=I-NP', 'WBO=ago', 'WBO_tag=B-ADVP', 'WBO=,', 'WBO_tag=O', 'WBO=the', 'WBO_tag=B-NP', 'WBO=artists', 'WBO_tag=I-NP', 'WBO=who', 'WBO_tag=B-NP', 'WBO=had', 'WBO_tag=B-VP', 'WBO=gravitated', 'WBO_tag=I-VP', 'WBO=to', 'WBO_tag=B-PP', 'WBO=the', 'WBO_tag=B-NP', 'WBO=surrounding', 'WBO_tag=I-NP', 'WBO=area', 'WBO_tag=I-NP', 'WBO=in', 'WBO_tag=B-PP', 'WBO=search', 'WBO_tag=B-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBO=cheap', 'WBO_tag=B-NP', 'WBO=housing', 'WBO_tag=I-NP', 'WBO=feared', 'WBO_tag=B-VP', 'WBO=he', 'WBO_tag=B-NP', 'WBO=would', 'WBO_tag=B-VP', 'WBO=plop', 'WBO_tag=I-VP', 'WBO=an', 'WBO_tag=B-NP', 'WBO=unwanted', 'WBO_tag=I-NP', 'WBO=big-box', 'WBO_tag=I-NP', 'WBO=shopping', 'WBO_tag=I-NP', 'WBO=center', 'WBO_tag=I-NP', 'WBO=into', 'WBO_tag=B-PP', 'WBO=their', 'WBO_tag=B-NP', 'WBL=gritty', 'WBL_tag=I-NP']
+
+others:['WBF=in', 'WBF_tag=B-PP', 'WBO=the', 'WBO_tag=B-NP', 'WBO=delaware', 'WBO_tag=I-NP', 'WBO=court', 'WBO_tag=I-NP', 'WBO=,', 'WBO_tag=O', 'WBO=stretches', 'WBO_tag=B-VP', 'WBO=beyond', 'WBO_tag=B-PP', 'WBO=the', 'WBO_tag=B-NP', 'WBO=interests', 'WBO_tag=I-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBO=a.m.d.', 'WBO_tag=B-NP', 'WBO=,', 'WBO_tag=O', 'WBO=which', 'WBO_tag=B-NP', 'WBO=is', 'WBO_tag=B-VP', 'WBO=building', 'WBO_tag=I-VP', 'WBO=a', 'WBO_tag=B-NP', 'WBO=$', 'WBO_tag=I-NP', 'WBO=4.2', 'WBO_tag=I-NP', 'WBO=billion', 'WBO_tag=I-NP', 'WBO=plant', 'WBO_tag=I-NP', 'WBO=in', 'WBO_tag=B-PP', 'WBO=saratoga_county', 'WBO_tag=B-NP', 'WBO=in', 'WBO_tag=B-PP', 'WBO=upstate_new_york', 'WBO_tag=B-NP', 'WBO=through', 'WBO_tag=B-PP', 'WBO=a', 'WBO_tag=B-NP', 'WBO=spinoff', 'WBO_tag=I-NP', 'WBO=company', 'WBO_tag=I-NP', 'WBL=,', 'WBL_tag=O']
+
+others:["WBF='s", 'WBF_tag=B-NP', 'WBL=new', 'WBL_tag=I-NP']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=professor', 'WBO_tag=I-NP', 'WBO=at', 'WBO_tag=B-PP', 'WBO=indiana_university', 'WBO_tag=B-NP', 'WBO=,', 'WBO_tag=O', 'WBO=with', 'WBO_tag=B-PP', 'WBO=backing', 'WBO_tag=B-VP', 'WBL=from', 'WBL_tag=B-PP']
+
+others:['WBF=of', 'WBF_tag=B-PP', 'WBL=the', 'WBL_tag=B-NP']
+
+head:['WBF=chairman', 'WBF_tag=I-NP', 'WBL=,', 'WBL_tag=O']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=trauma', 'WBO_tag=I-NP', 'WBO=surgeon', 'WBO_tag=I-NP', 'WBO=at', 'WBO_tag=B-PP', 'WBL=the', 'WBL_tag=B-NP']
+
+head:['WBFL=,', 'WBFL_tag=O']
+
+professor:['WBF=,', 'WBF_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=professor', 'WBO_tag=I-NP', 'WBO=at', 'WBO_tag=B-PP', 'WBL=the', 'WBL_tag=B-NP']
+
+founder:['WBF=and', 'WBF_tag=O', 'WBO=his', 'WBO_tag=B-NP', 'WBO=brother', 'WBO_tag=I-NP', 'WBO=wang_zhonglei', 'WBO_tag=B-NP', 'WBO=are', 'WBO_tag=B-VP', 'WBO=the', 'WBO_tag=B-NP', 'WBO=founders', 'WBO_tag=I-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBL=beijing-based', 'WBL_tag=B-NP']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=strategist', 'WBO_tag=I-NP', 'WBL=at', 'WBL_tag=B-PP']
+
+others:['WBF=to', 'WBF_tag=B-PP', 'WBO=emerging', 'WBO_tag=B-NP', 'WBO=markets', 'WBO_tag=I-NP', 'WBL=for', 'WBL_tag=B-PP']
+
+others:['WBF=had', 'WBF_tag=B-VP', 'WBO=monopoly', 'WBO_tag=B-NP', 'WBO=power', 'WBO_tag=I-NP', 'WBO=,', 'WBO_tag=O', 'WBO=which', 'WBO_tag=B-NP', 'WBO=it', 'WBO_tag=B-NP', 'WBO=abused', 'WBO_tag=B-VP', 'WBO=,', 'WBO_tag=O', 'WBO=according', 'WBO_tag=B-PP', 'WBL=to', 'WBL_tag=B-PP']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=the', 'WBO_tag=B-NP', 'WBO=speaker', 'WBO_tag=I-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBL=the', 'WBL_tag=B-NP']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=former', 'WBO_tag=I-NP', 'WBO=governor', 'WBO_tag=I-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBO=the', 'WBO_tag=B-NP', 'WBO=reserve_bank_of_india', 'WBO_tag=I-NP', 'WBO=,', 'WBO_tag=O', 'WBO=said', 'WBO_tag=B-VP', 'WBO=the', 'WBO_tag=B-NP', 'WBO=move', 'WBO_tag=I-NP', 'WBO=was', 'WBO_tag=B-VP', 'WBO=aimed', 'WBO_tag=I-VP', 'WBO=at', 'WBO_tag=B-PP', 'WBO=increasing', 'WBO_tag=B-NP', 'WBO=resources', 'WBO_tag=I-NP', 'WBO=for', 'WBO_tag=B-PP', 'WBL=the', 'WBL_tag=B-NP']
+
+head:['WBF=,', 'WBF_tag=O', 'WBO=president', 'WBO_tag=B-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBO=the', 'WBO_tag=B-NP', 'WBO=aviation', 'WBO_tag=I-NP', 'WBO=consulting', 'WBO_tag=I-NP', 'WBL=firm', 'WBL_tag=I-NP']
+
+others:['WBF=said', 'WBF_tag=B-VP', 'WBO=that', 'WBO_tag=B-SBAR', 'WBL=thwarting', 'WBL_tag=B-VP']
+
+others:['WBF=to', 'WBF_tag=B-VP', 'WBO=pick', 'WBO_tag=I-VP', 'WBO=for', 'WBO_tag=B-PP', 'WBO=the', 'WBO_tag=B-NP', 'WBO=lawsuit', 'WBO_tag=I-NP', 'WBL=against', 'WBL_tag=B-PP']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=creative', 'WBO_tag=B-NP', 'WBO=director', 'WBO_tag=I-NP', 'WBO=at', 'WBO_tag=B-PP', 'WBO=the', 'WBO_tag=B-NP', 'WBO=audi', 'WBO_tag=I-NP', 'WBO=agency', 'WBO_tag=I-NP', 'WBL=,', 'WBL_tag=O']
+
+director:['WBF=,', 'WBF_tag=O', 'WBO=creative', 'WBO_tag=B-NP', 'WBO=director', 'WBO_tag=I-NP', 'WBO=at', 'WBO_tag=B-PP', 'WBL=the', 'WBL_tag=B-NP']
+
+head:['WBF=,', 'WBF_tag=O', 'WBO=the', 'WBO_tag=B-NP', 'WBO=chairman', 'WBO_tag=I-NP', 'WBL=of', 'WBL_tag=B-PP']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=trading', 'WBO_tag=I-NP', 'WBO=firm', 'WBO_tag=I-NP', 'WBO=where', 'WBO_tag=B-ADVP', 'WBO=mr._goffer', 'WBO_tag=B-NP', 'WBO=once', 'WBO_tag=B-ADVP', 'WBO=worked', 'WBO_tag=B-VP', 'WBO=,', 'WBO_tag=O', 'WBO=or', 'WBO_tag=O', 'WBO=to', 'WBO_tag=B-PP', 'WBO=incremental_capital', 'WBO_tag=B-NP', 'WBO=,', 'WBO_tag=O', 'WBO=the', 'WBO_tag=B-NP', 'WBL=firm', 'WBL_tag=I-NP']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=professor', 'WBO_tag=I-NP', 'WBO=at', 'WBO_tag=B-PP', 'WBO=indiana_university', 'WBO_tag=B-NP', 'WBO=,', 'WBO_tag=O', 'WBO=with', 'WBO_tag=B-PP', 'WBO=backing', 'WBO_tag=B-NP', 'WBO=from', 'WBO_tag=B-PP', 'WBO=nasa', 'WBO_tag=B-NP', 'WBL=,', 'WBL_tag=O']
+
+professor:['WBF=,', 'WBF_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=professor', 'WBO_tag=I-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBO=health', 'WBO_tag=B-NP', 'WBO=policy', 'WBO_tag=I-NP', 'WBL=at', 'WBL_tag=B-PP']
+
+others:['WBF=to', 'WBF_tag=B-PP', 'WBO=emerging', 'WBO_tag=B-NP', 'WBO=markets', 'WBO_tag=I-NP', 'WBL=for', 'WBL_tag=B-PP']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=which', 'WBO_tag=B-NP', 'WBO=has', 'WBO_tag=B-VP', 'WBL=backed', 'WBL_tag=I-VP']
+
+head:['WBF=,', 'WBF_tag=O', 'WBO=chairman', 'WBO_tag=B-NP', 'WBL=of', 'WBL_tag=B-PP']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=general', 'WBO_tag=I-NP', 'WBO=partner', 'WBO_tag=I-NP', 'WBO=with', 'WBO_tag=B-PP', 'WBO=foundation_capital', 'WBO_tag=B-NP', 'WBO=,', 'WBO_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=venture', 'WBO_tag=I-NP', 'WBO=capital', 'WBO_tag=I-NP', 'WBO=firm', 'WBO_tag=I-NP', 'WBO=in', 'WBO_tag=B-PP', 'WBO=menlo_park', 'WBO_tag=B-NP', 'WBO=,', 'WBO_tag=O', 'WBO=calif.', 'WBO_tag=B-NP', 'WBO=,', 'WBO_tag=O', 'WBO=that', 'WBO_tag=B-NP', 'WBO=has', 'WBO_tag=B-VP', 'WBO=rented', 'WBO_tag=I-VP', 'WBO=suites', 'WBO_tag=B-NP', 'WBO=at', 'WBO_tag=B-PP', 'WBO=a', 'WBO_tag=B-NP', 'WBL=nearby', 'WBL_tag=I-NP']
+
+others:["WBF='s", 'WBF_tag=B-NP', 'WBL=new', 'WBL_tag=I-NP']
+
+head:['WBF=of', 'WBF_tag=B-PP', 'WBL=the', 'WBL_tag=B-NP']
+
+head:['WBF=,', 'WBF_tag=O', 'WBO=the', 'WBO_tag=B-NP', 'WBL=former', 'WBL_tag=I-NP']
+
+head:['WBF=,', 'WBF_tag=O', 'WBO=run', 'WBO_tag=B-VP', 'WBL=by', 'WBL_tag=B-PP']
+
+leave:['WBF=,', 'WBF_tag=O', 'WBO=the', 'WBO_tag=B-NP', 'WBO=former', 'WBO_tag=I-NP', 'WBO=chief', 'WBO_tag=I-NP', 'WBO=executive', 'WBO_tag=I-NP', 'WBL=of', 'WBL_tag=B-PP']
+
+spokesperson:['WBF=,', 'WBF_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=spokesman', 'WBO_tag=I-NP', 'WBO=for', 'WBO_tag=B-PP', 'WBL=the', 'WBL_tag=B-NP']
+
+leave:['WBF=,', 'WBF_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=former', 'WBO_tag=I-NP', 'WBO=governor', 'WBO_tag=I-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBL=the', 'WBL_tag=B-NP']
+
+others:['WBF=has', 'WBF_tag=B-VP', 'WBO=in', 'WBO_tag=B-PP', 'WBO=the', 'WBO_tag=B-NP', 'WBO=past', 'WBO_tag=I-NP', 'WBL=represented', 'WBL_tag=B-VP']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=helped', 'WBO_tag=B-VP', 'WBO=design', 'WBO_tag=I-VP', 'WBO=the', 'WBO_tag=B-NP', 'WBO=game', 'WBO_tag=I-NP', 'WBO=with', 'WBO_tag=B-PP', 'WBO=financing', 'WBO_tag=B-NP', 'WBO=from', 'WBO_tag=B-PP', 'WBL=the', 'WBL_tag=B-NP']
+
+manager:['WBF=,', 'WBF_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=support', 'WBO_tag=I-NP', 'WBO=manager', 'WBO_tag=I-NP', 'WBO=at', 'WBO_tag=B-PP', 'WBL=a', 'WBL_tag=B-NP']
+
+others:['WBF=is', 'WBF_tag=B-VP', 'WBO=the', 'WBO_tag=B-NP', 'WBO=latest', 'WBO_tag=I-NP', 'WBO=example', 'WBO_tag=I-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBO=how', 'WBO_tag=B-ADVP', 'WBL=the', 'WBL_tag=B-NP']
+
+others:['WBFL=for', 'WBFL_tag=B-PP']
+
+others:["WBF='s", 'WBF_tag=B-NP', 'WBL=new', 'WBL_tag=I-NP']
+
+others:['WBF=charged', 'WBF_tag=B-VP', 'WBO=in', 'WBO_tag=B-PP', 'WBO=a', 'WBO_tag=B-NP', 'WBO=lawsuit', 'WBO_tag=I-NP', 'WBO=on', 'WBO_tag=B-PP', 'WBO=wednesday', 'WBO_tag=B-NP', 'WBL=that', 'WBL_tag=B-SBAR']
+
+head:['WBF=,', 'WBF_tag=O', 'WBO=president', 'WBO_tag=B-NP', 'WBL=of', 'WBL_tag=B-PP']
+
+others:["WBF='s", 'WBF_tag=B-NP', 'WBL=new', 'WBL_tag=I-NP']
+
+others:['WBF=set', 'WBF_tag=B-VP', 'WBO=up', 'WBO_tag=B-PRT', 'WBO=the', 'WBO_tag=B-NP', 'WBO=school', 'WBO_tag=I-NP', 'WBO=,', 'WBO_tag=O', 'WBO=and', 'WBO_tag=O', 'WBO=its', 'WBO_tag=B-NP', 'WBO=executive', 'WBO_tag=I-NP', 'WBO=director', 'WBO_tag=I-NP', 'WBL=,', 'WBL_tag=O']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=trading', 'WBO_tag=I-NP', 'WBO=firm', 'WBO_tag=I-NP', 'WBL=where', 'WBL_tag=B-ADVP']
+
+others:['WBF=bought', 'WBF_tag=B-VP', 'WBO=the', 'WBO_tag=B-NP', 'WBO=brewery', 'WBO_tag=I-NP', 'WBO=,', 'WBO_tag=O', 'WBO=housing', 'WBO_tag=B-NP', 'WBO=values', 'WBO_tag=I-NP', 'WBO=in', 'WBO_tag=B-PP', 'WBO=northern_liberties', 'WBO_tag=B-NP', 'WBO=have', 'WBO_tag=B-VP', 'WBO=increased', 'WBO_tag=I-VP', 'WBO=from', 'WBO_tag=B-PP', 'WBO=$', 'WBO_tag=B-NP', 'WBO=32', 'WBO_tag=I-NP', 'WBO=a', 'WBO_tag=B-NP', 'WBO=square', 'WBO_tag=I-NP', 'WBO=foot', 'WBO_tag=I-NP', 'WBO=to', 'WBO_tag=B-PP', 'WBO=$', 'WBO_tag=B-NP', 'WBO=140', 'WBO_tag=I-NP', 'WBO=a', 'WBO_tag=B-NP', 'WBO=square', 'WBO_tag=I-NP', 'WBO=foot', 'WBO_tag=I-NP', 'WBO=,', 'WBO_tag=O', 'WBO=according', 'WBO_tag=B-PP', 'WBL=to', 'WBL_tag=B-PP']
+
+professor:['WBF=,', 'WBF_tag=O', 'WBO=an', 'WBO_tag=B-NP', 'WBO=education', 'WBO_tag=I-NP', 'WBO=professor', 'WBO_tag=I-NP', 'WBO=at', 'WBO_tag=B-PP', 'WBL=the', 'WBL_tag=B-NP']
+
+others:['WBFL=,', 'WBFL_tag=O']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=which', 'WBO_tag=B-NP', 'WBO=is', 'WBO_tag=B-VP', 'WBO=typically', 'WBO_tag=I-VP', 'WBO=given', 'WBO_tag=I-VP', 'WBO=as', 'WBO_tag=B-PP', 'WBO=a', 'WBO_tag=B-NP', 'WBO=pill', 'WBO_tag=I-NP', 'WBO=,', 'WBO_tag=O', 'WBO=or', 'WBO_tag=O', 'WBO=relenza', 'WBO_tag=B-NP', 'WBL=from', 'WBL_tag=B-PP']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=the', 'WBO_tag=B-NP', 'WBO=architecture', 'WBO_tag=I-NP', 'WBO=critic', 'WBO_tag=I-NP', 'WBO=for', 'WBO_tag=B-PP', 'WBL=the', 'WBL_tag=B-NP']
+
+others:['WBF=sampling', 'WBF_tag=B-VP', 'WBO=the', 'WBO_tag=B-NP', 'WBO=cookies', 'WBO_tag=I-NP', 'WBO=on', 'WBO_tag=B-PP', 'WBO=check-in', 'WBO_tag=B-NP', 'WBL=at', 'WBL_tag=B-PP']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=assistant', 'WBO_tag=B-NP', 'WBO=secretary', 'WBO_tag=I-NP', 'WBO=for', 'WBO_tag=B-PP', 'WBO=preparedness', 'WBO_tag=B-NP', 'WBO=and', 'WBO_tag=I-NP', 'WBO=response', 'WBO_tag=I-NP', 'WBO=at', 'WBO_tag=B-PP', 'WBL=the', 'WBL_tag=B-NP']
+
+head:['WBF=,', 'WBF_tag=O', 'WBO=executive', 'WBO_tag=B-NP', 'WBO=chairman', 'WBO_tag=I-NP', 'WBL=of', 'WBL_tag=B-PP']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=like', 'WBO_tag=B-ADVP', 'WBO=most', 'WBO_tag=B-NP', 'WBO=other', 'WBO_tag=I-NP', 'WBO=universities', 'WBO_tag=I-NP', 'WBO=,', 'WBO_tag=O', 'WBO=has', 'WBO_tag=B-VP', 'WBO=cut', 'WBO_tag=I-VP', 'WBO=the', 'WBO_tag=B-NP', 'WBO=amount', 'WBO_tag=I-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBO=money', 'WBO_tag=B-NP', 'WBO=it', 'WBO_tag=B-NP', 'WBO=invests', 'WBO_tag=B-VP', 'WBO=in', 'WBO_tag=B-PP', 'WBO=venture', 'WBO_tag=B-NP', 'WBO=capital', 'WBO_tag=I-NP', 'WBO=,', 'WBO_tag=O', 'WBO=and', 'WBO_tag=O', 'WBO=the', 'WBO_tag=B-NP', 'WBO=undisclosed', 'WBO_tag=I-NP', 'WBO=amount', 'WBO_tag=I-NP', 'WBO=it', 'WBO_tag=B-NP', 'WBO=has', 'WBO_tag=B-VP', 'WBO=committed', 'WBO_tag=I-VP', 'WBO=to', 'WBO_tag=B-PP', 'WBO=greylock', 'WBO_tag=B-NP', 'WBO=represents', 'WBO_tag=B-VP', 'WBO=almost', 'WBO_tag=B-NP', 'WBO=all', 'WBO_tag=I-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBO=its', 'WBO_tag=B-NP', 'WBO=venture', 'WBO_tag=I-NP', 'WBO=investment', 'WBO_tag=I-NP', 'WBO=for', 'WBO_tag=B-PP', 'WBO=this', 'WBO_tag=B-NP', 'WBO=year', 'WBO_tag=I-NP', 'WBL=,', 'WBL_tag=O']
+
+professor:['WBF=,', 'WBF_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=professor', 'WBO_tag=I-NP', 'WBL=at', 'WBL_tag=B-PP']
+
+others:['WBF=complaint', 'WBF_tag=I-NP', 'WBL=named', 'WBL_tag=B-VP']
+
+others:['WBF=and', 'WBF_tag=O', 'WBO=one', 'WBO_tag=B-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBO=the', 'WBO_tag=B-NP', 'WBO=factors', 'WBO_tag=I-NP', 'WBO=that', 'WBO_tag=B-NP', 'WBL=precipitated', 'WBL_tag=B-VP']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=decided', 'WBO_tag=B-VP', 'WBO=to', 'WBO_tag=I-VP', 'WBO=build', 'WBO_tag=I-VP', 'WBO=a', 'WBO_tag=B-NP', 'WBO=public', 'WBO_tag=I-NP', 'WBO=square', 'WBO_tag=I-NP', 'WBO=inspired', 'WBO_tag=B-VP', 'WBO=by', 'WBO_tag=B-PP', 'WBO=the', 'WBO_tag=B-NP', 'WBO=piazza_navona', 'WBO_tag=I-NP', 'WBO=in', 'WBO_tag=B-PP', 'WBO=rome', 'WBO_tag=B-NP', 'WBO=,', 'WBO_tag=O', 'WBO=and', 'WBO_tag=O', 'WBO=then', 'WBO_tag=O', 'WBO=the', 'WBO_tag=B-NP', 'WBO=residents', 'WBO_tag=I-NP', 'WBO=worried', 'WBO_tag=B-VP', 'WBO=that', 'WBO_tag=B-SBAR', 'WBO=he', 'WBO_tag=B-NP', 'WBO=would', 'WBO_tag=B-VP', 'WBO=create', 'WBO_tag=I-VP', 'WBO=a', 'WBO_tag=B-NP', 'WBO=kitschy', 'WBO_tag=I-NP', 'WBO=theme', 'WBO_tag=I-NP', 'WBO=park', 'WBO_tag=I-NP', 'WBO=,', 'WBO_tag=O', 'WBL=said', 'WBL_tag=B-VP']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=controls', 'WBO_tag=B-VP', 'WBO=a', 'WBO_tag=B-NP', 'WBO=cornucopia', 'WBO_tag=I-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBO=media', 'WBO_tag=B-NP', 'WBO=assets', 'WBO_tag=I-NP', 'WBO=like', 'WBO_tag=B-PP', 'WBO=fox_news', 'WBO_tag=B-NP', 'WBL=,', 'WBL_tag=O']
+
+head:['WBF=,', 'WBF_tag=O', 'WBO=chief', 'WBO_tag=B-NP', 'WBO=economist', 'WBO_tag=I-NP', 'WBL=at', 'WBL_tag=B-PP']
+
+others:['WBF=and', 'WBF_tag=I-NP', 'WBO=chrysler', 'WBO_tag=I-NP', 'WBO=,', 'WBO_tag=O', 'WBO=is', 'WBO_tag=B-VP', 'WBO=plotting', 'WBO_tag=I-VP', 'WBO=its', 'WBO_tag=B-NP', 'WBO=own', 'WBO_tag=I-NP', 'WBO=turnaround', 'WBO_tag=I-NP', 'WBO=effort', 'WBO_tag=I-NP', 'WBO=,', 'WBO_tag=O', 'WBO=with', 'WBO_tag=B-PP', 'WBO=a', 'WBO_tag=B-NP', 'WBO=new', 'WBO_tag=I-NP', 'WBO=president', 'WBO_tag=I-NP', 'WBL=,', 'WBL_tag=O']
+
+others:['WBF=until', 'WBF_tag=B-PP', 'WBO=late', 'WBO_tag=B-NP', 'WBO=2007', 'WBO_tag=I-NP', 'WBO=,', 'WBO_tag=O', 'WBO=closely', 'WBO_tag=B-VP', 'WBO=intertwined', 'WBO_tag=I-VP', 'WBO=the', 'WBO_tag=B-NP', 'WBO=skype', 'WBO_tag=I-NP', 'WBO=and', 'WBO_tag=I-NP', 'WBO=joltid', 'WBO_tag=I-NP', 'WBO=code', 'WBO_tag=I-NP', 'WBO=and', 'WBO_tag=O', 'WBO=made', 'WBO_tag=B-VP', 'WBO=it', 'WBO_tag=B-NP', 'WBO=difficult', 'WBO_tag=B-ADJP', 'WBO=for', 'WBO_tag=B-SBAR', 'WBO=ebay', 'WBO_tag=B-NP', 'WBO=to', 'WBO_tag=B-VP', 'WBO=make', 'WBO_tag=I-VP', 'WBO=changes', 'WBO_tag=B-NP', 'WBO=to', 'WBO_tag=B-PP', 'WBO=skype', 'WBO_tag=B-NP', 'WBO=without', 'WBO_tag=B-PP', 'WBO=violating', 'WBO_tag=B-VP', 'WBL=its', 'WBL_tag=B-NP']
+
+others:['WBF=,', 'WBF_tag=O', 'WBL=the', 'WBL_tag=B-NP']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=restaurant', 'WBO_tag=I-NP', 'WBO=chain', 'WBO_tag=I-NP', 'WBO=based', 'WBO_tag=B-VP', 'WBO=in', 'WBO_tag=B-PP', 'WBO=boulder', 'WBO_tag=B-NP', 'WBO=,', 'WBO_tag=O', 'WBO=features', 'WBO_tag=B-VP', 'WBO=a', 'WBO_tag=B-NP', 'WBO=map', 'WBO_tag=I-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBO=denver', 'WBO_tag=B-NP', 'WBL=and', 'WBL_tag=I-NP']
+
+head:['WBF=,', 'WBF_tag=O', 'WBO=president', 'WBO_tag=B-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBL=the', 'WBL_tag=B-NP']
+
+others:['WBF=reminded', 'WBF_tag=B-VP', 'WBO=mr._dell', 'WBO_tag=B-NP', 'WBL=that', 'WBL_tag=B-SBAR']
+
+others:['WBFL=,', 'WBFL_tag=O']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=the', 'WBO_tag=B-NP', 'WBO=president', 'WBO_tag=I-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBO=turner_entertainment_networks', 'WBO_tag=B-NP', 'WBO=,', 'WBO_tag=O', 'WBO=has', 'WBO_tag=B-VP', 'WBO=been', 'WBO_tag=I-VP', 'WBO=orchestrating', 'WBO_tag=I-VP', 'WBL=the', 'WBL_tag=B-NP']
+
+others:['WBF=-', 'WBF_tag=O', 'WBO=hitting', 'WBO_tag=B-VP', 'WBO=the', 'WBO_tag=B-NP', 'WBO=brakes', 'WBO_tag=I-NP', 'WBO=on', 'WBO_tag=B-PP', 'WBL=a', 'WBL_tag=B-NP']
+
+others:['WBF=to', 'WBF_tag=B-PP', 'WBO=emerging', 'WBO_tag=B-NP', 'WBO=markets', 'WBO_tag=I-NP', 'WBL=for', 'WBL_tag=B-PP']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=brand', 'WBO_tag=B-NP', 'WBO=manager', 'WBO_tag=I-NP', 'WBO=for', 'WBO_tag=B-PP', 'WBO=wisk', 'WBO_tag=B-NP', 'WBO=,', 'WBO_tag=O', 'WBO=owned', 'WBO_tag=B-VP', 'WBO=by', 'WBO_tag=B-PP', 'WBL=the', 'WBL_tag=B-NP']
+
+others:['WBF=annual', 'WBF_tag=I-NP', 'WBO=meeting', 'WBO_tag=I-NP', 'WBO=on', 'WBO_tag=B-PP', 'WBO=oct.', 'WBO_tag=B-NP', 'WBO=22', 'WBO_tag=I-NP', 'WBL=,', 'WBL_tag=O']
+
+others:['WBFL=,', 'WBFL_tag=O']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=the', 'WBO_tag=B-NP', 'WBO=president', 'WBO_tag=I-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBO=tower_investments', 'WBO_tag=B-NP', 'WBO=,', 'WBO_tag=O', 'WBO=decided', 'WBO_tag=B-VP', 'WBO=to', 'WBO_tag=I-VP', 'WBO=build', 'WBO_tag=I-VP', 'WBO=a', 'WBO_tag=B-NP', 'WBO=public', 'WBO_tag=I-NP', 'WBO=square', 'WBO_tag=I-NP', 'WBO=inspired', 'WBO_tag=B-VP', 'WBO=by', 'WBO_tag=B-PP', 'WBL=the', 'WBL_tag=B-NP']
+
+others:['WBF=is', 'WBF_tag=B-VP', 'WBO=also', 'WBO_tag=I-VP', 'WBO=concerned', 'WBO_tag=I-VP', 'WBO=about', 'WBO_tag=B-PP', 'WBO=the', 'WBO_tag=B-NP', 'WBO=design', 'WBO_tag=I-NP', 'WBL=of', 'WBL_tag=B-PP']
+
+others:['WBF=,', 'WBF_tag=O', 'WBL=while', 'WBL_tag=B-SBAR']
+
+head:['WBF=,', 'WBF_tag=O', 'WBO=the', 'WBO_tag=B-NP', 'WBO=chief', 'WBO_tag=I-NP', 'WBO=executive', 'WBO_tag=I-NP', 'WBL=of', 'WBL_tag=B-PP']
+
+head:['WBF=,', 'WBF_tag=O', 'WBO=chief', 'WBO_tag=B-NP', 'WBO=global', 'WBO_tag=I-NP', 'WBO=economist', 'WBO_tag=I-NP', 'WBO=at', 'WBO_tag=B-PP', 'WBL=the', 'WBL_tag=B-NP']
+
+others:['WBFL=and', 'WBFL_tag=I-NP']
+
+others:['WBF=,', 'WBF_tag=I-NP', 'WBO=democrat_of_connecticut', 'WBO_tag=I-NP', 'WBO=and', 'WBO_tag=O', 'WBO=lead', 'WBO_tag=B-VP', 'WBO=sponsor', 'WBO_tag=B-NP', 'WBO=in', 'WBO_tag=B-PP', 'WBL=the', 'WBL_tag=B-NP']
+
+others:['WBFL=of', 'WBFL_tag=B-PP']
+
+spokesperson:['WBF=,', 'WBF_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=spokeswoman', 'WBO_tag=I-NP', 'WBL=for', 'WBL_tag=B-PP']
+
+head:['WBF=to', 'WBF_tag=B-VP', 'WBO=step', 'WBO_tag=I-VP', 'WBO=down', 'WBO_tag=B-PRT', 'WBL=as', 'WBL_tag=B-PP']
+
+manager:['WBF=hedge', 'WBF_tag=I-NP', 'WBO=fund', 'WBO_tag=I-NP', 'WBO=managers', 'WBO_tag=I-NP', 'WBL=,', 'WBL_tag=O']
+
+head:['WBF=,', 'WBF_tag=O', 'WBO=the', 'WBO_tag=B-NP', 'WBO=chairman', 'WBO_tag=I-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBL=the', 'WBL_tag=B-NP']
+
+head:['WBF=,', 'WBF_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=vice', 'WBO_tag=I-NP', 'WBO=president', 'WBO_tag=I-NP', 'WBL=with', 'WBL_tag=B-PP']
+
+head:['WBF=,', 'WBF_tag=O', 'WBO=chief', 'WBO_tag=B-NP', 'WBO=economist', 'WBO_tag=I-NP', 'WBL=at', 'WBL_tag=B-PP']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=87', 'WBO_tag=B-NP', 'WBO=,', 'WBO_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=producer', 'WBO_tag=I-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBL=`', 'WBL_tag=O']
+
+others:['WBF=,', 'WBF_tag=O', 'WBL=an', 'WBL_tag=B-NP']
+
+others:['WBF=was', 'WBF_tag=B-VP', 'WBO=competing', 'WBO_tag=I-VP', 'WBO=against', 'WBO_tag=B-PP', 'WBO=the', 'WBO_tag=B-NP', 'WBO=contractors', 'WBO_tag=I-NP', 'WBO=that', 'WBO_tag=B-SBAR', 'WBO=built', 'WBO_tag=B-VP', 'WBO=most', 'WBO_tag=B-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBO=the', 'WBO_tag=B-NP', 'WBO=larger', 'WBO_tag=I-NP', 'WBO=mraps', 'WBO_tag=I-NP', 'WBO=--', 'WBO_tag=O', 'WBO=bae_systems', 'WBO_tag=B-NP', 'WBL=,', 'WBL_tag=O']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=vice', 'WBO_tag=B-NP', 'WBO=president', 'WBO_tag=I-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBO=corporate', 'WBO_tag=B-NP', 'WBO=environmental', 'WBO_tag=I-NP', 'WBO=affairs', 'WBO_tag=I-NP', 'WBO=and', 'WBO_tag=O', 'WBO=product', 'WBO_tag=B-NP', 'WBO=safety', 'WBO_tag=I-NP', 'WBO=at', 'WBO_tag=B-PP', 'WBO=i.b.m.', 'WBO_tag=B-NP', 'WBO=for', 'WBO_tag=B-PP', 'WBO=instance', 'WBO_tag=B-NP', 'WBL=,', 'WBL_tag=O']
+
+others:['WBF=and', 'WBF_tag=O', 'WBO=sandy_lewis', 'WBO_tag=B-NP', 'WBO=sampling', 'WBO_tag=B-VP', 'WBO=the', 'WBO_tag=B-NP', 'WBO=cookies', 'WBO_tag=I-NP', 'WBO=on', 'WBO_tag=B-PP', 'WBO=check-in', 'WBO_tag=B-NP', 'WBL=at', 'WBL_tag=B-PP']
+
+head:['WBF=,', 'WBF_tag=O', 'WBO=president', 'WBO_tag=B-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBL=the', 'WBL_tag=B-NP']
+
+head:['WBF=executive', 'WBF_tag=I-NP', 'WBO=vice', 'WBO_tag=I-NP', 'WBO=president', 'WBO_tag=I-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBO=global', 'WBO_tag=B-NP', 'WBO=sales', 'WBO_tag=I-NP', 'WBO=and', 'WBO_tag=O', 'WBO=client', 'WBO_tag=B-NP', 'WBO=support', 'WBO_tag=I-NP', 'WBL=for', 'WBL_tag=B-PP']
+
+head:['WBF=,', 'WBF_tag=O', 'WBO=the', 'WBO_tag=B-NP', 'WBO=president', 'WBO_tag=I-NP', 'WBL=of', 'WBL_tag=B-PP']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=by', 'WBO_tag=B-PP', 'WBO=contrast', 'WBO_tag=B-NP', 'WBL=,', 'WBL_tag=O']
+
+others:['WBF=was', 'WBF_tag=B-VP', 'WBO=advised', 'WBO_tag=I-VP', 'WBO=by', 'WBO_tag=B-PP', 'WBO=deutsche_bank', 'WBO_tag=B-NP', 'WBO=,', 'WBO_tag=O', 'WBO=goldman_sachs', 'WBO_tag=B-NP', 'WBO=and', 'WBO_tag=O', 'WBO=the', 'WBO_tag=B-NP', 'WBO=law', 'WBO_tag=I-NP', 'WBO=firms', 'WBO_tag=I-NP', 'WBO=cravath', 'WBO_tag=I-NP', 'WBL=,', 'WBL_tag=I-NP']
+
+professor:['WBF=,', 'WBF_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=professor', 'WBO_tag=I-NP', 'WBL=at', 'WBL_tag=B-PP']
+
+others:['WBF=are', 'WBF_tag=B-VP', 'WBO=not', 'WBO_tag=I-VP', 'WBO=identified', 'WBO_tag=I-VP', 'WBO=with', 'WBO_tag=B-PP', 'WBO=a', 'WBO_tag=B-NP', 'WBO=model', 'WBO_tag=I-NP', 'WBO=year', 'WBO_tag=I-NP', 'WBO=,', 'WBO_tag=O', 'WBL=said', 'WBL_tag=B-VP']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=the', 'WBO_tag=B-NP', 'WBO=20th', 'WBO_tag=I-NP', 'WBL=century', 'WBL_tag=I-NP']
+
+others:['WBFL=and', 'WBFL_tag=O']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=an', 'WBO_tag=B-NP', 'WBO=investment', 'WBO_tag=I-NP', 'WBO=firm', 'WBO_tag=I-NP', 'WBL=;', 'WBL_tag=O']
+
+others:['WBFL=and', 'WBFL_tag=I-NP']
+
+others:['WBF=has', 'WBF_tag=B-VP', 'WBO=accumulated', 'WBO_tag=I-VP', 'WBO=a', 'WBO_tag=B-NP', 'WBO=staggering', 'WBO_tag=I-NP', 'WBO=amount', 'WBO_tag=I-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBO=real', 'WBO_tag=B-NP', 'WBO=estate', 'WBO_tag=I-NP', 'WBL=in', 'WBL_tag=B-PP']
+
+others:['WBF=is', 'WBF_tag=B-VP', 'WBO=one', 'WBO_tag=B-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBO=many', 'WBO_tag=B-NP', 'WBO=people', 'WBO_tag=I-NP', 'WBO=in', 'WBO_tag=B-PP', 'WBO=the', 'WBO_tag=B-NP', 'WBO=corporate', 'WBO_tag=I-NP', 'WBO=world', 'WBO_tag=I-NP', 'WBO=now', 'WBO_tag=B-VP', 'WBO=working', 'WBO_tag=I-VP', 'WBO=hard', 'WBO_tag=B-ADVP', 'WBO=to', 'WBO_tag=B-VP', 'WBO=ensure', 'WBO_tag=I-VP', 'WBO=that', 'WBO_tag=B-NP', 'WBO=come', 'WBO_tag=B-VP', 'WBO=next', 'WBO_tag=B-NP', 'WBO=year', 'WBO_tag=I-NP', 'WBO=,', 'WBO_tag=O', 'WBO=when', 'WBO_tag=B-ADVP', 'WBO=a', 'WBO_tag=B-NP', 'WBL=new', 'WBL_tag=I-NP']
+
+others:['WBF=said', 'WBF_tag=B-VP', 'WBO=nokia_siemens', 'WBO_tag=B-NP', 'WBO=was', 'WBO_tag=B-VP', 'WBO=also', 'WBO_tag=I-VP', 'WBO=feeling', 'WBO_tag=I-VP', 'WBO=pressure', 'WBO_tag=B-NP', 'WBO=from', 'WBO_tag=B-PP', 'WBO=huawei', 'WBO_tag=B-NP', 'WBL=and', 'WBL_tag=I-NP']
+
+analyst:['WBF=,', 'WBF_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=senior', 'WBO_tag=I-NP', 'WBO=research', 'WBO_tag=I-NP', 'WBO=analyst', 'WBO_tag=I-NP', 'WBL=with', 'WBL_tag=B-PP']
+
+others:['WBF=;', 'WBF_tag=O', 'WBO=and', 'WBO_tag=O', 'WBO=other', 'WBO_tag=B-NP', 'WBO=defendants', 'WBO_tag=I-NP', 'WBO=added', 'WBO_tag=B-VP', 'WBO=to', 'WBO_tag=B-PP', 'WBO=the', 'WBO_tag=B-NP', 'WBO=case', 'WBO_tag=I-NP', 'WBO=through', 'WBO_tag=B-PP', 'WBO=a', 'WBO_tag=B-NP', 'WBO=new', 'WBO_tag=I-NP', 'WBO=civil', 'WBO_tag=I-NP', 'WBO=complaint', 'WBO_tag=I-NP', 'WBO=filed', 'WBO_tag=B-VP', 'WBO=by', 'WBO_tag=B-PP', 'WBL=the', 'WBL_tag=B-NP']
+
+head:['WBF=,', 'WBF_tag=O', 'WBO=chairman', 'WBO_tag=B-NP', 'WBO=and', 'WBO_tag=O', 'WBO=chief', 'WBO_tag=B-NP', 'WBO=executive', 'WBO_tag=I-NP', 'WBL=of', 'WBL_tag=B-PP']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=is', 'WBO_tag=B-VP', 'WBO=plotting', 'WBO_tag=I-VP', 'WBO=its', 'WBO_tag=B-NP', 'WBO=own', 'WBO_tag=I-NP', 'WBO=turnaround', 'WBO_tag=I-NP', 'WBO=effort', 'WBO_tag=I-NP', 'WBO=,', 'WBO_tag=O', 'WBO=with', 'WBO_tag=B-PP', 'WBO=a', 'WBO_tag=B-NP', 'WBO=new', 'WBO_tag=I-NP', 'WBO=president', 'WBO_tag=I-NP', 'WBL=,', 'WBL_tag=O']
+
+others:['WBF=is', 'WBF_tag=B-VP', 'WBO=the', 'WBO_tag=B-NP', 'WBO=host', 'WBO_tag=I-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBL=the', 'WBL_tag=B-NP']
+
+others:['WBF=said', 'WBF_tag=B-VP', 'WBO=the', 'WBO_tag=B-NP', 'WBO=company', 'WBO_tag=I-NP', 'WBO=and', 'WBO_tag=O', 'WBO=its', 'WBO_tag=B-NP', 'WBO=parent', 'WBO_tag=I-NP', 'WBL=,', 'WBL_tag=O']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=an', 'WBO_tag=B-NP', 'WBO=analyst', 'WBO_tag=I-NP', 'WBO=who', 'WBO_tag=B-NP', 'WBL=covers', 'WBL_tag=B-VP']
+
+spokesperson:['WBF=,', 'WBF_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=spokeswoman', 'WBO_tag=I-NP', 'WBL=at', 'WBL_tag=B-PP']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=like', 'WBO_tag=B-PP', 'WBO=g.m.', 'WBO_tag=B-NP', 'WBO=and', 'WBO_tag=I-NP', 'WBO=chrysler', 'WBO_tag=I-NP', 'WBO=,', 'WBO_tag=O', 'WBO=is', 'WBO_tag=B-VP', 'WBO=plotting', 'WBO_tag=I-VP', 'WBO=its', 'WBO_tag=B-NP', 'WBO=own', 'WBO_tag=I-NP', 'WBO=turnaround', 'WBO_tag=I-NP', 'WBO=effort', 'WBO_tag=I-NP', 'WBO=,', 'WBO_tag=O', 'WBO=with', 'WBO_tag=B-PP', 'WBO=a', 'WBO_tag=B-NP', 'WBO=new', 'WBO_tag=I-NP', 'WBO=president', 'WBO_tag=I-NP', 'WBL=,', 'WBL_tag=O']
+
+others:['WBFL=and', 'WBFL_tag=I-NP']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=visiting', 'WBO_tag=I-NP', 'WBO=fellow', 'WBO_tag=I-NP', 'WBO=at', 'WBO_tag=B-PP', 'WBL=the', 'WBL_tag=B-NP']
+
+others:['WBFL=quoted', 'WBFL_tag=B-VP']
+
+head:['WBF=,', 'WBF_tag=O', 'WBO=senior', 'WBO_tag=B-NP', 'WBO=vice', 'WBO_tag=I-NP', 'WBO=president', 'WBO_tag=I-NP', 'WBO=for', 'WBO_tag=B-PP', 'WBO=public', 'WBO_tag=B-NP', 'WBO=affairs', 'WBO_tag=I-NP', 'WBO=for', 'WBO_tag=B-PP', 'WBL=the', 'WBL_tag=B-NP']
+
+professor:['WBF=,', 'WBF_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=business', 'WBO_tag=I-NP', 'WBO=professor', 'WBO_tag=I-NP', 'WBL=at', 'WBL_tag=B-PP']
+
+others:['WBF=does', 'WBF_tag=B-VP', 'WBO=not', 'WBO_tag=I-VP', 'WBO=unfairly', 'WBO_tag=I-VP', 'WBO=influence', 'WBO_tag=I-VP', 'WBO=the', 'WBO_tag=B-NP', 'WBO=decision', 'WBO_tag=I-NP', 'WBO=,', 'WBO_tag=O', 'WBL=said', 'WBL_tag=B-VP']
+
+others:['WBF=has', 'WBF_tag=B-VP', 'WBO=not', 'WBO_tag=I-VP', 'WBO=decided', 'WBO_tag=I-VP', 'WBO=how', 'WBO_tag=B-ADVP', 'WBO=to', 'WBO_tag=B-VP', 'WBO=reduce', 'WBO_tag=I-VP', 'WBO=the', 'WBO_tag=B-NP', 'WBO=deficit', 'WBO_tag=I-NP', 'WBL=,', 'WBL_tag=O']
+
+manager:['WBF=hedge', 'WBF_tag=I-NP', 'WBO=fund', 'WBO_tag=I-NP', 'WBO=managers', 'WBO_tag=I-NP', 'WBO=,', 'WBO_tag=O', 'WBO=matthew_tannin', 'WBO_tag=B-NP', 'WBO=,', 'WBO_tag=O', 'WBO=above', 'WBO_tag=B-ADVP', 'WBO=,', 'WBO_tag=O', 'WBL=and', 'WBL_tag=O']
+
+others:['WBF=orchestrated', 'WBF_tag=B-VP', 'WBO=illegal', 'WBO_tag=B-NP', 'WBO=trading', 'WBO_tag=I-NP', 'WBO=aimed', 'WBO_tag=B-VP', 'WBO=at', 'WBO_tag=B-PP', 'WBO=profiting', 'WBO_tag=B-VP', 'WBO=from', 'WBO_tag=B-PP', 'WBO=secret', 'WBO_tag=B-NP', 'WBO=information', 'WBO_tag=I-NP', 'WBO=mr._cutillo', 'WBO_tag=I-NP', 'WBO=had', 'WBO_tag=B-VP', 'WBO=supplied', 'WBO_tag=I-VP', 'WBO=about', 'WBO_tag=B-NP', 'WBO=four', 'WBO_tag=I-NP', 'WBO=2007', 'WBO_tag=I-NP', 'WBO=deals', 'WBO_tag=I-NP', 'WBO=involving', 'WBO_tag=B-VP', 'WBO=clients', 'WBO_tag=B-NP', 'WBL=of', 'WBL_tag=B-PP']
+
+others:['WBF=was', 'WBF_tag=B-VP', 'WBO=competing', 'WBO_tag=I-VP', 'WBO=against', 'WBO_tag=B-PP', 'WBO=the', 'WBO_tag=B-NP', 'WBO=contractors', 'WBO_tag=I-NP', 'WBO=that', 'WBO_tag=B-SBAR', 'WBO=built', 'WBO_tag=B-VP', 'WBO=most', 'WBO_tag=B-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBO=the', 'WBO_tag=B-NP', 'WBO=larger', 'WBO_tag=I-NP', 'WBO=mraps', 'WBO_tag=I-NP', 'WBL=--', 'WBL_tag=O']
+
+professor:['WBF=,', 'WBF_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=professor', 'WBO_tag=I-NP', 'WBO=at', 'WBO_tag=B-PP', 'WBL=the', 'WBL_tag=B-NP']
+
+others:['WBF=delayed', 'WBF_tag=B-VP', 'WBO=buying', 'WBO_tag=B-NP', 'WBO=a.m.d.', 'WBO_tag=I-NP', 'WBO=chips', 'WBO_tag=I-NP', 'WBO=,', 'WBO_tag=O', 'WBL=and', 'WBL_tag=O']
+
+others:['WBF=bought', 'WBF_tag=B-VP', 'WBO=the', 'WBO_tag=B-NP', 'WBO=brewery', 'WBO_tag=I-NP', 'WBO=,', 'WBO_tag=O', 'WBO=housing', 'WBO_tag=B-NP', 'WBO=values', 'WBO_tag=I-NP', 'WBL=in', 'WBL_tag=B-PP']
+
+analyst:['WBF=,', 'WBF_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=financial', 'WBO_tag=I-NP', 'WBO=analyst', 'WBO_tag=I-NP', 'WBL=with', 'WBL_tag=B-PP']
+
+others:['WBFL=,', 'WBFL_tag=O']
+
+others:['WBFL=for', 'WBFL_tag=B-PP']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=stephanie_hilton', 'WBO_tag=B-NP', 'WBO=and', 'WBO_tag=O', 'WBO=sandy_lewis', 'WBO_tag=B-NP', 'WBO=sampling', 'WBO_tag=B-VP', 'WBO=the', 'WBO_tag=B-NP', 'WBO=cookies', 'WBO_tag=I-NP', 'WBO=on', 'WBO_tag=B-PP', 'WBO=check-in', 'WBO_tag=B-NP', 'WBL=at', 'WBL_tag=B-PP']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=controls', 'WBO_tag=B-VP', 'WBO=a', 'WBO_tag=B-NP', 'WBO=cornucopia', 'WBO_tag=I-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBO=media', 'WBO_tag=B-NP', 'WBO=assets', 'WBO_tag=I-NP', 'WBO=like', 'WBO_tag=B-PP', 'WBO=fox_news', 'WBO_tag=B-NP', 'WBO=,', 'WBO_tag=O', 'WBO=myspace', 'WBO_tag=B-NP', 'WBO=,', 'WBO_tag=O', 'WBO=the', 'WBO_tag=B-NP', 'WBO=20th', 'WBO_tag=I-NP', 'WBO=century', 'WBO_tag=I-NP', 'WBO=fox', 'WBO_tag=I-NP', 'WBO=film', 'WBO_tag=I-NP', 'WBO=studio', 'WBO_tag=I-NP', 'WBO=,', 'WBO_tag=O', 'WBO=the', 'WBO_tag=B-NP', 'WBO=fox', 'WBO_tag=I-NP', 'WBO=broadcast', 'WBO_tag=I-NP', 'WBO=network', 'WBO_tag=I-NP', 'WBO=and', 'WBO_tag=O', 'WBO=several', 'WBO_tag=B-NP', 'WBO=newspapers', 'WBO_tag=I-NP', 'WBO=including', 'WBO_tag=B-PP', 'WBO=the', 'WBO_tag=B-NP', 'WBO=wall', 'WBO_tag=I-NP', 'WBO=street', 'WBO_tag=I-NP', 'WBO=journal', 'WBO_tag=I-NP', 'WBO=and', 'WBO_tag=O', 'WBL=the', 'WBL_tag=B-NP']
+
+others:['WBF=is', 'WBF_tag=B-VP', 'WBL=a', 'WBL_tag=B-NP']
+
+others:['WBF=and', 'WBF_tag=I-NP', 'WBO=briefly', 'WBO_tag=I-NP', 'WBL=joined', 'WBL_tag=B-VP']
+
+head:['WBF=,', 'WBF_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=senior', 'WBO_tag=I-NP', 'WBO=vice', 'WBO_tag=I-NP', 'WBO=president', 'WBO_tag=I-NP', 'WBL=at', 'WBL_tag=B-PP']
+
+others:['WBF=from', 'WBF_tag=B-PP', 'WBO=associating', 'WBO_tag=B-VP', 'WBO=with', 'WBO_tag=B-PP', 'WBO=any', 'WBO_tag=B-NP', 'WBO=broker', 'WBO_tag=I-NP', 'WBO=,', 'WBO_tag=O', 'WBO=dealer', 'WBO_tag=B-NP', 'WBO=,', 'WBO_tag=O', 'WBO=investment', 'WBO_tag=B-NP', 'WBO=adviser', 'WBO_tag=I-NP', 'WBO=and', 'WBO_tag=I-NP', 'WBO=investment', 'WBO_tag=I-NP', 'WBO=company', 'WBO_tag=I-NP', 'WBO=and', 'WBO_tag=B-PP', 'WBO=from', 'WBO_tag=B-PP', 'WBO=acting', 'WBO_tag=B-VP', 'WBO=as', 'WBO_tag=B-PP', 'WBO=an', 'WBO_tag=B-NP', 'WBO=officer', 'WBO_tag=I-NP', 'WBO=or', 'WBO_tag=I-NP', 'WBO=director', 'WBO_tag=I-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBO=any', 'WBO_tag=B-NP', 'WBO=public', 'WBO_tag=I-NP', 'WBO=company', 'WBO_tag=I-NP', 'WBO=,', 'WBO_tag=O', 'WBO=the', 'WBO_tag=B-NP', 'WBO=s.e.c.', 'WBO_tag=I-NP', 'WBL=and', 'WBL_tag=I-NP']
+
+head:['WBF=said', 'WBF_tag=B-VP', 'WBO=that', 'WBO_tag=B-SBAR', 'WBO=its', 'WBO_tag=B-NP', 'WBO=chief', 'WBO_tag=I-NP', 'WBO=executive', 'WBO_tag=I-NP', 'WBO=jean_buttner', 'WBO_tag=I-NP', 'WBO=had', 'WBO_tag=B-VP', 'WBO=resigned', 'WBO_tag=I-VP', 'WBO=on', 'WBO_tag=B-PP', 'WBO=wednesday', 'WBO_tag=B-NP', 'WBO=and', 'WBO_tag=O', 'WBO=was', 'WBO_tag=B-VP', 'WBO=succeeded', 'WBO_tag=I-VP', 'WBO=by', 'WBO_tag=B-PP', 'WBO=the', 'WBO_tag=B-NP', 'WBO=chief', 'WBO_tag=I-NP', 'WBO=legal', 'WBO_tag=I-NP', 'WBL=officer', 'WBL_tag=I-NP']
+
+others:['WBF=found', 'WBF_tag=B-VP', 'WBO=that', 'WBO_tag=B-SBAR', 'WBO=mr._rajaratnam', 'WBO_tag=B-NP', 'WBL=and', 'WBL_tag=I-NP']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=coordinator', 'WBO_tag=B-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBL=the', 'WBL_tag=B-NP']
+
+others:['WBF=to', 'WBF_tag=B-PP', 'WBO=emerging', 'WBO_tag=B-NP', 'WBO=markets', 'WBO_tag=I-NP', 'WBL=for', 'WBL_tag=B-PP']
+
+leave:['WBF=,', 'WBF_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=technology', 'WBO_tag=I-NP', 'WBO=entrepreneur', 'WBO_tag=I-NP', 'WBO=and', 'WBO_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=former', 'WBO_tag=I-NP', 'WBO=vice', 'WBO_tag=I-NP', 'WBO=president', 'WBO_tag=I-NP', 'WBL=at', 'WBL_tag=B-PP']
+
+others:['WBFL=,', 'WBFL_tag=O']
+
+others:['WBF=was', 'WBF_tag=B-VP', 'WBO=competing', 'WBO_tag=I-VP', 'WBO=against', 'WBO_tag=B-PP', 'WBO=the', 'WBO_tag=B-NP', 'WBO=contractors', 'WBO_tag=I-NP', 'WBO=that', 'WBO_tag=B-SBAR', 'WBO=built', 'WBO_tag=B-VP', 'WBO=most', 'WBO_tag=B-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBO=the', 'WBO_tag=B-NP', 'WBO=larger', 'WBO_tag=I-NP', 'WBO=mraps', 'WBO_tag=I-NP', 'WBO=--', 'WBO_tag=O', 'WBO=bae_systems', 'WBO_tag=B-NP', 'WBO=,', 'WBO_tag=O', 'WBO=navistar', 'WBO_tag=B-NP', 'WBO=,', 'WBO_tag=O', 'WBO=force_protection', 'WBO_tag=B-NP', 'WBL=and', 'WBL_tag=I-NP']
+
+head:['WBF=,', 'WBF_tag=O', 'WBO=the', 'WBO_tag=B-NP', 'WBO=head', 'WBO_tag=I-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBO=corporate', 'WBO_tag=B-NP', 'WBO=affairs', 'WBO_tag=I-NP', 'WBL=at', 'WBL_tag=B-PP']
+
+others:['WBF=until', 'WBF_tag=B-PP', 'WBO=late', 'WBO_tag=B-NP', 'WBO=2007', 'WBO_tag=I-NP', 'WBO=,', 'WBO_tag=O', 'WBO=closely', 'WBO_tag=B-VP', 'WBO=intertwined', 'WBO_tag=I-VP', 'WBO=the', 'WBO_tag=B-NP', 'WBO=skype', 'WBO_tag=I-NP', 'WBL=and', 'WBL_tag=I-NP']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=ms._buttner', 'WBO_tag=B-NP', 'WBL=,', 'WBL_tag=O']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=who', 'WBO_tag=B-NP', 'WBO=flies', 'WBO_tag=B-VP', 'WBL=a', 'WBL_tag=B-NP']
+
+founder:['WBF=,', 'WBF_tag=O', 'WBO=the', 'WBO_tag=B-NP', 'WBO=designer', 'WBO_tag=I-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBO=the', 'WBO_tag=B-NP', 'WBO=chrome', 'WBO_tag=I-NP', 'WBO=browser', 'WBO_tag=I-NP', 'WBO=,', 'WBO_tag=O', 'WBO=mozilla', 'WBO_tag=B-NP', 'WBO=,', 'WBO_tag=O', 'WBO=the', 'WBO_tag=B-NP', 'WBO=creator', 'WBO_tag=I-NP', 'WBL=of', 'WBL_tag=B-PP']
+
+professor:['WBF=,', 'WBF_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=law', 'WBO_tag=I-NP', 'WBO=professor', 'WBO_tag=I-NP', 'WBL=at', 'WBL_tag=B-PP']
+
+others:["WBF='s", 'WBF_tag=B-NP', 'WBL=new', 'WBL_tag=I-NP']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=starwood_hotels', 'WBO_tag=B-NP', 'WBO=and', 'WBO_tag=O', 'WBO=resorts', 'WBO_tag=B-NP', 'WBO=,', 'WBO_tag=O', 'WBO=omni_hotels', 'WBO_tag=B-NP', 'WBO=and', 'WBO_tag=O', 'WBO=the', 'WBO_tag=B-NP', 'WBO=walt_disney_world_swan', 'WBO_tag=I-NP', 'WBL=and', 'WBL_tag=I-NP']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=said', 'WBO_tag=B-VP', 'WBL=that', 'WBL_tag=B-SBAR']
+
+others:['WBF=broadcast', 'WBF_tag=I-NP', 'WBO=network', 'WBO_tag=I-NP', 'WBO=and', 'WBO_tag=O', 'WBO=several', 'WBO_tag=B-NP', 'WBO=newspapers', 'WBO_tag=I-NP', 'WBO=including', 'WBO_tag=B-PP', 'WBO=the', 'WBO_tag=B-NP', 'WBO=wall', 'WBO_tag=I-NP', 'WBO=street', 'WBO_tag=I-NP', 'WBO=journal', 'WBO_tag=I-NP', 'WBO=and', 'WBO_tag=O', 'WBL=the', 'WBL_tag=B-NP']
+
+head:['WBF=,', 'WBF_tag=O', 'WBO=chief', 'WBO_tag=B-NP', 'WBO=investment', 'WBO_tag=I-NP', 'WBO=officer', 'WBO_tag=I-NP', 'WBL=at', 'WBL_tag=B-PP']
+
+others:['WBF=in', 'WBF_tag=B-PP', 'WBO=september', 'WBO_tag=B-NP', 'WBO=,', 'WBO_tag=O', 'WBO=and', 'WBO_tag=O', 'WBO=the', 'WBO_tag=B-NP', 'WBO=original', 'WBO_tag=I-NP', 'WBO=founders', 'WBO_tag=I-NP', 'WBL=of', 'WBL_tag=B-PP']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=had', 'WBO_tag=B-VP', 'WBO=pushed', 'WBO_tag=I-VP', 'WBO=for', 'WBO_tag=B-PP', 'WBO=the', 'WBO_tag=B-NP', 'WBO=sale', 'WBO_tag=I-NP', 'WBL=to', 'WBL_tag=B-PP']
+
+founder:['WBF=was', 'WBF_tag=B-VP', 'WBO=created', 'WBO_tag=I-VP', 'WBL=by', 'WBL_tag=B-PP']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=it', 'WBO_tag=B-NP', 'WBO=is', 'WBO_tag=B-VP', 'WBO=a', 'WBO_tag=B-NP', 'WBO=small', 'WBO_tag=I-NP', 'WBO=price', 'WBO_tag=I-NP', 'WBO=to', 'WBO_tag=B-VP', 'WBO=pay', 'WBO_tag=I-VP', 'WBO=for', 'WBO_tag=B-PP', 'WBO=the', 'WBO_tag=B-NP', 'WBO=loyalty', 'WBO_tag=I-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBO=someone', 'WBO_tag=B-NP', 'WBL=like', 'WBL_tag=B-PP']
+
+director:['WBF=,', 'WBF_tag=O', 'WBO=director', 'WBO_tag=B-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBO=e-commerce', 'WBO_tag=B-NP', 'WBL=for', 'WBL_tag=B-PP']
+
+others:['WBF=and', 'WBF_tag=O', 'WBO=his', 'WBO_tag=B-NP', 'WBO=colleagues', 'WBO_tag=I-NP', 'WBO=submitted', 'WBO_tag=B-VP', 'WBO=a', 'WBO_tag=B-NP', 'WBO=three-year', 'WBO_tag=I-NP', 'WBO=plan', 'WBO_tag=I-NP', 'WBO=to', 'WBO_tag=B-PP', 'WBO=executives', 'WBO_tag=B-NP', 'WBL=at', 'WBL_tag=B-PP']
+
+others:['WBFL=for', 'WBFL_tag=B-PP']
+
+head:['WBF=,', 'WBF_tag=O', 'WBO=vice', 'WBO_tag=B-NP', 'WBO=president', 'WBO_tag=I-NP', 'WBO=for', 'WBO_tag=B-PP', 'WBO=worldwide', 'WBO_tag=B-NP', 'WBO=sales', 'WBO_tag=I-NP', 'WBO=and', 'WBO_tag=O', 'WBO=travel', 'WBO_tag=B-NP', 'WBL=at', 'WBL_tag=B-PP']
+
+others:['WBF=,', 'WBF_tag=I-NP', 'WBO=jpmorgan_chase', 'WBO_tag=I-NP', 'WBL=and', 'WBL_tag=I-NP']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=front', 'WBO_tag=I-NP', 'WBO=desk', 'WBO_tag=I-NP', 'WBO=agent', 'WBO_tag=I-NP', 'WBO=at', 'WBO_tag=B-PP', 'WBL=the', 'WBL_tag=B-NP']
+
+others:['WBFL=and', 'WBFL_tag=I-NP']
+
+advisor:['WBF=,', 'WBF_tag=O', 'WBO=the', 'WBO_tag=B-NP', 'WBO=former', 'WBO_tag=I-NP', 'WBO=viacom', 'WBO_tag=I-NP', 'WBO=chief', 'WBO_tag=I-NP', 'WBO=executive', 'WBO_tag=I-NP', 'WBO=who', 'WBO_tag=B-NP', 'WBO=is', 'WBO_tag=B-VP', 'WBO=now', 'WBO_tag=B-ADVP', 'WBO=an', 'WBO_tag=B-NP', 'WBO=adviser', 'WBO_tag=I-NP', 'WBL=to', 'WBL_tag=B-PP']
+
+others:['WBF=to', 'WBF_tag=B-PP', 'WBO=dodge', 'WBO_tag=B-NP', 'WBO=a', 'WBO_tag=B-NP', 'WBO=steep', 'WBO_tag=I-NP', 'WBO=tax', 'WBO_tag=I-NP', 'WBO=bill', 'WBO_tag=I-NP', 'WBO=left', 'WBO_tag=B-VP', 'WBO=over', 'WBO_tag=B-PRT', 'WBO=from', 'WBO_tag=B-PP', 'WBO=the', 'WBO_tag=B-NP', 'WBO=transaction', 'WBO_tag=I-NP', 'WBO=it', 'WBO_tag=B-NP', 'WBO=made', 'WBO_tag=B-VP', 'WBO=with', 'WBO_tag=B-PP', 'WBO=the', 'WBO_tag=B-NP', 'WBO=media', 'WBO_tag=I-NP', 'WBL=mogul', 'WBL_tag=I-NP']
+
+others:["WBF='s", 'WBF_tag=B-NP', 'WBL=new', 'WBL_tag=I-NP']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=an', 'WBO_tag=B-NP', 'WBO=expert', 'WBO_tag=I-NP', 'WBO=on', 'WBO_tag=B-PP', 'WBO=financial', 'WBO_tag=B-NP', 'WBO=markets', 'WBO_tag=I-NP', 'WBO=at', 'WBO_tag=B-PP', 'WBO=the', 'WBO_tag=B-NP', 'WBL=china_europe', 'WBL_tag=I-NP']
+
+spokesperson:['WBF=,', 'WBF_tag=O', 'WBL=a', 'WBL_tag=B-NP']
+
+others:['WBF=of', 'WBF_tag=B-PP', 'WBO=the', 'WBO_tag=B-NP', 'WBO=united_states_court_of_appeals', 'WBO_tag=I-NP', 'WBO=for', 'WBO_tag=B-PP', 'WBL=the', 'WBL_tag=B-NP']
+
+others:['WBF=said', 'WBF_tag=B-VP', 'WBO=he', 'WBO_tag=B-NP', 'WBO=was', 'WBO_tag=B-VP', 'WBO=talking', 'WBO_tag=I-VP', 'WBO=to', 'WBO_tag=B-PP', 'WBO=potential', 'WBO_tag=B-NP', 'WBO=partners', 'WBO_tag=I-NP', 'WBO=about', 'WBO_tag=B-PP', 'WBL=commercializing', 'WBL_tag=B-VP']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=chairman', 'WBO_tag=B-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBO=the', 'WBO_tag=B-NP', 'WBO=securities_and_exchange_commission', 'WBO_tag=I-NP', 'WBO=,', 'WBO_tag=O', 'WBO=told', 'WBO_tag=B-VP', 'WBL=the', 'WBL_tag=B-NP']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=and', 'WBO_tag=O', 'WBO=tom_freston', 'WBO_tag=B-NP', 'WBO=,', 'WBO_tag=O', 'WBO=the', 'WBO_tag=B-NP', 'WBO=former', 'WBO_tag=I-NP', 'WBO=viacom', 'WBO_tag=I-NP', 'WBO=chief', 'WBO_tag=I-NP', 'WBO=executive', 'WBO_tag=I-NP', 'WBO=who', 'WBO_tag=B-NP', 'WBO=is', 'WBO_tag=B-VP', 'WBO=now', 'WBO_tag=B-ADVP', 'WBO=an', 'WBO_tag=B-NP', 'WBO=adviser', 'WBO_tag=I-NP', 'WBL=to', 'WBL_tag=B-PP']
+
+others:['WBF=obtained', 'WBF_tag=B-VP', 'WBO=these', 'WBO_tag=B-NP', 'WBO=reports', 'WBO_tag=I-NP', 'WBO=from', 'WBO_tag=B-PP', 'WBL=the', 'WBL_tag=B-NP']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=vice', 'WBO_tag=B-NP', 'WBO=president', 'WBO_tag=I-NP', 'WBO=for', 'WBO_tag=B-PP', 'WBO=research', 'WBO_tag=B-NP', 'WBO=and', 'WBO_tag=I-NP', 'WBO=analysis', 'WBO_tag=I-NP', 'WBO=at', 'WBO_tag=B-PP', 'WBO=spendingpulse', 'WBO_tag=B-NP', 'WBO=,', 'WBO_tag=O', 'WBO=an', 'WBO_tag=B-NP', 'WBO=information', 'WBO_tag=I-NP', 'WBO=service', 'WBO_tag=I-NP', 'WBL=by', 'WBL_tag=B-PP']
+
+analyst:['WBF=,', 'WBF_tag=O', 'WBO=an', 'WBO_tag=B-NP', 'WBO=analyst', 'WBO_tag=I-NP', 'WBL=at', 'WBL_tag=B-PP']
+
+others:['WBF=blog', 'WBF_tag=I-NP', 'WBO=:', 'WBO_tag=O', 'WBO=tax', 'WBO_tag=B-NP', 'WBO=cuts', 'WBO_tag=I-NP', 'WBL=and', 'WBL_tag=I-NP']
+
+others:['WBF=could', 'WBF_tag=B-VP', 'WBO=conceivably', 'WBO_tag=I-VP', 'WBO=be', 'WBO_tag=I-VP', 'WBO=considering', 'WBO_tag=I-VP', 'WBO=a', 'WBO_tag=B-NP', 'WBO=bid', 'WBO_tag=I-NP', 'WBL=for', 'WBL_tag=B-PP']
+
+head:['WBF=,', 'WBF_tag=O', 'WBO=the', 'WBO_tag=B-NP', 'WBO=president', 'WBO_tag=I-NP', 'WBL=of', 'WBL_tag=B-PP']
+
+others:['WBFL=for', 'WBFL_tag=B-PP']
+
+lawyer:['WBF=,', 'WBF_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=lawyer', 'WBO_tag=I-NP', 'WBL=with', 'WBL_tag=B-PP']
+
+others:['WBF=was', 'WBF_tag=B-VP', 'WBO=advised', 'WBO_tag=I-VP', 'WBL=by', 'WBL_tag=B-PP']
+
+others:['WBF=told', 'WBF_tag=B-VP', 'WBO=reporters', 'WBO_tag=B-NP', 'WBO=in', 'WBO_tag=B-PP', 'WBO=london', 'WBO_tag=B-NP', 'WBL=,', 'WBL_tag=O']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=the', 'WBO_tag=B-NP', 'WBO=former', 'WBO_tag=I-NP', 'WBO=chief', 'WBO_tag=I-NP', 'WBO=compliance', 'WBO_tag=I-NP', 'WBO=officer', 'WBO_tag=I-NP', 'WBO=david_henigson', 'WBO_tag=I-NP', 'WBL=and', 'WBL_tag=I-NP']
+
+director:['WBF=,', 'WBF_tag=O', 'WBO=managing', 'WBO_tag=B-NP', 'WBO=director', 'WBO_tag=I-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBO=onboard', 'WBO_tag=B-PP', 'WBO=products', 'WBO_tag=B-NP', 'WBL=for', 'WBL_tag=B-PP']
+
+head:['WBF=,', 'WBF_tag=O', 'WBO=chief', 'WBO_tag=B-NP', 'WBO=executive', 'WBO_tag=I-NP', 'WBL=of', 'WBL_tag=B-PP']
+
+others:['WBF=would', 'WBF_tag=B-VP', 'WBO=not', 'WBO_tag=I-VP', 'WBO=know', 'WBO_tag=I-VP', 'WBO=the', 'WBO_tag=B-NP', 'WBO=outcome', 'WBO_tag=I-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBO=the', 'WBO_tag=B-NP', 'WBO=negotiations', 'WBO_tag=I-NP', 'WBL=with', 'WBL_tag=B-PP']
+
+others:['WBFL=that', 'WBFL_tag=B-SBAR']
+
+others:['WBF=is', 'WBF_tag=B-VP', 'WBO=likely', 'WBO_tag=B-ADJP', 'WBO=to', 'WBO_tag=B-VP', 'WBO=step', 'WBO_tag=I-VP', 'WBO=down', 'WBO_tag=B-PRT', 'WBO=from', 'WBO_tag=B-PP', 'WBL=the', 'WBL_tag=B-NP']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=said', 'WBO_tag=B-VP', 'WBL=the', 'WBL_tag=B-NP']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=research', 'WBO_tag=I-NP', 'WBO=engineer', 'WBO_tag=I-NP', 'WBO=at', 'WBO_tag=B-PP', 'WBL=the', 'WBL_tag=B-NP']
+
+head:['WBFL=owner', 'WBFL_tag=I-NP']
+
+others:['WBF=reminded', 'WBF_tag=B-VP', 'WBO=mr._dell', 'WBO_tag=B-NP', 'WBO=that', 'WBO_tag=B-SBAR', 'WBO=intel', 'WBO_tag=B-NP', 'WBO=had', 'WBO_tag=B-VP', 'WBL=paid', 'WBL_tag=I-VP']
+
+analyst:['WBF=,', 'WBF_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=network', 'WBO_tag=I-NP', 'WBO=analyst', 'WBO_tag=I-NP', 'WBL=for', 'WBL_tag=B-PP']
+
+others:['WBF=of', 'WBF_tag=B-PP', 'WBO=stanley', 'WBO_tag=B-NP', 'WBL=and', 'WBL_tag=I-NP']
+
+others:['WBF=in', 'WBF_tag=B-PP', 'WBO=boston', 'WBO_tag=B-NP', 'WBO=,', 'WBO_tag=O', 'WBO=who', 'WBO_tag=B-NP', 'WBO=has', 'WBO_tag=B-VP', 'WBO=flown', 'WBO_tag=I-VP', 'WBO=midwest', 'WBO_tag=B-NP', 'WBO=,', 'WBO_tag=O', 'WBO=says', 'WBO_tag=B-VP', 'WBL=that', 'WBL_tag=B-SBAR']
+
+head:['WBF=,', 'WBF_tag=O', 'WBO=senior', 'WBO_tag=B-NP', 'WBO=vice', 'WBO_tag=I-NP', 'WBO=president', 'WBO_tag=I-NP', 'WBO=and', 'WBO_tag=O', 'WBO=portfolio', 'WBO_tag=B-NP', 'WBO=manager', 'WBO_tag=I-NP', 'WBL=at', 'WBL_tag=B-PP']
+
+others:['WBF=and', 'WBF_tag=O', 'WBO=his', 'WBO_tag=B-NP', 'WBO=colleagues', 'WBO_tag=I-NP', 'WBO=submitted', 'WBO_tag=B-VP', 'WBO=a', 'WBO_tag=B-NP', 'WBO=three-year', 'WBO_tag=I-NP', 'WBO=plan', 'WBO_tag=I-NP', 'WBO=to', 'WBO_tag=B-PP', 'WBO=executives', 'WBO_tag=B-NP', 'WBO=at', 'WBO_tag=B-PP', 'WBO=time_warner', 'WBO_tag=B-NP', 'WBO=,', 'WBO_tag=O', 'WBO=the', 'WBO_tag=B-NP', 'WBO=parent', 'WBO_tag=I-NP', 'WBO=company', 'WBO_tag=I-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBL=the', 'WBL_tag=B-NP']
+
+others:['WBF=created', 'WBF_tag=B-VP', 'WBO=an', 'WBO_tag=B-NP', 'WBO=application', 'WBO_tag=I-NP', 'WBL=for', 'WBL_tag=B-PP']
+
+others:['WBF=led', 'WBF_tag=B-VP', 'WBO=an', 'WBO_tag=B-NP', 'WBO=effort', 'WBO_tag=I-NP', 'WBO=under', 'WBO_tag=B-PP', 'WBO=which', 'WBO_tag=B-NP', 'WBO=the', 'WBO_tag=B-NP', 'WBO=company', 'WBO_tag=I-NP', 'WBO=separated', 'WBO_tag=B-ADVP', 'WBO=from', 'WBO_tag=B-PP', 'WBO=its', 'WBO_tag=B-NP', 'WBO=chip', 'WBO_tag=I-NP', 'WBO=manufacturing', 'WBO_tag=I-NP', 'WBO=arm', 'WBO_tag=I-NP', 'WBO=,', 'WBO_tag=O', 'WBO=making', 'WBO_tag=B-VP', 'WBO=it', 'WBO_tag=B-NP', 'WBO=into', 'WBO_tag=B-PP', 'WBO=an', 'WBO_tag=B-NP', 'WBO=independent', 'WBO_tag=I-NP', 'WBO=entity', 'WBO_tag=I-NP', 'WBO=now', 'WBO_tag=B-VP', 'WBO=known', 'WBO_tag=I-VP', 'WBL=as', 'WBL_tag=B-PP']
+
+head:['WBF=,', 'WBF_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=professor', 'WBO_tag=I-NP', 'WBO=at', 'WBO_tag=B-PP', 'WBO=the', 'WBO_tag=B-NP', 'WBO=university_of_alabama', 'WBO_tag=I-NP', 'WBO=and', 'WBO_tag=O', 'WBO=the', 'WBO_tag=B-NP', 'WBO=president', 'WBO_tag=I-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBL=the', 'WBL_tag=B-NP']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=on', 'WBO_tag=B-PP', 'WBO=monday', 'WBO_tag=B-NP', 'WBL=,', 'WBL_tag=O']
+
+manager:['WBF=,', 'WBF_tag=O', 'WBO=an', 'WBO_tag=B-NP', 'WBO=export', 'WBO_tag=I-NP', 'WBO=manager', 'WBO_tag=I-NP', 'WBO=at', 'WBO_tag=B-PP', 'WBO=the', 'WBO_tag=B-NP', 'WBL=state-owned', 'WBL_tag=I-NP']
+
+head:['WBF=,', 'WBF_tag=O', 'WBO=chief', 'WBO_tag=B-NP', 'WBO=economist', 'WBO_tag=I-NP', 'WBO=and', 'WBO_tag=I-NP', 'WBO=director', 'WBO_tag=I-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBO=research', 'WBO_tag=B-NP', 'WBO=for', 'WBO_tag=B-PP', 'WBL=the', 'WBL_tag=B-NP']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=new', 'WBO_tag=I-NP', 'WBO=partner', 'WBO_tag=I-NP', 'WBO=there', 'WBO_tag=B-ADVP', 'WBO=,', 'WBO_tag=O', 'WBO=had', 'WBO_tag=B-VP', 'WBO=worked', 'WBO_tag=I-VP', 'WBO=for', 'WBO_tag=B-PP', 'WBL=the', 'WBL_tag=B-NP']
+
+others:['WBF=)', 'WBF_tag=I-NP', 'WBL=--', 'WBL_tag=O']
+
+others:['WBF=also', 'WBF_tag=B-ADVP', 'WBO=turned', 'WBO_tag=B-VP', 'WBO=down', 'WBO_tag=B-PRT', 'WBO=a', 'WBO_tag=B-NP', 'WBO=joint', 'WBO_tag=I-NP', 'WBO=proposal', 'WBO_tag=I-NP', 'WBO=by', 'WBO_tag=B-PP', 'WBL=the', 'WBL_tag=B-NP']
+
+professor:['WBF=,', 'WBF_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=professor', 'WBO_tag=I-NP', 'WBO=at', 'WBO_tag=B-PP', 'WBL=the', 'WBL_tag=B-NP']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=who', 'WBO_tag=B-NP', 'WBO=joined', 'WBO_tag=B-VP', 'WBO=the', 'WBO_tag=B-NP', 'WBO=automaker', 'WBO_tag=I-NP', 'WBO=three', 'WBO_tag=I-NP', 'WBO=years', 'WBO_tag=I-NP', 'WBO=ago', 'WBO_tag=B-ADVP', 'WBL=from', 'WBL_tag=B-PP']
+
+head:['WBF=president', 'WBF_tag=I-NP', 'WBL=,', 'WBL_tag=O']
+
+professor:['WBF=,', 'WBF_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=professor', 'WBO_tag=I-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBO=banking', 'WBO_tag=B-NP', 'WBO=law', 'WBO_tag=I-NP', 'WBL=at', 'WBL_tag=B-PP']
+
+head:['WBF=,', 'WBF_tag=O', 'WBO=greenxchange', 'WBO_tag=B-NP', 'WBO=coordinator', 'WBO_tag=I-NP', 'WBO=and', 'WBO_tag=I-NP', 'WBO=vice', 'WBO_tag=I-NP', 'WBO=president', 'WBO_tag=I-NP', 'WBO=for', 'WBO_tag=B-PP', 'WBO=science', 'WBO_tag=B-NP', 'WBL=at', 'WBL_tag=B-PP']
+
+professor:['WBF=,', 'WBF_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=law', 'WBO_tag=I-NP', 'WBO=professor', 'WBO_tag=I-NP', 'WBL=at', 'WBL_tag=B-PP']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=who', 'WBO_tag=B-NP', 'WBO=in', 'WBO_tag=B-PP', 'WBO=the', 'WBO_tag=B-NP', 'WBO=past', 'WBO_tag=I-NP', 'WBO=has', 'WBO_tag=B-VP', 'WBO=taken', 'WBO_tag=I-VP', 'WBO=advantage', 'WBO_tag=B-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBO=speculation', 'WBO_tag=B-NP', 'WBO=about', 'WBO_tag=B-PP', 'WBO=possibly', 'WBO_tag=B-ADVP', 'WBO=leaving', 'WBO_tag=B-VP', 'WBO=her', 'WBO_tag=B-NP', 'WBO=show', 'WBO_tag=I-NP', 'WBO=in', 'WBO_tag=B-SBAR', 'WBO=order', 'WBO_tag=O', 'WBO=to', 'WBO_tag=B-VP', 'WBO=enhance', 'WBO_tag=I-VP', 'WBO=renewals', 'WBO_tag=B-NP', 'WBO=,', 'WBO_tag=O', 'WBO=is', 'WBO_tag=B-VP', 'WBO=also', 'WBO_tag=I-VP', 'WBO=negotiating', 'WBO_tag=I-VP', 'WBO=with', 'WBO_tag=B-PP', 'WBO=syndicators', 'WBO_tag=B-NP', 'WBO=other', 'WBO_tag=B-ADJP', 'WBL=than', 'WBL_tag=B-PP']
+
+others:['WBFL=for', 'WBFL_tag=B-PP']
+
+head:['WBF=,', 'WBF_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=2006', 'WBO_tag=I-NP', 'WBO=insead', 'WBO_tag=I-NP', 'WBO=graduate', 'WBO_tag=I-NP', 'WBO=who', 'WBO_tag=B-NP', 'WBO=is', 'WBO_tag=B-VP', 'WBO=chief', 'WBO_tag=B-NP', 'WBO=operating', 'WBO_tag=I-NP', 'WBO=officer', 'WBO_tag=I-NP', 'WBL=of', 'WBL_tag=B-PP']
+
+others:['WBF=says', 'WBF_tag=B-VP', 'WBO=it', 'WBO_tag=B-NP', 'WBO=thinks', 'WBO_tag=B-VP', 'WBO=there', 'WBO_tag=B-NP', 'WBO=could', 'WBO_tag=B-VP', 'WBO=be', 'WBO_tag=I-VP', 'WBO=more', 'WBO_tag=B-NP', 'WBO=than', 'WBO_tag=I-NP', 'WBO=30', 'WBO_tag=I-NP', 'WBO=percent', 'WBO_tag=I-NP', 'WBO=upside', 'WBO_tag=B-ADVP', 'WBO=in', 'WBO_tag=B-PP', 'WBL=the', 'WBL_tag=B-NP']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=starwood_hotels', 'WBO_tag=B-NP', 'WBO=and', 'WBO_tag=O', 'WBO=resorts', 'WBO_tag=B-NP', 'WBL=,', 'WBL_tag=O']
+
+others:['WBF=found', 'WBF_tag=B-VP', 'WBL=that', 'WBL_tag=B-SBAR']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=the', 'WBO_tag=B-NP', 'WBO=competition', 'WBO_tag=I-NP', 'WBO=commissioner', 'WBO_tag=I-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBL=the', 'WBL_tag=B-NP']
+
+head:['WBF=,', 'WBF_tag=O', 'WBO=chairman', 'WBO_tag=B-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBL=the', 'WBL_tag=B-NP']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=the', 'WBO_tag=B-NP', 'WBO=chairman', 'WBO_tag=I-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBO=cbs', 'WBO_tag=B-NP', 'WBO=,', 'WBO_tag=O', 'WBO=told', 'WBO_tag=B-VP', 'WBO=analysts', 'WBO_tag=B-NP', 'WBO=in', 'WBO_tag=B-PP', 'WBO=an', 'WBO_tag=B-NP', 'WBO=earnings', 'WBO_tag=I-NP', 'WBO=call', 'WBO_tag=I-NP', 'WBO=on', 'WBO_tag=B-PP', 'WBO=thursday', 'WBO_tag=B-NP', 'WBL=that', 'WBL_tag=B-SBAR']
+
+director:['WBF=,', 'WBF_tag=O', 'WBO=director', 'WBO_tag=B-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBO=admissions', 'WBO_tag=B-NP', 'WBO=and', 'WBO_tag=O', 'WBO=financial', 'WBO_tag=B-NP', 'WBO=aid', 'WBO_tag=I-NP', 'WBO=at', 'WBO_tag=B-PP', 'WBL=the', 'WBL_tag=B-NP']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=cardiologist', 'WBO_tag=I-NP', 'WBL=at', 'WBL_tag=B-PP']
+
+others:['WBFL=and', 'WBFL_tag=O']
+
+others:['WBF=wrote', 'WBF_tag=B-VP', 'WBO=letters', 'WBO_tag=B-NP', 'WBO=to', 'WBO_tag=B-PP', 'WBL=the', 'WBL_tag=B-NP']
+
+others:['WBF=and', 'WBF_tag=I-NP', 'WBO=joltid', 'WBO_tag=I-NP', 'WBO=also', 'WBO_tag=B-ADVP', 'WBL=sued', 'WBL_tag=B-VP']
+
+head:['WBF=,', 'WBF_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=vice', 'WBO_tag=I-NP', 'WBO=president', 'WBO_tag=I-NP', 'WBL=at', 'WBL_tag=B-PP']
+
+others:['WBFL=,', 'WBFL_tag=O']
+
+head:['WBF=owns', 'WBF_tag=B-VP', 'WBO=4', 'WBO_tag=B-NP', 'WBO=percent', 'WBO_tag=I-NP', 'WBL=of', 'WBL_tag=B-PP']
+
+head:['WBF=,', 'WBF_tag=O', 'WBO=president', 'WBO_tag=B-NP', 'WBL=of', 'WBL_tag=B-PP']
+
+others:['WBF=said', 'WBF_tag=B-VP', 'WBL=on', 'WBL_tag=B-PP']
+
+professor:['WBF=,', 'WBF_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=professor', 'WBO_tag=I-NP', 'WBO=at', 'WBO_tag=B-PP', 'WBL=the', 'WBL_tag=B-NP']
+
+head:['WBF=,', 'WBF_tag=O', 'WBL=the', 'WBL_tag=B-NP']
+
+lawyer:['WBF=,', 'WBF_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=lawyer', 'WBO_tag=I-NP', 'WBO=at', 'WBO_tag=B-PP', 'WBO=the', 'WBO_tag=B-NP', 'WBO=prestigious', 'WBO_tag=I-NP', 'WBO=firm', 'WBO_tag=I-NP', 'WBL=of', 'WBL_tag=B-PP']
+
+others:['WBF=agency', 'WBF_tag=I-NP', 'WBO=is', 'WBO_tag=B-VP', 'WBO=leo_burnett', 'WBO_tag=B-NP', 'WBO=,', 'WBO_tag=O', 'WBO=part', 'WBO_tag=B-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBL=the', 'WBL_tag=B-NP']
+
+others:['WBF=of', 'WBF_tag=B-PP', 'WBO=impersonating', 'WBO_tag=B-NP', 'WBO=employees', 'WBO_tag=I-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBO=a', 'WBO_tag=B-NP', 'WBO=new_york_city', 'WBO_tag=I-NP', 'WBO=development', 'WBO_tag=I-NP', 'WBO=company', 'WBO_tag=I-NP', 'WBO=,', 'WBO_tag=O', 'WBO=the', 'WBO_tag=B-NP', 'WBO=solow_realty', 'WBO_tag=I-NP', 'WBL=and', 'WBL_tag=I-NP']
+
+others:['WBFL=,', 'WBFL_tag=O']
+
+others:['WBF=whether', 'WBF_tag=B-SBAR', 'WBO=that', 'WBO_tag=B-NP', 'WBO=meant', 'WBO_tag=B-VP', 'WBO=taxes', 'WBO_tag=B-NP', 'WBO=would', 'WBO_tag=B-VP', 'WBO=rise', 'WBO_tag=I-VP', 'WBL=,', 'WBL_tag=O']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=said', 'WBO_tag=B-VP', 'WBL=that', 'WBL_tag=B-SBAR']
+
+advisor:['WBF=,', 'WBF_tag=O', 'WBO=an', 'WBO_tag=B-NP', 'WBO=education', 'WBO_tag=I-NP', 'WBO=professor', 'WBO_tag=I-NP', 'WBO=at', 'WBO_tag=B-PP', 'WBO=the', 'WBO_tag=B-NP', 'WBO=university_of_wisconsin', 'WBO_tag=I-NP', 'WBO=who', 'WBO_tag=B-NP', 'WBO=was', 'WBO_tag=B-VP', 'WBO=an', 'WBO_tag=B-NP', 'WBO=early', 'WBO_tag=I-NP', 'WBO=adviser', 'WBO_tag=I-NP', 'WBO=to', 'WBO_tag=B-PP', 'WBO=the', 'WBO_tag=B-NP', 'WBO=software', 'WBO_tag=I-NP', 'WBL=company', 'WBL_tag=I-NP']
+
+analyst:['WBF=,', 'WBF_tag=O', 'WBO=an', 'WBO_tag=B-NP', 'WBO=analyst', 'WBO_tag=I-NP', 'WBL=at', 'WBL_tag=B-PP']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=director', 'WBO_tag=B-NP', 'WBO=for', 'WBO_tag=B-PP', 'WBO=advertising', 'WBO_tag=B-NP', 'WBO=and', 'WBO_tag=I-NP', 'WBO=promotion', 'WBO_tag=I-NP', 'WBO=for', 'WBO_tag=B-PP', 'WBO=the', 'WBO_tag=B-NP', 'WBO=buick', 'WBO_tag=I-NP', 'WBL=and', 'WBL_tag=I-NP']
+
+head:['WBF=,', 'WBF_tag=O', 'WBO=vice', 'WBO_tag=B-NP', 'WBO=president', 'WBO_tag=I-NP', 'WBL=of', 'WBL_tag=B-PP']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=said', 'WBO_tag=B-VP', 'WBO=that', 'WBO_tag=B-SBAR', 'WBO=even', 'WBO_tag=B-NP', 'WBO=the', 'WBO_tag=I-NP', 'WBO=6', 'WBO_tag=I-NP', 'WBO=percent', 'WBO_tag=I-NP', 'WBO=decline', 'WBO_tag=I-NP', 'WBL=at', 'WBL_tag=B-PP']
+
+head:['WBF=said', 'WBF_tag=B-VP', 'WBO=that', 'WBO_tag=B-SBAR', 'WBO=its', 'WBO_tag=B-NP', 'WBO=chief', 'WBO_tag=I-NP', 'WBL=executive', 'WBL_tag=I-NP']
+
+others:['WBFL=and', 'WBFL_tag=I-NP']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=former', 'WBO_tag=I-NP', 'WBO=schottenfeld', 'WBO_tag=I-NP', 'WBO=trader', 'WBO_tag=I-NP', 'WBO=who', 'WBO_tag=B-NP', 'WBO=has', 'WBO_tag=B-VP', 'WBO=pleaded', 'WBO_tag=I-VP', 'WBO=guilty', 'WBO_tag=B-ADJP', 'WBO=in', 'WBO_tag=B-PP', 'WBO=the', 'WBO_tag=B-NP', 'WBO=criminal', 'WBO_tag=I-NP', 'WBO=case', 'WBO_tag=I-NP', 'WBO=,', 'WBO_tag=O', 'WBO=and', 'WBO_tag=O', 'WBL=the', 'WBL_tag=B-NP']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=now', 'WBO_tag=B-ADVP', 'WBO=holds', 'WBO_tag=B-VP', 'WBO=that', 'WBO_tag=B-SBAR', 'WBO=title', 'WBO_tag=B-NP', 'WBL=at', 'WBL_tag=B-PP']
+
+head:['WBF=,', 'WBF_tag=O', 'WBO=owner', 'WBO_tag=B-NP', 'WBL=of', 'WBL_tag=B-PP']
+
+others:['WBFL=at', 'WBFL_tag=B-PP']
+
+others:['WBF=film', 'WBF_tag=I-NP', 'WBO=studio', 'WBO_tag=I-NP', 'WBO=,', 'WBO_tag=O', 'WBO=the', 'WBO_tag=B-NP', 'WBO=fox', 'WBO_tag=I-NP', 'WBO=broadcast', 'WBO_tag=I-NP', 'WBO=network', 'WBO_tag=I-NP', 'WBO=and', 'WBO_tag=O', 'WBO=several', 'WBO_tag=B-NP', 'WBO=newspapers', 'WBO_tag=I-NP', 'WBO=including', 'WBO_tag=B-PP', 'WBO=the', 'WBO_tag=B-NP', 'WBO=wall', 'WBO_tag=I-NP', 'WBO=street', 'WBO_tag=I-NP', 'WBO=journal', 'WBO_tag=I-NP', 'WBO=and', 'WBO_tag=O', 'WBL=the', 'WBL_tag=B-NP']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=senior', 'WBO_tag=B-NP', 'WBO=strategist', 'WBO_tag=I-NP', 'WBL=at', 'WBL_tag=B-PP']
+
+manager:['WBF=,', 'WBF_tag=O', 'WBO=the', 'WBO_tag=B-NP', 'WBO=general', 'WBO_tag=I-NP', 'WBO=sales', 'WBO_tag=I-NP', 'WBO=manager', 'WBO_tag=I-NP', 'WBL=at', 'WBL_tag=B-PP']
+
+head:['WBF=,', 'WBF_tag=O', 'WBO=the', 'WBO_tag=B-NP', 'WBO=zoning', 'WBO_tag=I-NP', 'WBO=chairman', 'WBO_tag=I-NP', 'WBO=for', 'WBO_tag=B-PP', 'WBL=the', 'WBL_tag=B-NP']
+
+head:['WBF=,', 'WBF_tag=O', 'WBO=president', 'WBO_tag=B-NP', 'WBL=of', 'WBL_tag=B-PP']
+
+others:['WBF=aside', 'WBF_tag=B-ADVP', 'WBO=,', 'WBO_tag=O', 'WBO=analysts', 'WBO_tag=B-NP', 'WBL=said', 'WBL_tag=B-VP']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBL=retired', 'WBL_tag=I-NP']
+
+others:['WBF=lost', 'WBF_tag=B-VP', 'WBL=to', 'WBL_tag=B-PP']
+
+others:['WBF=bars', 'WBF_tag=I-NP', 'WBL=,', 'WBL_tag=O']
+
+others:['WBF=is', 'WBF_tag=B-VP', 'WBO=an', 'WBO_tag=B-NP', 'WBO=associate', 'WBO_tag=I-NP', 'WBO=professor', 'WBO_tag=I-NP', 'WBO=in', 'WBO_tag=B-PP', 'WBO=the', 'WBO_tag=B-NP', 'WBO=entrepreneurial', 'WBO_tag=I-NP', 'WBO=management', 'WBO_tag=I-NP', 'WBO=unit', 'WBO_tag=I-NP', 'WBO=at', 'WBO_tag=B-PP', 'WBL=the', 'WBL_tag=B-NP']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=an', 'WBO_tag=B-NP', 'WBO=economist', 'WBO_tag=I-NP', 'WBO=who', 'WBO_tag=B-NP', 'WBO=formerly', 'WBO_tag=B-ADVP', 'WBO=worked', 'WBO_tag=B-VP', 'WBO=at', 'WBO_tag=B-PP', 'WBO=morgan_stanley', 'WBO_tag=B-NP', 'WBO=,', 'WBO_tag=O', 'WBO=is', 'WBO_tag=B-VP', 'WBO=already', 'WBO_tag=I-VP', 'WBO=calling', 'WBO_tag=I-VP', 'WBL=the', 'WBL_tag=B-NP']
+
+others:['WBF=(', 'WBF_tag=O', 'WBO=up', 'WBO_tag=B-ADVP', 'WBO=5', 'WBO_tag=B-NP', 'WBO=percent', 'WBO_tag=I-NP', 'WBO=)', 'WBO_tag=I-NP', 'WBL=and', 'WBL_tag=I-NP']
+
+head:['WBF=,', 'WBF_tag=O', 'WBO=the', 'WBO_tag=B-NP', 'WBO=former', 'WBO_tag=I-NP', 'WBO=chief', 'WBO_tag=I-NP', 'WBO=executive', 'WBO_tag=I-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBO=advanced_micro_devices', 'WBO_tag=B-NP', 'WBO=,', 'WBO_tag=O', 'WBO=will', 'WBO_tag=B-VP', 'WBO=step', 'WBO_tag=I-VP', 'WBO=down', 'WBO_tag=B-ADVP', 'WBO=as', 'WBO_tag=B-PP', 'WBO=chairman', 'WBO_tag=B-NP', 'WBL=of', 'WBL_tag=B-PP']
+
+others:['WBFL=after', 'WBFL_tag=B-PP']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=the', 'WBO_tag=B-NP', 'WBO=money', 'WBO_tag=I-NP', 'WBO=management', 'WBO_tag=I-NP', 'WBO=firm', 'WBO_tag=I-NP', 'WBO=best', 'WBO_tag=B-VP', 'WBO=known', 'WBO_tag=I-VP', 'WBO=for', 'WBO_tag=B-PP', 'WBO=helping', 'WBO_tag=B-VP', 'WBO=to', 'WBO_tag=I-VP', 'WBL=oust', 'WBL_tag=I-VP']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=mozilla', 'WBO_tag=B-NP', 'WBO=,', 'WBO_tag=O', 'WBO=zynga', 'WBO_tag=B-NP', 'WBO=,', 'WBO_tag=O', 'WBO=digg', 'WBO_tag=B-NP', 'WBL=and', 'WBL_tag=O']
+
+director:['WBF=,', 'WBF_tag=O', 'WBO=the', 'WBO_tag=B-NP', 'WBO=creative', 'WBO_tag=I-NP', 'WBO=director', 'WBO_tag=I-NP', 'WBL=at', 'WBL_tag=B-PP']
+
+founder:['WBF=hedge', 'WBF_tag=I-NP', 'WBO=fund', 'WBO_tag=I-NP', 'WBO=;', 'WBO_tag=O', 'WBO=its', 'WBO_tag=B-NP', 'WBO=founder', 'WBO_tag=I-NP', 'WBL=,', 'WBL_tag=O']
+
+head:['WBF=,', 'WBF_tag=O', 'WBO=head', 'WBO_tag=B-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBO=the', 'WBO_tag=B-NP', 'WBO=emerging', 'WBO_tag=I-NP', 'WBO=europe', 'WBO_tag=I-NP', 'WBO=team', 'WBO_tag=I-NP', 'WBL=at', 'WBL_tag=B-PP']
+
+professor:['WBF=,', 'WBF_tag=O', 'WBO=associate', 'WBO_tag=B-NP', 'WBO=professor', 'WBO_tag=I-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBO=management', 'WBO_tag=B-NP', 'WBO=at', 'WBO_tag=B-PP', 'WBL=the', 'WBL_tag=B-NP']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=former', 'WBO_tag=I-NP', 'WBO=managing', 'WBO_tag=I-NP', 'WBO=director', 'WBO_tag=I-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBO=houlihan_lokey_howard_', 'WBO_tag=B-NP', 'WBO=&', 'WBO_tag=I-NP', 'WBO=_zukin', 'WBO_tag=I-NP', 'WBO=,', 'WBO_tag=O', 'WBO=an', 'WBO_tag=B-NP', 'WBO=investment', 'WBO_tag=I-NP', 'WBO=firm', 'WBO_tag=I-NP', 'WBO=;', 'WBO_tag=O', 'WBO=gary_l._pechota', 'WBO_tag=B-NP', 'WBO=,', 'WBO_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=former', 'WBO_tag=I-NP', 'WBO=chief', 'WBO_tag=I-NP', 'WBO=executive', 'WBO_tag=I-NP', 'WBL=of', 'WBL_tag=B-PP']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=senior', 'WBO_tag=B-NP', 'WBO=vice', 'WBO_tag=I-NP', 'WBO=president', 'WBO_tag=I-NP', 'WBO=for', 'WBO_tag=B-PP', 'WBO=labor', 'WBO_tag=B-NP', 'WBO=at', 'WBO_tag=B-PP', 'WBL=the', 'WBL_tag=B-NP']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=was', 'WBO_tag=B-VP', 'WBO=started', 'WBO_tag=I-VP', 'WBO=in', 'WBO_tag=B-PP', 'WBO=january', 'WBO_tag=B-NP', 'WBO=2008', 'WBO_tag=I-NP', 'WBO=by', 'WBO_tag=B-PP', 'WBO=i.b.m.', 'WBO_tag=B-NP', 'WBO=,', 'WBO_tag=O', 'WBO=nokia', 'WBO_tag=B-NP', 'WBL=,', 'WBL_tag=O']
+
+others:['WBF=to', 'WBF_tag=B-PP', 'WBO=emerging', 'WBO_tag=B-NP', 'WBO=markets', 'WBO_tag=I-NP', 'WBL=for', 'WBL_tag=B-PP']
+
+head:['WBF=,', 'WBF_tag=O', 'WBO=chairman', 'WBO_tag=B-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBL=the', 'WBL_tag=B-NP']
+
+others:['WBFL=,', 'WBFL_tag=I-NP']
+
+others:['WBF=and', 'WBF_tag=O', 'WBO=some', 'WBO_tag=B-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBO=the', 'WBO_tag=B-NP', 'WBO=other', 'WBO_tag=I-NP', 'WBO=people', 'WBO_tag=I-NP', 'WBO=arrested', 'WBO_tag=B-VP', 'WBO=thursday', 'WBO_tag=B-NP', 'WBO=had', 'WBO_tag=B-VP', 'WBO=personal', 'WBO_tag=B-NP', 'WBO=and', 'WBO_tag=I-NP', 'WBO=professional', 'WBO_tag=I-NP', 'WBO=links', 'WBO_tag=I-NP', 'WBO=with', 'WBO_tag=B-PP', 'WBO=defendants', 'WBO_tag=B-NP', 'WBO=in', 'WBO_tag=B-PP', 'WBO=a', 'WBO_tag=B-NP', 'WBO=larger', 'WBO_tag=I-NP', 'WBO=insider', 'WBO_tag=I-NP', 'WBO=trading', 'WBO_tag=I-NP', 'WBO=case', 'WBO_tag=I-NP', 'WBO=pending', 'WBO_tag=I-NP', 'WBO=against', 'WBO_tag=B-PP', 'WBL=the', 'WBL_tag=B-NP']
+
+head:['WBF=,', 'WBF_tag=O', 'WBO=vice', 'WBO_tag=B-NP', 'WBO=president', 'WBO_tag=I-NP', 'WBO=and', 'WBO_tag=O', 'WBO=director', 'WBO_tag=B-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBO=programming', 'WBO_tag=B-NP', 'WBO=for', 'WBO_tag=B-PP', 'WBL=the', 'WBL_tag=B-NP']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=the', 'WBO_tag=B-NP', 'WBO=executive', 'WBO_tag=I-NP', 'WBO=director', 'WBO_tag=I-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBO=the', 'WBO_tag=B-NP', 'WBO=center', 'WBO_tag=I-NP', 'WBO=for', 'WBO_tag=B-PP', 'WBO=open', 'WBO_tag=B-NP', 'WBO=innovation', 'WBO_tag=I-NP', 'WBO=at', 'WBO_tag=B-PP', 'WBL=the', 'WBL_tag=B-NP']
+
+others:['WBF=derived', 'WBF_tag=B-VP', 'WBO=$', 'WBO_tag=B-NP', 'WBO=24.6', 'WBO_tag=I-NP', 'WBO=billion', 'WBO_tag=I-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBO=its', 'WBO_tag=B-NP', 'WBO=$', 'WBO_tag=I-NP', 'WBO=63.7', 'WBO_tag=I-NP', 'WBO=billion', 'WBO_tag=I-NP', 'WBO=total', 'WBO_tag=I-NP', 'WBO=revenue', 'WBO_tag=I-NP', 'WBO=last', 'WBO_tag=B-NP', 'WBO=year', 'WBO_tag=I-NP', 'WBO=,', 'WBO_tag=O', 'WBO=from', 'WBO_tag=B-PP', 'WBO=drugs', 'WBO_tag=B-NP', 'WBL=like', 'WBL_tag=B-PP']
+
+head:['WBF=president', 'WBF_tag=I-NP', 'WBL=,', 'WBL_tag=O']
+
+head:['WBF=,', 'WBF_tag=O', 'WBO=deputy', 'WBO_tag=B-NP', 'WBO=chief', 'WBO_tag=I-NP', 'WBO=executive', 'WBO_tag=I-NP', 'WBL=of', 'WBL_tag=B-PP']
+
+others:['WBFL=for', 'WBFL_tag=B-PP']
+
+others:['WBF=delayed', 'WBF_tag=B-VP', 'WBO=buying', 'WBO_tag=B-NP', 'WBO=a.m.d.', 'WBO_tag=I-NP', 'WBO=chips', 'WBO_tag=I-NP', 'WBO=,', 'WBO_tag=O', 'WBO=and', 'WBO_tag=O', 'WBO=mr._otellini', 'WBO_tag=B-NP', 'WBO=said', 'WBO_tag=B-VP', 'WBO=in', 'WBO_tag=B-PP', 'WBO=a', 'WBO_tag=B-NP', 'WBO=later', 'WBO_tag=I-NP', 'WBO=e-mail', 'WBO_tag=I-NP', 'WBO=message', 'WBO_tag=I-NP', 'WBO=to', 'WBO_tag=B-PP', 'WBO=a', 'WBO_tag=B-NP', 'WBO=colleague', 'WBO_tag=I-NP', 'WBL=that', 'WBL_tag=B-SBAR']
+
+others:['WBF=will', 'WBF_tag=B-VP', 'WBO=yield', 'WBO_tag=I-VP', 'WBO=greater', 'WBO_tag=B-NP', 'WBO=numbers', 'WBO_tag=I-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBO=high-quality', 'WBO_tag=B-NP', 'WBO=inventions', 'WBO_tag=I-NP', 'WBO=,', 'WBO_tag=O', 'WBL=says', 'WBL_tag=B-VP']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=is', 'WBO_tag=B-VP', 'WBO=seeking', 'WBO_tag=I-VP', 'WBO=costs', 'WBO_tag=B-NP', 'WBO=concessions', 'WBO_tag=I-NP', 'WBL=from', 'WBL_tag=B-PP']
+
+head:['WBF=chief', 'WBF_tag=I-NP', 'WBO=executive', 'WBO_tag=I-NP', 'WBL=,', 'WBL_tag=O']
+
+others:['WBFL=,', 'WBFL_tag=I-NP']
+
+professor:['WBF=is', 'WBF_tag=B-VP', 'WBO=a', 'WBO_tag=B-NP', 'WBO=professor', 'WBO_tag=I-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBO=economics', 'WBO_tag=B-NP', 'WBL=at', 'WBL_tag=B-PP']
+
+head:['WBF=,', 'WBF_tag=O', 'WBO=vice', 'WBO_tag=B-NP', 'WBO=president', 'WBO_tag=I-NP', 'WBO=for', 'WBO_tag=B-PP', 'WBO=loyalty', 'WBO_tag=B-NP', 'WBL=for', 'WBL_tag=B-PP']
+
+others:['WBF=said', 'WBF_tag=B-VP', 'WBO=that', 'WBO_tag=B-SBAR', 'WBO=she', 'WBO_tag=B-NP', 'WBO=hoped', 'WBO_tag=B-VP', 'WBL=the', 'WBL_tag=B-NP']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=david', 'WBO_tag=B-NP', 'WBO=jolly', 'WBO_tag=I-NP', 'WBO=and', 'WBO_tag=O', 'WBL=bill', 'WBL_tag=B-NP']
+
+others:['WBF=has', 'WBF_tag=B-VP', 'WBO=been', 'WBO_tag=I-VP', 'WBO=actively', 'WBO_tag=I-VP', 'WBO=mentoring', 'WBO_tag=I-VP', 'WBO=entrepreneurs', 'WBO_tag=B-NP', 'WBO=and', 'WBO_tag=O', 'WBO=investing', 'WBO_tag=B-VP', 'WBO=in', 'WBO_tag=B-PP', 'WBO=their', 'WBO_tag=B-NP', 'WBO=companies', 'WBO_tag=I-NP', 'WBO=since', 'WBO_tag=B-PP', 'WBO=2002', 'WBO_tag=B-NP', 'WBO=,', 'WBO_tag=O', 'WBL=when', 'WBL_tag=B-ADVP']
+
+others:['WBF=once', 'WBF_tag=B-ADVP', 'WBO=worked', 'WBO_tag=B-VP', 'WBO=,', 'WBO_tag=O', 'WBO=or', 'WBO_tag=O', 'WBL=to', 'WBL_tag=B-PP']
+
+others:['WBFL=that', 'WBFL_tag=B-SBAR']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=29-year-old', 'WBO_tag=I-NP', 'WBO=from', 'WBO_tag=B-PP', 'WBO=india', 'WBO_tag=B-NP', 'WBO=studying', 'WBO_tag=B-VP', 'WBO=at', 'WBO_tag=B-PP', 'WBL=the', 'WBL_tag=B-NP']
+
+others:['WBF=committee', 'WBF_tag=I-NP', 'WBO=,', 'WBO_tag=O', 'WBO=which', 'WBO_tag=B-NP', 'WBO=referred', 'WBO_tag=B-VP', 'WBL=to', 'WBL_tag=B-PP']
+
+others:['WBFL=,', 'WBFL_tag=O']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=star', 'WBO_tag=B-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBL=the', 'WBL_tag=B-NP']
+
+others:['WBF=and', 'WBF_tag=O', 'WBL=the', 'WBL_tag=B-NP']
+
+head:['WBF=,', 'WBF_tag=O', 'WBO=whose', 'WBO_tag=B-NP', 'WBO=chief', 'WBO_tag=I-NP', 'WBO=executive', 'WBO_tag=I-NP', 'WBL=,', 'WBL_tag=O']
+
+others:['WBF=of', 'WBF_tag=B-PP', 'WBO=impersonating', 'WBO_tag=B-NP', 'WBO=employees', 'WBO_tag=I-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBO=a', 'WBO_tag=B-NP', 'WBO=new_york_city', 'WBO_tag=I-NP', 'WBO=development', 'WBO_tag=I-NP', 'WBO=company', 'WBO_tag=I-NP', 'WBO=,', 'WBO_tag=O', 'WBL=the', 'WBL_tag=B-NP']
+
+leave:['WBF=,', 'WBF_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=former', 'WBO_tag=I-NP', 'WBO=chief', 'WBO_tag=I-NP', 'WBO=executive', 'WBO_tag=I-NP', 'WBL=of', 'WBL_tag=B-PP']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=head', 'WBO_tag=B-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBO=marketing', 'WBO_tag=B-NP', 'WBO=at', 'WBO_tag=B-PP', 'WBO=mayflower', 'WBO_tag=B-NP', 'WBO=,', 'WBO_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=german', 'WBO_tag=I-NP', 'WBO=software', 'WBO_tag=I-NP', 'WBO=developer', 'WBO_tag=I-NP', 'WBO=,', 'WBO_tag=O', 'WBO=said', 'WBO_tag=B-VP', 'WBO=a', 'WBO_tag=B-NP', 'WBO=prosperous', 'WBO_tag=I-NP', 'WBO=company', 'WBO_tag=I-NP', 'WBL=like', 'WBL_tag=B-PP']
+
+others:['WBF=,', 'WBF_tag=O', 'WBO=a', 'WBO_tag=B-NP', 'WBO=japanese', 'WBO_tag=I-NP', 'WBO=drug', 'WBO_tag=I-NP', 'WBO=company', 'WBO_tag=I-NP', 'WBO=with', 'WBO_tag=B-PP', 'WBO=licensing', 'WBO_tag=B-NP', 'WBO=rights', 'WBO_tag=I-NP', 'WBL=from', 'WBL_tag=B-PP']
+
+advisor:['WBF=was', 'WBF_tag=B-VP', 'WBO=advised', 'WBO_tag=I-VP', 'WBO=by', 'WBO_tag=B-PP', 'WBO=deutsche_bank', 'WBO_tag=B-NP', 'WBO=,', 'WBO_tag=O', 'WBO=goldman_sachs', 'WBO_tag=B-NP', 'WBO=and', 'WBO_tag=O', 'WBO=the', 'WBO_tag=B-NP', 'WBO=law', 'WBO_tag=I-NP', 'WBO=firms', 'WBO_tag=I-NP', 'WBO=cravath', 'WBO_tag=I-NP', 'WBO=,', 'WBO_tag=I-NP', 'WBO=swaine_', 'WBO_tag=I-NP', 'WBO=&', 'WBO_tag=I-NP', 'WBO=_moore', 'WBO_tag=I-NP', 'WBL=and', 'WBL_tag=O']
+
+head:['WBF=,', 'WBF_tag=O', 'WBO=head', 'WBO_tag=B-NP', 'WBO=of', 'WBO_tag=B-PP', 'WBO=global', 'WBO_tag=B-NP', 'WBO=strategy', 'WBO_tag=I-NP', 'WBL=at', 'WBL_tag=B-PP']
+
+spokesperson:['WBF=,', 'WBF_tag=O', 'WBL=a', 'WBL_tag=B-NP']
+
+others:['WBF=and', 'WBF_tag=I-NP', 'WBO=virgin_money', 'WBO_tag=I-NP', 'WBO=,', 'WBO_tag=O', 'WBO=the', 'WBO_tag=B-NP', 'WBO=consumer', 'WBO_tag=I-NP', 'WBO=credit', 'WBO_tag=I-NP', 'WBO=arm', 'WBO_tag=I-NP', 'WBL=of', 'WBL_tag=B-PP']
+
+others:['WBF=,', 'WBF_tag=O', 'WBL=left', 'WBL_tag=B-VP']
+

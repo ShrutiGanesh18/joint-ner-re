@@ -1,0 +1,7 @@
+The current directory contains two folders: Training and testing
+
+The training folder contains data & source code required for training the maximum entropy toolkit and creating models in training/models/
+
+The testng folder contains data & source code required for testing the trained maximum entropy model and creating appropriate output files for evaluation.
+
+The relation labels were hand annotated into the following categories: 'director','spokesperson','founder','head','manager','lawyer','advisor','analyst','professor','leave','staff','others'
